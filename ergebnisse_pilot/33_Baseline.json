@@ -1,0 +1,413 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "am 11.01.2024 ambulant vorstellte",
+      "source_file": "33_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "BASDAI: 2.8",
+      "source_file": "33_Baseline.docx",
+      "value": 2.8,
+      "variant": null
+    }
+  ],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_Baseline.docx",
+      "value": 12,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_Baseline.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "LEI: 2",
+      "source_file": "33_Baseline.docx",
+      "value": 2,
+      "variant": null
+    }
+  ],
+  "MASES": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "MASES: 0",
+      "source_file": "33_Baseline.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "HAQ": [],
+  "PASI": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "PASI: 3.2",
+      "source_file": "33_Baseline.docx",
+      "value": 3.2,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Arthralgien (VAS 3-4/10) der Hände, Ellenbogen und Füße",
+      "source_file": "33_Baseline.docx",
+      "value": null,
+      "scope": null,
+      "unit": "/10"
+    }
+  ],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "33_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Es sei zu Schwellungen der MCP-Gelenke gekommen.",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "MCP-Gelenke, Seite nicht angegeben"
+      ],
+      "description": "Anamnestisch berichtete Schwellungsepisoden der MCP-Gelenke.",
+      "context": "history"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine geschwollenen Gelenke im dokumentierten Gelenkstatus; Gelenkumfang nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "12 druckschmerzhafte Gelenke; Lokalisationen und Gelenkumfang nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "arthrosonographisch zeigt sich ein Befund vereinbar mit Epicondylitis rechts, differenzialdiagnostisch auch mit einer Enthesitis vereinbar.",
+      "source_file": "33_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Epicondylus rechts"
+      ],
+      "description": "Arthrosonographischer Befund vereinbar mit Epicondylitis rechts; Enthesitis als Differenzialdiagnose.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris seit dem 15.Lebensjahr",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris seit dem 15. Lebensjahr.",
+      "context": "history"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Die Patientin berichtet über einen stabilen Hautbefall",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Anamnestisch stabiler Hautbefall.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds.",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ellenbogen-Streckseiten beidseits",
+        "Kniegelenke-Streckseiten beidseits"
+      ],
+      "description": "Großfleckige floride Psoriasisplaques.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Seitens der Psoriasis ist es zu einer Verschlechterung unter Apremilast-Therapie gekommen.",
+      "source_file": "33_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Verschlechterung der Psoriasis unter Apremilast.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "keine Bewegungseinschränkung",
+      "source_file": "33_Baseline.docx",
+      "description": "Keine Bewegungseinschränkung im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "bisher CASPAR Kriterien für eine PsoA nicht erfüllt",
+      "source_file": "33_Baseline.docx",
+      "description": "CASPAR-Kriterien für eine Psoriasisarthritis bisher nicht erfüllt.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-20",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 20.10.2023",
+      "evidence": "vereinbar mit einer FAPI positiven Psoriasisarthritis.",
+      "source_file": "33_Baseline.docx",
+      "description": "FAPI-Speicherung im Sternoklavikulargelenk rechts, Sprunggelenk links und in den Handwurzelknochen beidseits, vereinbar mit Psoriasisarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis",
+      "source_file": "33_Baseline.docx",
+      "description": "Klinisch kein sicherer Hinweis auf Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis",
+      "source_file": "33_Baseline.docx",
+      "description": "Arthrosonographisch kein sicherer Hinweis auf Arthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "zunehmenden Wirkverlust von Apremilast",
+      "source_file": "33_Baseline.docx",
+      "description": "Zunehmender Wirkverlust von Apremilast.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Arthralgien EM 2017",
+      "source_file": "33_Baseline.docx",
+      "description": "Arthralgien, EM 2017.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Spaltung Strecksehnenfach bei Tenovaginitis 2021",
+      "source_file": "33_Baseline.docx",
+      "description": "Spaltung eines Strecksehnenfachs bei Tenovaginitis 2021.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Operation bei Schnappfinger (Ringfinger rechts) im 11/2023 erhalten, es sei darunter zu keiner Besserung gekommen.",
+      "source_file": "33_Baseline.docx",
+      "description": "Operation eines Schnappfingers am rechten Ringfinger im November 2023 ohne Besserung.",
+      "context": "history"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Die Schmerzen bestünden sowohl in Ruhe als auch unter Belastung und seien in der Früh am stärksten.",
+      "source_file": "33_Baseline.docx",
+      "description": "Arthralgien der Hände, Ellenbogen und Füße in Ruhe und unter Belastung, morgens am stärksten.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "DS der Epicondylus lat. bds.",
+      "source_file": "33_Baseline.docx",
+      "description": "Druckschmerz der lateralen Epicondylen beidseits.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-20",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 20.10.2023",
+      "evidence": "Zirkulär gesteigerte Nuklidspeicherung im Sternoklavikulargelenk rechts mit Ergusskomponente",
+      "source_file": "33_Baseline.docx",
+      "description": "Gesteigerte Nuklidspeicherung mit Ergusskomponente im rechten Sternoklavikulargelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-20",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 20.10.2023",
+      "evidence": "Mehrere FAPI mehrspeichernde Sehnenansätze, vor allen in den Händen und Füßen, ebenfalls vereinbar mit einer fibroblastenaktivierten Tendinitis bei Psoriasisarthritis.",
+      "source_file": "33_Baseline.docx",
+      "description": "FAPI-mehrspeichernde Sehnenansätze vor allem an Händen und Füßen, vereinbar mit fibroblastenaktivierter Tendinitis bei Psoriasisarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Zur weiteren Abklärung initiierten wir heute eine Hand- und Fuß-MRT rechts.",
+      "source_file": "33_Baseline.docx",
+      "description": "MRT der rechten Hand und des rechten Fußes zur weiteren Abklärung initiiert.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Aktuelle Therapie: Apremilast seit 05/2021",
+      "source_file": "33_Baseline.docx",
+      "drug": "Apremilast",
+      "description": "Aktuelle Therapie seit Mai 2021."
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Apremilast 30 mg 1-0-1",
+      "source_file": "33_Baseline.docx",
+      "drug": "Apremilast",
+      "description": "Dauermedikation: 30 mg 1-0-1."
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Enstilar Schaum b.B",
+      "source_file": "33_Baseline.docx",
+      "drug": "Enstilar",
+      "description": "Schaum bei Bedarf."
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "unter Therapie mit Apremilast, anamn. regelmäßig eingenommen und gut vertragen.",
+      "source_file": "33_Baseline.docx",
+      "drug": "Apremilast",
+      "description": "Anamnestisch regelmäßige Einnahme und gute Verträglichkeit."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Die Prednisolon-Therapie sei letzten Sommer eingenommen und wie besprochen ausgeschlichen worden, diese habe jedoch keine Besserung erbracht.",
+      "source_file": "33_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Letzten Sommer eingenommen und ausgeschlichen; keine Besserung."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Wir empfahlen des Weiteren eine Therapie mit Arcoxia 60 mg 1-0-1 über 2 Wochen, dann 1-0-0 über 2 Wochen und dann bei Bedarf bis max. 2x/täglich.",
+      "source_file": "33_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Empfohlen: 60 mg 1-0-1 für 2 Wochen, anschließend 1-0-0 für 2 Wochen, danach bei Bedarf bis maximal zweimal täglich."
+    },
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "je nach MRT-Befunden und klinischem Verlauf soll eine Therapieumstellung ggf. in Rücksprache mit der Hautklinik überlegt werden",
+      "source_file": "33_Baseline.docx",
+      "drug": null,
+      "description": "Therapieumstellung abhängig von MRT-Befunden und klinischem Verlauf erwägen, gegebenenfalls in Rücksprache mit der Hautklinik."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2024-01-11",
+      "date_evidence": "am 11.01.2024 ambulant vorstellte",
+      "evidence": "Die Prednisolon-Therapie sei letzten Sommer eingenommen und wie besprochen ausgeschlichen worden",
+      "source_file": "33_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Anamnestisch erfolgtes Ausschleichen der im letzten Sommer eingenommenen Prednisolon-Therapie."
+    }
+  ],
+  "metadata": {
+    "patient_id": 33,
+    "disease": "PsA",
+    "timepoint": "BA",
+    "source_files": [
+      "33_Baseline.docx"
+    ]
+  }
+}

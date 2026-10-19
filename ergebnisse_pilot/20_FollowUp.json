@@ -1,0 +1,472 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "am 14.03.2024 ambulant vorstellte",
+      "source_file": "20_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "TJC: 3",
+      "source_file": "20_FollowUp.docx",
+      "value": 3,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "SJC:0",
+      "source_file": "20_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein 6,0 mg/l",
+      "source_file": "20_FollowUp.docx",
+      "value": 6.0,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BSG: 16mm/h",
+      "source_file": "20_FollowUp.docx",
+      "value": 16,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [],
+  "joint_tenderness": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Schulterbewegungen sind schmerzhaft bds.",
+      "source_file": "20_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Schulter rechts",
+        "Schulter links"
+      ],
+      "description": "Schmerzen bei Schulterbewegungen beidseits.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "minimal regrediente Traceranreicherung  der FAP-exprimierenden Synovialitiden an den AC Gelenken, am Angulus sterni, an den Sternokostalgelenken der 2. und 3. Rippen sowie intra-und periartikulär in den Kniegelenken.",
+      "source_file": "20_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "AC-Gelenke",
+        "Angulus sterni",
+        "Sternokostalgelenke der 2. und 3. Rippen",
+        "Kniegelenke intra- und periartikulär"
+      ],
+      "description": "FAPI-PET von 02/2024: nach Blinatumomab-Therapie minimal regrediente Traceranreicherung der FAP-exprimierenden Synovialitiden.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Enthesitis (-)",
+      "source_file": "20_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Enthesitis verneint.",
+      "context": "clinical"
+    }
+  ],
+  "dactylitis": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Daktylitis (-)",
+      "source_file": "20_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Daktylitis verneint.",
+      "context": "clinical"
+    }
+  ],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "MS:2 Stunde",
+      "source_file": "20_FollowUp.docx",
+      "value": 2,
+      "operator": "=",
+      "unit": "Stunde",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "keine Nagelveränderung",
+      "source_file": "20_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "Nägel"
+      ],
+      "description": "Keine Nagelveränderung.",
+      "context": "clinical"
+    }
+  ],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Wiedervorstellung bei therapierefraktärer rheumatoider Arthritis",
+      "source_file": "20_FollowUp.docx",
+      "description": "Therapierefraktäre rheumatoide Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Klinisch zeigte sich weiterhin eine aktive Grunderkrankung.",
+      "source_file": "20_FollowUp.docx",
+      "description": "Weiterhin klinisch aktive Grunderkrankung.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seropositive rheumatoide Arthritis (RA), ED 11/2020 (extern)",
+      "source_file": "20_FollowUp.docx",
+      "description": "Seropositive rheumatoide Arthritis; externe Erstdiagnose 11/2020.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "RF, a-CCP und a-MCV pos., ANAs neg.",
+      "source_file": "20_FollowUp.docx",
+      "description": "RF, a-CCP und a-MCV positiv; ANAs negativ.",
+      "context": "history"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Er beschwerde über Gelenkschmerzen an den Schultergelenken, Handgelenken und Fußgelenken.",
+      "source_file": "20_FollowUp.docx",
+      "description": "Gelenkschmerzen an Schulter-, Hand- und Fußgelenken.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Arthritis an beiden Handgelenken",
+      "source_file": "20_FollowUp.docx",
+      "description": "Arthritis an beiden Handgelenken.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Arthritis (-)",
+      "source_file": "20_FollowUp.docx",
+      "description": "Arthritis im Gelenkstatus ausdrücklich verneint.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Haut: unauffällig",
+      "source_file": "20_FollowUp.docx",
+      "description": "Unauffälliger Hautbefund.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "regrediente, allerdings noch deutich nachweisbare FAP-Expression um die Schultergelenke, um das linke Hüftgelenk sowie langstreckig entlang einer Strecksehne des Digitus II des linken Fußes.",
+      "source_file": "20_FollowUp.docx",
+      "description": "FAPI-PET von 02/2024: regrediente, weiterhin deutlich nachweisbare FAP-Expression um die Schultergelenke, das linke Hüftgelenk und entlang einer Strecksehne des linken zweiten Zehs.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Zur Voruntersuchung neue ausgeprägte FAP-Expression am linksseitigen SC-Gelenk sowie flau in der rechten ISG Fuge.",
+      "source_file": "20_FollowUp.docx",
+      "description": "FAPI-PET von 02/2024: neue ausgeprägte FAP-Expression am linken SC-Gelenk und flaue FAP-Expression in der rechten ISG-Fuge.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Tendentiell leicht zunehmende Fibroblastenaktivierung in den Handgelenken bds",
+      "source_file": "20_FollowUp.docx",
+      "description": "FAPI-PET von 02/2024: tendenziell leicht zunehmende Fibroblastenaktivierung in beiden Handgelenken.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Osteoporose",
+      "source_file": "20_FollowUp.docx",
+      "description": "Osteoporose dokumentiert.",
+      "context": "history"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Nikotinabusus (10 Zig/Tag)",
+      "source_file": "20_FollowUp.docx",
+      "description": "Nikotinabusus mit 10 Zigaretten pro Tag.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Bei dem Patienten ist eine Karpaltunnel-OP im April geplant.",
+      "source_file": "20_FollowUp.docx",
+      "description": "Karpaltunneloperation im April geplant.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Abatacept 125mg s.c./Woche (seit 11/2023)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "125 mg subkutan pro Woche, seit 11/2023."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Prednisolon 12,5 mg 1-0-0",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "12,5 mg 1-0-0; in der Anamnese und Beurteilung auch als 12,5 mg/tg dokumentiert."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Leflunomide 20 mg 1-0-0 ab 02/2024",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Leflunomide",
+      "description": "Unter aktueller Therapie dokumentiert: 20 mg 1-0-0 ab 02/2024."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Alendronsäure 70 mg/Wo",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Alendronsäure",
+      "description": "70 mg pro Woche."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Calcimed D3 500/1000 IE 1-0-0",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Calcimed D3",
+      "description": "500/1000 IE 1-0-0."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Pantoprazol 20 mg 1-0-0",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Pantoprazol",
+      "description": "20 mg 1-0-0."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Z.n. Individuellem Heilversuch mit Blinatumomab (2 Gaben 05.09.2023 und 18.09.2023)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Blinatumomab",
+      "description": "Individueller Heilversuch mit zwei Gaben am 05.09.2023 und 18.09.2023; laut Anamnese kein Nutzen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Methotrexat (innere Unruhe und bei hoher Dosis Haarausfall)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "Frühere Therapie; innere Unruhe und bei hoher Dosis Haarausfall."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Adalimumab + Leflunomid + Prednisolon",
+      "description": "Frühere Kombination mit 20 mg Prednisolon; unzureichendes Ansprechen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Baricitinib (08-12/2022, unzureichendes Ansprechen)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Baricitinib",
+      "description": "08–12/2022; unzureichendes Ansprechen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Abatacept 12/2022-04/2023 (sek. Wirkversagen)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "12/2022–04/2023; sekundäres Wirkversagen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Filgotinib 04-08/2023 (unzureichendes Ansprechen)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Filgotinib",
+      "description": "04–08/2023; unzureichendes Ansprechen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Beginn Leflunomid 20 mg 1-0-0",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "Beginn einer additiven Therapie mit 20 mg 1-0-0 besprochen und empfohlen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Prednisolon-Reduktion auf 7,5 mg 1-0-0",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Reduktion auf 7,5 mg 1-0-0 empfohlen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Abatacept 125mg s.c./Woche (seit November/2023)",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "In der Therapieempfehlung: 125 mg subkutan pro Woche; seit November/2023."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Sollten sich im weiteren Verlauf weiterhin Aktivitätshinweise zeigen, muss ein Wechsel von Abatacept z.B. auf Rituximab in Betracht gezogen werden.",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Rituximab",
+      "description": "Bei anhaltenden Aktivitätshinweisen Wechsel von Abatacept beispielsweise auf Rituximab erwägen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Es wird empfohlen, die Behandlung mit Abatacept eine Woche vor der Operation zu pausieren.",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "Bei Operation unter Vollnarkose eine Woche vor der Operation pausieren."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Leflunomid kann fortgeführt werden",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "Perioperative Fortführung bei Operation unter Vollnarkose möglich."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Prednisolon kann in der perioperativen Phase in einer Dosis von 7,5 mg fortgesetzt werden.",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Perioperativ Fortführung mit 7,5 mg möglich."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "kann die Behandlung mit Abatacept nach adäquater Wundheilung (\"die einen Fadenzug ermöglicht\") wieder aufgenommen werden.",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "Postoperativ Wiederaufnahme nach adäquater Wundheilung, die einen Fadenzug ermöglicht, sofern keine Wundheilungsprobleme oder Infektionszeichen bestehen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "regelmäßige Laborkontrollen gemäß DGRh-Empfehlung unter Leflunomid inkl. Blutdruckselbstmessungen",
+      "source_file": "20_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "Regelmäßige Laborkontrollen gemäß DGRh-Empfehlung und Blutdruckselbstmessungen empfohlen."
+    },
+    {
+      "date": "2024-03-14",
+      "date_evidence": "am 14.03.2024 ambulant vorstellte",
+      "evidence": "Nikotinkarenz",
+      "source_file": "20_FollowUp.docx",
+      "drug": null,
+      "description": "Nikotinkarenz empfohlen."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 20,
+    "disease": "RA",
+    "timepoint": "FU",
+    "source_files": [
+      "20_FollowUp.docx"
+    ]
+  }
+}

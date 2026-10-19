@@ -1,0 +1,420 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "die sich am 08.08.2022 ambulant vorstellte.",
+      "source_file": "2_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "BASDAI 7,8",
+      "source_file": "2_FollowUp.docx",
+      "value": 7.8,
+      "variant": null
+    }
+  ],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "2_FollowUp.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2012 Indien mit Durchfall nach Trockenfisch, anschließend Fußgelenksschmerzen und -schwellungen",
+      "source_file": "2_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Fußgelenke, Seite nicht angegeben"
+      ],
+      "description": "Fußgelenksschwellungen nach Durchfall 2012.",
+      "context": "history"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "DS über Plantarfaszie bds. und über Sprunggelenk lateral bd.",
+      "source_file": "2_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Sprunggelenk lateral beidseits"
+      ],
+      "description": "Druckschmerz über den lateralen Sprunggelenken beidseits.",
+      "context": "clinical"
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Druckschmerzim Bereich der Kniegelenke bds.",
+      "source_file": "2_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Kniegelenke beidseits"
+      ],
+      "description": "Druckschmerz im Bereich beider Kniegelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Enthesitis der Ligamenta inter-/supraspinalia in Höhe LWK 2/3.",
+      "source_file": "2_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Ligamenta inter-/supraspinalia in Höhe LWK 2/3"
+      ],
+      "description": "Enthesitis im MRT ISG/LWS mit KM, 08/2018.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Bewegungseinschränkung",
+      "source_file": "2_FollowUp.docx",
+      "description": "Klinische Bewegungseinschränkung.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylarthropathie (SpA), axial und peripher, ED 11/2015",
+      "source_file": "2_FollowUp.docx",
+      "description": "Axiale und periphere Spondylarthropathie, Erstdiagnose 11/2015.",
+      "context": "history"
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Zunehmende klinische Symptomatik unter Secukinumab 300 mg monatlich.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bidlgebung mittels FAPI PET/CT zeigt deutliche entzündliche Aktivität.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Deutliche entzündliche Aktivität im FAPI PET/CT.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HLA-B27 negativ",
+      "source_file": "2_FollowUp.docx",
+      "description": "HLA-B27 negativ.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "vorberichtlich Z. n. reaktiver Arthritis bei Z. n. Auslandsaufenthalten",
+      "source_file": "2_FollowUp.docx",
+      "description": "Vorberichtlicher Zustand nach reaktiver Arthritis nach Auslandsaufenthalten.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "sonographischer Nachweis Kniegelenkserguss links mit Synovialis-Proliferationen 2015",
+      "source_file": "2_FollowUp.docx",
+      "description": "Sonographischer Kniegelenkserguss links mit Synovialis-Proliferationen 2015.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT ISG (05/2016): Zeichen einer milden akuten Sakroiliitis rechts",
+      "source_file": "2_FollowUp.docx",
+      "description": "Milde akute Sakroiliitis rechts im MRT 05/2016.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei Spondylarthritis inaktive Spondylitis anterior-Herde an der Lendenwirbelsäule. Mehrsegmentale aktivierte lumbale Spondylarthritiden beidseits.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Inaktive Spondylitis-anterior-Herde und mehrsegmentale aktivierte lumbale Spondylarthritiden beidseits im MRT 08/2018.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Unveränderte floride rechtsseitige Sacroilitis.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Unveränderte floride rechtsseitige Sakroiliitis im MRT 08/2018.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Knie-MRT, 10.12.19: fortgeschrittene Gonarthrose, keine entzündliche Aktivität",
+      "source_file": "2_FollowUp.docx",
+      "description": "Fortgeschrittene Gonarthrose ohne entzündliche Aktivität im Knie-MRT vom 10.12.2019.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-LWS, 24.08.2020: vor allem deg. bedingte Veränderungen und BS-Bulging, gering floride Sakroiliitis bds",
+      "source_file": "2_FollowUp.docx",
+      "description": "Vorwiegend degenerative Veränderungen und Bandscheiben-Bulging sowie gering floride Sakroiliitis beidseits im MRT vom 24.08.2020.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im FAPI PET/CT 06/22 deutliche Tracer-Anreicherungen an typischen Manifestationsstellen (Achillessehne, Hüfte, Knie bds., BWS/LWS Übergang, Facettengelenke). Tracerintenisität nicht hinreichend durch bek. degenerative Läsionen erklärbar.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Deutliche Tracer-Anreicherungen im FAPI PET/CT 06/22 an Achillessehne, Hüfte, beiden Knien, BWS/LWS-Übergang und Facettengelenken; nicht hinreichend durch bekannte degenerative Läsionen erklärbar.",
+      "context": "imaging"
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "klinisch deutliche Fatigue, Bewegungseinschränkung, Leistungseinschränkung, Schmerzen in Ruhe und Bewegung.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Deutliche Fatigue, Leistungseinschränkung und Schmerzen in Ruhe und Bewegung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "DS über Plantarfaszie bds.",
+      "source_file": "2_FollowUp.docx",
+      "description": "Druckschmerz über beiden Plantarfaszien.",
+      "context": "clinical"
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "SPARCC 4",
+      "source_file": "2_FollowUp.docx",
+      "description": "Dokumentierter SPARCC 4.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "V. a. undifferenzierte Kollagenose",
+      "source_file": "2_FollowUp.docx",
+      "description": "Verdacht auf undifferenzierte Kollagenose.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. rezidivierend Aphten, Alopezie areata, Raynaud-Syndrom, Livedo reticularis; fragliche Sonnenlichtempfindlichkeit; Abgeschlagenheit",
+      "source_file": "2_FollowUp.docx",
+      "description": "Anamnestisch rezidivierende Aphten, Alopezie areata, Raynaud-Syndrom, Livedo reticularis, fragliche Sonnenlichtempfindlichkeit und Abgeschlagenheit.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ANA auf hep2 schwach positiv, anti-PM_Scl 05/16 schwach pos., anti-DNS-negativ",
+      "source_file": "2_FollowUp.docx",
+      "description": "ANA auf hep2 schwach positiv, anti-PM_Scl 05/16 schwach positiv und anti-DNS negativ.",
+      "context": "history"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Arcoxia 90mg 1-0-0",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Arcoxia",
+      "description": "Dauermedikation Arcoxia 90 mg 1-0-0."
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Secukinumab 300mg alle 4 Wochen",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Dauermedikation Secukinumab 300 mg alle 4 Wochen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Upadacitinib 15mg 1-0-0 (seit 09/22, nach Shingrix Impfung)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Als aktuelle Therapie dokumentiert: Upadacitinib 15 mg 1-0-0 seit 09/22 nach Shingrix-Impfung."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Ibuprofen, Diclofenac.",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Frühere Therapie mit Ibuprofen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Ibuprofen, Diclofenac.",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Diclofenac",
+      "description": "Frühere Therapie mit Diclofenac."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n Sulfasalazin (02/2016 - 03/2018)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Sulfasalazin",
+      "description": "Frühere Therapie von 02/2016 bis 03/2018."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX und Sulfasalazin (2016-2017, fehlendes Therapieansprechen)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Frühere Therapie 2016–2017 mit fehlendem Therapieansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX und Sulfasalazin (2016-2017, fehlendes Therapieansprechen)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Sulfasalazin",
+      "description": "Zusätzlich dokumentierte frühere Therapie 2016–2017 mit fehlendem Therapieansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Certolizumab (10/18 bis 03/21, Wirkverlust)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Certolizumab",
+      "description": "Frühere Therapie von 10/2018 bis 03/2021, Wirkverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Secukinumab 150mg alle 4 Wochen 3/21 - 07/21",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Frühere Dosierung 150 mg alle 4 Wochen von 03/2021 bis 07/2021."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Daher Therapieumstellung auf Upadacitinib 15mg 1-0-0 unter klinischen und serologischen Kontrollen nach Maßgabe der DGRH bepsrochen.",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Besprochene Umstellung auf Upadacitinib 15 mg 1-0-0 mit klinischen und serologischen Kontrollen; Shingrix-Impfung vor Beginn vorgesehen."
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "vor Start von Upadaxitinib Shingirx Impfung erfolgt sein sollte. Impfrezept mitgegeben.",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Shingrix",
+      "description": "Shingrix-Impfung vor Beginn von Upadacitinib vorgesehen; Impfrezept mitgegeben, Durchführung durch den Hausarzt."
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "WV in 3 Monaten mit Durchführung der Zweitimpfdosis Shingrix.",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Shingrix",
+      "description": "Zweite Shingrix-Impfdosis bei Wiedervorstellung in drei Monaten vorgesehen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Dosissteigerung auf 300mg/Monat bei Wirkabschwächung nach 2 Wochen unter 150mg/Monat (erneuter Wirkverlust 08/22)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Dosissteigerung auf 300 mg monatlich wegen Wirkabschwächung nach zwei Wochen unter 150 mg monatlich; erneuter Wirkverlust 08/22."
+    },
+    {
+      "date": "2022-08-08",
+      "date_evidence": "am 08.08.2022 ambulant vorstellte",
+      "evidence": "Letzte Secukinumab 300mg Spritze verabreicht",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Letzte Secukinumab-Injektion mit 300 mg verabreicht."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Upadacitinib 15mg 1-0-0 (seit 09/22, nach Shingrix Impfung)",
+      "source_file": "2_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Beginn von Upadacitinib 15 mg 1-0-0 seit 09/22 nach Shingrix-Impfung dokumentiert; Beobachtungsdatum nicht eindeutig zugeordnet."
+    }
+  ],
+  "metadata": {
+    "patient_id": 2,
+    "disease": "SpA",
+    "timepoint": "FU",
+    "source_files": [
+      "2_FollowUp.docx"
+    ]
+  }
+}

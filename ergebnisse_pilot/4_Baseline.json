@@ -1,0 +1,419 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "am 20.08.2020 ambulant vorstellte",
+      "source_file": "4_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "BASDAI 4,85",
+      "source_file": "4_Baseline.docx",
+      "value": 4.85,
+      "variant": null
+    }
+  ],
+  "BASFI": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "BASFI 3",
+      "source_file": "4_Baseline.docx",
+      "value": 3,
+      "variant": null
+    }
+  ],
+  "BASMI": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "BASMI 2 (Schober und HWS-Rotation)",
+      "source_file": "4_Baseline.docx",
+      "value": 2,
+      "variant": "Schober und HWS-Rotation"
+    }
+  ],
+  "BAS_G": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "BAS-G 7,5",
+      "source_file": "4_Baseline.docx",
+      "value": 7.5,
+      "variant": null
+    }
+  ],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "HAQ 0,38",
+      "source_file": "4_Baseline.docx",
+      "value": 0.38,
+      "variant": null
+    }
+  ],
+  "PASI": [],
+  "VAS_physician": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "VAS Arzt 3,5",
+      "source_file": "4_Baseline.docx",
+      "value": 3.5,
+      "scope": null,
+      "unit": null
+    }
+  ],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "4_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS 11/22  mm/h",
+      "source_file": "4_Baseline.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "keine Schwellungen",
+      "source_file": "4_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Schwellungen im Gelenkuntersuchungsbefund.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "DS rechte Schulter",
+      "source_file": "4_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "rechte Schulter"
+      ],
+      "description": "Druckschmerz der rechten Schulter.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "leichter DS HWS/BWS/LWS",
+      "source_file": "4_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "HWS",
+        "BWS",
+        "LWS"
+      ],
+      "description": "Leichter Druckschmerz der Wirbelsäule.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "MS 20 min.",
+      "source_file": "4_Baseline.docx",
+      "value": 20,
+      "operator": "=",
+      "unit": "min",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Keine Hauteffloreszenzen",
+      "source_file": "4_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Hauteffloreszenzen anamnestisch angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Wand-Tragus: 11 cm",
+      "source_file": "4_Baseline.docx",
+      "value": 11,
+      "operator": "=",
+      "unit": "cm",
+      "context": "clinical"
+    }
+  ],
+  "finger_floor": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Finger-Boden 26 cm",
+      "source_file": "4_Baseline.docx",
+      "value": 26,
+      "operator": "=",
+      "unit": "cm",
+      "context": "clinical"
+    }
+  ],
+  "lateral_flexion": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Seitneigung > 10 cm",
+      "source_file": "4_Baseline.docx",
+      "value": 10,
+      "operator": ">",
+      "unit": "cm",
+      "context": "clinical"
+    }
+  ],
+  "cervical_rotation": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "HWS-Beweglichkeit 30°",
+      "source_file": "4_Baseline.docx",
+      "value": 30,
+      "operator": "=",
+      "unit": "°",
+      "context": "clinical"
+    }
+  ],
+  "Schober": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Schober 3 cm",
+      "source_file": "4_Baseline.docx",
+      "value": 3,
+      "operator": "=",
+      "unit": "cm",
+      "context": "clinical"
+    }
+  ],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Klinisch zeigte sich eine erhöhte entzündliche Aktivität axial und der V.a. periph. Entzündung.",
+      "source_file": "4_Baseline.docx",
+      "description": "Erhöhte axiale entzündliche Aktivität und Verdacht auf periphere Entzündung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hinweise auf eine diskrete floride axiale entzündliche Aktivität",
+      "source_file": "4_Baseline.docx",
+      "description": "Hinweise auf diskrete floride axiale entzündliche Aktivität im MRT von Juni 2020.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "der Verdacht besteht, dass unter NSAR keine ausreichende Erkrankungskontrolle möglich ist.",
+      "source_file": "4_Baseline.docx",
+      "description": "Verdacht auf unzureichende Erkrankungskontrolle unter NSAR.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylitis ankylosans, Erstdiagnose 03/15",
+      "source_file": "4_Baseline.docx",
+      "description": "Spondylitis ankylosans, Erstdiagnose März 2015.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "extern HLA B27 positiv",
+      "source_file": "4_Baseline.docx",
+      "description": "Extern HLA-B27 positiv.",
+      "context": "history"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter.",
+      "source_file": "4_Baseline.docx",
+      "description": "Axiale Schmerzen an HWS, BWS und LWS sowie periphere Schmerzen an den IP Dig. 1 beidseits und der rechten Schulter.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "keine Augenentzündungen",
+      "source_file": "4_Baseline.docx",
+      "description": "Keine Augenentzündungen anamnestisch angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Patrick negativ bds.",
+      "source_file": "4_Baseline.docx",
+      "description": "Patrick-Test beidseits negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT-ISG extern (2017)",
+      "evidence": "Sakroiliitis li. sowie min. entzündlichen Veränderungen auch re. ISG",
+      "source_file": "4_Baseline.docx",
+      "description": "Externes ISG-MRT 2017: Sakroiliitis links und minimale entzündliche Veränderungen rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-06-22",
+      "date_evidence": "HWS-BWS-LWS-MRT nativ und mit KM vom 22.06.2020",
+      "evidence": "Entzündliche Veränderungen der Ligamenta interspinalia und supraspinalia HWK 6-BWK 1 und geringer ausgeprägt der Ligamenta interspinalia LWK 2-LWK 5.",
+      "source_file": "4_Baseline.docx",
+      "description": "MRT: entzündliche Veränderungen der interspinalen und supraspinalen Ligamente HWK 6 bis BWK 1 sowie geringer ausgeprägt der interspinalen Ligamente LWK 2 bis LWK 5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-06-22",
+      "date_evidence": "HWS-BWS-LWS-MRT nativ und mit KM vom 22.06.2020",
+      "evidence": "Multisegmentale Entzündungen der Kostovertebralgelenke der BWS links, mit Betonung BWK 9/10.",
+      "source_file": "4_Baseline.docx",
+      "description": "MRT: multisegmentale Entzündungen der linken thorakalen Kostovertebralgelenke, betont BWK 9/10.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-06-22",
+      "date_evidence": "HWS-BWS-LWS-MRT nativ und mit KM vom 22.06.2020",
+      "evidence": "Multisegmentales vermehrtes KM-Enhancement um Kostovertebralgelenke BWK 2, 3, 5, 7, 9 und 10 links",
+      "source_file": "4_Baseline.docx",
+      "description": "Vermehrtes Kontrastmittel-Enhancement um die linken Kostovertebralgelenke BWK 2, 3, 5, 7, 9 und 10.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "heute",
+      "evidence": "Der Quantiferon und die Hep.-Serologie waren heute negativ.",
+      "source_file": "4_Baseline.docx",
+      "description": "Quantiferon und Hepatitis-Serologie als negativ beurteilt.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Diclofenac 75 mg 1-0-1",
+      "source_file": "4_Baseline.docx",
+      "drug": "Diclofenac",
+      "description": "Aktuell Diclofenac 75 mg im Schema 1-0-1."
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Diclofenac 2x tgl. mit unzureichendem Ansprechen der Beschwerden.",
+      "source_file": "4_Baseline.docx",
+      "drug": "Diclofenac",
+      "description": "Seit letzter Vorstellung zweimal täglich Diclofenac mit unzureichendem Ansprechen."
+    },
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "KG erfolge nun.",
+      "source_file": "4_Baseline.docx",
+      "drug": null,
+      "description": "Aktuelle Krankengymnastik."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Bedarfsanalgesie mit Diclofenac",
+      "source_file": "4_Baseline.docx",
+      "drug": "Diclofenac",
+      "description": "Frühere Bedarfsanalgesie mit Diclofenac."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. fester Ibuprofen-Einnahme über mehrere Monate ohne ausreichendes Therapieansprechen",
+      "source_file": "4_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Frühere feste Einnahme über mehrere Monate ohne ausreichendes Therapieansprechen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Zügiger Beginn eines Biologikums (vorzugsweise anti-TNF oder Secukinumab) nach erweiterter Bildgebung mittels FAPI-PET/CT",
+      "source_file": "4_Baseline.docx",
+      "drug": "anti-TNF oder Secukinumab",
+      "description": "Zügiger Beginn eines Biologikums, vorzugsweise anti-TNF oder Secukinumab, nach erweiterter Bildgebung mittels FAPI-PET/CT; vor Beginn radiologischer Ausschluss einer latenten oder akuten TBC vorgesehen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-08-20",
+      "date_evidence": "am 20.08.2020 ambulant vorstellte",
+      "evidence": "Zwischenzeitlich sei KG begonnen worden.",
+      "source_file": "4_Baseline.docx",
+      "drug": null,
+      "description": "Krankengymnastik zwischenzeitlich begonnen."
+    }
+  ],
+  "metadata": {
+    "patient_id": 4,
+    "disease": "SpA",
+    "timepoint": "BA",
+    "source_files": [
+      "4_Baseline.docx"
+    ]
+  }
+}

@@ -1,0 +1,945 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "am 01.08.2023 ambulant vorstellte",
+      "source_file": "19_Baseline.docx"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "für den 13.11.23 vereinbart",
+      "evidence": "Ein Termin zur WV i.d. Studienambulanz wurde für den 13.11.23 vereinbart.",
+      "source_file": "19_Baseline.docx"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "am 13.11.2023 ambulant vorstellte",
+      "source_file": "19_Baseline_2.docx"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine Wiedervorstellung wurde in 3 Monaten vereinbart.",
+      "source_file": "19_Baseline_2.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "DAS 28: 3,7",
+      "source_file": "19_Baseline.docx",
+      "value": 3.7,
+      "variant": null
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Gelenke: Druckschmerz 8",
+      "source_file": "19_Baseline.docx",
+      "value": 8,
+      "scope": "unspecified",
+      "unit": null
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Gelenke: Druckschmerz 8",
+      "source_file": "19_Baseline_2.docx",
+      "value": 8,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Schwellung 1",
+      "source_file": "19_Baseline.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Schwellung 1",
+      "source_file": "19_Baseline_2.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "C-reaktives Protein 7,9 mg/l",
+      "source_file": "19_Baseline.docx",
+      "value": 7.9,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": null,
+      "date_evidence": "Anfang Oktober",
+      "evidence": "In der Laborkontrolle CRP bei 57mg/l.",
+      "source_file": "19_Baseline_2.docx",
+      "value": 57,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "C-reaktives Protein 7,4 mg/l",
+      "source_file": "19_Baseline_2.docx",
+      "value": 7.4,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "BSG: 8 mm/h",
+      "source_file": "19_Baseline.docx",
+      "value": 8,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Schwellung 1",
+      "source_file": "19_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Eine Gelenkschwellung dokumentiert, Lokalisation nicht angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Aktuell Schwellungen und Schmerzen der Finger- und Handgelenken bds.",
+      "source_file": "19_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Fingergelenke beidseits",
+        "Handgelenke beidseits"
+      ],
+      "description": "Anamnestisch aktuelle Schwellungen der Finger- und Handgelenke beidseits.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Schwellung 1",
+      "source_file": "19_Baseline_2.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Eine Gelenkschwellung dokumentiert, Lokalisation nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Gelenke: Druckschmerz 8",
+      "source_file": "19_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Gelenkdruckschmerz dokumentiert, Lokalisationen nicht angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Gelenke: Druckschmerz 8",
+      "source_file": "19_Baseline_2.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Gelenkdruckschmerz dokumentiert, Lokalisationen nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "MS ca. 30-60 Min.",
+      "source_file": "19_Baseline.docx",
+      "value": null,
+      "operator": "approx",
+      "unit": "Min.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "MS bis 30 Minuten.",
+      "source_file": "19_Baseline_2.docx",
+      "value": 30,
+      "operator": "<=",
+      "unit": "Minuten",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Aktuell weitestgehend akzeptable Kontrolle der Grunderkrankung, unter Baricitinib und Rituximab.",
+      "source_file": "19_Baseline.docx",
+      "description": "Weitestgehend akzeptable Kontrolle der RA unter Baricitinib und Rituximab.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Sowohl klinisch als auch bildmorphologisch zeigt sich die Grunderkrankung weiterhin aktiv.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "RA weiterhin klinisch und bildmorphologisch aktiv.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Allerdings ist die RA unter Baricitinib im Vergleich zu den anderen schon erfolgten Therapieoptionen besser eingestellt.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Unter Baricitinib besser eingestellt als unter bisherigen Therapieoptionen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "Gesteigerte Nuklidanreicherung in multiplen Gelenken wie oben beschrieben bei rheumatoider Arthritis mit Sekundärarthrose.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Gesteigerte Nuklidanreicherung in multiplen Gelenken bei RA mit Sekundärarthrose.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Rheumatoide Arthritis (RA), ED 1987, seropositiv",
+      "source_file": "19_Baseline.docx",
+      "description": "Seropositive RA, Erstdiagnose 1987.",
+      "context": "history"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Rheumatoide Arthritis (RA), ED 1987, seropositiv",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Seropositive RA, Erstdiagnose 1987.",
+      "context": "history"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Seitens der Gelenke bestehen Schmerzen im Bereich Nacken und Sternoclavikulargelenke sowie PIP Gelenke.",
+      "source_file": "19_Baseline.docx",
+      "description": "Schmerzen im Nacken, in Sternoclavikulargelenken und PIP-Gelenken.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Aktuell Schwellungen und Schmerzen der Finger- und Handgelenken bds., sowie Gelenkschmerzen im Sprunggelenk rechts und im Nackenbereich.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Schmerzen der Finger- und Handgelenke beidseits, des rechten Sprunggelenks und im Nacken.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "ausgeprägte postarthrit. Gelenkdestruktion",
+      "source_file": "19_Baseline.docx",
+      "description": "Ausgeprägte postarthritische Gelenkdestruktion.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "ausgeprägte postarthrit. Gelenkdestruktion",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Ausgeprägte postarthritische Gelenkdestruktion.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Sekundäres Fibromyalgiesyndrom",
+      "source_file": "19_Baseline.docx",
+      "description": "Sekundäres Fibromyalgiesyndrom.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Sekundäres Fibromyalgiesyndrom",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Sekundäres Fibromyalgiesyndrom.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "postarthritische Gonarthrose links",
+      "source_file": "19_Baseline.docx",
+      "description": "Postarthritische Gonarthrose links.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "postarthritische Gonarthrose links",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Postarthritische Gonarthrose links.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Synovektomie linker Ellenbogen 05/2005",
+      "source_file": "19_Baseline.docx",
+      "description": "Synovektomie des linken Ellenbogens 05/2005.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Ankylose-OP linkes Sprunggelenk 2001",
+      "source_file": "19_Baseline.docx",
+      "description": "Ankylose-Operation am linken Sprunggelenk 2001.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Vorfuß-OP und Schrauben-Arthrodese Talonavikulargelenk 03/2008 rechts",
+      "source_file": "19_Baseline.docx",
+      "description": "Vorfußoperation und Schraubenarthrodese des rechten Talonavikulargelenks 03/2008.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Resektionsarthroplastik MTP I-V links 07/2014",
+      "source_file": "19_Baseline.docx",
+      "description": "Resektionsarthroplastik MTP I-V links 07/2014.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Bursektomie Knie beidseits",
+      "source_file": "19_Baseline.docx",
+      "description": "Bursektomie an beiden Knien.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. links Knie-TEP 01.02.2017",
+      "source_file": "19_Baseline.docx",
+      "description": "Linke Knie-TEP am 01.02.2017.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Synovektomie linker Ellenbogen 05/2005",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Synovektomie des linken Ellenbogens 05/2005.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Ankylose-OP linkes Sprunggelenk 2001",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Ankylose-Operation am linken Sprunggelenk 2001.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Vorfuß-OP und Schrauben-Arthrodese Talonavikulargelenk 03/2008 rechts",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Vorfußoperation und Schraubenarthrodese des rechten Talonavikulargelenks 03/2008.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Resektionsarthroplastik MTP I-V links 07/2014",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Resektionsarthroplastik MTP I-V links 07/2014.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Bursektomie Knie beidseits",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Bursektomie an beiden Knien.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. links Knie-TEP 2017",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Linke Knie-TEP 2017.",
+      "context": "history"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Rheumafaktor IgG 7,10 IE/ml",
+      "source_file": "19_Baseline.docx",
+      "description": "Rheumafaktor IgG 7,10 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "CCP zykl. zitrul. Peptide 23,0 RE/ml",
+      "source_file": "19_Baseline.docx",
+      "description": "CCP 23,0 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Rheumafaktor IgG 7,85 IE/ml",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Rheumafaktor IgG 7,85 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "CCP zykl. zitrul. Peptide 21,0 RE/ml",
+      "source_file": "19_Baseline_2.docx",
+      "description": "CCP 21,0 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Anti-MCV 1,5 U/ml",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Anti-MCV 1,5 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "bei auch rez. Infekten und zunehmendem IgG-Mangel",
+      "source_file": "19_Baseline.docx",
+      "description": "Rezidivierende Infekte und zunehmender IgG-Mangel als Gründe gegen weitere Rituximabgaben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Sie bekomme aktuell keine Physiotherapie aufgrund Umzug.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Aktuell keine Physiotherapie wegen Umzug.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im FAPI PET Mischbild von Arthrose und arthritischen Veränderungen.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "FAPI-PET mit Mischbild aus Arthrose und arthritischen Veränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "Kräftige Nuklidanreicherung in multiplen Gelenken",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Nuklidanreicherung im Akromioklavikulargelenk links, in beiden Sternoklavikulargelenken links betont, beiden Ellenbogengelenken, oberen Sprunggelenk rechts mit Gelenkspaltverschmälerung und Erosionen, unteren Sprunggelenken beidseits und Großzehengrundgelenk rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "In der Handaufnahme deutliche Nuklidanreicherung bds. diffus karpal, in beiden Radioulnargelenken sowie in einigen MCP",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Deutliche Nuklidanreicherung diffus karpal beidseits, in beiden Radioulnargelenken und einigen MCP; genannt Digitus II ohne eindeutige Seite sowie Digitus II und V links und PIP Digitus III beidseits mit deutlichen erosiven Veränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "Fokale Nuklidanreicherung im Trochanter major bds. und am Sitzbein links, DD Ansatztendinopathie.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Fokale Nuklidanreicherung am Trochanter major beidseits und Sitzbein links, differentialdiagnostisch Ansatztendinopathie.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "Gering betonte Nuklidspeicherung interspinal LWK 2/3 und LWK 3/4.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Gering betonte interspinale Nuklidspeicherung LWK 2/3 und LWK 3/4.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-13",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 13.10.2023",
+      "evidence": "Einliegende Knie-TEP bds.. Hier Material intakt. Keine stabilitätsgefährdenden Osteodestruktionen.",
+      "source_file": "19_Baseline_2.docx",
+      "description": "Knie-TEP beidseits mit intaktem Material; keine stabilitätsgefährdenden Osteodestruktionen.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Rituximab 1000 mg i.v. (letzte Gabe im Mai 23)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rituximab",
+      "description": "1000 mg i.v.; letzte Gabe laut Diagnosen im Mai 2023."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Baricitinib Dosisreduktion 2 mg 1-0-0",
+      "source_file": "19_Baseline.docx",
+      "drug": "Baricitinib",
+      "description": "Dosisreduktion auf 2 mg 1-0-0."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Olumiant 4 mg 1-0-0",
+      "source_file": "19_Baseline.docx",
+      "drug": "Olumiant",
+      "description": "Dauermedikation 4 mg 1-0-0."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Novaminsulfon Tropfen 40 bei Bedarf (wenn sie arbeiten müssen)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Novaminsulfon",
+      "description": "40 Tropfen bei Bedarf, wenn sie arbeiten müssen."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Ibuprofen 600mg nach Bedarf",
+      "source_file": "19_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "600 mg nach Bedarf."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Vigantoletten 1.000 IE 1-0-0",
+      "source_file": "19_Baseline.docx",
+      "drug": "Vigantoletten",
+      "description": "1000 IE 1-0-0 bei dokumentiertem Vitamin-D-Mangel."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Rituximab 1000 mg i.v. pausiert (letzte Gabe im Mai 23)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Rituximab",
+      "description": "1000 mg i.v., aktuell pausiert; letzte Gabe im Mai 2023."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Baricitinib Dosisreduktion 2 mg 1-0-0",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Baricitinib",
+      "description": "Reduzierte Dosis 2 mg 1-0-0; bei Reduktion anamnestisch kein Unterschied bemerkt."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Olumiant 4 mg 1-0-0",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Olumiant",
+      "description": "Dauermedikation 4 mg 1-0-0."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Novaminsulfon Tropfen 40 bei Bedarf (wenn sie arbeiten müssen)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Novaminsulfon",
+      "description": "40 Tropfen bei Bedarf, wenn sie arbeiten müssen."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Ibuprofen 600mg nach Bedarf",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Ibuprofen",
+      "description": "600 mg nach Bedarf."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Vigantoletten 1.000 IE 1-0-0",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Vigantoletten",
+      "description": "1000 IE 1-0-0 bei dokumentiertem Vitamin-D-Mangel."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Simponi (Golimumab) 11/2014 - 02/2015 (Abbruch wegen Schmerzen)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Simponi (Golimumab)",
+      "description": "11/2014 bis 02/2015; Abbruch wegen Schmerzen."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "MTX 2,5 mg/Woche seit 07/2012 (Übelkeit), aktuell beendet",
+      "source_file": "19_Baseline.docx",
+      "drug": "MTX",
+      "description": "2,5 mg/Woche seit 07/2012; Übelkeit; aktuell beendet."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Humira 2006 (keine Wirkung)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Humira",
+      "description": "2006; keine Wirkung."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Chloroquin (keine Wirkung)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Chloroquin",
+      "description": "Keine Wirkung."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Sulfasalazin (Exanthem)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Sulfasalazin",
+      "description": "Exanthem."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Infliximab 300 mg begonnen 2004, Wiederbeginn 12/2012 und 03/2015, Wirkungsverlust",
+      "source_file": "19_Baseline.docx",
+      "drug": "Infliximab",
+      "description": "300 mg, Beginn 2004, Wiederbeginn 12/2012 und 03/2015; Wirkungsverlust."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Tocilizumab ab 27.05.2016: Wirkungsverlust",
+      "source_file": "19_Baseline.docx",
+      "drug": "Tocilizumab",
+      "description": "Ab 27.05.2016; Wirkungsverlust."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Rituximab 07.03.2017 (2x 1000mg) keine Wirkung, Verschlechterung des Befundes mit Antlanto-axial Beteiligung",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rituximab",
+      "description": "07.03.2017, zweimal 1000 mg; keine Wirkung und Befundverschlechterung mit atlantoaxialer Beteiligung."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Tofacitinib für 4 Wochen seit 03/2019-04/2019",
+      "source_file": "19_Baseline.docx",
+      "drug": "Tofacitinib",
+      "description": "Vier Wochen von 03/2019 bis 04/2019."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "zuvor Baricitinib seit 06/2017-04/2019",
+      "source_file": "19_Baseline.docx",
+      "drug": "Baricitinib",
+      "description": "Frühere Behandlung 06/2017 bis 04/2019."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Etanercept (von ca. 05/2019-08/2019)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Etanercept",
+      "description": "Ca. 05/2019 bis 08/2019."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Abatacept (Unwirksamkeit)",
+      "source_file": "19_Baseline.docx",
+      "drug": "Abatacept",
+      "description": "Unwirksamkeit."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Upadacitinib (ca. 09/2020-05/2021), abgesetzt bei fehlendem Therapieansprechen",
+      "source_file": "19_Baseline.docx",
+      "drug": "Upadacitinib",
+      "description": "Ca. 09/2020 bis 05/2021; abgesetzt bei fehlendem Therapieansprechen."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Z.n. Remsima 06.2021: Unverträglichkeit",
+      "source_file": "19_Baseline.docx",
+      "drug": "Remsima",
+      "description": "06/2021; Unverträglichkeit."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Letzte Gabe in November 22 wurde gut vertragen.",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rixathon",
+      "description": "Laut Anamnese letzte Gabe im November 2022, gut vertragen; abweichend von letzter Gabe im Mai 2023 in den Diagnosen."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Rituximab laut Pat. ebenfalls ohne Wirksamkeit. Nur die ersten 3 Tage nach Infusion würde sie eine Verbesserung, durch Steroidapplikation verspüren.",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rituximab",
+      "description": "Laut Patientin ohne Wirksamkeit; Verbesserung nur während der ersten drei Tage nach Infusion durch Steroidapplikation."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Simponi (Golimumab) 11/2014 - 02/2015 (Abbruch wegen Schmerzen)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Simponi (Golimumab)",
+      "description": "11/2014 bis 02/2015; Abbruch wegen Schmerzen."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "MTX 2,5 mg/Woche seit 07/2012 (Übelkeit), aktuell beendet",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "MTX",
+      "description": "2,5 mg/Woche seit 07/2012; Übelkeit; aktuell beendet."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Humira 2006 (keine Wirkung)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Humira",
+      "description": "2006; keine Wirkung."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Chloroquin (keine Wirkung)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Chloroquin",
+      "description": "Keine Wirkung."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Sulfasalazin (Exanthem)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Sulfasalazin",
+      "description": "Exanthem."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Infliximab 300 mg begonnen 2004, Wiederbeginn 12/2012 und 03/2015, Wirkungsverlust",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Infliximab",
+      "description": "300 mg, Beginn 2004, Wiederbeginn 12/2012 und 03/2015; Wirkungsverlust."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Tocilizumab ab 27.05.2016: Wirkungsverlust",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Tocilizumab",
+      "description": "Ab 27.05.2016; Wirkungsverlust."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Rituximab 07.03.2017 (2x 1000mg) keine Wirkung, Verschlechterung des Befundes mit Atlanto-axialer Beteiligung",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Rituximab",
+      "description": "07.03.2017, zweimal 1000 mg; keine Wirkung und Befundverschlechterung mit atlantoaxialer Beteiligung."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Tofacitinib für 4 Wochen 03-04/2019",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Tofacitinib",
+      "description": "Vier Wochen 03/2019 bis 04/2019."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Baricitinib 06/2017-04/2019",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Baricitinib",
+      "description": "Frühere Behandlung 06/2017 bis 04/2019."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Etanercept (ca. 05-08/2019)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Etanercept",
+      "description": "Ca. 05/2019 bis 08/2019."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Abatacept (Unwirksamkeit)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Abatacept",
+      "description": "Unwirksamkeit."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Upadacitinib (ca. 09/2020-05/2021), abgesetzt bei fehlendem Therapieansprechen",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Upadacitinib",
+      "description": "Ca. 09/2020 bis 05/2021; abgesetzt bei fehlendem Therapieansprechen."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Infliximab (Remsima) 06.2021: Unverträglichkeit",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Infliximab (Remsima)",
+      "description": "06/2021; Unverträglichkeit."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "zur erneuten Gabe von Rixathon 1000mg",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rixathon",
+      "description": "Vorstellung zur erneuten Gabe von 1000 mg; Durchführung nicht ausdrücklich dokumentiert."
+    },
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Vorerst keine weiteren Rituximab, bei auch rez. Infekten und zunehmendem IgG-Mangel.",
+      "source_file": "19_Baseline.docx",
+      "drug": "Rituximab",
+      "description": "Vorerst keine weiteren Gaben wegen rezidivierender Infekte und zunehmendem IgG-Mangel."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2023-08-01",
+      "date_evidence": "am 01.08.2023 ambulant vorstellte",
+      "evidence": "Bei Gewichtszunahme und schlechter Verträglichkeit (ausgeprägte Abgeschlagenheit) auf Wunsch der Pat. Dosisreduktion von Baricitinib auf 2mg pro Tag.",
+      "source_file": "19_Baseline.docx",
+      "drug": "Baricitinib",
+      "description": "Dosisreduktion auf 2 mg täglich auf Wunsch der Patientin bei Gewichtszunahme und ausgeprägter Abgeschlagenheit."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Rituximab 1000 mg i.v. pausiert (letzte Gabe im Mai 23)",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Rituximab",
+      "description": "Therapie pausiert; letzte Gabe im Mai 2023."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Bei der Reduktion der Dosis habe sie keinen Unterschied gemerkt.",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Baricitinib",
+      "description": "Bereits erfolgte Reduktion auf 2 mg; Patientin bemerkte keinen Unterschied."
+    },
+    {
+      "date": "2023-11-13",
+      "date_evidence": "am 13.11.2023 ambulant vorstellte",
+      "evidence": "Wir entschieden uns zusammen mit der Patientin die aktuelle Therapie vorerst weiterzuführen.",
+      "source_file": "19_Baseline_2.docx",
+      "drug": "Baricitinib",
+      "description": "Aktuelle Therapie vorerst unverändert weiterführen."
+    }
+  ],
+  "metadata": {
+    "patient_id": 19,
+    "disease": "RA",
+    "timepoint": "BA",
+    "source_files": [
+      "19_Baseline.docx",
+      "19_Baseline_2.docx"
+    ]
+  }
+}

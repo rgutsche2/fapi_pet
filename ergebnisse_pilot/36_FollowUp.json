@@ -1,0 +1,381 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2021-05-31",
+      "date_evidence": "am 31.05.2021 und 09.07.2021 ambulant vorstellte",
+      "evidence": "am 31.05.2021 und 09.07.2021 ambulant vorstellte",
+      "source_file": "36_FollowUp.docx"
+    },
+    {
+      "date": "2021-07-09",
+      "date_evidence": "am 31.05.2021 und 09.07.2021 ambulant vorstellte",
+      "evidence": "am 31.05.2021 und 09.07.2021 ambulant vorstellte",
+      "source_file": "36_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 1,3 mg/l",
+      "source_file": "36_FollowUp.docx",
+      "value": 1.3,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine druckschmerzhaften oder geschwollenen Gelenke",
+      "source_file": "36_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine geschwollenen Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine druckschmerzhaften oder geschwollenen Gelenke",
+      "source_file": "36_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine druckschmerzhaften Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "kein Hinweis auf Enthesitis",
+      "source_file": "36_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Klinisch kein Hinweis auf Enthesitis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "Arthrosonographie vom 31.05.2021:",
+      "evidence": "weiterhin aktive Enthesitis i.R. der GE",
+      "source_file": "36_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Epicondylus lateralis humeri rechts"
+      ],
+      "description": "Arthrosonographisch weiterhin aktive Enthesitis; Osteoproliferation und Erosionen, PD Grad 3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Flauer Nuklid Uptake in Projektion auf den Epicondylus lateralis humeri rechts, z.B. vereinbar mit Epikondylitis.",
+      "source_file": "36_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Epicondylus lateralis humeri rechts"
+      ],
+      "description": "Flauer Nuklid-Uptake, möglicherweise vereinbar mit Epikondylitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Vermehrte FAP-Expression am Tuber ischiadicum links, am ehesten im Sinne einer Enthesiopathie.",
+      "source_file": "36_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Tuber ischiadicum links"
+      ],
+      "description": "Vermehrte FAP-Expression, am ehesten Enthesiopathie; Enthesitis nicht ausdrücklich gesichert.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 31.05.2021:",
+      "evidence": "Unverändert flau vermehrte FAPI-Expression am Tuber ischiadicum links, am ehesten im Sinne einer Enthesiopathie.",
+      "source_file": "36_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Tuber ischiadicum links"
+      ],
+      "description": "Unverändert flau vermehrte FAPI-Expression, am ehesten Enthesiopathie; Enthesitis nicht ausdrücklich gesichert.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine Daktylitis",
+      "source_file": "36_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Daktylitis.",
+      "context": "clinical"
+    }
+  ],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris ED 1975",
+      "source_file": "36_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris, Erstdiagnose 1975.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "er habe keinerlei Pso-Plaques mehr, ,nur noch wenig Schuppungen und Rötungen, vor allem im Bereich der US.",
+      "source_file": "36_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Unterschenkel"
+      ],
+      "description": "Anamnestisch keine Psoriasis-Plaques mehr; geringe Schuppungen und Rötungen, vor allem an den Unterschenkeln.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hautstatus: ncoh Rötungen nach Pso an Stamm, gering an der Kopfhaut, Rötungen US bds., Plaques mehr",
+      "source_file": "36_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Stamm",
+        "Kopfhaut",
+        "Unterschenkel beidseits"
+      ],
+      "description": "Rötungen nach Psoriasis am Stamm, gering an der Kopfhaut und an beiden Unterschenkeln; Formulierung zu Plaques unklar.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MDA nicht erreicht VAS >20/100,",
+      "source_file": "36_FollowUp.docx",
+      "description": "MDA nicht erreicht; VAS >20/100, ohne dokumentierte Zuordnung zu Patient, Arzt oder Schmerz.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "sehr guter Krankheitskontrolle unter der jetzigen Therapie",
+      "source_file": "36_FollowUp.docx",
+      "description": "Sehr gute Krankheitskontrolle unter der aktuellen Therapie.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Herr Tiedemann ist weiterhin sehr zufrieden mit der Therapie, die Haut sei seither dtl. besser",
+      "source_file": "36_FollowUp.docx",
+      "description": "Patient weiterhin sehr zufrieden mit der Therapie; Haut deutlich gebessert.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis Arthritis ED 1978",
+      "source_file": "36_FollowUp.docx",
+      "description": "Psoriasis-Arthritis, Erstdiagnose 1978.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bzgl. der Gelenke werden nächtl. RS verneint, gel. habe er Beschwerden im rechten Ellbogen, allerdings sei die Einnahmen von NSAR nicht notwendig gewesen.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Nächtliche Rückenschmerzen verneint; gelegentliche Beschwerden im rechten Ellbogen, keine NSAR-Einnahme erforderlich.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "Arthrosonographie vom 31.05.2021:",
+      "evidence": "Ellbogen rechts: Epic. Humeri lat.: Osteoproliferation und Erosionen\nPD Grad 3",
+      "source_file": "36_FollowUp.docx",
+      "description": "Osteoproliferation und Erosionen am lateralen humeralen Epicondylus rechts; PD Grad 3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Partielle Verknöcherung der Ligamenta interspinalia, teils mit fokalem Nuklid Uptake, z.B. auf Höhe HWK 7/BWK 1 und BWK 2/BWK 3 (exemplarischer SUVmax TOF hier 2,9, Ima 35).",
+      "source_file": "36_FollowUp.docx",
+      "description": "Partielle Verknöcherung der interspinalen Ligamente mit fokalem Nuklid-Uptake auf Höhe HWK 7/BWK 1 und BWK 2/BWK 3; SUVmax TOF 2,9.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Sehr flauer Nuklid Uptake lateral des Os cuboideum rechts (SUVmax TOF 1,9, Ima 312).",
+      "source_file": "36_FollowUp.docx",
+      "description": "Sehr flauer Nuklid-Uptake lateral des rechten Os cuboideum; SUVmax TOF 1,9.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Hände: Flächenhafte unspezifische Radiopharmakon Anreicherung der Handmuskulatur, insbesondere links. Keine Gelenkassoziierten FAPI-Anreicherungen. Heberdenarthrose D3 rechts.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Unspezifische Anreicherung der Handmuskulatur, insbesondere links; keine gelenkassoziierten FAPI-Anreicherungen; Heberdenarthrose D3 rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 31.05.2021:",
+      "evidence": "Degenerative Wirbelsäulenveränderungen.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Degenerative Wirbelsäulenveränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 31.05.2021:",
+      "evidence": "Rückläufige Fibroblastenaktivität in Projektion auf die partiell verknöcherten Ligamenta interspinalia HWK 7/BWK 1 und BWK 2/BWK 3.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Rückläufige Fibroblastenaktivität an den partiell verknöcherten interspinalen Ligamenten HWK 7/BWK 1 und BWK 2/BWK 3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-05-31",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 31.05.2021:",
+      "evidence": "Neu zur VU von 12/20 flaue FAPI-Anreicherung ulnar im Handgelenk rechts.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Neue flaue FAPI-Anreicherung ulnar im rechten Handgelenk gegenüber Dezember 2020.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-01",
+      "date_evidence": "Hauptbefund vom 01.06.2021:",
+      "evidence": "Fettgewebe wie auch fibrosiertes Weichgewebe ohne signifikante Entzündung. Kein Anhalt für Malignität.",
+      "source_file": "36_FollowUp.docx",
+      "description": "Gewebebefund: Fettgewebe und fibrosiertes Weichgewebe ohne signifikante Entzündung; kein Anhalt für Malignität.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Secukinumab im Rahmen einer Studie seit 12/2020 + Methotrexat",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Seit 12/2020 im Rahmen der EBIO-Studie, kombiniert mit Methotrexat."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Cosentyx 300 mg 1x/Monat",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Cosentyx",
+      "description": "300 mg einmal monatlich."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Methotrexat 10 mg s.c./Woche seit 2016",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "10 mg subkutan wöchentlich seit 2016."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Folsäure 5 mg am Folgetag von MTx",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Folsäure",
+      "description": "5 mg am Folgetag von Methotrexat."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Enstilar Schaum + Silkis",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Enstilar",
+      "description": "Enstilar Schaum zur Behandlung der Psoriasis vulgaris, kombiniert mit Silkis."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Enstilar Schaum + Silkis",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Silkis",
+      "description": "Silkis zur Behandlung der Psoriasis vulgaris, kombiniert mit Enstilar Schaum."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "bisherige Therapie: Fumarderm",
+      "source_file": "36_FollowUp.docx",
+      "drug": "Fumarderm",
+      "description": "Bisherige Therapie der Psoriasis vulgaris."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "empfehlen wir ein Fortführen der Therapie wie bisher",
+      "source_file": "36_FollowUp.docx",
+      "drug": null,
+      "description": "Fortführung der bisherigen Therapie mit Cosentyx 300 mg monatlich und Methotrexat 10 mg subkutan wöchentlich empfohlen."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 36,
+    "disease": "PsA",
+    "timepoint": "FU",
+    "source_files": [
+      "36_FollowUp.docx"
+    ]
+  }
+}

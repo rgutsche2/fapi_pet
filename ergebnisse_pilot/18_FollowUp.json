@@ -1,0 +1,346 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "die sich am 04.04.2024 ambulant vorstellte.",
+      "source_file": "18_FollowUp.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "DAS28 CRP: 2.84",
+      "source_file": "18_FollowUp.docx",
+      "value": 2.84,
+      "variant": "CRP"
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: TJ:0/SJ:0",
+      "source_file": "18_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Gelenkstatus: TJ:0/SJ:0",
+      "source_file": "18_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Arzt VAS 10",
+      "source_file": "18_FollowUp.docx",
+      "value": 10,
+      "scope": null,
+      "unit": null
+    }
+  ],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,4 mg/l",
+      "source_file": "18_FollowUp.docx",
+      "value": 5.4,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Im Intervall keine Schwellungen.",
+      "source_file": "18_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Im Intervall keine Schwellungen.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "MS<30´",
+      "source_file": "18_FollowUp.docx",
+      "value": 30,
+      "operator": "<",
+      "unit": "min",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "11/2023: neuer Schub der Grunderkrankung",
+      "source_file": "18_FollowUp.docx",
+      "description": "Neuer Schub im November 2023.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2009 - 2022: Remission ohne Basistherapie",
+      "source_file": "18_FollowUp.docx",
+      "description": "Remission ohne Basistherapie von 2009 bis 2022.",
+      "context": "history"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Klinisch und laborchemisch fand sich aktuell die Grunderkrankung in Remission.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Aktuell klinisch und laborchemisch Remission.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumatoide Arthritis (RA), ED 01/2008",
+      "source_file": "18_FollowUp.docx",
+      "description": "Rheumatoide Arthritis, Erstdiagnose Januar 2008.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumafaktor initial neg., seit 01/2024 pos., CCP-Ak und MCV-Ak positiv",
+      "source_file": "18_FollowUp.docx",
+      "description": "Rheumafaktor initial negativ, seit Januar 2024 positiv; CCP- und MCV-Antikörper positiv.",
+      "context": "history"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Aktuell Verbesserung der Schmerzen.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Aktuelle Verbesserung der Schmerzen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Noch etwas Schmerzen Knie li. (3 auf einer Schmerzskala)",
+      "source_file": "18_FollowUp.docx",
+      "description": "Schmerzen am linken Knie, 3 auf einer nicht näher bezeichneten Schmerzskala.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "VAS 3",
+      "source_file": "18_FollowUp.docx",
+      "description": "VAS 3; Bewertungsgegenstand und Skala nicht ausdrücklich bezeichnet.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "PGA 2-3",
+      "source_file": "18_FollowUp.docx",
+      "description": "PGA 2-3.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Nach der Infusion Müdigkeit, sonst kein Fieber, keine Infekte, keine Übelkeit/Vertigo.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Nach Blinatumomab-Infusion Müdigkeit; kein Fieber, keine Infekte, keine Übelkeit oder Vertigo.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Rheumafaktor IgG 22,16 IE/ml",
+      "source_file": "18_FollowUp.docx",
+      "description": "Rheumafaktor IgG 22,16 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "CCP AK 48,0 RE/ml",
+      "source_file": "18_FollowUp.docx",
+      "description": "CCP-Antikörper 48,0 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Die B-Zellen waren depletiert.",
+      "source_file": "18_FollowUp.docx",
+      "description": "B-Zellen depletiert.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Laborchemisch zeigt sich eine geringe Transaminasen-Erhöhung, wir bitten um Verlaufskontrolle.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Geringe Transaminasenerhöhung; Verlaufskontrolle erbeten.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Die Biopsien (Lymphknoten und Gelenk) zur Kontrolle der B-Zellen im Gewebe nach Blinatumomab-Therapie sowie ein FAPI-PET wurden geplant und der Patientin mitgeteilt.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Lymphknoten- und Gelenkbiopsien zur B-Zell-Kontrolle sowie FAPI-PET geplant.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Ein Termin zur WV wurde in 3 Monaten geplant.",
+      "source_file": "18_FollowUp.docx",
+      "description": "Wiedervorstellung in drei Monaten geplant.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab (Exanthem)",
+      "source_file": "18_FollowUp.docx",
+      "description": "Adalimumab-Allergie mit Exanthem dokumentiert.",
+      "context": "history"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "seit 02/2024: individueller Heilversuch mit Blinatumomab",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Blinatumomab",
+      "description": "Individueller Heilversuch seit Februar 2024."
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Aktuell: Blinatumomab 2. Gabe Februar 2024",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Blinatumomab",
+      "description": "Als aktuelle Therapie dokumentiert; zweite Gabe im Februar 2024."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2008 - 2009: MTX (GI-Beschwerden, starke Übelkeit, AZ-Verschlechterung)",
+      "source_file": "18_FollowUp.docx",
+      "drug": "MTX",
+      "description": "2008 bis 2009; gastrointestinale Beschwerden, starke Übelkeit und Verschlechterung des Allgemeinzustands."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2009 - 2022: Remission ohne Basistherapie",
+      "source_file": "18_FollowUp.docx",
+      "drug": null,
+      "description": "2009 bis 2022 keine Basistherapie bei Remission."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "01/2023: Adalimumab (Exanthem)",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Januar 2023; Exanthem."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "01 - 07/2023: Etanercept (kein Ansprechen)",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Etanercept",
+      "description": "Januar bis Juli 2023; kein Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "07 - 10/2023: Abatacept",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "Juli bis Oktober 2023."
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "02/2024: Blinatumomab, 2/2 Zyklen erfolgt",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Blinatumomab",
+      "description": "Im Februar 2024 zwei von zwei Zyklen erfolgt."
+    },
+    {
+      "date": "2024-04-04",
+      "date_evidence": "am 04.04.2024 ambulant vorstellte",
+      "evidence": "Seit der Infusion 1 mal Ibuprofen wegen Schmerzen am Sakrum.",
+      "source_file": "18_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Seit der Infusion einmal wegen Schmerzen am Sakrum eingenommen."
+    }
+  ],
+  "therapy_planned": [],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 18,
+    "disease": "RA",
+    "timepoint": "FU",
+    "source_files": [
+      "18_FollowUp.docx"
+    ]
+  }
+}

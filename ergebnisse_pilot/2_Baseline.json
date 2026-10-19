@@ -1,0 +1,495 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "source_file": "2_Baseline.docx"
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "HNO Konsil vom 16.12.2020",
+      "source_file": "2_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "2_Baseline.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2012 Indien mit Durchfall nach Trockenfisch, anschließend Fußgelenksschmerzen und -schwellungen",
+      "source_file": "2_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Fußgelenke, Seite nicht angegeben"
+      ],
+      "description": "Fußgelenksschwellungen nach Durchfall im Anschluss an einen Indienaufenthalt 2012.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: keine Gelenkschwellung",
+      "source_file": "2_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Gelenkschwellung im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Druckschmerz über Ellenbogen re.",
+      "source_file": "2_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ellenbogen rechts"
+      ],
+      "description": "Druckschmerz über dem rechten Ellenbogen.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": "MRT mit KM ISG/LWS (08/2018)",
+      "evidence": "Enthesitis der Ligamenta inter-/supraspinalia in Höhe LWK 2/3.",
+      "source_file": "2_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ligamenta inter-/supraspinalia in Höhe LWK 2/3"
+      ],
+      "description": "MRT-dokumentierte Enthesitis der inter- und supraspinalen Ligamente.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "eingeschränkte Beweglichkeit der WS wie vormals bekannt.",
+      "source_file": "2_Baseline.docx",
+      "description": "Bekannte eingeschränkte Beweglichkeit der Wirbelsäule.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylarthropathie (SpA), axial und peripher, ED 11/2015",
+      "source_file": "2_Baseline.docx",
+      "description": "Axiale und periphere Spondylarthropathie, Erstdiagnose 11/2015.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "vorberichtlich Z. n. reaktiver Arthritis bei Z. n. Auslandsaufenthalten",
+      "source_file": "2_Baseline.docx",
+      "description": "Vorberichtlicher Zustand nach reaktiver Arthritis nach Auslandsaufenthalten.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "V. a. undifferenzierte Kollagenose",
+      "source_file": "2_Baseline.docx",
+      "description": "Verdacht auf undifferenzierte Kollagenose.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuell klinisch deutliche Aktivität der bekannten Spondylarthropathie unter der bestehenden immunsuppressiven Therapie.",
+      "source_file": "2_Baseline.docx",
+      "description": "Klinisch deutliche Aktivität der Spondylarthropathie unter bestehender immunsuppressiver Therapie; keine eindeutige Datumszuordnung der abschließenden Beurteilung.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HLA-B27 negativ",
+      "source_file": "2_Baseline.docx",
+      "description": "HLA-B27 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT ISG (05/2016)",
+      "evidence": "Zeichen einer milden akuten Sakroiliitis rechts",
+      "source_file": "2_Baseline.docx",
+      "description": "MRT: Zeichen einer milden akuten Sakroiliitis rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT mit KM ISG/LWS (08/2018)",
+      "evidence": "Bei Spondylarthritis inaktive Spondylitis anterior-Herde an der Lendenwirbelsäule. Mehrsegmentale aktivierte lumbale Spondylarthritiden beidseits.",
+      "source_file": "2_Baseline.docx",
+      "description": "MRT: Inaktive Spondylitis-anterior-Herde und mehrsegmentale aktivierte lumbale Spondylarthritiden beidseits.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT mit KM ISG/LWS (08/2018)",
+      "evidence": "Mehrsegmentales lumbales Bandscheiben-Bulging und Anulus fibrosus-Risse mit neuroforaminalen Engen LWK 5/SWK 1 beidseits. Unveränderte floride rechtsseitige Sacroilitis.",
+      "source_file": "2_Baseline.docx",
+      "description": "MRT: Lumbales Bandscheiben-Bulging, Anulus-fibrosus-Risse und beidseitige neuroforaminale Engen LWK 5/SWK 1; unveränderte floride Sakroiliitis rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "sonographischer Nachweis Kniegelenkserguss links mit Synovialis-Proliferationen 2015",
+      "evidence": "sonographischer Nachweis Kniegelenkserguss links mit Synovialis-Proliferationen 2015",
+      "source_file": "2_Baseline.docx",
+      "description": "Sonographischer Kniegelenkserguss links mit Synovialis-Proliferationen 2015.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "2012 Indien mit Durchfall nach Trockenfisch, anschließend Fußgelenksschmerzen und -schwellungen",
+      "source_file": "2_Baseline.docx",
+      "description": "Fußgelenksschmerzen nach Durchfall im Anschluss an einen Indienaufenthalt 2012.",
+      "context": "history"
+    },
+    {
+      "date": "2019-12-10",
+      "date_evidence": "Knie-MRT, 10.12.19",
+      "evidence": "fortgeschrittene Gonarthrose, keine entzündliche Aktivität",
+      "source_file": "2_Baseline.docx",
+      "description": "Knie-MRT: Fortgeschrittene Gonarthrose ohne entzündliche Aktivität.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-24",
+      "date_evidence": "MRT-LWS, 24.08.2020",
+      "evidence": "vor allem deg. bedingte Veränderungen und BS-Bulging, gering floride Sakroiliitis bds.",
+      "source_file": "2_Baseline.docx",
+      "description": "MRT: Vorwiegend degenerative Veränderungen und Bandscheiben-Bulging sowie gering floride Sakroiliitis beidseits.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. rezidivierend Aphten, Alopezie areata, Raynaud-Syndrom, Livedo reticularis; fragliche Sonnenlichtempfindlichkeit; Abgeschlagenheit",
+      "source_file": "2_Baseline.docx",
+      "description": "Bei Verdacht auf undifferenzierte Kollagenose dokumentierte rezidivierende Aphten, Alopezie areata, Raynaud-Syndrom, Livedo reticularis, fragliche Sonnenlichtempfindlichkeit und Abgeschlagenheit.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ANA auf hep2 schwach positiv, anti-PM_Scl 05/16 schwach pos., anti-DNS-negativ",
+      "source_file": "2_Baseline.docx",
+      "description": "ANA auf hep2 schwach positiv, anti-PM_Scl im Mai 2016 schwach positiv und anti-DNS negativ.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Urinstatus unauffällig, TTE und Lungenfunktion (09/2016: unauffällig)",
+      "source_file": "2_Baseline.docx",
+      "description": "Unauffälliger Urinstatus; TTE und Lungenfunktion im September 2016 unauffällig.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Die Pat. berichtet weiterhin über zunehmende Beschwerden im Bereich des peripheren aber auch des axialen Skeletts.",
+      "source_file": "2_Baseline.docx",
+      "description": "Zunehmende Beschwerden am peripheren und axialen Skelett.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Zusätzlich berichtet die Pat. über Entzündungen am Auge, wiederkehrend die nicht abklingen.",
+      "source_file": "2_Baseline.docx",
+      "description": "Eigenanamnestisch wiederkehrende, nicht abklingende Entzündungen am Auge.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "Chron. Rhinosinusitis ohne Polyposis links.",
+      "source_file": "2_Baseline.docx",
+      "description": "HNO-Diagnose einer chronischen Rhinosinusitis ohne Polyposis links.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Intensive FAPI Mehrbelegung im Bereich des rechten Schultergelenks (IMA 33, SUVmax 5,4) und intraartikulär im ventralen Ansatz der 1. Rippe rechts (IMA 172, SUVmax 3,7).",
+      "source_file": "2_Baseline.docx",
+      "description": "FAPI-Mehrbelegung am rechten Schultergelenk und intraartikulär am ventralen Ansatz der ersten Rippe rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Langstreckige Tracermehrbelegung entlang der autochtonen Rückenmuskulatur, exemplarisch (IMA 57, SUVmax 3,8).",
+      "source_file": "2_Baseline.docx",
+      "description": "Langstreckige Tracermehrbelegung entlang der autochthonen Rückenmuskulatur.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Intensive Nuklidmehrbelegung in den Facettengelenken LWK4/LWK 5 bds, links > rechts, exemplarisch links (IMA 107, SUVmax 5,4) sowie in den Facettengelenken LWK 5/SWK1, links > rechts, exemplarisch links (IMA 112, SUVmax 7,5), in Zusammenschau mit den CT graphischen Veränderungen a.e. Facettengelenksarthrosen entsprechend.",
+      "source_file": "2_Baseline.docx",
+      "description": "Mehrbelegung der Facettengelenke LWK 4/5 und LWK 5/SWK 1 beidseits, links stärker als rechts; am ehesten Facettengelenksarthrosen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Gesteigerte Traceranreicherung auch intervertebral zwischen LWK 3 und LWK 4 mit reaktiver Hypersklerosierung der artikulierenden Gelenkflächen und Vakuumphänomen der Bandscheibenregion. (SUVmax 6,7).",
+      "source_file": "2_Baseline.docx",
+      "description": "Intervertebrale Traceranreicherung LWK 3/4 mit reaktiver Hypersklerosierung und Vakuumphänomen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Kräftige FAPI Anreicherung auch intra-und periartikulär um das Kniegelenk bds. mit osteophytären randständigen Gelenksanbauten und Geröllzystenbildung. Besonders intensive Nuklidmehrspeicherung im medialen Kniegelenk links (SUVmax 12,7).",
+      "source_file": "2_Baseline.docx",
+      "description": "Intra- und periartikuläre FAPI-Anreicherung an beiden Kniegelenken mit Osteophyten und Geröllzysten, besonders intensiv medial links.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Zystisch septierte Struktur auch im ventralen Tibiaschaftbereich rechts ohne gesteigerte FAPI Anreicherung (IMA 242).",
+      "source_file": "2_Baseline.docx",
+      "description": "Zystisch septierte Struktur am ventralen Tibiaschaft rechts ohne gesteigerte FAPI-Anreicherung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Flaue FAPI Mehrspeicherung im unteren Sprunggelenk rechts (IMA 300, SUVmax 1,9) und im Ansatzsehnenbereich der Beugesehne des Digitus I rechts, (IMA 306, SUVmax 2,2).",
+      "source_file": "2_Baseline.docx",
+      "description": "Flaue FAPI-Mehrspeicherung am unteren Sprunggelenk rechts und am Ansatz der Beugesehne des Digitus I rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Handaufnahmen: Regelrechte Nuklidverteilung im Bereich der Hände bds.",
+      "source_file": "2_Baseline.docx",
+      "description": "Regelrechte Nuklidverteilung an beiden Händen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 18.01.2021",
+      "evidence": "Bei bekannter SpA im gesamten Stamm- und Extremitätenskelett mehrere FAPI mehrspeichernde gelenkassoziierte Mehrspeicherungen, in Zusammenschau mit der CT liegen hier jedoch auch degenerativer Veränderungen vor.",
+      "source_file": "2_Baseline.docx",
+      "description": "Mehrere gelenkassoziierte FAPI-Mehrspeicherungen im Stamm- und Extremitätenskelett mit auch degenerativen Veränderungen im CT.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Aktuell Arcoxia 90 mg, Beginn Certolizumab 10/2018",
+      "source_file": "2_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Aktuell Arcoxia 90 mg."
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Certolizumab seit 10/18",
+      "source_file": "2_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Certolizumab seit Oktober 2018."
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Arcoxia 90mg 1-0-0",
+      "source_file": "2_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Dauermedikation: Arcoxia 90 mg 1-0-0."
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Pantoprazol 40mg 1-0-0",
+      "source_file": "2_Baseline.docx",
+      "drug": "Pantoprazol",
+      "description": "Dauermedikation: Pantoprazol 40 mg 1-0-0."
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "die sich am 14.12.2020 ambulant vorstellte.",
+      "evidence": "Certolizumab 200 mg alle 14 Tage s.c.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Dauermedikation: Certolizumab 200 mg alle 14 Tage subkutan."
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "Med: Certolizumab 200mg alle 14d s.c., Arcoxia, Pantozol.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Beim HNO-Konsil dokumentiert: Certolizumab 200 mg alle 14 Tage subkutan."
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "Med: Certolizumab 200mg alle 14d s.c., Arcoxia, Pantozol.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Beim HNO-Konsil als aktuelle Medikation dokumentiert."
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "Med: Certolizumab 200mg alle 14d s.c., Arcoxia, Pantozol.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Pantozol",
+      "description": "Beim HNO-Konsil als aktuelle Medikation dokumentiert."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n Sulfasalazin (02/2016 - 03/2018)",
+      "source_file": "2_Baseline.docx",
+      "drug": "Sulfasalazin",
+      "description": "Frühere Sulfasalazintherapie von Februar 2016 bis März 2018."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Therapie: Z. n. Ibuprofen, Diclofenac.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Frühere Therapie mit Ibuprofen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Therapie: Z. n. Ibuprofen, Diclofenac.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Diclofenac",
+      "description": "Frühere Therapie mit Diclofenac."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX und Sulfasalazin (2016-2017, fehlendes Therapieansprechen)",
+      "source_file": "2_Baseline.docx",
+      "drug": "MTX",
+      "description": "Frühere MTX-Therapie 2016–2017 mit fehlendem Therapieansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX und Sulfasalazin (2016-2017, fehlendes Therapieansprechen)",
+      "source_file": "2_Baseline.docx",
+      "drug": "Sulfasalazin",
+      "description": "Frühere Sulfasalazintherapie 2016–2017 mit fehlendem Therapieansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sommer 2015 Doxycyclin 06.07.2015 - 27.07.2015 (kein Ansprechen)",
+      "source_file": "2_Baseline.docx",
+      "drug": "Doxycyclin",
+      "description": "Doxycyclin vom 06.07.2015 bis 27.07.2015 ohne Ansprechen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Wir empfehlen daher eine Therapieumstellung auf Secukinumab im Rahmen der E-BIO-Studie.",
+      "source_file": "2_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Empfohlene Therapieumstellung auf Secukinumab im Rahmen der E-BIO-Studie; Kontaktaufnahme durch die Studienambulanz vorgesehen."
+    },
+    {
+      "date": "2020-12-16",
+      "date_evidence": "HNO Konsil vom 16.12.2020",
+      "evidence": "orales Cortison-Schema für 8d",
+      "source_file": "2_Baseline.docx",
+      "drug": "Cortison",
+      "description": "HNO-Therapievorschlag bei chronischer Rhinosinusitis: orales Cortison-Schema für acht Tage."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine Antibiotikatherapie wurde eingeleitet.",
+      "source_file": "2_Baseline.docx",
+      "drug": null,
+      "description": "Antibiotikatherapie wegen Rhinosinusitis und Mukozele eingeleitet; Präparat in dieser Verlaufsangabe nicht benannt."
+    }
+  ],
+  "metadata": {
+    "patient_id": 2,
+    "disease": "SpA",
+    "timepoint": "BA",
+    "source_files": [
+      "2_Baseline.docx"
+    ]
+  }
+}

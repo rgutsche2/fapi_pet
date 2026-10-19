@@ -1,0 +1,325 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "source_file": "17_FollowUp.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "DAS28-CRP 2.09",
+      "source_file": "17_FollowUp.docx",
+      "value": 2.09,
+      "variant": "DAS28-CRP"
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: TJ0 SJ 0.",
+      "source_file": "17_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: TJ0 SJ 0.",
+      "source_file": "17_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein 8,3 mg/l",
+      "source_file": "17_FollowUp.docx",
+      "value": 8.3,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Gelenkschwellungen werden verneint.",
+      "source_file": "17_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Patientin verneint Gelenkschwellungen.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT Hand re 09/2025: minimale Synovialitis im DRUG (DEMO)",
+      "source_file": "17_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "DRUG rechts"
+      ],
+      "description": "Minimale Synovialitis im MRT der rechten Hand, 09/2025.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Synoviale Biopsie 11/25: Synovialitis Grad 8 nach Krenn (High-grade)",
+      "source_file": "17_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Histologisch dokumentierte Synovialitis Grad 8 nach Krenn (High-grade), 11/25.",
+      "context": "history"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Zudem FAPI positive Ansatzsehnentendinitis der rechten Achillessehne.",
+      "source_file": "17_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Achillessehnenansatz rechts"
+      ],
+      "description": "FAPI-positive Ansatzsehnentendinitis im FAPI PET/CT 10/25.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit.",
+      "source_file": "17_FollowUp.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Die Patientin berichtet über eine gute Kontrolle der Beschwerden an Händen und Zehen.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Anamnestisch gute Kontrolle der Beschwerden an Händen und Zehen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Klinisch keine Auffälligkeiten. Serologisch geringgradige CRP-Erhöhung.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Klinisch keine Auffälligkeiten; serologisch geringgradige CRP-Erhöhung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Insgesamt zeigt sich die Grunderkrankung unter Therapie mit Adalimumab gut kontrolliert.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Grunderkrankung unter Adalimumab gut kontrolliert.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "seropositive Rheumatoide Arthritis ED 09/2019",
+      "source_file": "17_FollowUp.docx",
+      "description": "Seropositive rheumatoide Arthritis, Erstdiagnose 09/2019.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "RF+, Anti-MCV >1000,0 U/ml",
+      "source_file": "17_FollowUp.docx",
+      "description": "RF positiv; Anti-MCV >1000,0 U/ml.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT Hand li 09/2025: leichte Rhizarthrose",
+      "source_file": "17_FollowUp.docx",
+      "description": "Leichte Rhizarthrose links im MRT 09/2025.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FAPI PET/CT 10/25: multiple gelenkassoziierte FAPI Mehrspeicherungen, insbesondere in den kleinen Gelenken der Hände und Füße, mit Punktum maximum im linken Handgelenk.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Multiple gelenkassoziierte FAPI-Mehrspeicherungen an Händen und Füßen, Maximum im linken Handgelenk, 10/25.",
+      "context": "imaging"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Seit gestern bestehen jedoch Schmerzen in den Fersen.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Fersenschmerzen seit dem Vortag.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Anamnestisch sind bereits rezidivierende Fersenspornbeschwerden bekannt.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Rezidivierende Fersenspornbeschwerden in der Vorgeschichte.",
+      "context": "history"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Druckdolenz in rechten Ferse",
+      "source_file": "17_FollowUp.docx",
+      "description": "Druckdolenz der rechten Ferse.",
+      "context": "clinical"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Es besteht eine ausgeprägte Müdigkeit und Erschöpfung.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Ausgeprägte Müdigkeit und Erschöpfung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit.",
+      "source_file": "17_FollowUp.docx",
+      "description": "Regelmäßige Schmerzmitteleinnahme verneint.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Aktuelle Therapie: Adalimumab 40mg s.c. alle 14 Tage (seit 11/25)",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "40 mg s.c. alle 14 Tage, seit 11/25."
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "unter Therapie mit Adalimumab und Methotrexat.",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "Aktuelle Therapie mit Methotrexat in Kombination mit Adalimumab."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Bisherige Therapie: MTX 22,5 mg seit 02/2025 (Beginn 09/2019 mit niedriger Dosis), Leflunomid, Steroidstoße",
+      "source_file": "17_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Als bisherige Therapie dokumentiert: 22,5 mg seit 02/2025; Beginn 09/2019 mit niedriger Dosis."
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Z.n. mehreren Kortisonstoßen",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Kortison",
+      "description": "Mehrere frühere Kortisonstöße."
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Leflunomid 02/2021- 09/2021. Abruch wegen RR- Erhöhung, Unwohlgefühl",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "02/2021 bis 09/2021; Abbruch wegen RR-Erhöhung und Unwohlgefühl."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Daher Empfehlung zur Fortführung der Therapie mit Methotrexat und Adalimumab.",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "Fortführung empfohlen."
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Daher Empfehlung zur Fortführung der Therapie mit Methotrexat und Adalimumab.",
+      "source_file": "17_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Fortführung empfohlen."
+    },
+    {
+      "date": "2026-06-09",
+      "date_evidence": "die sich am 09.06.2026 ambulant vorstellte.",
+      "evidence": "Bei Beschwerdefreiheit probatorische Reduktion von MTX auf 20 mg s.c. 1× wöchentlich.",
+      "source_file": "17_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Bei Beschwerdefreiheit probatorische Reduktion auf 20 mg s.c. einmal wöchentlich geplant."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 17,
+    "disease": "RA",
+    "timepoint": "FU",
+    "source_files": [
+      "17_FollowUp.docx"
+    ]
+  }
+}

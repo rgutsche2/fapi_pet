@@ -1,0 +1,332 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "source_file": "1_FollowUp.docx"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Punktion Kniegelenk 25.11.2020",
+      "evidence": "Punktion Kniegelenk 25.11.2020 mit i.a. Applikation von Prednisolon und Entnahme von 50 ml seröser Flüssigkeit",
+      "source_file": "1_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein 5,4 mg/l",
+      "source_file": "1_FollowUp.docx",
+      "value": 5.4,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hoch sensitives CRP 3,27 mg/l",
+      "source_file": "1_FollowUp.docx",
+      "value": 3.27,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS: 3",
+      "source_file": "1_FollowUp.docx",
+      "value": 3,
+      "operator": "=",
+      "unit": null
+    }
+  ],
+  "joint_swelling": [],
+  "joint_tenderness": [],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "kein entzündlicher Rückenschmerz",
+      "source_file": "1_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Kein entzündlicher Rückenschmerz.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "keine Bewegungseinschränkung der ISG",
+      "source_file": "1_FollowUp.docx",
+      "description": "Keine Bewegungseinschränkung der ISG.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Der Patient ist vollständig beschwerdefrei.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Vollständig beschwerdefrei unter Secukinumab.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Keine peripheren Gelenkbeschwerden seit Beginn von Cosentyx; rückläufige ISG-Symptomatik.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Bis auf eine progrediente FAPI Anreicherung im linken Kniegelenk und zwei fokale FAP-Überexpressionen dorsal des rechten proximalen Femurs und zwischen den Köpfchen der Ossa metatarsalia 4 und 5 links zeigt sich eine deutliche Befundbesserung",
+      "source_file": "1_FollowUp.docx",
+      "description": "Deutliche Befundbesserung im FAPI-PET/CT; progrediente Anreicherung im linken Kniegelenk und fokale FAP-Überexpressionen dorsal des rechten proximalen Femurs sowie zwischen den Metatarsalköpfchen 4 und 5 links.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "axiale Spondylarthritis (Erstmanifestation 06/2020, Erstdiagnose 11/2020)",
+      "source_file": "1_FollowUp.docx",
+      "description": "Axiale Spondylarthritis; Erstmanifestation 06/2020, Erstdiagnose 11/2020.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HLA B 27 positiv, IL 23 Rezeptor Polymorphismus",
+      "source_file": "1_FollowUp.docx",
+      "description": "HLA B 27 positiv; IL 23 Rezeptor Polymorphismus.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Zustand nach Sakroiliitis rechtsseitig und Kniegelenksarthritis linksseitig.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Zustand nach Sakroiliitis rechts und Kniegelenksarthritis links.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Sprunggelenkarthritis links",
+      "source_file": "1_FollowUp.docx",
+      "description": "Zustand nach Sprunggelenkarthritis links.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Punktion Kniegelenk 25.11.2020",
+      "evidence": "Punktion Kniegelenk 25.11.2020 mit i.a. Applikation von Prednisolon und Entnahme von 50 ml seröser Flüssigkeit",
+      "source_file": "1_FollowUp.docx",
+      "description": "Kniegelenkpunktion mit Entnahme von 50 ml seröser Flüssigkeit.",
+      "context": "history"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "keine peripheren Arthritiden",
+      "source_file": "1_FollowUp.docx",
+      "description": "Keine peripheren Arthritiden im körperlichen Untersuchungsbefund.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantiferon-Test neg., Hep.Serologie unauffällig.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Quantiferon-Test negativ; Hepatitis-Serologie unauffällig.",
+      "context": "history"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Die vormals aufgefallene Nuklid Anreicherung zwischen den Processi spinosi von HWK 2/3 ist aktuell nicht ersichtlich.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Frühere Nuklidanreicherung zwischen den Dornfortsätzen HWK 2/3 aktuell nicht ersichtlich.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Die paravertebrale zervikale Muskulatur weist eine flaue flächenhafte Radiopharmakon Mehrbelegung auf, a.e. unspezifisch.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Flaue flächenhafte Mehrbelegung der paravertebralen zervikalen Muskulatur, am ehesten unspezifisch.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Konstanter Nuklid Uptake lateral der Crista iliaca rechts (SUVmax 4,1 versus 4,0 in der Voraufnahme, Serie 6, Ima 113).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Konstanter Uptake lateral der Crista iliaca rechts; SUVmax 4,1 gegenüber 4,0 in der Voraufnahme.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Deutlich rückläufiger Radiopharmakon Uptake in Projektion auf das rechte ISG mit nur noch flauer residualer Anreicherung (SUVmax 2,1 versus 5,2 in der Voraufnahme).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Deutlich rückläufiger Uptake am rechten ISG mit flauer residualer Anreicherung; SUVmax 2,1 gegenüber 5,2.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Komplett regrediente Nuklid Speicherung ventral der Spina iliaca anterior superior rechts.",
+      "source_file": "1_FollowUp.docx",
+      "description": "Komplett regrediente Nuklidspeicherung ventral der Spina iliaca anterior superior rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Rückläufige Radiopharmakon Mehrbelegung auch lateral des Trochanter major rechts (SUVmax 3,0 versus 5,7 in der Voraufnahme).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Rückläufige Mehrbelegung lateral des Trochanter major rechts; SUVmax 3,0 gegenüber 5,7.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Unverändert kräftige fokale Nuklid Anreicherung dorsal des rechten proximalen Femurs (SUVmax 4,3).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Unverändert kräftige fokale Anreicherung dorsal des rechten proximalen Femurs; SUVmax 4,3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Zunehmende Radiopharmakon Mehrbelegung um das linke Kniegelenk (SUVmax 3,7 versus 3,0 in der Voraufnahme).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Zunehmende Mehrbelegung um das linke Kniegelenk; SUVmax 3,7 gegenüber 3,0.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Deutliche rückläufige Nuklid Speicherung im oberen und unteren Sprunggelenk links (SUVmax 1,9 versus 4,6 in der Voraufnahme).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Deutlich rückläufige Nuklidspeicherung im oberen und unteren Sprunggelenk links; SUVmax 1,9 gegenüber 4,6.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2021:",
+      "evidence": "Solitärer Tracer Nuklid Uptake zwischen den Köpfchen der Ossa metatarsalia 4 und 5 links (SUVmax 2,0).",
+      "source_file": "1_FollowUp.docx",
+      "description": "Solitärer Uptake zwischen den Metatarsalköpfchen 4 und 5 links; SUVmax 2,0.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Cosentyx 150 mg 1 x Monat",
+      "source_file": "1_FollowUp.docx",
+      "drug": "Cosentyx",
+      "description": "Dauermedikation: Cosentyx 150 mg einmal monatlich; Therapiebeginn mit Secukinumab 12/2020."
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Das neue Medikament wird gut vertragen und regelmäßig eingenommen.",
+      "source_file": "1_FollowUp.docx",
+      "drug": "Cosentyx",
+      "description": "Gut vertragen und regelmäßig eingenommen."
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "NSAR müssen nicht eingenommen werden.",
+      "source_file": "1_FollowUp.docx",
+      "drug": null,
+      "description": "Keine NSAR-Einnahme erforderlich."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Punktion Kniegelenk 25.11.2020",
+      "evidence": "Punktion Kniegelenk 25.11.2020 mit i.a. Applikation von Prednisolon und Entnahme von 50 ml seröser Flüssigkeit",
+      "source_file": "1_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Intraartikuläre Applikation von Prednisolon bei Kniegelenkpunktion am 25.11.2020."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Cosentyx 150 mg 1 x alle 4 Wochen",
+      "source_file": "1_FollowUp.docx",
+      "drug": "Cosentyx",
+      "description": "Fortsetzung der Basistherapie mit Cosentyx 150 mg einmal alle 4 Wochen empfohlen."
+    },
+    {
+      "date": "2021-06-14",
+      "date_evidence": "der sich am 14.06.2021 ambulant vorstellte.",
+      "evidence": "Arcoxia 90 mg 1-0-0 b. B.",
+      "source_file": "1_FollowUp.docx",
+      "drug": "Arcoxia",
+      "description": "Arcoxia 90 mg, Einnahmeschema 1-0-0 bei Bedarf empfohlen."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 1,
+    "disease": "SpA",
+    "timepoint": "FU",
+    "source_files": [
+      "1_FollowUp.docx"
+    ]
+  }
+}

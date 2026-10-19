@@ -1,0 +1,423 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "die sich am 25.02.2025 ambulant vorstellte.",
+      "source_file": "19_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "C-reaktives Protein 12,4 mg/l",
+      "source_file": "19_FollowUp.docx",
+      "value": 12.4,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "SJ MCP II bds., IV-V rechts",
+      "source_file": "19_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "MCP II beidseits",
+        "MCP IV-V rechts"
+      ],
+      "description": "Dokumentierte Gelenkschwellungen.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "TJ MCP II-V bds., PIP II-V bds., Ellenbogen rechts",
+      "source_file": "19_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "MCP II-V beidseits",
+        "PIP II-V beidseits",
+        "Ellenbogen rechts"
+      ],
+      "description": "Dokumentierte druckschmerzhafte Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Morgensteifigkeit von circa 20 min.",
+      "source_file": "19_FollowUp.docx",
+      "value": 20,
+      "operator": "approx",
+      "unit": "min",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Klinisch zum Vorstellungszeitpunkt residuelle Arthritis.",
+      "source_file": "19_FollowUp.docx",
+      "description": "Residuelle Arthritis zum Vorstellungszeitpunkt.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "CRP 12,4 mg/l am ehesten auf dem Boden einer Infektion des oberen respiratorischen Trakts.",
+      "source_file": "19_FollowUp.docx",
+      "description": "CRP-Erhöhung am ehesten im Zusammenhang mit einem Infekt des oberen respiratorischen Trakts.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumatoide Arthritis (RA), ED 1987, seropositiv",
+      "source_file": "19_FollowUp.docx",
+      "description": "Seropositive rheumatoide Arthritis, Erstdiagnose 1987.",
+      "context": "history"
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "zunehmende Polyarthralgien vor allem MCP und PIP beidseits",
+      "source_file": "19_FollowUp.docx",
+      "description": "Zunehmende Polyarthralgien insbesondere an MCP und PIP beidseits.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Infekt des oberen respiratorischen Trakts letzte Woche",
+      "source_file": "19_FollowUp.docx",
+      "description": "Infekt des oberen respiratorischen Trakts in der Vorwoche.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sekundäres Fibromyalgiesyndrom",
+      "source_file": "19_FollowUp.docx",
+      "description": "Sekundäres Fibromyalgiesyndrom.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Synovektomie linker Ellenbogen 05/2005",
+      "source_file": "19_FollowUp.docx",
+      "description": "Synovektomie am linken Ellenbogen im Mai 2005.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Ankylose-OP linkes Sprunggelenk 2001",
+      "source_file": "19_FollowUp.docx",
+      "description": "Ankyloseoperation am linken Sprunggelenk 2001.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Vorfuß-OP und Schrauben-Arthrodese Talonavikulargelenk 03/2008 rechts",
+      "source_file": "19_FollowUp.docx",
+      "description": "Vorfußoperation und Schraubenarthrodese des rechten Talonavikulargelenks im März 2008.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "postarthritische Gonarthrose links",
+      "source_file": "19_FollowUp.docx",
+      "description": "Postarthritische Gonarthrose links.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Resektionsarthroplastik MTP I-V links 07/2014",
+      "source_file": "19_FollowUp.docx",
+      "description": "Resektionsarthroplastik MTP I-V links im Juli 2014.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Bursektomie Knie beidseits",
+      "source_file": "19_FollowUp.docx",
+      "description": "Bursektomie an beiden Knien.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. links Knie-TEP 2017",
+      "source_file": "19_FollowUp.docx",
+      "description": "Linke Knie-TEP 2017.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ileitis terminalis, Gastritis DD NSAR induziert",
+      "source_file": "19_FollowUp.docx",
+      "description": "Ileitis terminalis und Gastritis, differenzialdiagnostisch NSAR-induziert.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Vitamin-D-Mangel",
+      "source_file": "19_FollowUp.docx",
+      "description": "Vitamin-D-Mangel.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Verschlechterung des Befundes mit Atlanto-axialer Beteiligung",
+      "source_file": "19_FollowUp.docx",
+      "description": "Historische Befundverschlechterung mit atlantoaxialer Beteiligung unter Rituximab.",
+      "context": "history"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Aktuelle Therapie: Baricitinib 2 mg 1-0-0",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Baricitinib",
+      "description": "Aktuelle Therapie mit Baricitinib 2 mg 1-0-0; kurzfristig bei Infekt pausiert."
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Olumiant 2 mg 1-0-0",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Olumiant",
+      "description": "Als Dauermedikation dokumentiert: 2 mg 1-0-0."
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Novaminsulfon 40 gtts bei Bedarf",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Novaminsulfon",
+      "description": "40 gtts bei Bedarf."
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Ibuprofen 600mg nach Bedarf",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "600 mg nach Bedarf."
+    },
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Vigantoletten 1.000 IE 1-0-0",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Vigantoletten",
+      "description": "1.000 IE 1-0-0."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Simponi (Golimumab) 11/2014 - 02/2015 (Abbruch wegen Schmerzen)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Simponi (Golimumab)",
+      "description": "11/2014 bis 02/2015; Abbruch wegen Schmerzen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MTX seit 07/2012 (Übelkeit)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Unter bisheriger Therapie aufgeführt: seit 07/2012; Übelkeit."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Humira 2006 (keine Wirkung)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Humira",
+      "description": "2006; keine Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Chloroquin (keine Wirkung)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Chloroquin",
+      "description": "Keine Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sulfasalazin (Exanthem)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Sulfasalazin",
+      "description": "Exanthem."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Infliximab 300 mg begonnen 2004, Wiederbeginn 12/2012 und 03/2015, Wirkungsverlust",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Infliximab",
+      "description": "300 mg; Beginn 2004, Wiederbeginn 12/2012 und 03/2015; Wirkungsverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Tocilizumab ab 05/2016: Wirkungsverlust",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Tocilizumab",
+      "description": "Ab 05/2016; Wirkungsverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rituximab 03/2017 (2x 1000mg) keine Wirkung, Verschlechterung des Befundes mit Atlanto-axialer Beteiligung",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Rituximab",
+      "description": "03/2017, zweimal 1000 mg; keine Wirkung, Befundverschlechterung mit atlantoaxialer Beteiligung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Tofacitinib für 4 Wochen 03-04/2019",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Tofacitinib",
+      "description": "Für vier Wochen 03–04/2019."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Baricitinib 06/2017-04/2019",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Baricitinib",
+      "description": "06/2017 bis 04/2019."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Etanercept (ca. 05-08/2019)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Etanercept",
+      "description": "Circa 05–08/2019."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Abatacept (Unwirksamkeit)",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "Unwirksamkeit."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Upadacitinib (ca. 09/2020-05/2021), abgesetzt bei fehlendem Therapieansprechen",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Circa 09/2020 bis 05/2021; abgesetzt bei fehlendem Therapieansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Infliximab (Remsima) 06/2021: Unverträglichkeit",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Infliximab (Remsima)",
+      "description": "06/2021; Unverträglichkeit."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rituximab, zuletzt 05/2023",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Rituximab",
+      "description": "Zuletzt 05/2023."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Die Fortsetzung der Baricitinib Therapie wurde besprochen.",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Baricitinib",
+      "description": "Fortsetzung der Baricitinib-Therapie besprochen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2025-02-25",
+      "date_evidence": "am 25.02.2025 ambulant vorstellte",
+      "evidence": "Anamnestisch kurzfristige Pausierung der Baricitinib Therapie bei Infektion des oberen respiratorischen Trakts.",
+      "source_file": "19_FollowUp.docx",
+      "drug": "Baricitinib",
+      "description": "Kurzfristige Pausierung bei Infektion des oberen respiratorischen Trakts."
+    }
+  ],
+  "metadata": {
+    "patient_id": 19,
+    "disease": "RA",
+    "timepoint": "FU",
+    "source_files": [
+      "19_FollowUp.docx"
+    ]
+  }
+}

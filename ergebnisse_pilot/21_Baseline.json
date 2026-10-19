@@ -1,0 +1,591 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-07-12",
+      "date_evidence": "der sich am 12.07.2023  und am 23.08.2023 ambulant vorstellte.",
+      "evidence": "am 12.07.2023",
+      "source_file": "21_Baseline.docx"
+    },
+    {
+      "date": "2023-08-23",
+      "date_evidence": "der sich am 12.07.2023  und am 23.08.2023 ambulant vorstellte.",
+      "evidence": "am 23.08.2023 ambulant vorstellte.",
+      "source_file": "21_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "21_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS: 1",
+      "source_file": "21_Baseline.docx",
+      "value": 1,
+      "operator": "=",
+      "unit": null
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit 01/2023 Schmerzen und Schwellungen an den Handgelenken bds.",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk rechts",
+        "Handgelenk links"
+      ],
+      "description": "Seit 01/2023 berichtete Schwellungen beider Handgelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "DS ohne Schwellung der HG bds.",
+      "source_file": "21_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Handgelenk rechts",
+        "Handgelenk links"
+      ],
+      "description": "Keine Schwellung beider Handgelenke im Untersuchungsbefund.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "DS ohne Schwellung der HG bds. DS Schultern bds.",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk rechts",
+        "Handgelenk links",
+        "Schulter rechts",
+        "Schulter links"
+      ],
+      "description": "Druckschmerz beider Handgelenke und Schultern.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": "2023-07-12",
+      "date_evidence": "Arthrosonographie vom 12.07.2023:",
+      "evidence": "HG re. HS 2 PDUS 1, minimale Gelenkerguss",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk rechts"
+      ],
+      "description": "Sonographisch HS 2, PDUS 1 und minimaler Gelenkerguss.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-12",
+      "date_evidence": "Arthrosonographie vom 12.07.2023:",
+      "evidence": "HG li. HS 2 PDUS 2, minimal Tenosynovitis 4° Fach",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk links",
+        "4. Sehnenfach links"
+      ],
+      "description": "Sonographisch HS 2, PDUS 2 und minimale Tenosynovitis im 4. Fach.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-12",
+      "date_evidence": "Arthrosonographie vom 12.07.2023:",
+      "evidence": "Arthritis HG bds.",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk rechts",
+        "Handgelenk links"
+      ],
+      "description": "Sonographische Beurteilung: Arthritis beider Handgelenke.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sonographisch besteht aktuell bei beiden Handgelenken eine synovitische Veränderung unter Prednisolon-Therapie.",
+      "source_file": "21_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk rechts",
+        "Handgelenk links"
+      ],
+      "description": "Synovitische Veränderungen unter Prednisolon.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Morgensteifigkeit ca. 2-3h.",
+      "source_file": "21_Baseline.docx",
+      "value": null,
+      "operator": "approx",
+      "unit": "h",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Haut: Induration Haut Knie bds, hier wurde keine PsO bestätigt",
+      "source_file": "21_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Haut am Knie rechts",
+        "Haut am Knie links"
+      ],
+      "description": "Hautinduration beider Knie; Psoriasis dort nicht bestätigt.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "seronegative rheumatoide Arthritis (RA), DD periphere Spondyloarthritis (EM 01/2023, ED 08/2023)",
+      "source_file": "21_Baseline.docx",
+      "description": "Seronegative rheumatoide Arthritis; Differentialdiagnose periphere Spondyloarthritis. Erstmanifestation 01/2023, Erstdiagnose 08/2023.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In Zusammenschau der Befunde sprechen die Befunde für eine seronegative RA, DD periphere Spondyloarthritis.",
+      "source_file": "21_Baseline.docx",
+      "description": "Gesamtbeurteilung spricht für seronegative RA, differentialdiagnostisch periphere Spondyloarthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Laborchemisch zeigte sich die Immunserologie negativ und keine Erhöhung der systemischen Entzündungsparameter.",
+      "source_file": "21_Baseline.docx",
+      "description": "Negative Immunserologie und keine erhöhten systemischen Entzündungsparameter unter zuvor begonnener Prednisolon-Therapie.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "erhöhte CRP-Werte",
+      "source_file": "21_Baseline.docx",
+      "description": "Erhöhte CRP-Werte ohne konkrete Messwerte oder Datumszuordnung.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit 01/2023 Schmerzen und Schwellungen an den Handgelenken bds.",
+      "source_file": "21_Baseline.docx",
+      "description": "Schmerzen beider Handgelenke seit 01/2023.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Dazu Schmerzen an beiden Schultern, Linderung der Symptomatik unter NSAR.",
+      "source_file": "21_Baseline.docx",
+      "description": "Schmerzen beider Schultern; Linderung unter NSAR.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Der Pat. berichtet allerdings über eine deutliche Verbesserung der Beschwerden unter Prednisolon.",
+      "source_file": "21_Baseline.docx",
+      "description": "Deutliche Beschwerdebesserung unter Prednisolon.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Der Pat. verneint allerdings eine Uveitis sowie Hautausschlag, Fieber, Aphthen, Raynaud-Phänomen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Uveitis, Hautausschlag, Fieber, Aphthen und Raynaud-Phänomen verneint.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Familienanamnese: Leer für rheumatische Erkrankungen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Keine rheumatischen Erkrankungen in der Familienanamnese.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Klopfschmerzen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Keine Klopfschmerzen im Untersuchungsbefund; Lokalisation nicht angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Arthrose Knie links",
+      "source_file": "21_Baseline.docx",
+      "description": "Arthrose des linken Knies.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-HWS v. 05/2023: moderate neuroforaminale Enge rechts.",
+      "source_file": "21_Baseline.docx",
+      "description": "MRT der HWS 05/2023: moderate neuroforaminale Enge rechts; kein vollständiges Untersuchungsdatum dokumentiert.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-Schulter v. 07/2023: Insertionstendopathie, AC-Gelenksarthrose.",
+      "source_file": "21_Baseline.docx",
+      "description": "Schulter-MRT 07/2023: Insertionstendopathie und AC-Gelenksarthrose.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-HG re. 08/23: Arthritis",
+      "source_file": "21_Baseline.docx",
+      "description": "MRT des rechten Handgelenks 08/2023: Arthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Röntgen Handgelenk: keine degenerativen Veränderungen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Keine degenerativen Veränderungen im Handgelenkröntgen.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die externen Bildgebungen (MRT-HWS und Schulter) wurden in der Konferenz demonstriert. Hier zeigten sich keine entzündliche Veränderungen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Keine entzündlichen Veränderungen in den externen MRT-Aufnahmen von HWS und Schulter.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "Flaue bis mäßige FAPI-Positivität am AC-Gelenk links > rechts, am Schultergelenk links. am SC-Gelenk bds., am ISG rechts, am Hüftgelenk links und am Kniegelenk links.",
+      "source_file": "21_Baseline.docx",
+      "description": "FAPI-Positivität an den dokumentierten Schulter-, SC-, ISG-, Hüft- und Kniegelenken.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "FAPI-Positivität in mehreren Fußgelenken, z.B. Metatarsophalangealgelenk V rechts. FAPI-Positivität am Phalanges distales I links und am Phalanx proximalis II rechts.",
+      "source_file": "21_Baseline.docx",
+      "description": "FAPI-Positivität mehrerer Fußgelenke sowie der genannten Phalangen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "Unspezifischer, intraossärer Uptake des Fibulaschafts links (Serie 16/Bild 247). Am ehesten degenerativer Uptake am Fibulaköpfchen links.",
+      "source_file": "21_Baseline.docx",
+      "description": "Unspezifischer Uptake des linken Fibulaschafts; wahrscheinlich degenerativer Uptake am linken Fibulaköpfchen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "FAPI-Uptake peritrochantär rechts und am Tuber ischiadicum rechts, z.B. Sehnenansatztendinose.",
+      "source_file": "21_Baseline.docx",
+      "description": "Rechts peritrochantärer und ischiadischer Uptake, als mögliche Sehnenansatztendinose beschrieben.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "Eingeschränkte Beurteilung der Hände bei Bewegungsartefakten: Kräftige FAPI-Positivität in den Radiocarpal- und Mediocarpalgelenken bds.",
+      "source_file": "21_Baseline.docx",
+      "description": "Bewegungsbedingt eingeschränkte Beurteilung der Hände; kräftige FAPI-Positivität beider Radio- und Mediocarpalgelenke.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "FAPI-Foci um mehrere Intermetacarpalgelenke, Metacarpophalangeal und Interphalangealgelenke bds., exemplarisch Daumensattelgelenk links (SUVmax 6,7, Serie 19/Bild 164). Degenerative Veränderungen im CT.",
+      "source_file": "21_Baseline.docx",
+      "description": "FAPI-Foci an mehreren Gelenken beider Hände, exemplarisch linkes Daumensattelgelenk mit SUVmax 6,7; degenerative CT-Veränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-08-11",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 11.08.2023",
+      "evidence": "Beurteilung: Deutliche Fibroblastenaktivität in zahlreichen großen und kleinen Gelenken mit Punktum maximum in beiden Händen bei bekannter Polyarthritis.",
+      "source_file": "21_Baseline.docx",
+      "description": "Deutliche Fibroblastenaktivität zahlreicher Gelenke mit Maximum in beiden Händen bei bekannter Polyarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Synovia-Biopsie 08/23: Krenn-Score 9, B-Zellen 488/mm2",
+      "source_file": "21_Baseline.docx",
+      "description": "Synoviabiopsie 08/2023: dokumentierter Krenn-Score 9 und B-Zellen 488/mm2.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Synovial-PE mit massiv verbreiterter Deckzellschicht, stark erhöhter interstitieller Zelldichte und schwerer chronisch-lymphoplasmazellulärer und gering aktiver Entzündung mit Ausbildung tertiärer lymphoider Strukturen.",
+      "source_file": "21_Baseline.docx",
+      "description": "Histologisch schwere chronisch-lymphoplasmazelluläre, gering aktive Entzündung mit tertiären lymphoiden Strukturen; Untersuchungsdatum nicht eindeutig dokumentiert.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Der Befund ist kompatibel mit einer rheumatoiden Arthritis. Kein Anhalt für Malignität.",
+      "source_file": "21_Baseline.docx",
+      "description": "Histologischer Befund mit RA vereinbar; kein Malignitätsnachweis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Summenscore: 9 Graduierung nach Krenn et al: High grade Synovialitis (5-9) Fibrosegrad: Grad 3: Subtotale bis totale interstitielle Fibrose Stromafibrose semiquantitativ in %: 80%",
+      "source_file": "21_Baseline.docx",
+      "description": "Histologisch High grade Synovialitis, dokumentierter Krenn-Summenscore 9, Fibrosegrad 3 und Stromafibrose 80%.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantifizierung des B-Zell-Infiltrates (CD20): Bis zu 488 mm2.",
+      "source_file": "21_Baseline.docx",
+      "description": "B-Zell-Infiltrat im Nachbefund: Originalangabe „Bis zu 488 mm2.“",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumafaktor IgG <5,86 IE/ml",
+      "source_file": "21_Baseline.docx",
+      "description": "Rheumafaktor IgG <5,86 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "CCP zykl. zitrul. Peptide 0,89 RE/ml",
+      "source_file": "21_Baseline.docx",
+      "description": "CCP 0,89 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Anti-MCV 5,4 U/ml, ANA auf Hep2 negativ",
+      "source_file": "21_Baseline.docx",
+      "description": "Anti-MCV 5,4 U/ml; ANA auf Hep2 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ak gegen DFS70 +++ (o)",
+      "source_file": "21_Baseline.docx",
+      "description": "DFS70-Antikörper +++.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Interleukin 6 7,0 pg/ml",
+      "source_file": "21_Baseline.docx",
+      "description": "Interleukin 6: 7,0 pg/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "TNF alpha <4,0 pg/ml",
+      "source_file": "21_Baseline.docx",
+      "description": "TNF alpha <4,0 pg/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Wir besprachen weiterhin die Möglichkeit eine MRT-Handgelenk rechts durchzuführen. Eine Anforderung wurde ins System eingegeben.",
+      "source_file": "21_Baseline.docx",
+      "description": "MRT des rechten Handgelenks besprochen und angefordert.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine WV ist bei uns in ca. 3 Monaten geplant.",
+      "source_file": "21_Baseline.docx",
+      "description": "Wiedervorstellung in etwa drei Monaten geplant.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuell seit ca. einer Woche Prednisolon 10mg tgl.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Aktuell 10 mg täglich seit etwa einer Woche; in der Medikamentenliste 10 mg 1-0-0."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Diclofenac 75 1-0-1 b.B.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Diclofenac",
+      "description": "Diclofenac 75, 1-0-1 bei Bedarf; Dosiseinheit nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Atorvastatin 20mg 1x tgl.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Atorvastatin",
+      "description": "20 mg einmal täglich."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Prednisolon-Therapie max. 10mg tgl.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Frühere Prednisolon-Therapie mit maximal 10 mg täglich."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Es erfolgte 2-mal ein Therapiestoß.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Zwei Therapiestöße; Dosis und Zeitpunkte nicht angegeben."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Empfehlung: Beginn einer Therapie mit Methotrexat 15mg 1-mal wöchentlich und Folsäure 5mg 24h nach MTX",
+      "source_file": "21_Baseline.docx",
+      "drug": "Methotrexat",
+      "description": "Empfohlener Therapiebeginn mit 15 mg einmal wöchentlich; laut Therapieempfehlung p.o."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "- Folsäure 5mg 24h nach MTX",
+      "source_file": "21_Baseline.docx",
+      "drug": "Folsäure",
+      "description": "5 mg jeweils 24 Stunden nach MTX."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "- langsames Ausschleichen der Prednisolon-Therapie mit schrittweiser Reduktion um 2,5mg wöchentlich",
+      "source_file": "21_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Langsames Ausschleichen mit Reduktion um 2,5 mg pro Woche empfohlen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "während einer Therapie mit Prednisolon empfehlen wir einen Magenschutz mit Pantorapzol 20mg 1-mal tgl.",
+      "source_file": "21_Baseline.docx",
+      "drug": "Pantorapzol",
+      "description": "Während Prednisolon-Therapie als Magenschutz 20 mg einmal täglich empfohlen; Medikamentenname wie dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "und eine Vitamin D Substitution",
+      "source_file": "21_Baseline.docx",
+      "drug": "Vitamin D",
+      "description": "Vitamin-D-Substitution während Prednisolon-Therapie empfohlen; keine Dosis angegeben."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "- restliche Therapie unverändert",
+      "source_file": "21_Baseline.docx",
+      "drug": null,
+      "description": "Restliche Therapie ausdrücklich unverändert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 21,
+    "disease": "RA",
+    "timepoint": "BA",
+    "source_files": [
+      "21_Baseline.docx"
+    ]
+  }
+}

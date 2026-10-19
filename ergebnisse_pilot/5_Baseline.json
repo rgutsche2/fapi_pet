@@ -1,0 +1,369 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "source_file": "5_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "BASDAI 5,5",
+      "source_file": "5_Baseline.docx",
+      "value": 5.5,
+      "variant": null
+    }
+  ],
+  "BASFI": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "BASFI 2,2",
+      "source_file": "5_Baseline.docx",
+      "value": 2.2,
+      "variant": null
+    }
+  ],
+  "BASMI": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "BASMI 0",
+      "source_file": "5_Baseline.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "BAS_G": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "BAS-G 6,5",
+      "source_file": "5_Baseline.docx",
+      "value": 6.5,
+      "variant": null
+    }
+  ],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "HAQ 0,875",
+      "source_file": "5_Baseline.docx",
+      "value": 0.875,
+      "variant": null
+    }
+  ],
+  "PASI": [],
+  "VAS_physician": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "VAS Arzt 2",
+      "source_file": "5_Baseline.docx",
+      "value": 2,
+      "scope": null,
+      "unit": null
+    }
+  ],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "C-reaktives Protein 5,3 mg/l",
+      "source_file": "5_Baseline.docx",
+      "value": 5.3,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "BKS: 12/29 mm/h",
+      "source_file": "5_Baseline.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "joint_swelling": [],
+  "joint_tenderness": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Druckschmerz links thorakal an drei Druckpunkten über den Rippenbögen Höhe BWS und re ISG",
+      "source_file": "5_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "links thorakal über den Rippenbögen auf Höhe der BWS",
+        "rechtes ISG"
+      ],
+      "description": "Druckschmerz an drei thorakalen Druckpunkten links und am rechten ISG.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": "MRT mit Kontrastmittel vom BWS/LWS (05/2017)",
+      "evidence": "Enthesitis der Lig. interspinalia und des Lig. supraspinale auf Höhe von BWK 8-10",
+      "source_file": "5_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Lig. interspinalia auf Höhe BWK 8-10",
+        "Lig. supraspinale auf Höhe BWK 8-10"
+      ],
+      "description": "Im MRT dokumentierte Enthesitis.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "tlw. auch unter tiefsitzenden Rückenschmerzen mit nächtlichem Erwachen",
+      "source_file": "5_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "tiefer Rücken"
+      ],
+      "description": "Tiefsitzende Rückenschmerzen mit nächtlichem Erwachen; nicht ausdrücklich als entzündlicher Rückenschmerz bezeichnet.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Ihm ginge es schlechter als bei letzter Vorstellung.",
+      "source_file": "5_Baseline.docx",
+      "description": "Subjektive Verschlechterung gegenüber der letzten Vorstellung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Bei dieser Vorstellung ergab sich Anhalt für leicht erhöhte, entzündl. Aktivität.",
+      "source_file": "5_Baseline.docx",
+      "description": "Anhalt für leicht erhöhte entzündliche Aktivität.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Laborchemisch minimale Erhöhung des Entzündungswertes (CRP).",
+      "source_file": "5_Baseline.docx",
+      "description": "Minimale CRP-Erhöhung.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylarthropathie, EM 2008, ED 2013",
+      "source_file": "5_Baseline.docx",
+      "description": "Spondylarthropathie mit Erstmanifestation 2008 und Erstdiagnose 2013.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT mit Kontrastmittel vom BWS/LWS (05/2017)",
+      "evidence": "winzige Romanus-Läsionen in LWK 2 und 5",
+      "source_file": "5_Baseline.docx",
+      "description": "Winzige Romanus-Läsionen in LWK 2 und 5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Er leide unter Verspannungen und Schmerzen im Brustkorb",
+      "source_file": "5_Baseline.docx",
+      "description": "Verspannungen und Schmerzen im Brustkorb.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Ausgeprägte Abgeschlagenheit.",
+      "source_file": "5_Baseline.docx",
+      "description": "Ausgeprägte Abgeschlagenheit.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FA: Großvater hatte Bechterew",
+      "source_file": "5_Baseline.docx",
+      "description": "Familienanamnese: Großvater mit Bechterew.",
+      "context": "history"
+    },
+    {
+      "date": "2020-08-10",
+      "date_evidence": "Untersuchung: FAPI PET/CT mit CT low dose vom 10.08.2020/14:09 Uhr",
+      "evidence": "Gesteigerte FAPI-Anreicherung in der Intercostalmuskulatur bds..",
+      "source_file": "5_Baseline.docx",
+      "description": "Gesteigerte FAPI-Anreicherung in der Intercostalmuskulatur beidseits.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-10",
+      "date_evidence": "Untersuchung: FAPI PET/CT mit CT low dose vom 10.08.2020/14:09 Uhr",
+      "evidence": "Flaue bis mäßige FAPI Mehrbelegung im Costovertebralgelenk der 3., 10. und 11. Rippe links und im kaudalen Anteil des rechten ISG, passend zu einer Spondylarthropathie (M. Bechterew).",
+      "source_file": "5_Baseline.docx",
+      "description": "Flaue bis mäßige FAPI-Mehrbelegung in den linken Costovertebralgelenken der 3., 10. und 11. Rippe und im kaudalen rechten ISG, passend zu Spondylarthropathie.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-14",
+      "date_evidence": "eine am 14.08.2020 durchgeführte FAPI-PET/CT",
+      "evidence": "Radiographisch zeigte eine am 14.08.2020 durchgeführte FAPI-PET/CT flaue-mäßige mesenchymale Aktivität in mehreren Costovertebralgelenken und im rechten ISG.",
+      "source_file": "5_Baseline.docx",
+      "description": "Flaue bis mäßige mesenchymale Aktivität in mehreren Costovertebralgelenken und im rechten ISG; abweichende PET-Datumsangabe im Verlauf.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Zusätzliche wurde eine LWS-Sakrum-MRT bis WV vereinbart.",
+      "source_file": "5_Baseline.docx",
+      "description": "LWS-Sakrum-MRT bis zur Wiedervorstellung vereinbart.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Als aktuelle Therapie dokumentiert, Wiederbeginn 08/2020."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "aktuell ohne Basistherapie",
+      "source_file": "5_Baseline.docx",
+      "drug": null,
+      "description": "Aktuell ohne Basistherapie; widerspricht der dokumentierten aktuellen Certolizumab-Therapie."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Ibuprofen 600 mg 3x tägl.",
+      "source_file": "5_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Dauermedikation mit 600 mg dreimal täglich."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Pantoprazol 40 mg 1-0-0",
+      "source_file": "5_Baseline.docx",
+      "drug": "Pantoprazol",
+      "description": "Begleitende Dauermedikation mit 40 mg im Schema 1-0-0."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Bisherige Therapie mit Arcoxia; Dosis und Zeitraum nicht angegeben."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Ibuprofen auch als bisherige Therapie dokumentiert."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Certolizumab 200 mg von 05/2017 bis 02/2019 und 07/2019 bis 03/2020",
+      "source_file": "5_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "200 mg von 05/2017 bis 02/2019 und von 07/2019 bis 03/2020."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Cimzia 400mg s.c. alle 2 Wochen (letzte Spritze am 19.03.)",
+      "source_file": "5_Baseline.docx",
+      "drug": "Cimzia",
+      "description": "Vorherige Therapie mit 400 mg subkutan alle 2 Wochen; letzte Spritze am 19.03., ohne ausdrücklich angegebenes Jahr."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Wir vereinbarten mit Herrn Schade den zeitnahen Wiederbeginn einer Therapie mit Certolizumab nach erfolgter, radiolog. Statuserhebung mittles FAPI-PET/CT.",
+      "source_file": "5_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Zeitnaher Wiederbeginn nach radiologischer Statuserhebung mittels FAPI-PET/CT vereinbart; Patientenaufklärung erfolgt und Rezept ausgestellt."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "Cimzia abgesetzt im März aus Angst vor Covid 19",
+      "source_file": "5_Baseline.docx",
+      "drug": "Cimzia",
+      "description": "Im März aus Angst vor Covid 19 abgesetzt."
+    },
+    {
+      "date": "2020-08-05",
+      "date_evidence": "der sich am 05.08.2020 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Wiederbeginn 08/2020 als aktuelle Therapie dokumentiert; zugleich wird im Verlauf ein geplanter Wiederbeginn beschrieben."
+    }
+  ],
+  "metadata": {
+    "patient_id": 5,
+    "disease": "SpA",
+    "timepoint": "BA",
+    "source_files": [
+      "5_Baseline.docx"
+    ]
+  }
+}

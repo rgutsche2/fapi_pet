@@ -1,0 +1,335 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "die sich am 26.03.2025 ambulant vorstellte.",
+      "source_file": "32_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "32_FollowUp.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "BKS: 12 mm/h",
+      "source_file": "32_FollowUp.docx",
+      "value": 12,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen.",
+      "source_file": "32_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine weiteren geschwollenen Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen.",
+      "source_file": "32_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine weiteren druckschmerzhaften Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen.",
+      "source_file": "32_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine weiteren druckschmerzhaften oder geschwollenen Enthesen.",
+      "context": "clinical"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Verdacht auf entzündlicher Rückenschmerz bzw. Hüftschmerzen linksseitig.",
+      "source_file": "32_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Hüfte links"
+      ],
+      "description": "Verdacht auf entzündlichen Rückenschmerz beziehungsweise linksseitige Hüftschmerzen.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Plaquepsoriasis, ED 2001",
+      "source_file": "32_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Plaquepsoriasis, Erstdiagnose 2001.",
+      "context": "history"
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Einzelne Psoriasisläsionen parietal links.",
+      "source_file": "32_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "parietal links"
+      ],
+      "description": "Einzelne Psoriasisläsionen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n Certolizumab bis 10/23 (zunehmende Hautbefund)",
+      "source_file": "32_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Zunehmender Hautbefund unter früherer Certolizumab-Therapie.",
+      "context": "history"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Es besteht zumindest klinisch der Verdacht auf Krankheitsaktivität.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Klinischer Verdacht auf Krankheitsaktivität.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Seit 4 Wochen Schmerzen in den linken Hüfte/Gesäß. Kann nachts nicht auf dieser Seite schlafen, wacht dann aber immer wieder auf. Tagsüber ständig Schmerzen.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Seit vier Wochen Schmerzen in linker Hüfte beziehungsweise Gesäß, nachts beim Liegen auf dieser Seite und tagsüber ständig.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Sonst keine Gelenkprobleme.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Keine sonstigen Gelenkprobleme anamnestisch.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Hüftgelenks Rotation links schmerzhaft, kein Trochanterdruckschmerz.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Schmerzhafte Rotation des linken Hüftgelenks, kein Trochanterdruckschmerz.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Mennell unauffällig.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Mennell unauffällig.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Kein Hinweis auf eine Sakroiliitis. Keine relevante Coxarthrose bds.",
+      "source_file": "32_FollowUp.docx",
+      "description": "Röntgen: kein Hinweis auf Sakroiliitis, keine relevante beidseitige Coxarthrose.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Rheumafaktor IgG <6,18 IE/ml",
+      "source_file": "32_FollowUp.docx",
+      "description": "Rheumafaktor IgG <6,18 IE/ml.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "aktuelle Therapie: Beginn Bimekizumab",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Bimekizumab",
+      "description": "Als aktuelle Therapie dokumentiert: Beginn Bimekizumab."
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Bimekizumab 160mg alle 4 Wochen (seit 10/23)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Bimekizumab",
+      "description": "160 mg alle 4 Wochen seit 10/23."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Leflunomid (Leukopenie)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Therapie; Leukopenie."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab (EBV-Reaktivierung)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Therapie; EBV-Reaktivierung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Apremilast (unzur. Wirkung)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Apremilast",
+      "description": "Frühere Therapie; unzureichende Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Secukinumab 01/17-02/19",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Frühere Therapie von 01/17 bis 02/19."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Tofacitinib 03/19-11/19",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Tofacitinib",
+      "description": "Frühere Therapie von 03/19 bis 11/19."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ixekizumab (unzureichendes Ansprechen, Migräne)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Ixekizumab",
+      "description": "Frühere Therapie; unzureichendes Ansprechen und Migräne."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MTX bis 08/22-11/22 (abgesetzt bei Übelkeit)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Zeitangabe: bis 08/22-11/22; bei Übelkeit abgesetzt."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n Certolizumab bis 10/23 (zunehmende Hautbefund)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Certolizumab",
+      "description": "Frühere Therapie bis 10/23; zunehmender Hautbefund."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Leflunomid bis 10/2023 (keine Wirkung)",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Therapie bis 10/2023; keine Wirkung."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Daher wird mit der Patientin der probatorische Wechsel auf den alternativen TNF-Blocker Etanercept (Benepali) besprochen.",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Etanercept (Benepali)",
+      "description": "Probatorischer Wechsel auf Etanercept besprochen."
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Etanercept (Benepali) 50 mg 1x wöchentlich",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Etanercept (Benepali)",
+      "description": "Therapieempfehlung: 50 mg einmal wöchentlich."
+    },
+    {
+      "date": "2025-03-26",
+      "date_evidence": "am 26.03.2025 ambulant vorstellte",
+      "evidence": "Bimekizumab (Bimzelx) 160 mg beenden",
+      "source_file": "32_FollowUp.docx",
+      "drug": "Bimekizumab (Bimzelx)",
+      "description": "Empfohlenes Beenden von Bimekizumab 160 mg."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 32,
+    "disease": "PsA",
+    "timepoint": "FU",
+    "source_files": [
+      "32_FollowUp.docx"
+    ]
+  }
+}

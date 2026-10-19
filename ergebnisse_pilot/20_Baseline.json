@@ -1,0 +1,967 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-09-04",
+      "date_evidence": "vom 04.09.2023 bis 09.09.2023 in unserer stationären Behandlung",
+      "evidence": "vom 04.09.2023 bis 09.09.2023 in unserer stationären Behandlung",
+      "source_file": "20_Baseline.docx"
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Wir entlassen den Patienten am 09.09.2023",
+      "evidence": "Wir entlassen den Patienten am 09.09.2023",
+      "source_file": "20_Baseline.docx"
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "am 18.09.2023 um 09:00 Uhr",
+      "evidence": "Wiedervorstellung bei Medizin 3 - Station Schönlein am 18.09.2023 um 09:00 Uhr zur Zweitgabe von Blinatumomab.",
+      "source_file": "20_Baseline.docx"
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "vom 18.09.2023 bis 23.09.2023 in unserer stationären Behandlung",
+      "evidence": "vom 18.09.2023 bis 23.09.2023 in unserer stationären Behandlung",
+      "source_file": "20_Baseline_2.docx"
+    },
+    {
+      "date": "2023-09-23",
+      "date_evidence": "Am 23.09.2023",
+      "evidence": "Am 23.09.2023 konnten wir Herrn Sichart in gutem Allgemeinzustand in die ambulante Weiterbehandlung entlassen.",
+      "source_file": "20_Baseline_2.docx"
+    },
+    {
+      "date": "2023-10-18",
+      "date_evidence": "für den 18.10.2023 um 09:30",
+      "evidence": "eine ambulante Verlaufskontrolle für den 18.10.2023 um 09:30 in unserer Studienambulanz",
+      "source_file": "20_Baseline_2.docx"
+    },
+    {
+      "date": "2023-11-02",
+      "date_evidence": "für den 2.11.2023 um 14:30",
+      "evidence": "eine erneute Synovialbiopsie für den 2.11.2023 um 14:30, ebenfalls in der Studienambulanz",
+      "source_file": "20_Baseline_2.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 18.09.2023:",
+      "evidence": "DAS28-ESR: 3,71",
+      "source_file": "20_Baseline_2.docx",
+      "value": 3.71,
+      "variant": "DAS28-ESR"
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 04.09.2023:",
+      "evidence": "2 geschwollene Gelenke: kleine Zehen li > re",
+      "source_file": "20_Baseline.docx",
+      "value": 2,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 0,5 mg/l;  1,5 mg/l",
+      "source_file": "20_Baseline.docx",
+      "value": 0.5,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 0,5 mg/l;  1,5 mg/l",
+      "source_file": "20_Baseline.docx",
+      "value": 1.5,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 4,8 mg/l;  4,5 mg/l",
+      "source_file": "20_Baseline_2.docx",
+      "value": 4.8,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 4,8 mg/l;  4,5 mg/l",
+      "source_file": "20_Baseline_2.docx",
+      "value": 4.5,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Gelegentlich habe er zudem 1-2 Wochen anhaltende Schwellungen in den Knien und Sprunggelenken.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie",
+        "Sprunggelenke"
+      ],
+      "description": "Frühere gelegentliche Schwellungsepisoden über 1-2 Wochen.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Gelenkschmerzen mit gelegentlicher Schwellung Knie bds., Fußgelenke bds., kleine Zehen bds.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie beidseits",
+        "Fußgelenke beidseits",
+        "kleine Zehen beidseits"
+      ],
+      "description": "Anamnestisch gelegentliche Schwellungen.",
+      "context": "history"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 04.09.2023:",
+      "evidence": "2 geschwollene Gelenke: kleine Zehen li > re",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "kleine Zehen links",
+        "kleine Zehen rechts"
+      ],
+      "description": "Zwei geschwollene Gelenke, links stärker als rechts.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke, vor allem an den Händen.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Hände"
+      ],
+      "description": "Multiple geschwollene Gelenke, vor allem an den Händen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 18.09.2023:",
+      "evidence": "IP bds geschwollen und MCP2 li.",
+      "source_file": "20_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "IP beidseits",
+        "MCP2 links"
+      ],
+      "description": "Schwellung der genannten Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 04.09.2023:",
+      "evidence": "Druckschmerz Schultern bds., Handgelenke bds., Daumegund- und -sattelgelenk re, kleine Zehen bds.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Schultern beidseits",
+        "Handgelenke beidseits",
+        "Daumengrundgelenk rechts",
+        "Daumensattelgelenk rechts",
+        "kleine Zehen beidseits"
+      ],
+      "description": "Druckschmerz an den genannten Gelenken.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke, vor allem an den Händen.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Hände"
+      ],
+      "description": "Multiple druckdolente Gelenke, vor allem an den Händen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 18.09.2023:",
+      "evidence": "Druckschmerz Handgelenke bds.",
+      "source_file": "20_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke beidseits"
+      ],
+      "description": "Druckschmerz beider Handgelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sonographisch Synovialitis HG bds.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke beidseits"
+      ],
+      "description": "Sonographisch dokumentierte Synovialitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 04.09.2023:",
+      "evidence": "Nachweis einer kräftig FAPI positiven Synovialitis in den Schultergelenken bds., in einzelnen Sternocostalgelenken, im linken Hüftgelenk, in den Kniegelenken bds., sowie sternal und in MTP 5 des linken Fußes.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Schultergelenke beidseits",
+        "einzelne Sternocostalgelenke",
+        "Hüftgelenk links",
+        "Kniegelenke beidseits",
+        "sternal",
+        "MTP5 links"
+      ],
+      "description": "Kräftig FAPI positive Synovialitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 04.09.2023:",
+      "evidence": "Bei bekannter Synovialitis in den Handgelenken bds. zeigt sich hier auch eine kräftige Fibroblastenaktivierung (rechts mehr als links).",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke beidseits"
+      ],
+      "description": "Bekannte Synovialitis mit kräftiger Fibroblastenaktivierung, rechts stärker als links.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-05",
+      "date_evidence": "Hauptbefund vom 05.09.2023:",
+      "evidence": "entsprechend high grade Synovitis",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Histologisch high grade Synovitis in der Synovial-PE.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der Arthrosonographie zeigte sich eine Synovialitis an den Handgelenke, III MTP RE, III-V MTP li.",
+      "source_file": "20_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke",
+        "MTP III rechts",
+        "MTP III-V links"
+      ],
+      "description": "Arthrosonographisch dokumentierte Synovialitis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sonographisch Synovialitis HG bds.",
+      "source_file": "20_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke beidseits"
+      ],
+      "description": "Sonographisch dokumentierte Synovialitis.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2023-09-04",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 04.09.2023:",
+      "evidence": "Flaue Nuklidanreicherung lateral an der distalen Fibulakante des rechten Beins ohne eindeutiges CT Korrelat (Serie 10 Bild 302, SUVmax 2,4), am ehesten einer Ansatzsehnentendinitis entsprechend.",
+      "source_file": "20_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "distale Fibulakante rechts lateral"
+      ],
+      "description": "Bildgebender Verdacht auf Ansatzsehnentendinitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 04.09.2023:",
+      "evidence": "medial entlang des rechten Thenars mit Mündung im Daumensattelgelenk (SUVmax 4,0) oder medial an MCP Digitus V der rechten Hand (SUVmax 3,7), am ehesten einer Ansatzsehnentendinitis entsprechend.",
+      "source_file": "20_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Thenar rechts medial bis Daumensattelgelenk",
+        "MCP Digitus V rechts medial"
+      ],
+      "description": "Bildgebender Verdacht auf Ansatzsehnentendinitis.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine nächtlichen Rückenschmerzen",
+      "source_file": "20_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Nächtliche Rückenschmerzen verneint.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine nächtlichen Rückenschmerzen",
+      "source_file": "20_Baseline_2.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Nächtliche Rückenschmerzen verneint.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "1-2 h Morgensteifigkeit",
+      "source_file": "20_Baseline.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "h",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "1-2 h Morgensteifigkeit",
+      "source_file": "20_Baseline_2.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "h",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "therapierefraktärer seronegativer rheumatoider Arthritis",
+      "source_file": "20_Baseline.docx",
+      "description": "Als therapierefraktäre seronegative RA bezeichnet; widersprüchlich zur seropositiven Diagnose.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-05",
+      "date_evidence": "Hauptbefund vom 05.09.2023:",
+      "evidence": "gut passend deutlicher entzündlicher Aktivität der bekannten RA. Keine aktive Entzündungskomponente.",
+      "source_file": "20_Baseline.docx",
+      "description": "Histologischer Befund beschreibt deutliche entzündliche Aktivität und zugleich keine aktive Entzündungskomponente.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Heute wären die Schmerzen mild bis moderat im Vergleich zu den letzten Wochen.",
+      "source_file": "20_Baseline.docx",
+      "description": "Aktuell mild bis moderate Schmerzen im Vergleich zu den letzten Wochen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Wir entlassen den Patienten am 09.09.2023",
+      "evidence": "in stabilem und gebesserten Allgemeinzustand",
+      "source_file": "20_Baseline.docx",
+      "description": "Stabiler und gebesserter Allgemeinzustand bei Entlassung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit der Erstgabe eine leichte Verbessung der Hände und Schulter, jedoch gleichbleibende Schmerzen in Knien und Füßen.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Leichte Verbesserung an Händen und Schulter seit Erstgabe; unveränderte Schmerzen in Knien und Füßen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "therapierefraktärer, seropositiver RA",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Therapierefraktäre seropositive RA.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der klinischen Untersuchung zeigte sich der Gelenkstatus zur Voruntersuchung gebessert.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Gelenkstatus gegenüber Voruntersuchung gebessert.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung von Herrn Sichart besser kontrolliert.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Grunderkrankung besser kontrolliert.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seropositive rheumatoide Arthritis (RA), ED 11/2020 (extern)",
+      "source_file": "20_Baseline.docx",
+      "description": "Seropositive RA, externe Erstdiagnose 11/2020.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "RF, a-CCP und a-MCV pos., ANAs neg.",
+      "source_file": "20_Baseline.docx",
+      "description": "RF, a-CCP und a-MCV positiv; ANA negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Schmerzen würden bei Belastung stärker werden, Ibuprofen helfe geringfügig, Cortison sehr gut.",
+      "source_file": "20_Baseline.docx",
+      "description": "Belastungsabhängige Schmerzverstärkung; geringe Wirkung von Ibuprofen und sehr gute Wirkung von Cortison.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Gelenkschmerzen Schultern bds., Handgelenke bds., Daume re.",
+      "source_file": "20_Baseline.docx",
+      "description": "Gelenkschmerzen an beiden Schultern und Handgelenken sowie am rechten Daumen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "vereinzelt schuppige, juckende Hauteffloreszenzen",
+      "source_file": "20_Baseline.docx",
+      "description": "Schuppige und juckende Hauteffloreszenzen ohne dokumentierte Psoriasisdiagnose.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 04.09.2023:",
+      "evidence": "Haut: vereinzelt schuppige Effloreszenzen an Schläfen bds, Unterarm li",
+      "source_file": "20_Baseline.docx",
+      "description": "Schuppige Effloreszenzen an beiden Schläfen und am linken Unterarm.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Osteoporose",
+      "source_file": "20_Baseline.docx",
+      "description": "Osteoporose.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-08-21",
+      "date_evidence": "in der rezenten Hand MRT vom 21.8.2023",
+      "evidence": "bei nachweisbarer Osteitis in der rezenten Hand MRT vom 21.8.2023",
+      "source_file": "20_Baseline.docx",
+      "description": "Osteitis in der MRT der rechten Hand.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 04.09.2023:",
+      "evidence": "Zudem einzelne kräftig FAPI positive Tendinitiden in in den Handgelenken und Fußgelenken.",
+      "source_file": "20_Baseline.docx",
+      "description": "FAPI positive Tendinitiden an Hand- und Fußgelenken.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-09-05",
+      "date_evidence": "Hauptbefund vom 05.09.2023:",
+      "evidence": "Summenscore: 6 Graduierung nach Krenn et al: High grade Synovialitis (5-9). Fibrosegrad: Grad 2: mäßige interstitielle Fibrose Stromafibrose semiquantitativ in %: 35",
+      "source_file": "20_Baseline.docx",
+      "description": "Dokumentierter Krenn-Synovitis-Summenscore 6; high grade Synovialitis; Fibrosegrad 2 und Stromafibrose 35 %.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Laborchemisch zeigte sich keine relevanten Auffälligkeiten/erhöhte Entzündungswerte.",
+      "source_file": "20_Baseline.docx",
+      "description": "Keine relevanten laborchemischen Auffälligkeiten beziehungsweise erhöhten Entzündungswerte beschrieben.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Während des stationären Aufenthaltes kam zu einem CRP-Anstieg ohne klinische Infektzeichen. Im Verlauf Entzündungsparameter abgeklungen ohne Antibiose. Der CRP-Anstieg ist a.e. im Rahmen des Cytokine Release Syndroms zu werten.",
+      "source_file": "20_Baseline.docx",
+      "description": "CRP-Anstieg ohne klinische Infektzeichen, im Verlauf ohne Antibiose abgeklungen; am ehesten Cytokine Release Syndrom.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Immunserologisch zeigten sich die B-Zellen reduziert.",
+      "source_file": "20_Baseline.docx",
+      "description": "B-Zellen immunserologisch reduziert.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seropositive rheumatoide Arthritis (RA), ED 11/2020 (extern)",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Seropositive RA, externe Erstdiagnose 11/2020.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "RF, a-CCP und a-MCV pos., ANAs neg.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "RF, a-CCP und a-MCV positiv; ANA negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Gelenkschmerzen unter Bewegung Handgelenke bds., Daumen re.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Bewegungsabhängige Gelenkschmerzen beider Handgelenke und des rechten Daumens.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Auffälligkeiten von Haut- oder Schleimhäuten",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Anamnestisch keine Haut- oder Schleimhautauffälligkeiten.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "vereinzelt schuppige, juckende Hauteffloreszenzen",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Schuppige und juckende Hauteffloreszenzen ohne dokumentierte Psoriasisdiagnose.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 18.09.2023:",
+      "evidence": "Haut: vereinzelt schuppige Effloreszenzen an Schläfen bds, Unterarm li",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Schuppige Effloreszenzen an beiden Schläfen und am linken Unterarm.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Osteoporose",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Osteoporose.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der Immunserologie zeigten sich CD19+ B-Zellen depletiert, RF und aCCP-Antikörper waren positiv.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "CD19+ B-Zellen depletiert; RF und aCCP positiv.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Verspüre Freudlosigkeit, sei frustriert, dass er seinen Job (Wassertechnik) und seine Handwerkerhobbies nicht mehr ausführen könne.",
+      "source_file": "20_Baseline_2.docx",
+      "description": "Freudlosigkeit und Einschränkung der beruflichen Tätigkeit sowie handwerklicher Hobbys.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Blinatumomab (1.Gabe)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Aktuelle Therapie, erste Gabe."
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Jyseleca 200 mg 1-0-0 (letzte Gabe am 03.09.23)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Jyseleca",
+      "description": "Aufnahmemedikation: 200 mg 1-0-0, letzte Gabe am 03.09.2023."
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Lodotra 2 mg 0-0-0-1",
+      "source_file": "20_Baseline.docx",
+      "drug": "Lodotra",
+      "description": "Aufnahmemedikation: 2 mg 0-0-0-1."
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Ibuprofen 600 mg 1-0-1",
+      "source_file": "20_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Aufnahmemedikation: 600 mg 1-0-1."
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Calcimed D3 5400 mg/1000 IE 1-0-0",
+      "source_file": "20_Baseline.docx",
+      "drug": "Calcimed D3",
+      "description": "Aufnahmemedikation: 5400 mg/1000 IE 1-0-0."
+    },
+    {
+      "date": "2023-09-04",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Alendronsäure 70 mg 1x/Woche",
+      "source_file": "20_Baseline.docx",
+      "drug": "Alendronsäure",
+      "description": "Aufnahmemedikation: 70 mg einmal wöchentlich."
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Prednison | Lodotra ret 1 mg | Retard-Tbl. | 0-0-1-0 | oral | Einnahme mit den Mahlzeiten",
+      "source_file": "20_Baseline.docx",
+      "drug": "Prednison",
+      "description": "Entlassungsmedikation: Lodotra retard 1 mg, 0-0-1-0 oral, mit den Mahlzeiten."
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Calcium (carbonat), Colecalciferol | Calcimed D3 0,5g/1.000(I.E.) | Tbl. | 1-0-0-0 (täglich Selbstmedikation) | oral",
+      "source_file": "20_Baseline.docx",
+      "drug": "Calcium (carbonat), Colecalciferol",
+      "description": "Entlassungsmedikation: Calcimed D3 0,5 g/1.000 IE, 1-0-0-0 oral, täglich als Selbstmedikation."
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Alendronsäure (Na) | Alendronsäure 70mg | Tbl. | 1-0-0-0 (Di) | oral | Einnahme vor den Mahlzeiten",
+      "source_file": "20_Baseline.docx",
+      "drug": "Alendronsäure",
+      "description": "Entlassungsmedikation: 70 mg dienstags 1-0-0-0 oral, vor den Mahlzeiten."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuelle Therapie: Individueller Heilversuch mit Blinatumomab (Erstgabe 05.09.2023), aktuell 2. Gabe + Lodotra 2mg",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Blinatumomab",
+      "description": "Individueller Heilversuch, aktuell zweite Gabe; Erstgabe am 05.09.2023, kombiniert mit Lodotra 2 mg."
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Lodotra 2 mg 0-0-0-1",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Lodotra",
+      "description": "Aufnahmemedikation: 2 mg 0-0-0-1."
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Ibuprofen 600 mg bei Bedarf",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Ibuprofen",
+      "description": "Aufnahmemedikation: 600 mg bei Bedarf."
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Calcimed D3 5400 mg/1000 IE 1-0-0",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Calcimed D3",
+      "description": "Aufnahmemedikation: 5400 mg/1000 IE 1-0-0."
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "Medikation bei Aufnahme:",
+      "evidence": "Alendronsäure 70 mg 1x/Woche",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Alendronsäure",
+      "description": "Aufnahmemedikation: 70 mg einmal wöchentlich."
+    },
+    {
+      "date": "2023-09-23",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Prednison | Lodotra ret 1 mg | Retard-Tbl. | 0-0-1-0 | oral | Einnahme mit den Mahlzeiten",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Prednison",
+      "description": "Entlassungsmedikation: Lodotra retard 1 mg, 0-0-1-0 oral, mit den Mahlzeiten; abweichend von der Angabe Lodotra 2 mg bei Aufnahme."
+    },
+    {
+      "date": "2023-09-23",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Calcium (carbonat), Colecalciferol | Calcimed D3 0,5g/1.000(I.E.) | Tbl. | 1-0-0-0 (täglich Selbstmedikation) | oral",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Calcium (carbonat), Colecalciferol",
+      "description": "Entlassungsmedikation: Calcimed D3 0,5 g/1.000 IE, 1-0-0-0 oral, täglich als Selbstmedikation."
+    },
+    {
+      "date": "2023-09-23",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Alendronsäure (Na) | Alendronsäure 70mg | Tbl. | 1-0-0-0 (Di) | oral | Einnahme vor den Mahlzeiten",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Alendronsäure",
+      "description": "Entlassungsmedikation: 70 mg dienstags 1-0-0-0 oral, vor den Mahlzeiten."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Methotrexat (innere Unruhe und bei hoher Dosis Haarausfall)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Methotrexat",
+      "description": "Frühere Therapie; innere Unruhe und bei hoher Dosis Haarausfall."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Kombination mit Leflunomid und 20 mg Prednisolon; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Kombination mit Adalimumab und 20 mg Prednisolon; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Früher 20 mg in Kombination mit Adalimumab und Leflunomid; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Baricitinib (08-12/2022, unzureichendes Ansprechen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Baricitinib",
+      "description": "08-12/2022; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Abatacept 12/2022-04/2023 (sek. Wirkversagen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Abatacept",
+      "description": "12/2022-04/2023; sekundäres Wirkversagen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Filgotinib 04-08/2023 (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline.docx",
+      "drug": "Filgotinib",
+      "description": "04-08/2023; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Methotrexat (innere Unruhe und bei hoher Dosis Haarausfall)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Methotrexat",
+      "description": "Frühere Therapie; innere Unruhe und bei hoher Dosis Haarausfall."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Kombination mit Leflunomid und 20 mg Prednisolon; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Kombination mit Adalimumab und 20 mg Prednisolon; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab + Leflunomid + 20mg Prednisolon (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Prednisolon",
+      "description": "Früher 20 mg in Kombination mit Adalimumab und Leflunomid; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Baricitinib (08-12/2022, unzureichendes Ansprechen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Baricitinib",
+      "description": "08-12/2022; unzureichendes Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Abatacept 12/2022-04/2023 (sek. Wirkversagen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Abatacept",
+      "description": "12/2022-04/2023; sekundäres Wirkversagen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Filgotinib 04-08/2023 (unzureichendes Ansprechen)",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Filgotinib",
+      "description": "04-08/2023; unzureichendes Ansprechen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Lodotra 1 mg täglich statt 2 mg täglich bis nächster WV.",
+      "source_file": "20_Baseline.docx",
+      "drug": "Lodotra",
+      "description": "Empfohlene Reduktion auf 1 mg täglich statt 2 mg täglich bis zur nächsten Wiedervorstellung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Wiedervorstellung bei Medizin 3 - Station Schönlein am 18.09.2023 um 09:00 Uhr zur Zweitgabe von Blinatumomab.",
+      "source_file": "20_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Zweite Gabe für den 18.09.2023 um 09:00 Uhr geplant."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Wir empfahlen eine Fortführung der Lodotra-Einnahme",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Lodotra",
+      "description": "Fortführung der Lodotra-Einnahme empfohlen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ggf. Immunglobulinsubstitution bei progredientem IgG-Mangel.",
+      "source_file": "20_Baseline_2.docx",
+      "drug": null,
+      "description": "Gegebenenfalls Immunglobulinsubstitution bei progredientem IgG-Mangel."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Anschließend initiierten wir die Therapie mit Blinatumomab über 96 Stunden. Der Patient konnte die Infusion gut vertragen.",
+      "source_file": "20_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Therapie tatsächlich als Infusion über 96 Stunden eingeleitet und gut vertragen."
+    },
+    {
+      "date": "2023-09-09",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Prednison | Lodotra ret 1 mg | Retard-Tbl. | 0-0-1-0 | oral",
+      "source_file": "20_Baseline.docx",
+      "drug": "Lodotra",
+      "description": "Bei Entlassung 1 mg oral 0-0-1-0 dokumentiert, gegenüber 2 mg 0-0-0-1 bei Aufnahme reduziert."
+    },
+    {
+      "date": "2023-09-18",
+      "date_evidence": "erfolgte ab 18.09.2023",
+      "evidence": "Nach Ausschluss von Kontraindikationen erfolgte ab 18.09.2023 die primär komplikationslose Dauerinfusion mit Blinatumomab (kum. 38,5µg). Die Infusion wurde gut vertragen.",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Blinatumomab",
+      "description": "Zweite Gabe als Dauerinfusion ab 18.09.2023, kumulativ 38,5 µg; gut vertragen."
+    },
+    {
+      "date": "2023-09-23",
+      "date_evidence": "Medikationsplan bei Entlassung:",
+      "evidence": "Prednison | Lodotra ret 1 mg | Retard-Tbl. | 0-0-1-0 | oral",
+      "source_file": "20_Baseline_2.docx",
+      "drug": "Lodotra",
+      "description": "Bei Entlassung 1 mg oral 0-0-1-0 dokumentiert, gegenüber 2 mg 0-0-0-1 bei Aufnahme reduziert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 20,
+    "disease": "RA",
+    "timepoint": "BA",
+    "source_files": [
+      "20_Baseline.docx",
+      "20_Baseline_2.docx"
+    ]
+  }
+}

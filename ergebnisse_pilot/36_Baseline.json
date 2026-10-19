@@ -1,0 +1,646 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "source_file": "36_Baseline.docx"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "source_file": "36_Baseline_2.docx"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Die Biopsie erfolgte komplikationslos am 14.12.2020.",
+      "evidence": "Die Biopsie erfolgte komplikationslos am 14.12.2020.",
+      "source_file": "36_Baseline_2.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "DAS28: 2,95",
+      "source_file": "36_Baseline.docx",
+      "value": 2.95,
+      "variant": null
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "BASFI: 0,2",
+      "source_file": "36_Baseline.docx",
+      "value": 0.2,
+      "variant": null
+    }
+  ],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "1 druckschmerzhaftes Gelenk",
+      "source_file": "36_Baseline.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "1 geschwollenes Gelenk",
+      "source_file": "36_Baseline.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "HAQ: 0,25",
+      "source_file": "36_Baseline.docx",
+      "value": 0.25,
+      "variant": null
+    }
+  ],
+  "PASI": [
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "ausgeprägte Hautbeteiligung: PASI 29,4",
+      "source_file": "36_Baseline_2.docx",
+      "value": 29.4,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "36_Baseline.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "C-Reaktives Protein 2,8 mg/l",
+      "source_file": "36_Baseline_2.docx",
+      "value": 2.8,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS: 6 mm 1h n.W.",
+      "source_file": "36_Baseline.docx",
+      "value": 6,
+      "operator": "=",
+      "unit": "mm"
+    }
+  ],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "1 geschwollenes Gelenk",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Ein geschwollenes Gelenk ohne dokumentierte Lokalisation.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "1 druckschmerzhaftes Gelenk",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Ein druckschmerzhaftes Gelenk ohne dokumentierte Lokalisation.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: mehrere druckschmerzhafte Gelenke",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Mehrere druckschmerzhafte Gelenke ohne dokumentierte Lokalisation.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Psoriasis Arthritis ED 1978 mit aktuell Enthesitis, Arthralgien, Arthritis, Morgensteifigkeit, aktive Haut unter MTX",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Aktuelle Enthesitis unter MTX.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Druckschmerzhafte Sehnenansätze Ellenbogen bds.",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Sehnenansätze Ellenbogen beidseits"
+      ],
+      "description": "Druckschmerzhafte Sehnenansätze.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "Arthrosonographie vom 01.12.2020:",
+      "evidence": "Epicondylitis lateralis humeri rechts mit PD Signal Grad III",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Epicondylus lateralis humeri rechts"
+      ],
+      "description": "Sonographische Epicondylitis mit PD-Signal Grad III; Sehne hypoechogen, Ansatz vergrößert.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "Arthrosonographie vom 01.12.2020:",
+      "evidence": "Epicondylitis lateralis humeri rechts mit PD Signal Grad III",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Epicondylus lateralis humeri rechts"
+      ],
+      "description": "Sonographische Epicondylitis mit PD-Signal Grad III; Sehne hypoechogen, Ansatz vergrößert.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Aktive Psoriasisarthritis mit hoher entzündlicher Aktivität im Bereich des rechten Epicondylus lateralis des Ellbogens im Sinne einer akuten Enthesitis.",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Epicondylus lateralis des Ellbogens rechts"
+      ],
+      "description": "Akute Enthesitis mit hoher entzündlicher Aktivität; klinisch druckschmerzhaft.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Flauer Nuklid Uptake in Projektion auf den Epicondylus lateralis humeri rechts, z.B. vereinbar mit Epikondylitis.",
+      "source_file": "36_Baseline_2.docx",
+      "status": "unclear",
+      "sites": [
+        "Epicondylus lateralis humeri rechts"
+      ],
+      "description": "PET-Uptake vereinbar mit Epikondylitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Vermehrte FAP-Expression am Tuber ischiadicum links, am ehesten im Sinne einer Enthesiopathie.",
+      "source_file": "36_Baseline_2.docx",
+      "status": "unclear",
+      "sites": [
+        "Tuber ischiadicum links"
+      ],
+      "description": "Vermehrte FAP-Expression, am ehesten Enthesiopathie.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "mit aktuell Enthesitis, Arthralgien, Arthritis, Morgensteifigkeit, aktive Haut unter MTX",
+      "source_file": "36_Baseline.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris ED 1975 mit initialer Hautbeteiligung von 80% der Körperoberfläche, Kopfhautbeteiligung, Nagelbeteiligung",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kopfhaut"
+      ],
+      "description": "Psoriasis vulgaris, Erstdiagnose 1975; initial 80% der Körperoberfläche betroffen.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Aktuell sei die Haut zwar von intial 80% der Körperoberfläche etwas gebessert, er würde aber dennoch keine kurzen Hosen anziehen.",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Aktuelle Hautbeteiligung gegenüber initial etwas gebessert.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Diskrete Rötung Haaransatz, sowie ausgeprägte Pso Plaques an den Beinen bds.",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Haaransatz",
+        "Beine beidseits"
+      ],
+      "description": "Diskrete Rötung am Haaransatz und ausgeprägte Psoriasisplaques an beiden Beinen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris ED 1975",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris, Erstdiagnose 1975.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "ausgeprägte Hautbeteiligung: PASI 29,4",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Ausgeprägte Hautbeteiligung.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris ED 1975 mit initialer Hautbeteiligung von 80% der Körperoberfläche, Kopfhautbeteiligung, Nagelbeteiligung",
+      "source_file": "36_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Nägel"
+      ],
+      "description": "Nagelbeteiligung in der Psoriasisanamnese.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Aktuell entzündliche Aktivität vor allem im Bereich der Enthesen, der Haut sowie der Fingernägel.",
+      "source_file": "36_Baseline_2.docx",
+      "status": "present",
+      "sites": [
+        "Fingernägel"
+      ],
+      "description": "Aktuelle entzündliche Aktivität der Fingernägel.",
+      "context": "clinical"
+    }
+  ],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "zeigt sich die Erkrankung (PsA) unter MTX klar unzureichend therapiert.",
+      "source_file": "36_Baseline.docx",
+      "description": "PsA unter MTX klar unzureichend therapiert; Indikation zur Therapieerweiterung mit Biologika.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Aktive Psoriasisarthritis mit hoher entzündlicher Aktivität im Bereich des rechten Epicondylus lateralis des Ellbogens im Sinne einer akuten Enthesitis.",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Aktive Psoriasisarthritis mit hoher entzündlicher Aktivität und akuter Enthesitis rechts.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis Arthritis ED 1978",
+      "source_file": "36_Baseline.docx",
+      "description": "Psoriasisarthritis, Erstdiagnose 1978.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis Arthritis ED 1978",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Psoriasisarthritis, Erstdiagnose 1978.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Hinsichtlich der Arthritis habe er Schmerzen der Gelenke sowie im Bereich der Sehnen.",
+      "source_file": "36_Baseline.docx",
+      "description": "Gelenk- und Sehnenschmerzen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hier musste er zuletzt auch einen Schiene tragen, da unter Bewegung die Schmerzen verstärkt waren.",
+      "source_file": "36_Baseline.docx",
+      "description": "Zuletzt Schienentragen wegen bewegungsabhängiger Schmerzverstärkung.",
+      "context": "history"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "FACIT: 12",
+      "source_file": "36_Baseline.docx",
+      "description": "FACIT: 12.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "BASDI: 3,65",
+      "source_file": "36_Baseline.docx",
+      "description": "Als BASDI dokumentierter Wert 3,65; keine ausdrücklich dokumentierte BASDAI-Bezeichnung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "SPARCC: 2",
+      "source_file": "36_Baseline.docx",
+      "description": "SPARCC: 2.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumafaktor IgG 7,83 IE/ml",
+      "source_file": "36_Baseline.docx",
+      "description": "Rheumafaktor IgG 7,83 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "CCP zykl. zitrul. Peptide 0,95 RE/ml",
+      "source_file": "36_Baseline.docx",
+      "description": "CCP 0,95 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Anti-MCV 3,1 U/ml",
+      "source_file": "36_Baseline.docx",
+      "description": "Anti-MCV 3,1 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ANA auf Hep2 negativ",
+      "source_file": "36_Baseline.docx",
+      "description": "ANA auf Hep2 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantiferon-TB negativ",
+      "source_file": "36_Baseline.docx",
+      "description": "Quantiferon-TB negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HBs-Antigen negativ, Hepatitis B-anti HBs negativ IE/l, Hepatitis B-anti HBc negativ, HCV-Antikörper negativ",
+      "source_file": "36_Baseline.docx",
+      "description": "Hepatitis-B- und Hepatitis-C-Screening mit den angegebenen negativen Ergebnissen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "Rheumafaktor IgG <7,31 IE/ml",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Rheumafaktor IgG <7,31 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "CCP zykl. zitrul. Peptide 0,97 RE/ml",
+      "source_file": "36_Baseline_2.docx",
+      "description": "CCP 0,97 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "Anti-MCV 12,4 U/ml",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Anti-MCV 12,4 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "Serum Amyloid A 15,8 mg/l",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Serum Amyloid A 15,8 mg/l.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Laborwerte vom 14.12.2020:",
+      "evidence": "Quantiferon-TB negativ",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Quantiferon-TB negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Zudem zeigt sich eine erhöhte Fibroblastenaktivität in Projektion auf die partiell verknöcherten Ligamenta interspinalia HWK 7/BWK 1 und BWK 2/BWK 3.",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Erhöhte Fibroblastenaktivität an partiell verknöcherten Ligamenta interspinalia HWK 7/BWK 1 und BWK 2/BWK 3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Sehr flauer Nuklid Uptake lateral des Os cuboideum rechts",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Sehr flauer Nuklid-Uptake lateral des rechten Os cuboideum.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.12.2020:",
+      "evidence": "Keine Gelenkassoziierten FAPI-Anreicherungen. Heberdenarthrose D3 rechts.",
+      "source_file": "36_Baseline_2.docx",
+      "description": "An den Händen keine gelenkassoziierten FAPI-Anreicherungen; Heberdenarthrose D3 rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-12-14",
+      "date_evidence": "Die Biopsie erfolgte komplikationslos am 14.12.2020.",
+      "evidence": "Die Biopsie erfolgte komplikationslos am 14.12.2020.",
+      "source_file": "36_Baseline_2.docx",
+      "description": "Komplikationslose Biopsie der Enthese des rechten Ellbogens im Rahmen der Enthesitis-Biopsiestudie.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "MTX seit 2016",
+      "source_file": "36_Baseline.docx",
+      "drug": "MTX",
+      "description": "MTX seit 2016."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Methotrexat 7,5mg s.c./Woche seit 2016",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Methotrexat",
+      "description": "Methotrexat 7,5 mg subkutan pro Woche seit 2016."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Secukinumab im Rahmen einer Studie 12/2020 + Methotrexat",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab seit 12/2020 im Rahmen der EBIO-Enthesitis-Biopsiestudie zusammen mit Methotrexat; Medikationsbeginn 21.12.2020. Alle 4 Wochen 2 × 150 mg, in den ersten 4 Wochen wöchentlich 300 mg."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Daivobet + Silkis",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Daivobet",
+      "description": "Aktuelle topische Therapie mit Daivobet zusammen mit Silkis."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Daivobet + Silkis",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Silkis",
+      "description": "Aktuelle topische Therapie mit Silkis zusammen mit Daivobet; in der Anamnese als Silikis bezeichnet."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Z.n. Fumaderm ab 1977",
+      "source_file": "36_Baseline.docx",
+      "drug": "Fumaderm",
+      "description": "Frühere Therapie mit Fumaderm ab 1977."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "bisherige Therapie: Fumarderm",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Fumarderm",
+      "description": "Bisherige Therapie der Psoriasis vulgaris mit Fumarderm."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2020-12-01",
+      "date_evidence": "der sich am 01.12.2020 ambulant vorstellte.",
+      "evidence": "Die Indikation einer Therapieerweiterung mittels Biologika ist klar gegeben.",
+      "source_file": "36_Baseline.docx",
+      "drug": null,
+      "description": "Therapieerweiterung mittels Biologika indiziert; aufgrund der Enthesitis wird IL-17-Inhibition bevorzugt. Vorstellung in der Studienambulanz zur Evaluierung und gegebenenfalls Studieneinschluss."
+    },
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Methotrexat kann unverändert weiter eingenommen werden.",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Methotrexat",
+      "description": "Unveränderte Fortführung von Methotrexat empfohlen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-12-21",
+      "date_evidence": "der sich am 21.12.2020 ambulant vorstellte.",
+      "evidence": "Beginn der Medikation am 21.12.2020. Secukinumab wird im Abstand von 4 Wochen mit einer Dosis von 2x 150mg appliziert. In den ersten 4 Wochen erfolgte die wöchentliche Gabe von 300mg.",
+      "source_file": "36_Baseline_2.docx",
+      "drug": "Secukinumab",
+      "description": "Beginn von Secukinumab am 21.12.2020 im Rahmen der Studie; alle 4 Wochen 2 × 150 mg. Für die ersten 4 Wochen ist eine wöchentliche Gabe von 300 mg als erfolgt dokumentiert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 36,
+    "disease": "PsA",
+    "timepoint": "BA",
+    "source_files": [
+      "36_Baseline.docx",
+      "36_Baseline_2.docx"
+    ]
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "am 12.11.2020 ambulant vorstellte",
+      "source_file": "5_FollowUp_1.docx"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ein planmäßiger WV-Termin wurde in 4 Monaten geplant",
+      "source_file": "5_FollowUp_1.docx"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "am 09.03.2021 ambulant vorstellte",
+      "source_file": "5_FollowUp_2.docx"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "eine WV in ca. 3-4 Mon.",
+      "source_file": "5_FollowUp_2.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "BASDAI 0,825",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 0.825,
+      "variant": null
+    }
+  ],
+  "BASFI": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "BASFI 0,4",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 0.4,
+      "variant": null
+    }
+  ],
+  "BASMI": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "BASMI 0",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 0,
+      "variant": null
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "BASMI 0",
+      "source_file": "5_FollowUp_2.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "BAS_G": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "BAS-G 1,5",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 1.5,
+      "variant": null
+    }
+  ],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "HAQ 0",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "PASI": [],
+  "VAS_physician": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "VAS Arzt 0",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 0,
+      "scope": null,
+      "unit": null
+    }
+  ],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "5_FollowUp_1.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "5_FollowUp_2.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "BKS: 1/4 mm/h",
+      "source_file": "5_FollowUp_1.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "mm/h"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "BKS: 1 mm/h",
+      "source_file": "5_FollowUp_2.docx",
+      "value": 1,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Gelenke: kein DS, keine Schwellungen",
+      "source_file": "5_FollowUp_1.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Gelenkschwellungen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Gelenke: kein DS, keine Schwellungen",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Gelenkschwellungen.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Gelenke: kein DS",
+      "source_file": "5_FollowUp_1.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Kein Druckschmerz der Gelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Gelenke: kein DS",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Kein Druckschmerz der Gelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "WS/ISG nicht DS",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "absent",
+      "sites": [
+        "Wirbelsäule",
+        "ISG"
+      ],
+      "description": "Wirbelsäule und ISG nicht druckschmerzhaft.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT mit Kontrastmittel vom BWS/LWS (05/2017): Enthesitis der Lig. interspinalia und des Lig. supraspinale auf Höhe von BWK 8-10",
+      "source_file": "5_FollowUp_1.docx",
+      "status": "present",
+      "sites": [
+        "Lig. interspinalia auf Höhe BWK 8-10",
+        "Lig. supraspinale auf Höhe BWK 8-10"
+      ],
+      "description": "MRT-dokumentierte Enthesitis im Mai 2017.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT mit Kontrastmittel vom BWS/LWS (05/2017): Enthesitis der Lig. interspinalia und des Lig. supraspinale auf Höhe von BWK 8-10",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "present",
+      "sites": [
+        "Lig. interspinalia auf Höhe BWK 8-10",
+        "Lig. supraspinale auf Höhe BWK 8-10"
+      ],
+      "description": "MRT-dokumentierte Enthesitis im Mai 2017.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Enthesen: keine DS",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Druckschmerzen der Enthesen.",
+      "context": "clinical"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "keine Psoriasis",
+      "source_file": "5_FollowUp_2.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Psoriasis anamnestisch verneint.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Herr Schade berichtet über ein sehr gutes Befinden und gute Therapieansprache.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Sehr gutes Befinden und gute Therapieansprache.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "In Zusammenschau der Befunde ergab sich eine zufriedenstellende Erkrankungskontrolle.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Zufriedenstellende Erkrankungskontrolle.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Laborchemisch zeigten sich keine Auffälligkeiten.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Laborchemisch keine Auffälligkeiten.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Herr Schade berichtet über ein sehr gutes Befinden und gutes Therapieansprechen.",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Sehr gutes Befinden und gutes Therapieansprechen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Aktuell zeigt sich klinisch u. anamn. ein guter Befund.",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Klinisch und anamnestisch guter Befund.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylarthropathie, EM 2008, ED 2013",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Spondylarthropathie mit Erstmanifestation 2008 und Erstdiagnose 2013.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "winzige Romanus-Läsionen in LWK 2 und 5",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Winzige Romanus-Läsionen in LWK 2 und 5 im MRT vom Mai 2017.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FAPI-PET/CT 08/2020: Flaue bis mäßige FAPI Mehrbelegung im Costovertebralgelenk der 3., 10. und 11. Rippe links und im kaudalen Anteil des rechten ISG, passend zu einer Spondylarthropathie (M. Bechterew).",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "FAPI-Mehrbelegung links costovertebral an der 3., 10. und 11. Rippe sowie kaudal im rechten ISG im August 2020.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Er sei im Alltag wieder aktiver.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Im Alltag wieder aktiver.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Es bestünden nur noch leichte Beschwerden in den Costovertebralgelenken.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Leichte Beschwerden in den Costovertebralgelenken.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Infekte/Fieber wird verneint.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Keine Infekte oder Fieber.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Die Verträglichkeit der Therapie sei sehr gut",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Sehr gute Therapieverträglichkeit.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Augenentzündungen werden verneint.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Keine Augenentzündungen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Haut: Erythem linker Unterschenkel (hier Pilzinfektion in der Vergangenheit)",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Erythem am linken Unterschenkel.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "hier Pilzinfektion in der Vergangenheit",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "Frühere Pilzinfektion am linken Unterschenkel.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "ein FAPI-PET-CT für den 4.12.20 um 12.00 Uhr vereinbart",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "FAPI-PET-CT zur Verlaufskontrolle nach Therapieumstellung für den 04.12.2020 um 12:00 Uhr vereinbart.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Zusätzlich vereinbarten wir eine LWS/Sacrum-MRT und bitten um Terminvereinbarung durch den Patienten.",
+      "source_file": "5_FollowUp_1.docx",
+      "description": "LWS/Sacrum-MRT geplant; Terminvereinbarung durch den Patienten.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylarthropathie, EM 2008, ED 2013",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Spondylarthropathie mit Erstmanifestation 2008 und Erstdiagnose 2013.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "winzige Romanus-Läsionen in LWK 2 und 5",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Winzige Romanus-Läsionen in LWK 2 und 5 im MRT vom Mai 2017.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FAPI-PET/CT 08/2020: Flaue bis mäßige FAPI Mehrbelegung im Costovertebralgelenk der 3., 10. und 11. Rippe links und im kaudalen Anteil des rechten ISG, passend zu einer Spondylarthropathie (M. Bechterew).",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "FAPI-Mehrbelegung links costovertebral an der 3., 10. und 11. Rippe sowie kaudal im rechten ISG im August 2020.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Er hat keine periph. Gelenkbeschwerden",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Keine peripheren Gelenkbeschwerden.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "er hat aber ab und zu Beschwerden an der BWS und weniger an der LWS und Füßen, nur bei längerem Laufen.",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Gelegentliche Beschwerden an BWS, weniger an LWS und Füßen, nur bei längerem Laufen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Stuhlgang unauffällig, keine Augenentz.",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Unauffälliger Stuhlgang und keine Augenentzündungen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Hautausschlag, hier mit lokaler Salbe vom Hautarzt komplett rückläufig",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Früherer Hautausschlag unter lokaler Salbe vom Hautarzt vollständig rückläufig.",
+      "context": "history"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Keine Infekte, Fieber oder NS.",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Keine Infekte, Fieber oder Nachtschweiß.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Patrick Zeichen bds. negativ",
+      "source_file": "5_FollowUp_2.docx",
+      "description": "Patrick-Zeichen beidseits negativ.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "aktuelle Therapie: Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Certolizumab",
+      "description": "Aktuelle Therapie mit Certolizumab, Wiederbeginn im August 2020; auch als Cimzia bezeichnet."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Ibuprofen 600 mg 3x tägl.",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Ibuprofen",
+      "description": "Dauermedikation: 600 mg dreimal täglich."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Pantoprazol 40 mg 1-0-0",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Pantoprazol",
+      "description": "Dauermedikation: 40 mg im Schema 1-0-0."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Hier würde KG und Massage gut helfen.",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": null,
+      "description": "Krankengymnastik und Massage helfen bei Beschwerden der Costovertebralgelenke."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "aktuelle Therapie: Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Certolizumab",
+      "description": "Aktuelle Therapie mit Certolizumab, Wiederbeginn im August 2020."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "aktuell unter Cimzia alle 2 Wochen",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Cimzia",
+      "description": "Aktuelle Gabe alle zwei Wochen."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Ibuprofen 600 mg 3x tägl.",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Ibuprofen",
+      "description": "Dauermedikation: 600 mg dreimal täglich."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Pantoprazol 40 mg 1-0-0",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Pantoprazol",
+      "description": "Dauermedikation: 40 mg im Schema 1-0-0."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Er macht regelm. Sport, Physiotherapie.",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": null,
+      "description": "Regelmäßiger Sport und Physiotherapie."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Arcoxia",
+      "description": "Bisherige Therapie mit Arcoxia; Dosis und Zeitraum nicht angegeben."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Ibuprofen",
+      "description": "Ibuprofen als bisherige Therapie aufgeführt."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Certolizumab 200 mg von 05/2017 bis 02/2019 und 07/2019 bis 03/2020",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Certolizumab",
+      "description": "200 mg von Mai 2017 bis Februar 2019 und von Juli 2019 bis März 2020."
+    },
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Cimzia 400mg s.c. alle 2 Wochen (letzte Spritze am 19.03.)",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Cimzia",
+      "description": "Vorherige Therapie: 400 mg subkutan alle zwei Wochen; letzte Spritze am 19.03., Jahr nicht angegeben."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Arcoxia",
+      "description": "Bisherige Therapie mit Arcoxia; Dosis und Zeitraum nicht angegeben."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "bisherige Therapie: Arcoxia, Ibuprofen",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Ibuprofen",
+      "description": "Ibuprofen als bisherige Therapie aufgeführt."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Certolizumab 200 mg von 05/2017 bis 02/2019 und 07/2019 bis 03/2020",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Certolizumab",
+      "description": "200 mg von Mai 2017 bis Februar 2019 und von Juli 2019 bis März 2020."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Cimzia 400mg s.c. alle 2 Wochen (letzte Spritze am 19.03.20)",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Cimzia",
+      "description": "Vorherige Therapie: 400 mg subkutan alle zwei Wochen; letzte Spritze am 19.03.2020."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Z.n. Hautausschlag, hier mit lokaler Salbe vom Hautarzt komplett rückläufig",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": null,
+      "description": "Lokale Salbe vom Hautarzt bei früherem Hautausschlag; vollständig rückläufig."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Deswegen empfehlen wir die Fortführung der aktuellen Therapie",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": null,
+      "description": "Fortführung der aktuellen Therapie empfohlen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-11-12",
+      "date_evidence": "am 12.11.2020 ambulant vorstellte",
+      "evidence": "Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_FollowUp_1.docx",
+      "drug": "Certolizumab",
+      "description": "Dokumentierter Wiederbeginn im August 2020."
+    },
+    {
+      "date": "2021-03-09",
+      "date_evidence": "am 09.03.2021 ambulant vorstellte",
+      "evidence": "Certolizumab, Wiederbeginn 08/2020",
+      "source_file": "5_FollowUp_2.docx",
+      "drug": "Certolizumab",
+      "description": "Dokumentierter Wiederbeginn im August 2020."
+    }
+  ],
+  "metadata": {
+    "patient_id": 5,
+    "disease": "SpA",
+    "timepoint": "FU",
+    "source_files": [
+      "5_FollowUp_1.docx",
+      "5_FollowUp_2.docx"
+    ]
+  }
+}

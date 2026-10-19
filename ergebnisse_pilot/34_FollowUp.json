@@ -1,0 +1,817 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2025-09-11",
+      "date_evidence": "am 11.09.2025 und am 12.12.2025 ambulant vorstellte",
+      "evidence": "am 11.09.2025 und am 12.12.2025 ambulant vorstellte",
+      "source_file": "34_FollowUp.docx"
+    },
+    {
+      "date": "2025-12-12",
+      "date_evidence": "am 11.09.2025 und am 12.12.2025 ambulant vorstellte",
+      "evidence": "am 11.09.2025 und am 12.12.2025 ambulant vorstellte",
+      "source_file": "34_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "DAPSA 16",
+      "source_file": "34_FollowUp.docx",
+      "value": 16,
+      "variant": null
+    }
+  ],
+  "TJC": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "TJ 6: HG, Daumengrundgelenk bds, OSG links",
+      "source_file": "34_FollowUp.docx",
+      "value": 6,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "SJ 1 (Knie li)",
+      "source_file": "34_FollowUp.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "PASI 0.0",
+      "source_file": "34_FollowUp.docx",
+      "value": 0.0,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2025-09-11",
+      "date_evidence": "Laborwerte vom 11.09.2025:",
+      "evidence": "C-reaktives Protein 8,0 mg/l",
+      "source_file": "34_FollowUp.docx",
+      "value": 8.0,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": "2025-12-12",
+      "date_evidence": "Laborwerte vom 12.12.2025:",
+      "evidence": "C-reaktives Protein 6,1 mg/l",
+      "source_file": "34_FollowUp.docx",
+      "value": 6.1,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Das linke Knie ist geschwollen, wobei die Schwellung unter Belastung zunimmt.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Schwellung mit Zunahme unter Belastung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "SJ 1 (Knie li)",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Geschwollenes linkes Knie im Gelenkstatus.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Klinisch und sonografisch wurde ein Erguss im rechten Kniegelenk nachgewiesen",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie rechts"
+      ],
+      "description": "Klinisch nachgewiesener Gelenkerguss.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Klinisch und sonografisch wurde ein Erguss im rechten Kniegelenk nachgewiesen",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie rechts"
+      ],
+      "description": "Sonografisch nachgewiesener Gelenkerguss.",
+      "context": "imaging"
+    },
+    {
+      "date": "2019-06-13",
+      "date_evidence": "MRT-Knie links mit KM vom 13.06.2019:",
+      "evidence": "Ausgeprägte Synovialitis mit Kniegelenkerguss und Ausbildung einer großen Baker-Zyste.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Kniegelenkerguss und große Baker-Zyste.",
+      "context": "imaging"
+    },
+    {
+      "date": "2022-04-27",
+      "date_evidence": "MRT Knie links vom 27.04.2022:",
+      "evidence": "Deutlich regrediente Synovialitis mit Gelenkerguss des linken Kniegelenks.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Gelenkerguss des linken Kniegelenks.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zunehmende Gelenkserguss im Kniegelenk links bei moderater Gonarthrose",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Zunehmender Gelenkerguss bei moderater Gonarthrose.",
+      "context": "imaging"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "TJ 6: HG, Daumengrundgelenk bds, OSG links",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke",
+        "Daumengrundgelenke beidseits",
+        "oberes Sprunggelenk links"
+      ],
+      "description": "Druckschmerzhafte Gelenke laut Gelenkstatus.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Klinisch zeigten sich Druckdolenz in beiden Handgelenken",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenke beidseits"
+      ],
+      "description": "Druckdolenz beider Handgelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": "2018-12-21",
+      "date_evidence": "MRT Knie links vom 21.12.2018:",
+      "evidence": "Ausgeprägte Synovialitis.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Ausgeprägte Synovialitis im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2019-06-13",
+      "date_evidence": "MRT-Knie links mit KM vom 13.06.2019:",
+      "evidence": "Ausgeprägte Synovialitis mit Kniegelenkerguss und Ausbildung einer großen Baker-Zyste.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Ausgeprägte Synovialitis mit Erguss und Baker-Zyste.",
+      "context": "imaging"
+    },
+    {
+      "date": "2022-04-27",
+      "date_evidence": "MRT Knie links vom 27.04.2022:",
+      "evidence": "Deutlich regrediente Synovialitis mit Gelenkerguss des linken Kniegelenks.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Deutlich regrediente Synovialitis mit Gelenkerguss.",
+      "context": "imaging"
+    },
+    {
+      "date": "2019-02-11",
+      "date_evidence": "Histologie li. Knie 11.02.2019:",
+      "evidence": "ausgeprägte lymphofollikuläre Synovialitis und lymphofol. Infiltrat.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Histologisch ausgeprägte lymphofollikuläre Synovialitis und lymphofollikuläres Infiltrat.",
+      "context": "history"
+    },
+    {
+      "date": "2023-07-31",
+      "date_evidence": "Histologie li. Knie 31.07.2023:",
+      "evidence": "Summenscore: 3 Graduierung nach Krenn et al: Low grade Synovialitis (2-4)",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Histologisch Low grade Synovialitis; Krenn-Summenscore 3.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sonografie Synovitis Grad 2 Powerdoppler Grad 2 im linken Handgelenk, rechtes Handgelenk normal",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk links"
+      ],
+      "description": "Sonografische Synovitis Grad 2 mit Powerdoppler Grad 2.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sonografie Synovitis Grad 2 Powerdoppler Grad 2 im linken Handgelenk, rechtes Handgelenk normal",
+      "source_file": "34_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "Handgelenk rechts"
+      ],
+      "description": "Rechtes Handgelenk sonografisch normal.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zunehmend im Kniegelenk links mit zunehmendem Gelenkserguss und synovialem Verteilungsmuster DD Synovialitis.",
+      "source_file": "34_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Synovialitis als Differenzialdiagnose bei synovialem Verteilungsmuster und zunehmendem Erguss.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2022-05-02",
+      "date_evidence": "MRT Schulter links vom 02.05.2022:",
+      "evidence": "Ansatztendinitis der Supraspinatussehne",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Ansatz der Supraspinatussehne links"
+      ],
+      "description": "Ansatztendinitis im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI/PET 07/23:",
+      "evidence": "Multiple Ansatzsehnentendinopathien insbesondere im Bereich der Hände bds., ebenfalls im Rahmen der Psoriasisarthritis zu werten.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Sehnenansätze der Hände beidseits"
+      ],
+      "description": "Multiple Ansatzsehnentendinopathien im Rahmen der Psoriasisarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zunehmender Traceruptake auch dorsal des Processus spinosus BWK 2-4, am ehesten bei Enthesitis.",
+      "source_file": "34_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "dorsal der Processus spinosi BWK 2-4"
+      ],
+      "description": "Zunehmender Traceruptake, am ehesten Enthesitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Interspinaler Traceruptake LWK 3/4, neu zur Voruntersuchung CT-graphisch unauffällig DD Baastrup-Phänomen DD Enthesitis.",
+      "source_file": "34_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "interspinal LWK 3/4"
+      ],
+      "description": "Neuer interspinaler Traceruptake; Differenzialdiagnosen Baastrup-Phänomen und Enthesitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Neue Enthesitis spinal.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Wirbelsäule"
+      ],
+      "description": "Neue spinale Enthesitis in der PET-Beurteilung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zur Voruntersuchung deutlich zunehmender Traceruptake peritrochantär bds., DD bei Sehnenansatztendinopathie.",
+      "source_file": "34_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "peritrochantär beidseits"
+      ],
+      "description": "Zunehmender Traceruptake; Sehnenansatztendinopathie als Differenzialdiagnose.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zunehmende Sehnenansatztendinopathie peritrochantär bds.",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "peritrochantär beidseits"
+      ],
+      "description": "Zunehmende Sehnenansatztendinopathie in der PET-Beurteilung.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "die Morgensteifigkeit hält ganztägig an",
+      "source_file": "34_FollowUp.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktive Psoriasis beider Unterschenkel vor einigen Wochen, welche dermatologisch topisch behandelt wurde",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Unterschenkel beidseits"
+      ],
+      "description": "Aktive Psoriasis vor einigen Wochen, dermatologisch topisch behandelt.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuell bestehen keine psoriatischen Hautläsionen.",
+      "source_file": "34_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Aktuell keine psoriatischen Hautläsionen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Haut unauffällig",
+      "source_file": "34_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Unauffälliger Hautbefund.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aggravation der Haut-Psoriasis",
+      "source_file": "34_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Aggravation der Haut-Psoriasis unter Etanercept.",
+      "context": "history"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Handflexion eingeschränkt insb links",
+      "source_file": "34_FollowUp.docx",
+      "description": "Eingeschränkte Handflexion, insbesondere links.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Insgesamt besteht eine aktive Psoriasis-Arthritis.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Aktive Psoriasis-Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Unter Risankizumab zeigte sich eine gute Wirkung auf die Haut, jedoch bestehen weiterhin zunehmende Gelenkbeschwerden.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Gute Hautwirkung unter Risankizumab bei weiterhin zunehmenden Gelenkbeschwerden.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Bei bekannter Psoriasisarthritis zunehmende Fibroblastenaktivierung in multiplen Gelenken",
+      "source_file": "34_FollowUp.docx",
+      "description": "Zunehmende Fibroblastenaktivierung in multiplen Gelenken.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Arthralgie, Arthritis Knie links",
+      "source_file": "34_FollowUp.docx",
+      "description": "Dokumentierte Arthralgie und Arthritis des linken Knies.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. OP Meniskus links",
+      "source_file": "34_FollowUp.docx",
+      "description": "Zustand nach Meniskusoperation links.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "starke, persistierende Schmerzen in beiden Handgelenken und Fingern, insbesondere in den Daumengelenken, sowie im linken Knie",
+      "source_file": "34_FollowUp.docx",
+      "description": "Starke persistierende Schmerzen beider Handgelenke und Finger, besonders der Daumengelenke, sowie des linken Knies.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Schmerzen bestehen durchgängig",
+      "source_file": "34_FollowUp.docx",
+      "description": "Durchgängige Gelenkschmerzen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "eine Besserung durch Bewegung wird verneint.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Keine Besserung der Beschwerden durch Bewegung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Es kommt zu nächtlichem Erwachen aufgrund der Gelenkbeschwerden.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Nächtliches Erwachen aufgrund von Gelenkbeschwerden.",
+      "context": "clinical"
+    },
+    {
+      "date": "2019-04-15",
+      "date_evidence": "Röntgen Hände bds vom 15.04.2019:",
+      "evidence": "Keine signifikanten degenerativen oder erosive Veränderungen. Keine typischen Zeichen für Hämochromatose",
+      "source_file": "34_FollowUp.docx",
+      "description": "Beidseits keine signifikanten degenerativen oder erosiven Handveränderungen und keine typischen Hämochromatosezeichen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2022-05-02",
+      "date_evidence": "MRT Schulter links vom 02.05.2022:",
+      "evidence": "kräftige Bursitis subacromialis/subdeltoidea, z.B. im Rahmen einer Psoriasisarthritis.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Kräftige Bursitis subacromialis/subdeltoidea links, beispielsweise im Rahmen einer Psoriasisarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI/PET 07/23:",
+      "evidence": "intensive Fibroblastenaktivierung im Bereich der linken Schulter sowie um das linke Kniegelenk",
+      "source_file": "34_FollowUp.docx",
+      "description": "Intensive Fibroblastenaktivierung an linker Schulter und linkem Knie.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI/PET 07/23:",
+      "evidence": "Fokale Fibroblastenaktivierung im linken Handgelenk, ebenfalls im Rahmen der Grunderkrankung zu werten.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Fokale Fibroblastenaktivierung im linken Handgelenk im Rahmen der Grunderkrankung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "FAPI-Anreicherung im Schultergelenk links regredient im Vergleich zur VU",
+      "source_file": "34_FollowUp.docx",
+      "description": "Regrediente FAPI-Anreicherung im linken Schultergelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Neuer gelenksassoziierter FAPI-Fokus kapselassoziiert im Schultergelenk rechts medial",
+      "source_file": "34_FollowUp.docx",
+      "description": "Neuer kapselassoziierter FAPI-Fokus medial im rechten Schultergelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Zunehmender Traceruptake in der Handwurzel links an den Handwurzelgelenken und am Handgelenk links",
+      "source_file": "34_FollowUp.docx",
+      "description": "Zunehmender Traceruptake an linken Handwurzelgelenken und linkem Handgelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Neuer FAPI-Fokus im DIP I links (SUVmax 10,6) sowie deutlich flauer und weitestgehend konstant im PIP III links (SUVmax 3,4).",
+      "source_file": "34_FollowUp.docx",
+      "description": "Neuer FAPI-Fokus im DIP I links; deutlich flauer und weitgehend konstanter Fokus im PIP III links.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Kräftiger neuer FAPI-Uptake im Daumensattelgelenk rechts (SUVmax 10,3) und im DIP I rechts.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Kräftiger neuer FAPI-Uptake im rechten Daumensattelgelenk und DIP I rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "Ferner neuer Traceruptake im PIP II rechts medial und lateral des Gelenkspaltes. Traceranreicherung im Sehnenverlauf des Digitus II rechts (SUVmax 6,4).",
+      "source_file": "34_FollowUp.docx",
+      "description": "Neuer Traceruptake im PIP II rechts und Traceranreicherung im Sehnenverlauf des rechten Digitus II.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-23",
+      "date_evidence": "FAPI PET/CT vom 23.09.2025:",
+      "evidence": "FAPI-Fokus palmarseitig rechts aktuell nicht mehr abgrenzbar.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Palmarseitiger FAPI-Fokus rechts aktuell nicht mehr abgrenzbar.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-09-11",
+      "date_evidence": "Laborwerte vom 11.09.2025:",
+      "evidence": "Rheumafaktor IgG 26,20 IE/ml",
+      "source_file": "34_FollowUp.docx",
+      "description": "Rheumafaktor IgG 26,20 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-12-12",
+      "date_evidence": "Laborwerte vom 12.12.2025:",
+      "evidence": "Rheumafaktor IgG 32,56 IE/ml",
+      "source_file": "34_FollowUp.docx",
+      "description": "Rheumafaktor IgG 32,56 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Laborchemisch fand sich ein leicht erhöhtes CRP.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Qualitativ als leicht erhöht beschriebenes CRP.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Kontrollen zum Ausschluss Tuberkulose (Röntgen Thorax, Quantiferon), Hepatitis B&C vor Therapiebeginn.",
+      "source_file": "34_FollowUp.docx",
+      "description": "Vor Therapiebeginn vorgesehene Kontrollen zum Ausschluss von Tuberkulose und Hepatitis B/C.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine rheumatologische Verlaufskontrolle wird in 3–4 Monaten empfohlen",
+      "source_file": "34_FollowUp.docx",
+      "description": "Rheumatologische Verlaufskontrolle in 3–4 Monaten empfohlen.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Dauermedikation:\nRisankizumab",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Risankizumab",
+      "description": "Risankizumab als Dauermedikation; Injektionen am 28.07.2025 und 28.08.2025 dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Der Patient nimmt derzeit täglich 600 mg Ibuprofen ein.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Derzeit täglich 600 mg."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX 15mg p.o./Woche",
+      "source_file": "34_FollowUp.docx",
+      "drug": "MTX",
+      "description": "Frühere Therapie mit 15 mg p.o. pro Woche; aufgrund von Unverträglichkeit beendet."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Tofacitinib 5 mg 1-0-1 seit 09/20-03/2023 (Wirkungsverlust)",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Tofacitinib",
+      "description": "5 mg 1-0-1 von 09/2020 bis 03/2023; Wirkungsverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Secukinumab (Cosentyx) 300mg s.c. ab 03/2023-07/2023 (Keine Wirkung)",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Secukinumab (Cosentyx)",
+      "description": "300 mg s.c. von 03/2023 bis 07/2023; keine Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Adalimumab 07/2023-04/2024 (Wirkungsverlust)",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Therapie von 07/2023 bis 04/2024; Wirkungsverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Etanercept (Enbrel) 50 mg 1x wöchentlich (Aggravation der Haut-Psoriasis)",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Etanercept (Enbrel)",
+      "description": "50 mg einmal wöchentlich; Aggravation der Haut-Psoriasis."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bisherige Therapie: MTX, Tofacitinib, Secukinumab, Adalimumab, Etanercept, Risankizumab",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Risankizumab",
+      "description": "In der Liste bisheriger Therapien genannt; zugleich als aktuelle Dauermedikation dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Am 28.07.2025 wurde zusätzlich ein Kortisonstoß mit 20 mg Prednisolon über zwei Wochen durchgeführt.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Kortisonstoß mit 20 mg über zwei Wochen, durchgeführt ab 28.07.2025."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "lokale Punktion und Volon-Injektion am li. Knie 18.07.2019",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Volon",
+      "description": "Lokale Punktion und Volon-Injektion am linken Knie am 18.07.2019."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktive Psoriasis beider Unterschenkel vor einigen Wochen, welche dermatologisch topisch behandelt wurde",
+      "source_file": "34_FollowUp.docx",
+      "drug": null,
+      "description": "Dermatologische topische Behandlung aktiver Psoriasis beider Unterschenkel vor einigen Wochen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Beginn Golimumab 50mg 1x monatlich",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Golimumab",
+      "description": "Empfohlener Beginn mit 50 mg einmal monatlich."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Daher empfehlen wir die Umstellung der Therapie auf Golimumab 50 mg einmal wöchentlich.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Golimumab",
+      "description": "Empfohlene Umstellung auf 50 mg einmal wöchentlich."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Umstellung auf Skyrizi erfolgte durch die behandelnde Dermatologie. Die Injektionen wurden am 28.07.2025 und 28.08.2025 appliziert.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Skyrizi",
+      "description": "Durch die Dermatologie erfolgte Umstellung auf Skyrizi; Injektionen am 28.07.2025 und 28.08.2025 appliziert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine Therapie mit Methotrexat wurde aufgrund von Unverträglichkeit beendet.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "Therapie aufgrund von Unverträglichkeit beendet."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Am 28.07.2025 wurde zusätzlich ein Kortisonstoß mit 20 mg Prednisolon über zwei Wochen durchgeführt.",
+      "source_file": "34_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Zusätzlicher Kortisonstoß mit 20 mg über zwei Wochen ab 28.07.2025 durchgeführt."
+    }
+  ],
+  "metadata": {
+    "patient_id": 34,
+    "disease": "PsA",
+    "timepoint": "FU",
+    "source_files": [
+      "34_FollowUp.docx"
+    ]
+  }
+}

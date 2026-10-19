@@ -1,0 +1,486 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "source_file": "35_Baseline.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "DAS28: 2,99",
+      "source_file": "35_Baseline.docx",
+      "value": 2.99,
+      "variant": null
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "LEI: 3",
+      "source_file": "35_Baseline.docx",
+      "value": 3,
+      "variant": null
+    }
+  ],
+  "MASES": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "MASES: 2",
+      "source_file": "35_Baseline.docx",
+      "value": 2,
+      "variant": null
+    }
+  ],
+  "HAQ": [],
+  "PASI": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "PASI:0",
+      "source_file": "35_Baseline.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "C-reaktives Protein 8,7 mg/l",
+      "source_file": "35_Baseline.docx",
+      "value": 8.7,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Sonst keine Gelenkschwellungen.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Anamnestisch keine sonstigen Gelenkschwellungen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Schwellungen: keine.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Schwellungen im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Druckschmerzen: OSG links, Knie bds.",
+      "source_file": "35_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "OSG links",
+        "Knie beidseits"
+      ],
+      "description": "Druckschmerzen im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "keine synovitischen Schwellungen.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine synovitischen Schwellungen klinisch.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Insgesamt leichte Synovialhypertrophie an beiden Kniegelenken ohne PD-Signal, unspezifisch für eine PsA.",
+      "source_file": "35_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Kniegelenke beidseits"
+      ],
+      "description": "Leichte Synovialhypertrophie, lateral Grad 1; kein Erguss und keine PD-Aktivität; unspezifisch für PsA.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rez. Sehnenansatzentzündungen an beiden Ellenbogen",
+      "source_file": "35_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ellenbogen beidseits"
+      ],
+      "description": "Rezidivierende Sehnenansatzentzündungen anamnestisch.",
+      "context": "history"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Entheseale Druckschmerzen: Epi med re, Achilles bds, Sternoclavicular bds",
+      "source_file": "35_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Epicondylus medialis rechts",
+        "Achilles beidseits",
+        "Sternoclavicular beidseits"
+      ],
+      "description": "Entheseale Druckschmerzen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Achillessehne bds:\nKeine strukturellen knöchernen Veränderungen. Diffuse tendinopathischen Veränderungen. Keine Zeichen von Enthesitis, kein PD-Signal.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Achillessehne beidseits"
+      ],
+      "description": "Keine sonographischen Zeichen von Enthesitis und kein PD-Signal.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Epi lat bds:\nKeine strukturellen knöchernen Veränderungen. Leichte tendinopathischen Veränderungen li>re. Keine Zeichen von Enthesitis, kein PD-Signal.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Epicondylus lateralis beidseits"
+      ],
+      "description": "Keine sonographischen Zeichen von Enthesitis und kein PD-Signal.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Epi med bds.\nKeine strukturellen knöchernen Veränderungen. Normale Echostruktur der Sehnen. Keine Zeichen von Enthesitis, kein PD-Signal.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Epicondylus medialis beidseits"
+      ],
+      "description": "Keine sonographischen Zeichen von Enthesitis und kein PD-Signal.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Morgensteifigkeit von ca. 10 Minuten.",
+      "source_file": "35_Baseline.docx",
+      "value": 10,
+      "operator": "approx",
+      "unit": "Minuten",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris (ED 2009)",
+      "source_file": "35_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris, Erstdiagnose 2009.",
+      "context": "history"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "bek. Psoriasis vulgaris in Behandlung mit Tildrakizumab in unserer Hautklinik und aktuell in Remission.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Bekannte Psoriasis vulgaris aktuell in Remission unter Tildrakizumab.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Haut: o.p.B.",
+      "source_file": "35_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Haut ohne pathologischen Befund.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "V.a. Psoriasis-Arthritis bei Psoriasis vulgaris (ED 2009)",
+      "source_file": "35_Baseline.docx",
+      "description": "Verdacht auf Psoriasis-Arthritis bei bekannter Psoriasis vulgaris.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Insgesamt keine klare auf eine PsA hinweisende sonographische Zeichen.",
+      "source_file": "35_Baseline.docx",
+      "description": "Keine klaren sonographischen Hinweise auf Psoriasis-Arthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "kein klarer Hinweis auf das Vorliegen einer Psoriasis-Arthritis.",
+      "source_file": "35_Baseline.docx",
+      "description": "In Zusammenschau kein klarer Hinweis auf Psoriasis-Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Die erhöhte Entzündungswerte, diffuse Druckschmerzen und die metabolische Risikofaktoren sprechen allerdings für ein erhöhtes Progressionsrisiko.",
+      "source_file": "35_Baseline.docx",
+      "description": "Erhöhtes Progressionsrisiko bei erhöhten Entzündungswerten, diffusen Druckschmerzen und metabolischen Risikofaktoren.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Seit Jahren Gelenkschmerzen in Knien und Füßen bds",
+      "source_file": "35_Baseline.docx",
+      "description": "Seit Jahren bestehende Gelenkschmerzen an Knien und Füßen beidseits.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Parästhesien von beiden Händen bds, v.a. nachts.",
+      "source_file": "35_Baseline.docx",
+      "description": "Parästhesien beider Hände, vor allem nachts.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bek. Fersensporn bds.",
+      "source_file": "35_Baseline.docx",
+      "description": "Bekannter Fersensporn beidseits.",
+      "context": "history"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Keine Uveitis, keine Symptome/Zeichen von CED.",
+      "source_file": "35_Baseline.docx",
+      "description": "Keine Uveitis und keine Symptome oder Zeichen einer chronisch entzündlichen Darmerkrankung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": "Z.n rupturierter Bakerzyste links im 2021.",
+      "evidence": "Z.n rupturierter Bakerzyste links im 2021.",
+      "source_file": "35_Baseline.docx",
+      "description": "Zustand nach rupturierter Bakerzyste links 2021.",
+      "context": "history"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "Degenerative tendinopathischen Veränderungen am Epicondylus Humeri lateralis und an der Achillessehne bds.",
+      "source_file": "35_Baseline.docx",
+      "description": "Degenerative Tendinopathie am Epicondylus humeri lateralis und an der Achillessehne beidseits; am lateralen Epicondylus links stärker als rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "Arthrosonographie vom 19.01.2023:",
+      "evidence": "N. Medianus:\nKeine Kompression.",
+      "source_file": "35_Baseline.docx",
+      "description": "Keine sonographische Kompression des Nervus medianus.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Rheumafaktor IgG <6,11 IE/ml",
+      "source_file": "35_Baseline.docx",
+      "description": "Rheumafaktor IgG <6,11 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "CCP zykl. zitrul. Peptide 0,90 RE/ml",
+      "source_file": "35_Baseline.docx",
+      "description": "CCP 0,90 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Anti-MCV 5,6 U/ml",
+      "source_file": "35_Baseline.docx",
+      "description": "Anti-MCV 5,6 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "ANA auf Hep2 negativ",
+      "source_file": "35_Baseline.docx",
+      "description": "ANA auf Hep2 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "ein relevant erhöhter CK Wert bei 531 U/L, dieser ohne klinisches Korrelat.",
+      "source_file": "35_Baseline.docx",
+      "description": "CK 531 U/L erhöht ohne klinisches Korrelat; Verlaufskontrolle bei der nächsten Vorstellung empfohlen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "25-Hydroxy-Vitamin D 16,37 ng/ml",
+      "source_file": "35_Baseline.docx",
+      "description": "Vitamin-D-Mangel mit 25-Hydroxy-Vitamin D 16,37 ng/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Die Durchführung einer FAPI/PET Untersuchung in domo zur besseren Risikoeinschätzung wurde mit der Patientin diskutiert.",
+      "source_file": "35_Baseline.docx",
+      "description": "FAPI/PET-Untersuchung zur besseren Risikoeinschätzung diskutiert und empfohlen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Gewichtsreduktionsmaßnahmen sind dringend empfohlen.",
+      "source_file": "35_Baseline.docx",
+      "description": "Gewichtsreduktionsmaßnahmen dringend empfohlen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Wiedervorstellung in 2 Monaten zur Befundbesprechung",
+      "source_file": "35_Baseline.docx",
+      "description": "Wiedervorstellung zur Befundbesprechung in zwei Monaten vereinbart.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Tildrakizumab 100 mg s.c. alle 12 Wochen",
+      "source_file": "35_Baseline.docx",
+      "drug": "Tildrakizumab",
+      "description": "Tildrakizumab 100 mg subkutan alle 12 Wochen."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Fumarat",
+      "source_file": "35_Baseline.docx",
+      "drug": "Fumarat",
+      "description": "Frühere Therapie mit Fumarat."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Adalimumab (sek. Wirkverlust)",
+      "source_file": "35_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Therapie mit Adalimumab; sekundärer Wirkverlust."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "eine Substitution mit Dekristol 20.000 IE wöchentlich empfohlen.",
+      "source_file": "35_Baseline.docx",
+      "drug": "Dekristol",
+      "description": "Vitamin-D-Substitution mit Dekristol 20.000 IE wöchentlich empfohlen."
+    },
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Tildrakizumab 100 mg s.c. alle 12 Wochen weiter",
+      "source_file": "35_Baseline.docx",
+      "drug": "Tildrakizumab",
+      "description": "Fortführung von Tildrakizumab 100 mg subkutan alle 12 Wochen empfohlen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2023-01-19",
+      "date_evidence": "die sich am 19.01.2023 ambulant vorstellte.",
+      "evidence": "Aus rheumatologischer Sicht besteht es vorerst keine Indikation zu einer Therapieeskalation und somit empfehlen wir die Weiterführung der aktuellen Therapie unverändert.",
+      "source_file": "35_Baseline.docx",
+      "drug": "Tildrakizumab",
+      "description": "Therapie unverändert; vorerst keine Indikation zur Therapieeskalation, unveränderte Weiterführung empfohlen."
+    }
+  ],
+  "metadata": {
+    "patient_id": 35,
+    "disease": "PsA",
+    "timepoint": "BA",
+    "source_files": [
+      "35_Baseline.docx"
+    ]
+  }
+}

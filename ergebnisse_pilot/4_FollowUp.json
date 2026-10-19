@@ -1,0 +1,530 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "source_file": "4_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "4_FollowUp.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "BKS: 4 mm/h",
+      "source_file": "4_FollowUp.docx",
+      "value": 4,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Keine synovitischen Schwellungen.",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine synovitischen Schwellungen im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Leichter Druckschmerz im MCP-Gelenk 1 re. und Interphalangealgelenk 1 links.",
+      "source_file": "4_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "MCP-Gelenk 1 rechts",
+        "Interphalangealgelenk 1 links"
+      ],
+      "description": "Leichter Druckschmerz.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "ISG nicht druckdolent",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "ISG"
+      ],
+      "description": "ISG nicht druckdolent; Seite nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": "Hand-MRT li. 10/2020",
+      "evidence": "Synovialitis und entzündliches Weichgewebe um das Interphalangealgelenk Digitus 1 mit kleiner Erosion an der Basis des Endgliedes.",
+      "source_file": "4_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Interphalangealgelenk Digitus 1 links"
+      ],
+      "description": "Synovialitis mit entzündlichem Weichgewebe und kleiner Erosion an der Basis des Endgliedes.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "keine Enthesitis-Zeichen",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Enthesitis-Zeichen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-02-09",
+      "date_evidence": "HWS/BWS/LWS-MRT nativ/mit KM+Rekonstruktion vom 09.02.2021",
+      "evidence": "rückläufige Enthesitis der Ligamenta interspinalia/supraspinalia zervikal und lumbal.",
+      "source_file": "4_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Ligamenta interspinalia/supraspinalia zervikal",
+        "Ligamenta interspinalia/supraspinalia lumbal"
+      ],
+      "description": "Rückläufige Enthesitis im MRT.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Keine Daktylitis",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Daktylitis.",
+      "context": "clinical"
+    }
+  ],
+  "inflammatory_back_pain": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "kein entzündl. Rückenschmerz",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "Rücken"
+      ],
+      "description": "Kein entzündlicher Rückenschmerz.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten",
+      "source_file": "4_FollowUp.docx",
+      "value": 15,
+      "operator": "approx",
+      "unit": "min",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "kein entzündl. Rückenschmerz, Uveitis, Psoriasis oder CED-Symptomatik.",
+      "source_file": "4_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Aktuell keine Psoriasis anamnestisch angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "gute Beweglichkeit der LWS, keine Einschränkung der Rotation in der HWS.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Gute Beweglichkeit der LWS und uneingeschränkte Rotation der HWS.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Aktuell stabiles Befinden",
+      "source_file": "4_FollowUp.docx",
+      "description": "Aktuell stabiles Befinden.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Aktuell zeigt sich die Grunderkrankung stabil.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Grunderkrankung aktuell stabil.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Bei bekannter SpA unter IL- 17 Blockade zeigt sich in Übereinstimmung mit den anamnestischen Angaben und der rezenten MRT Untersuchung ein gutes Therapieansprechen.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Gutes Therapieansprechen unter IL-17-Blockade in der PET/CT-Beurteilung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-09",
+      "date_evidence": "HWS/BWS/LWS-MRT nativ/mit KM+Rekonstruktion vom 09.02.2021",
+      "evidence": "Bei Psoriasisarthritis mit axialer Beteiligung rückläufige Enthesitis der Ligamenta interspinalia/supraspinalia zervikal und lumbal.",
+      "source_file": "4_FollowUp.docx",
+      "description": "MRT-Beurteilung bezeichnet die Erkrankung als Psoriasisarthritis mit axialer Beteiligung.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Spondylitis ankylosans, ED 03/15",
+      "source_file": "4_FollowUp.docx",
+      "description": "Spondylitis ankylosans, Erstdiagnose 03/15.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "extern HLA B27 positiv",
+      "source_file": "4_FollowUp.docx",
+      "description": "Extern HLA-B27 positiv.",
+      "context": "history"
+    },
+    {
+      "date": "2020-06-22",
+      "date_evidence": "HWS/BWS/LWS-MRT vom 22.06.20",
+      "evidence": "Entzündliche Veränderungen der Ligamenta interspinalia und supraspinalia HWK 6-BWK 1 und geringer ausgeprägt der Ligamenta interspinalia LWK 2-LWK 5.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Entzündliche Bandveränderungen HWK 6–BWK 1 und geringer LWK 2–LWK 5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-06-22",
+      "date_evidence": "HWS/BWS/LWS-MRT vom 22.06.20",
+      "evidence": "Multisegmentale Entzündungen der Kostovertebralgelenke der BWS links, mit Betonung BWK 9/10.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Multisegmentale Entzündungen linksseitiger Kostovertebralgelenke der BWS, betont BWK 9/10.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT-ISG extern (2017)",
+      "evidence": "Sakroiliitis li. sowie min. entzündlichen Veränderungen auch re. ISG",
+      "source_file": "4_FollowUp.docx",
+      "description": "Sakroiliitis links und minimale entzündliche Veränderungen des rechten ISG.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI-PET 09/2020",
+      "evidence": "intensive FAPI Anreicherung um den Dens axis",
+      "source_file": "4_FollowUp.docx",
+      "description": "Intensive FAPI-Anreicherung um den Dens axis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI-PET 09/2020",
+      "evidence": "fokale Traceranreicherungen in mehreren Proc. transversi der HWS, flächige FAPI Anreicherung interspinal von HWK6 bis BWK 2",
+      "source_file": "4_FollowUp.docx",
+      "description": "Traceranreicherungen an mehreren HWS-Querfortsätzen und interspinal HWK 6–BWK 2.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI-PET 09/2020",
+      "evidence": "fokale Traceranreicherungen in mehreren Costovertebralgelenken, insbesondere links",
+      "source_file": "4_FollowUp.docx",
+      "description": "Traceranreicherungen mehrerer Costovertebralgelenke, insbesondere links.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI-PET 09/2020",
+      "evidence": "Traceranreicherung in mehren Facettengelenken mit Punctum maximum LWK5/SWK1 rechts, FAPI Anreicherung im Angulus sterni, kräftige Tracermehrspeicherung im rechten Daumenengelenk und im linken Daumengrundgelenk.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Traceranreicherungen mehrerer Facettengelenke, maximal LWK5/SWK1 rechts, am Angulus sterni, im rechten Daumenengelenk und linken Daumengrundgelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Belastungsabhängige Arthralgien MCP 1 rechts und PIP 1 links.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "kein entzündl. Rückenschmerz, Uveitis, Psoriasis oder CED-Symptomatik.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Aktuell keine Uveitis oder CED-Symptomatik.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Nach den letzten Talz-Injektionen Rötung mit Schwellung im Bereich der Injektionsstelle für ca. 3 Tage.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rötung und Schwellung an den Injektionsstellen nach den letzten Talz-Injektionen für etwa drei Tage.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Zuletzt hat der Pat. Kühlpads auf die Injektionsstellen gelegt, hierunter Rötung weniger ausgeprägt. Keine generalisierte allergische Hautreaktion.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Unter Kühlpads geringere Rötung; keine generalisierte allergische Hautreaktion.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "kein Klopfschmerz über der WS, Lasegue und Patrick-Zeichen neg. bds.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Kein Klopfschmerz über der Wirbelsäule; Lasègue- und Patrick-Zeichen beidseits negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": "2021-02-09",
+      "date_evidence": "HWS/BWS/LWS-MRT nativ/mit KM+Rekonstruktion vom 09.02.2021",
+      "evidence": "Keine Romanus- oder Anderson-Läsion.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Keine Romanus- oder Anderson-Läsion im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-09",
+      "date_evidence": "HWS/BWS/LWS-MRT nativ/mit KM+Rekonstruktion vom 09.02.2021",
+      "evidence": "Rückläufige Kontrastmittelanreicherung der Ligamenta supraspinalia HWK 5-7",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rückläufige Kontrastmittelanreicherung der Ligamenta supraspinalia HWK 5–7.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-09",
+      "date_evidence": "HWS/BWS/LWS-MRT nativ/mit KM+Rekonstruktion vom 09.02.2021",
+      "evidence": "Ebenso rückläufige Kontrastmittelaufnahme der Ligamenta interspinalia/supraspinalia LWK 1-3",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rückläufige Kontrastmittelaufnahme der Ligamenta interspinalia/supraspinalia LWK 1–3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Die in der VU auffällige fokale FAPI Mehrspeicherung um die Basis des Dens axis, dessen Kortikalis mehrsklerosiert erscheint, ist rückläufig",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rückläufige FAPI-Mehrspeicherung um die Basis des Dens axis; Kortikalis erscheint mehrsklerosiert.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Zwischen mehreren Proc. transversi der HWS findet sich eine gesteigerte, jedoch im Verlauf regrediente Nuklidanreicherung",
+      "source_file": "4_FollowUp.docx",
+      "description": "Gesteigerte, regrediente Nuklidanreicherung zwischen mehreren HWS-Querfortsätzen, exemplarisch HWK 4 und HWK 2.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Kurzstreckig vermehrte flächige Nuklidbelegung entlang der Ligamenti interspinalia zwischen HWK 6 und BWK 2, rückläufig im Vgl. zu 09/2020",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rückläufige, weiterhin vermehrte Nuklidbelegung interspinal HWK 6–BWK 2.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Im Verlauf deutlich rückläufige fokale Nuklidmehrspeicherung in Projektion auf mehrere Facettengelenke der oberen BWS, noch leicht betonte Speicherung exemplarisch links BWK 1/ 2",
+      "source_file": "4_FollowUp.docx",
+      "description": "Deutlich rückläufige Mehrspeicherung an Facettengelenken der oberen BWS, noch leicht betont links BWK 1/2.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Im Vgl. zur VU neue fokale Traceranreicherung im Costovertebralgelenk links BWK 6",
+      "source_file": "4_FollowUp.docx",
+      "description": "Neue fokale Traceranreicherung im Costovertebralgelenk links BWK 6.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "andere mit einer konstanten FAPI Mehrbelegung, exemplarisch BWK 12 links",
+      "source_file": "4_FollowUp.docx",
+      "description": "Konstante FAPI-Mehrbelegung anderer Costovertebralgelenke, exemplarisch BWK 12 links.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Rückläufige Nuklidmehrspeicherung auch im Bereich des Angulus sterni",
+      "source_file": "4_FollowUp.docx",
+      "description": "Rückläufige Nuklidmehrspeicherung am Angulus sterni.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Regrediente Tracermehrspeicherung rechts im Facettengelenk LWK5/SWK1",
+      "source_file": "4_FollowUp.docx",
+      "description": "Regrediente Tracermehrspeicherung im rechten Facettengelenk LWK5/SWK1 mit deutlicher Gelenkspaltverschmälerung und Hypersklerosierung im CT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "ISG Fugenarthrose bds. ohne gesteigerte Tracerbelegung.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Beidseitige ISG-Fugenarthrose ohne gesteigerte Tracerbelegung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Neue flaue FAPI Anreicherung im rechten AC Gelenk",
+      "source_file": "4_FollowUp.docx",
+      "description": "Neue flaue FAPI-Anreicherung im rechten AC-Gelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Im Vgl. zur VU regrediente FAPI Anreicherung im linken Interphalangealgelenk Digitus I",
+      "source_file": "4_FollowUp.docx",
+      "description": "Regrediente FAPI-Anreicherung im linken Interphalangealgelenk Digitus I und im rechten Daumengrundgelenk ohne entsprechendes CT-Korrelat.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-12",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 12.02.2021",
+      "evidence": "Nahezu sämtliche in der FAPI PET/CT vorbeschriebenen Lokalisationen (HWS, obere BWS, untere LWS und Hände bds.) zeigen eine rückläufige FAPI Anreicherung.",
+      "source_file": "4_FollowUp.docx",
+      "description": "Nahezu sämtliche vorbeschriebenen Lokalisationen an HWS, oberer BWS, unterer LWS und beiden Händen mit rückläufiger FAPI-Anreicherung.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Ixezikumab (Talz) 80 mg s.c. alle 4 Wo. (seit 10/2020)",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Ixezikumab (Talz)",
+      "description": "Aktuell 80 mg subkutan alle vier Wochen, seit 10/2020."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Z.n. Bedarfsanalgesie mit Diclofenac",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Diclofenac",
+      "description": "Frühere Bedarfsanalgesie mit Diclofenac."
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Z.n. fester Einnahme von Ibuprofen über mehrere Monate",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Frühere feste Einnahme über mehrere Monate."
+    },
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Z.n. fester Ibuprofen-Einnahme über mehrere Monate ohne ausreichendes Therapieansprechen",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Frühere feste Einnahme über mehrere Monate ohne ausreichendes Therapieansprechen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Wir empfehlen die Therapie unverändert fortzuführen.",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Ixezikumab (Talz)",
+      "description": "Unveränderte Fortführung der aktuellen Therapie empfohlen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2021-04-19",
+      "date_evidence": "der sich am 19.04.2021 ambulant vorstellte.",
+      "evidence": "Wir empfehlen die Therapie unverändert fortzuführen.",
+      "source_file": "4_FollowUp.docx",
+      "drug": "Ixezikumab (Talz)",
+      "description": "Therapie unverändert; unveränderte Fortführung empfohlen."
+    }
+  ],
+  "metadata": {
+    "patient_id": 4,
+    "disease": "SpA",
+    "timepoint": "FU",
+    "source_files": [
+      "4_FollowUp.docx"
+    ]
+  }
+}

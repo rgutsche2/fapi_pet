@@ -1,0 +1,331 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "source_file": "32_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "TJC 10",
+      "source_file": "32_Baseline.docx",
+      "value": 10,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "SJC chron. Schwellungen drei Gelenke",
+      "source_file": "32_Baseline.docx",
+      "value": 3,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "32_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Seitens der Gelenke weiterhin Arthralgien und chron. Gelenkschwellungen.",
+      "source_file": "32_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Chronische Gelenkschwellungen anamnestisch berichtet.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "SJC chron. Schwellungen drei Gelenke",
+      "source_file": "32_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Chronische Schwellungen an drei Gelenken im Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Plaquepsoriasis, ED 2001",
+      "source_file": "32_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Plaquepsoriasis, Erstdiagnose 2001.",
+      "context": "history"
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Aktuell berichtet die Pat. über vermehrte Psoriasis-Läsionen, hauptsächlich Kopfhaut, Ohrgänge, Brustbereich, Bauchbereich, Genitalbereich.",
+      "source_file": "32_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kopfhaut",
+        "Ohrgänge",
+        "Brustbereich",
+        "Bauchbereich",
+        "Genitalbereich"
+      ],
+      "description": "Vermehrte Psoriasis-Läsionen.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Klinisch zeigte sich vermehrte Aktivität der Grunderkrankung mit vermehrten Hautläsionen, und persistierenden Gelenkschmerzen und chron. Gelenkschwellungen.",
+      "source_file": "32_Baseline.docx",
+      "description": "Vermehrte klinische Krankheitsaktivität mit Hautläsionen, persistierenden Gelenkschmerzen und chronischen Gelenkschwellungen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Laborchemisch keine erhöhten Entzündungsparameter.",
+      "source_file": "32_Baseline.docx",
+      "description": "Keine erhöhten Entzündungsparameter.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-24",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 24.10.2023:",
+      "evidence": "Im gesamten Untersuchungsgebiet kein Nachweis einer sonstigen pathologischen Traceranreicherung, somit kein Hinweis auf eine floride fibroblastäre Aktivität.",
+      "source_file": "32_Baseline.docx",
+      "description": "Kein Hinweis auf floride fibroblastäre Aktivität im FAPI PET/CT.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Psoriasis-Arthritis (PsA)",
+      "source_file": "32_Baseline.docx",
+      "description": "Diagnose Psoriasis-Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Aktuell Arthralgien PIP-Gelenke, Handgelenke, Schulterbereich.",
+      "source_file": "32_Baseline.docx",
+      "description": "Arthralgien der PIP-Gelenke, Handgelenke und im Schulterbereich.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "post-arthritische Deformitäten mehrere Gelenke",
+      "source_file": "32_Baseline.docx",
+      "description": "Postarthritische Deformitäten mehrerer Gelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-10-24",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 24.10.2023:",
+      "evidence": "Die konventionellradiologisch bekannten erosiven Veränderungen bds. radiokarpal sowie in den MCP und IP-Gelenken mit Gelenkspaltverschmälerung und Irregularität der Gelenkflächen, zeigen keine signifikant vermehrte Radiopharmakonspeicherung.",
+      "source_file": "32_Baseline.docx",
+      "description": "Erosive Veränderungen beidseits radiokarpal sowie in MCP- und IP-Gelenken mit Gelenkspaltverschmälerung und irregulären Gelenkflächen; keine signifikant vermehrte Radiopharmakonspeicherung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-10-24",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 24.10.2023:",
+      "evidence": "Flaue Traceranreicherung im Projektion auf das linke Schulterblatt (SUVmax 4,0), ohne eindeutiges CT-morphologisches Korrelat, am ehesten unspezifisch.",
+      "source_file": "32_Baseline.docx",
+      "description": "Flaue Traceranreicherung am linken Schulterblatt, SUVmax 4,0, ohne eindeutiges CT-Korrelat, am ehesten unspezifisch.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "aktuelle Therapie: Beginn Bimekizumab",
+      "source_file": "32_Baseline.docx",
+      "drug": "Bimekizumab",
+      "description": "Unter aktueller Therapie als Beginn Bimekizumab dokumentiert."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Aktuell Cimzia/Leflunomid",
+      "source_file": "32_Baseline.docx",
+      "drug": "Cimzia",
+      "description": "Als aktuelle Therapie zusammen mit Leflunomid dokumentiert."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Aktuell Cimzia/Leflunomid",
+      "source_file": "32_Baseline.docx",
+      "drug": "Leflunomid",
+      "description": "Als aktuelle Therapie zusammen mit Cimzia dokumentiert; Arava zuletzt auf 20 mg erhöht, mit vermehrter Übelkeit und Erbrechen."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Z.n. Leflunomid (Leukopenie)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Therapie; Leukopenie."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Adalimumab (EBV-Reaktivierung)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Therapie; EBV-Reaktivierung."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Apremilast (unzur. Wirkung)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Apremilast",
+      "description": "Frühere Therapie; unzureichende Wirkung."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Secukinumab 01/17-02/19",
+      "source_file": "32_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Frühere Therapie 01/17–02/19."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Tofacitinib 03/19-11/19",
+      "source_file": "32_Baseline.docx",
+      "drug": "Tofacitinib",
+      "description": "Frühere Therapie 03/19–11/19."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Ixekizumab (unzureichendes Ansprechen, Migräne)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Ixekizumab",
+      "description": "Frühere Therapie; unzureichendes Ansprechen und Migräne."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "MTX bis 08/22-11/22 (abgesetzt bei Übelkeit)",
+      "source_file": "32_Baseline.docx",
+      "drug": "MTX",
+      "description": "Zeitangabe bis 08/22-11/22; bei Übelkeit abgesetzt."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Z.n Certolizumab bis 10/23 (zunehmende Hautbefund)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Certolizumab",
+      "description": "Frühere Therapie bis 10/23; zunehmender Hautbefund."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Leflunomid bis 10/2023 (keine Wirkung)",
+      "source_file": "32_Baseline.docx",
+      "drug": "Leflunomid",
+      "description": "Frühere Therapie bis 10/2023; keine Wirkung."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "empfehlen wir eine Therapieumstellung auf Bimekizumab 160mg. Hier müssten zwei Spritzen alle 4 Wochen, die erste 5 Male (Woche 0, 4, 8, 12 und 16), danach zwei Spritzen alle 8 Wochen, unter regelm. Blutkontrollen.",
+      "source_file": "32_Baseline.docx",
+      "drug": "Bimekizumab",
+      "description": "Empfohlene Umstellung auf Bimekizumab 160 mg: zwei Spritzen alle 4 Wochen für die ersten fünf Anwendungen in Woche 0, 4, 8, 12 und 16, danach zwei Spritzen alle 8 Wochen; regelmäßige Blutkontrollen. Rezept und Patienteninfobroschüre mitgegeben."
+    },
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Die Therapie mit Leflunomid soll abgesetzt werden.",
+      "source_file": "32_Baseline.docx",
+      "drug": "Leflunomid",
+      "description": "Absetzen geplant."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2023-10-05",
+      "date_evidence": "die sich am 05.10.2023 ambulant vorstellte.",
+      "evidence": "Die Therapie mit Arava wurde zuletzt auf 20 mg erhöht, dies wird nicht optimal vertragen, hier vermehrt Übelkeit u. Erbrechen.",
+      "source_file": "32_Baseline.docx",
+      "drug": "Arava",
+      "description": "Zuletzt erfolgte Dosiserhöhung auf 20 mg; nicht optimal vertragen, vermehrte Übelkeit und Erbrechen."
+    }
+  ],
+  "metadata": {
+    "patient_id": 32,
+    "disease": "PsA",
+    "timepoint": "BA",
+    "source_files": [
+      "32_Baseline.docx"
+    ]
+  }
+}

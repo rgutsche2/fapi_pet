@@ -1,0 +1,594 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2025-09-10",
+      "date_evidence": "am 10.09.2025, am 30.09.2025 und am 11.11.25 ambulant vorstellte",
+      "evidence": "am 10.09.2025",
+      "source_file": "17_Baseline.docx"
+    },
+    {
+      "date": "2025-09-30",
+      "date_evidence": "am 10.09.2025, am 30.09.2025 und am 11.11.25 ambulant vorstellte",
+      "evidence": "am 30.09.2025",
+      "source_file": "17_Baseline.docx"
+    },
+    {
+      "date": "2025-11-11",
+      "date_evidence": "am 10.09.2025, am 30.09.2025 und am 11.11.25 ambulant vorstellte",
+      "evidence": "am 11.11.25",
+      "source_file": "17_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "TJ 1 SJ 1",
+      "source_file": "17_Baseline.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "TJ 1 SJ 1",
+      "source_file": "17_Baseline.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "C-reaktives Protein 5,9 mg/l",
+      "source_file": "17_Baseline.docx",
+      "value": 5.9,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Zuletzt im Juni und Juli ausgeprägte Schmerzen und Schwellungen beider Hände sowie der rechten Schulter.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Hände beidseits",
+        "Schulter rechts"
+      ],
+      "description": "Ausgeprägte Schwellungen im Juni und Juli.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "PIP II rechts leicht druckschmerzhaft, geschwollen.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "PIP II rechts"
+      ],
+      "description": "Geschwollen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansonsten keine andere druckschmerzhafte oder geschwollenen Gelenke oder Enthesen",
+      "source_file": "17_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "übrige Gelenke"
+      ],
+      "description": "Keine weiteren geschwollenen Gelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "seit Monaten starke Schmerzen und Schwellungen in den Händen bds. sowie in der Schulter rechts",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Hände beidseits",
+        "Schulter rechts"
+      ],
+      "description": "Seit Monaten Schmerzen und Schwellungen laut klinischen Angaben des PET/CT-Berichts.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "PIP II rechts leicht druckschmerzhaft, geschwollen.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "PIP II rechts"
+      ],
+      "description": "Leicht druckschmerzhaft.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansonsten keine andere druckschmerzhafte oder geschwollenen Gelenke oder Enthesen",
+      "source_file": "17_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "übrige Gelenke"
+      ],
+      "description": "Keine weiteren druckschmerzhaften Gelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im weiteren Verlauf kam es jedoch zu einem Schub der Erkrankung, wobei multiple druckdolente Gelenke auffielen.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Multiple druckdolente Gelenke im weiteren Verlauf.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": "MRT Hand re 09/2025:",
+      "evidence": "minimale Synovialitis im DRUG (DEMO)",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "DRUG rechts"
+      ],
+      "description": "Minimale Synovialitis im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-11-11",
+      "date_evidence": "Hauptbefund vom 11.11.2025:",
+      "evidence": "entsprechend einer high grade Synovialitis nach Krenn, z.B. im Rahmen einer RA. Hochgradige aktive Entzündung mit Fibrinexsudationen.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Histologisch High-grade-Synovialitis; Krenn-Summenscore 8, hochgradige aktive Entzündung mit Fibrinexsudationen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die synoviale Biopsie des linken Handgelenks ergab eine Synovialitis Grad 8 nach Krenn (High-grade-Synovialitis).",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk links"
+      ],
+      "description": "Bioptisch High-grade-Synovialitis, Grad 8 nach Krenn.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansonsten keine andere druckschmerzhafte oder geschwollenen Gelenke oder Enthesen",
+      "source_file": "17_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine druckschmerzhaften oder geschwollenen Enthesen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "Zudem FAPI positive Ansatzsehnentendinitis der rechten Achillessehne.",
+      "source_file": "17_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Achillessehnenansatz rechts"
+      ],
+      "description": "FAPI-positive Ansatzsehnentendinitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "FAPI-Positivität peritrochantär rechts, am ehesten Sehnenansatztendinopathie des Tractus iliotibialis entsprechend.",
+      "source_file": "17_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "peritrochantär rechts",
+        "Sehnenansatz des Tractus iliotibialis rechts"
+      ],
+      "description": "FAPI-Positivität, am ehesten Sehnenansatztendinopathie.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Morgensteifigkeit ca. 4 Minuten.",
+      "source_file": "17_Baseline.docx",
+      "value": 4,
+      "operator": "approx",
+      "unit": "min",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Psoriasis",
+      "source_file": "17_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Psoriasis ausdrücklich verneint.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "seropositive Rheumatoide Arthritis ED 09/2019",
+      "source_file": "17_Baseline.docx",
+      "description": "Seropositive rheumatoide Arthritis, Erstdiagnose 09/2019.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In den MRT-Untersuchungen beider Hände vom 09/25 zeigten sich minimale Hinweise auf geringgradige entzündliche Aktivität (DRUG).",
+      "source_file": "17_Baseline.docx",
+      "description": "Minimale Hinweise auf geringgradige entzündliche Aktivität im MRT beider Hände.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im weiteren Verlauf kam es jedoch zu einem Schub der Erkrankung",
+      "source_file": "17_Baseline.docx",
+      "description": "Krankheitsschub im weiteren Verlauf.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Insgesamt sprechen die Befunde für eine hochaktive rheumatoide Arthritis.",
+      "source_file": "17_Baseline.docx",
+      "description": "Hochaktive rheumatoide Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Versagen von zwei csDMARDs (unzureichende Krankheitskontrolle unter MTX, fehlende Verträglichkeit von Leflunomid)",
+      "source_file": "17_Baseline.docx",
+      "description": "Versagen zweier csDMARDs: unzureichende Krankheitskontrolle unter MTX und Unverträglichkeit von Leflunomid.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "RF+, Anti-MCV >1000,0 U/ml",
+      "source_file": "17_Baseline.docx",
+      "description": "RF positiv, Anti-MCV >1000,0 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "Rheumafaktor IgG 24,01 IE/ml",
+      "source_file": "17_Baseline.docx",
+      "description": "Rheumafaktor IgG 24,01 IE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "CCP AK 171,98 RE/ml",
+      "source_file": "17_Baseline.docx",
+      "description": "CCP-Antikörper 171,98 RE/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "Anti-MCV >1000,0 U/ml",
+      "source_file": "17_Baseline.docx",
+      "description": "Anti-MCV >1000,0 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "Ak gegen PM-Scl ++ (o)",
+      "source_file": "17_Baseline.docx",
+      "description": "Antikörper gegen PM-Scl ++.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-09-10",
+      "date_evidence": "Laborwerte vom 10.09.2025:",
+      "evidence": "ANA auf Hep2 negativ",
+      "source_file": "17_Baseline.docx",
+      "description": "ANA auf Hep2 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuell bestehen Schmerzen in der rechten Schulter sowie im linken Hüftgelenk.",
+      "source_file": "17_Baseline.docx",
+      "description": "Aktuelle Schmerzen in der rechten Schulter und im linken Hüftgelenk.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-08-12",
+      "date_evidence": "Am 12.08.2025",
+      "evidence": "Am 12.08.2025 trat eine Urtikaria am Gesäß sowie eine Akutverschlechterung der LWS-Beschwerden mit Fieber auf.",
+      "source_file": "17_Baseline.docx",
+      "description": "Urtikaria am Gesäß und akute Verschlechterung der LWS-Beschwerden mit Fieber.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Uveitis; aktuell jedoch Blepharitis.",
+      "source_file": "17_Baseline.docx",
+      "description": "Keine Uveitis; aktuelle Blepharitis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "keine chronisch-entzündliche Darmerkrankung",
+      "source_file": "17_Baseline.docx",
+      "description": "Chronisch-entzündliche Darmerkrankung verneint.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Sicca-Symptomatik. Kein Exanthem (abgesehen von der Urtikaria im August). Keine Photosensibilität. Keine Dysphagie, keine Dyspnoe",
+      "source_file": "17_Baseline.docx",
+      "description": "Keine Sicca-Symptomatik, kein Exanthem außer Urtikaria im August, keine Photosensibilität, Dysphagie oder Dyspnoe.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "bei einer Tante väterlicherseits rheumatische Erkrankung (frühere Goldtherapie).",
+      "source_file": "17_Baseline.docx",
+      "description": "Rheumatische Erkrankung einer Tante väterlicherseits mit früherer Goldtherapie.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT Hand li 09/2025:",
+      "evidence": "leichte Rhizarthrose",
+      "source_file": "17_Baseline.docx",
+      "description": "Leichte Rhizarthrose links im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "multiple gelenkassoziierte FAPI Mehrspeicherungen, insbesondere in den kleinen Gelenken der Hände und Füße, mit Punktum maximum im linken Handgelenk.",
+      "source_file": "17_Baseline.docx",
+      "description": "Multiple gelenkassoziierte FAPI-Mehrspeicherungen in Händen und Füßen, Maximum im linken Handgelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "Arthritische FAPI-Positivität am PIP I links (partiell erfasst, SUVmax 6,6) PIP V links (SUVmax 4,7), Metatarsophalangealgelenke I und V bds., exemplarisch MTP I rechts (SUVmax 5,7) sowie OSG rechts (SUVmax 5,8) und am SC-Gelenk bds., rechts mehr als links.",
+      "source_file": "17_Baseline.docx",
+      "description": "Arthritische FAPI-Positivität an PIP I und V links, MTP I und V beidseits, OSG rechts und SC-Gelenken beidseits, rechts stärker.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "Im Seitenvergleich auffällige Nuklidanreicherung auch im rechten Ellbogengelenk, ohne eindeutiges CT graphisches Korrelat (SUVmax 4,7).",
+      "source_file": "17_Baseline.docx",
+      "description": "Nuklidanreicherung im rechten Ellbogengelenk ohne eindeutiges CT-Korrelat.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "kräftige Fibroblastenaktivierung im gesamten Carpus der linken Hand, mit Fortsetzung bis ins Daumensattelgelenk (SUVmax 14,5).",
+      "source_file": "17_Baseline.docx",
+      "description": "Kräftige Fibroblastenaktivierung im gesamten linken Carpus bis ins Daumensattelgelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "Periartikuläre, kräftige Nuklidanreicherung im PIP-Gelenk von Digitus II der rechten Hand (SUVmax 7,1), ohne eindeutiges CT Korrelat.",
+      "source_file": "17_Baseline.docx",
+      "description": "Kräftige periartikuläre Nuklidanreicherung an PIP II rechts ohne eindeutiges CT-Korrelat.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-10-27",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 27.10.2025/15:44 Uhr",
+      "evidence": "flauere, bandförmige Traceranreicherung auch im DIP von Digitus IV der rechten Hand (SUVmax 4,2), ebenfalls ohne eindeutiges CT Korrelat.",
+      "source_file": "17_Baseline.docx",
+      "description": "Bandförmige Traceranreicherung an DIP IV rechts ohne eindeutiges CT-Korrelat.",
+      "context": "imaging"
+    },
+    {
+      "date": "2025-11-11",
+      "date_evidence": "Hauptbefund vom 11.11.2025:",
+      "evidence": "Fibrosegrad: Grad 2: mäßige interstitielle Fibrose Stromafibrose semiquantitativ in %: 40",
+      "source_file": "17_Baseline.docx",
+      "description": "Synovialbiopsie mit mäßiger interstitieller Fibrose, Grad 2, Stromafibrose 40 %.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Das Screening auf Tuberkulose und Hepatitis war unauffällig.",
+      "source_file": "17_Baseline.docx",
+      "description": "Unauffälliges Tuberkulose- und Hepatitis-Screening vor empfohlener Biologikatherapie.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)",
+      "source_file": "17_Baseline.docx",
+      "drug": "MTX",
+      "description": "MTX 22,5 mg seit 02/2025; Therapiebeginn 09/2019 mit niedriger Dosis."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MTX wird insgesamt gut vertragen, gelegentlich leichte Übelkeit.",
+      "source_file": "17_Baseline.docx",
+      "drug": "MTX",
+      "description": "Insgesamt gute Verträglichkeit, gelegentlich leichte Übelkeit."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: MTX",
+      "source_file": "17_Baseline.docx",
+      "drug": "MTX",
+      "description": "In den klinischen Angaben des PET/CT-Berichts als aktuelle Therapie dokumentiert."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Leflunomide 02/2021- 09/2021. Abruch wegen RR- Erhöhung, Unwohlgefühl",
+      "source_file": "17_Baseline.docx",
+      "drug": "Leflunomide",
+      "description": "02/2021 bis 09/2021; Abbruch wegen Blutdruckerhöhung und Unwohlgefühl."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "oft Kortisonstoße",
+      "source_file": "17_Baseline.docx",
+      "drug": "Kortison",
+      "description": "Häufige Kortisonstöße."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Patientin nahm jeweils selbstständig Prednisolon 20 mg ein, worunter eine deutliche Linderung eintrat.",
+      "source_file": "17_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Selbstständige Einnahme von jeweils 20 mg bei Schmerzen und Schwellungen im Juni und Juli; deutliche Linderung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Daraufhin erneut Einnahme von Prednisolon 20 mg, mit rascher Besserung.",
+      "source_file": "17_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Erneute Einnahme von 20 mg nach dem Ereignis vom 12.08.2025; rasche Besserung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. NTX, Leflunomid, Steroidstöße",
+      "source_file": "17_Baseline.docx",
+      "drug": "NTX",
+      "description": "In den klinischen Angaben des PET/CT-Berichts als frühere Therapie genannt; Originalbezeichnung NTX."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuelle Therapieempfehlung: Beginn Adalimumab 40mg s.c. alle 14 Tage",
+      "source_file": "17_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Empfohlener Beginn mit 40 mg subkutan alle 14 Tage."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Wir bitte darunter um regelmäßige Blutkontrollen gemäß DGRh.",
+      "source_file": "17_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Regelmäßige Blutkontrollen unter der empfohlenen Therapie gemäß DGRh."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Biologikum Beginn?",
+      "source_file": "17_Baseline.docx",
+      "drug": null,
+      "description": "Fraglich formulierter Beginn eines Biologikums; keine Durchführung dokumentiert."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Leflunomide 02/2021- 09/2021. Abruch wegen RR- Erhöhung, Unwohlgefühl",
+      "source_file": "17_Baseline.docx",
+      "drug": "Leflunomide",
+      "description": "Historisch erfolgter Abbruch im 09/2021 wegen Blutdruckerhöhung und Unwohlgefühl."
+    }
+  ],
+  "metadata": {
+    "patient_id": 17,
+    "disease": "RA",
+    "timepoint": "BA",
+    "source_files": [
+      "17_Baseline.docx"
+    ]
+  }
+}

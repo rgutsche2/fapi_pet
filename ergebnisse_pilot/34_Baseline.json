@@ -1,0 +1,627 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "der sich am 10.07.2023 ambulant vorstellte",
+      "source_file": "34_Baseline.docx"
+    },
+    {
+      "date": "2019-07-18",
+      "date_evidence": "18.07.2019",
+      "evidence": "lokale Punktion und Volon- Injektion am li. Knie 18.07.2019",
+      "source_file": "34_Baseline.docx"
+    },
+    {
+      "date": "2023-07-26",
+      "date_evidence": "Gelenkpunktion mit Synovia-Biopsie vom 26.07.2023",
+      "evidence": "Gelenkpunktion mit Synovia-Biopsie vom 26.07.2023",
+      "source_file": "34_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "VAS 9 in Schulter",
+      "source_file": "34_Baseline.docx",
+      "value": 9,
+      "scope": "Schulter links",
+      "unit": null
+    }
+  ],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "34_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS: 6",
+      "source_file": "34_Baseline.docx",
+      "value": 6,
+      "operator": "=",
+      "unit": null
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Schmerzen am linken Knie mit begleitender Schwellung",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Anamnestisch Schmerzen mit begleitender Schwellung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "li. Knie DS und Schwellung",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Schwellung bei der Untersuchung.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "li. Knie DS und Schwellung, DS 4 MCP Hand re., DS li. Schulter mit Bewegungseinschränkung",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links",
+        "MCP 4 rechte Hand",
+        "Schulter links"
+      ],
+      "description": "Druckschmerz an den dokumentierten Stellen; Bewegungseinschränkung der linken Schulter.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": "2018-12-21",
+      "date_evidence": "MRT Knie links vom 21.12.2018",
+      "evidence": "Ausgeprägte Synovialitis.",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Ausgeprägte Synovialitis im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2019-06-13",
+      "date_evidence": "MRT-Knie links mit KM vom 13.06.2019",
+      "evidence": "Ausgeprägte Synovialitis mit Kniegelenkerguss und Ausbildung einer großen Baker-Zyste.",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Ausgeprägte Synovialitis mit Erguss und großer Baker-Zyste im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2022-04-27",
+      "date_evidence": "MRT Knie links vom 27.04.2022",
+      "evidence": "Deutlich regrediente Synovialitis mit Gelenkerguss des linken Kniegelenks.",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Deutlich regrediente Synovialitis mit Gelenkerguss im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2019-02-11",
+      "date_evidence": "Histologie li. Knie 11.02.2019",
+      "evidence": "ausgeprägte lymphofollikuläre Synovialitis und lymphofol. Infiltrat.",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Historischer histologischer Nachweis ausgeprägter lymphofollikulärer Synovialitis.",
+      "context": "history"
+    },
+    {
+      "date": "2023-07-31",
+      "date_evidence": "Histologie li. Knie 31.07.2023",
+      "evidence": "Summenscore: 3 Graduierung nach Krenn et al: Low grade Synovialitis (2-4)",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Histologisch Low grade Synovialitis, Krenn-Summenscore 3.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-27",
+      "date_evidence": "Hauptbefund vom 27.07.2023",
+      "evidence": "Keine chronische oder aktive Entzündung.",
+      "source_file": "34_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Im histologischen Hauptbefund keine chronische oder aktive Entzündung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-27",
+      "date_evidence": "Hauptbefund vom 27.07.2023",
+      "evidence": "Summenscore: 3 Graduierung nach Krenn et al: Low grade Synovialitis (2-4)",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Histologisch Low grade Synovialitis, Krenn-Summenscore 3.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei der Klinisch Untersuchung Synovialitis des li. Knie",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "In der Verlaufsbeurteilung ausdrücklich als klinische Synovialitis beschrieben.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "kompatibel mit Arthrose ohne ausgeprägte Synovialitis",
+      "source_file": "34_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Histologische Verlaufsbeurteilung: keine ausgeprägte Synovialitis; keine vollständige Verneinung einer Synovialitis.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2022-05-02",
+      "date_evidence": "MRT Schulter links vom 02.05.2022",
+      "evidence": "Ansatztendinitis der Supraspinatussehne und kräftige Bursitis subacromialis/subdeltoidea",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ansatz der Supraspinatussehne links"
+      ],
+      "description": "Ansatztendinitis im MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Ansatzsehnentendinitis Tractus iliotibialis bds., links mehr als rechts",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Ansatz des Tractus iliotibialis links",
+        "Ansatz des Tractus iliotibialis rechts"
+      ],
+      "description": "Ansatzsehnentendinitis beidseits, links stärker als rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Multiple Ansatzsehnentendinopathien insbesondere im Bereich der Hände bds., ebenfalls im Rahmen der Psoriasisarthritis zu werten.",
+      "source_file": "34_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Sehnenansätze beider Hände"
+      ],
+      "description": "Multiple Ansatzsehnentendinopathien im Rahmen der Psoriasisarthritis; nicht ausdrücklich als Entzündung bezeichnet.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "FAPI/PET 07/23",
+      "evidence": "Multiple Ansatzsehnentendinopathien insbesondere im Bereich der Hände bds., ebenfalls im Rahmen der Psoriasisarthritis zu werten.",
+      "source_file": "34_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Sehnenansätze beider Hände"
+      ],
+      "description": "In der Diagnosenübersicht dokumentierte Ansatzsehnentendinopathien; nicht ausdrücklich als Entzündung bezeichnet.",
+      "context": "imaging"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Persistierende Morgensteifigkeit der Hände.",
+      "source_file": "34_Baseline.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Die Schuppenflechte ist aktuell gut kontrolliert und nur leicht aktiv zwischen den Fingern beider Hände.",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Zwischen den Fingern beider Hände"
+      ],
+      "description": "Gut kontrollierte, leicht aktive Schuppenflechte.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Haut: leichte rötliche Stelle an beinen Händen zwischen den Fingern",
+      "source_file": "34_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Zwischen den Fingern beider Hände"
+      ],
+      "description": "Leichte rötliche Stelle im Untersuchungsbefund.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "DS li. Schulter mit Bewegungseinschränkung",
+      "source_file": "34_Baseline.docx",
+      "description": "Bewegungseinschränkung der linken Schulter.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Seit der Therapieumstellung keine deutliche Verbesserung der Gelenksymptomatik.",
+      "source_file": "34_Baseline.docx",
+      "description": "Keine deutliche Verbesserung der Gelenksymptomatik unter Secukinumab seit März 2023.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei V.a. eine weitere Aktivität der Grunderkrankung unter Secukinumab",
+      "source_file": "34_Baseline.docx",
+      "description": "Verdacht auf weitere Aktivität der Psoriasisarthritis unter Secukinumab.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Bei bekannter Psoriasisarthritis intensive Fibroblastenaktivierung im Bereich der linken Schulter sowie um das linke Kniegelenk, im Rahmen der Grunderkrankung zu werten.",
+      "source_file": "34_Baseline.docx",
+      "description": "Intensive Fibroblastenaktivierung an linker Schulter und linkem Knie sowie fokale Aktivierung am linken Handgelenk im Rahmen der Psoriasisarthritis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "kompatibel mit einer Eskalation der Grunderkrankung",
+      "source_file": "34_Baseline.docx",
+      "description": "PET-Befunde in der Verlaufsbeurteilung als mit einer Eskalation der Grunderkrankung kompatibel bewertet.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei der histologischen Untersuchung Krenn Score 3, kompatibel mit Arthrose ohne ausgeprägte Synovialitis.",
+      "source_file": "34_Baseline.docx",
+      "description": "Histologische Beurteilung als mit Arthrose kompatibel, Krenn-Score 3.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis-Arthritis",
+      "source_file": "34_Baseline.docx",
+      "description": "Dokumentierte Diagnose Psoriasis-Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Arthralgie, Arthritis Knie links",
+      "source_file": "34_Baseline.docx",
+      "description": "Arthralgie und Arthritis des linken Knies.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. OP Meniskus links",
+      "source_file": "34_Baseline.docx",
+      "description": "Zustand nach Meniskusoperation links.",
+      "context": "history"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Schmerzen der Beugesehnen an beiden Händen.",
+      "source_file": "34_Baseline.docx",
+      "description": "Schmerzen der Beugesehnen beider Hände.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "Gute Verträglichkeit der Therapie.",
+      "source_file": "34_Baseline.docx",
+      "description": "Gute Verträglichkeit der Secukinumab-Therapie.",
+      "context": "clinical"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "Arthrosonographie vom 10.07.2023",
+      "evidence": "HS Grad 2, PDUS Grad 0, mäßiger Gelenkerguss",
+      "source_file": "34_Baseline.docx",
+      "description": "Arthrosonographie Knie links: HS Grad 2, PDUS Grad 0, mäßiger Gelenkerguss.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-10",
+      "date_evidence": "Arthrosonographie vom 10.07.2023",
+      "evidence": "Flexoren MCP 2 minimal Tendovaginitis, MCP3 Verdichtung der Sehne",
+      "source_file": "34_Baseline.docx",
+      "description": "Rechte Hand: minimale Tendovaginitis der Flexoren an MCP 2 und Sehnenverdichtung an MCP 3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Erguss linkes Kniegelenk im Recessus suprapatellaris mit einer maximalen Saumbreite von 2,1 cm",
+      "source_file": "34_Baseline.docx",
+      "description": "Erguss im linken Knie, Recessus suprapatellaris, maximale Saumbreite 2,1 cm.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Fokale, deutlich gesteigerte Fibroblastenaktivierung PIP Digitus V des linken Fußes mit deutlicher Gelenkspaltverschmälerung",
+      "source_file": "34_Baseline.docx",
+      "description": "PIP Digitus V linker Fuß: Fibroblastenaktivierung und deutliche Gelenkspaltverschmälerung, als am ehesten degenerativ beurteilt.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Medialseitig betonte kräftige Traceranreicherung PIP Digitus 3 linke Hand (SUVmax 3,7). sowie lateralseitig MCP Digitus 5 linke Hand (SUVmax 2,7).",
+      "source_file": "34_Baseline.docx",
+      "description": "Traceranreicherung PIP III links, SUVmax 3,7, und MCP V links, SUVmax 2,7.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Fokale Nuklidmehrspeicherung linkes Handgelenk ohne klares CT Korrelat (SUV max 4,1).",
+      "source_file": "34_Baseline.docx",
+      "description": "Fokale Mehrspeicherung im linken Handgelenk ohne klares CT-Korrelat, SUVmax 4,1.",
+      "context": "imaging"
+    },
+    {
+      "date": "2023-07-21",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 21.07.2023",
+      "evidence": "Intensive FAPI Mehrspeicherung am medialen im MCP Digitus IV der rechten Hand ohne eindeutiges CT Korrelat (SUVmax 5,8).",
+      "source_file": "34_Baseline.docx",
+      "description": "Intensive Mehrspeicherung an MCP IV rechts ohne eindeutiges CT-Korrelat, SUVmax 5,8.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hier bestehet anamnestisch auch eine mechanische Komponente.",
+      "source_file": "34_Baseline.docx",
+      "description": "Anamnestisch mechanische Komponente der Beschwerden des linken Knies.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei Gelenkpunktat keine Harnsäurekristalle.",
+      "source_file": "34_Baseline.docx",
+      "description": "Keine Harnsäurekristalle im Gelenkpunktat.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hier empfehlen wir KG und bei weitere Beschwerden eine orthopädische Vorstellung.",
+      "source_file": "34_Baseline.docx",
+      "description": "Empfehlung zur Krankengymnastik und bei weiteren Beschwerden zur orthopädischen Vorstellung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2019-04-15",
+      "date_evidence": "Röntgen Hände bds vom 15.04.2019",
+      "evidence": "Keine signifikanten degenerativen oder erosive Veränderungen. Keine typischen Zeichen für Hämochromatose",
+      "source_file": "34_Baseline.docx",
+      "description": "Röntgen beider Hände ohne signifikante degenerative oder erosive Veränderungen und ohne typische Zeichen für Hämochromatose.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Degen. HWS Syndrom",
+      "source_file": "34_Baseline.docx",
+      "description": "Degeneratives HWS-Syndrom.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "AC-Gelenksarthrose",
+      "source_file": "34_Baseline.docx",
+      "description": "AC-Gelenksarthrose.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2023-07-10",
+      "date_evidence": "am 10.07.2023 ambulant vorstellte",
+      "evidence": "unter Secukinumab-Mono-Therapie seit März 2023",
+      "source_file": "34_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Bei der ambulanten Vorstellung Secukinumab-Monotherapie seit März 2023."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ibuprofen 600 praktisch nicht mehr",
+      "source_file": "34_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Ibuprofen 600 praktisch nicht mehr eingenommen; Einheit und Einnahmeintervall nicht dokumentiert."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX 15mg p.o./Woche",
+      "source_file": "34_Baseline.docx",
+      "drug": "MTX",
+      "description": "Frühere Therapie mit MTX 15 mg oral pro Woche."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Tofacitinib 5 mg 1-0-1 seit 09/20-03/2023 (Wirkungsverlust)",
+      "source_file": "34_Baseline.docx",
+      "drug": "Tofacitinib",
+      "description": "Tofacitinib 5 mg im Schema 1-0-1 von September 2020 bis März 2023; Wirkungsverlust."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Secukinumab (Cosentyx) 300mg s.c. ab 03/2023-07/2023 (Keine Wirkung)",
+      "source_file": "34_Baseline.docx",
+      "drug": "Secukinumab (Cosentyx)",
+      "description": "Secukinumab 300 mg subkutan von März bis Juli 2023; keine Wirkung."
+    },
+    {
+      "date": "2019-07-18",
+      "date_evidence": "18.07.2019",
+      "evidence": "lokale Punktion und Volon- Injektion am li. Knie 18.07.2019",
+      "source_file": "34_Baseline.docx",
+      "drug": "Volon",
+      "description": "Historische lokale Punktion und Volon-Injektion am linken Knie am 18.07.2019."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuelle Empfehlung: Adalimumab 40 mg seit 07/23",
+      "source_file": "34_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Als aktuelle Empfehlung dokumentiert: Adalimumab 40 mg seit Juli 2023; tatsächlicher Beginn nicht eindeutig bestätigt."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Daher empfehlen wir eine Therapieumstellung auf Adalimumab 40 mg alle 2 Wochen.",
+      "source_file": "34_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Empfohlene Therapieumstellung auf Adalimumab 40 mg alle zwei Wochen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Unter einer Therapie mit Adalimumab bitten wir um reg. Labor-Kontrolle, nach Maßgabe der DGRh.",
+      "source_file": "34_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Regelmäßige Laborkontrollen unter der empfohlenen Adalimumab-Therapie nach Maßgabe der DGRh."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Secukinumab 300mg s.c. abgesetzt",
+      "source_file": "34_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab 300 mg subkutan abgesetzt; auch in der Therapieempfehlung als abgesetzt dokumentiert."
+    },
+    {
+      "date": "2023-07-26",
+      "date_evidence": "Gelenkpunktion mit Synovia-Biopsie vom 26.07.2023",
+      "evidence": "Am Ende des Eingriffs wurden 40 mg Triancinolon injiziert.",
+      "source_file": "34_Baseline.docx",
+      "drug": "Triancinolon",
+      "description": "Am Ende der Gelenkpunktion mit Synovia-Biopsie wurden 40 mg Triancinolon injiziert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 34,
+    "disease": "PsA",
+    "timepoint": "BA",
+    "source_files": [
+      "34_Baseline.docx"
+    ]
+  }
+}

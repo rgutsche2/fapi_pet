@@ -1,0 +1,569 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-01-30",
+      "date_evidence": "vom 30.01.2024 bis 05.02.2024",
+      "evidence": "die sich vom 30.01.2024 bis 05.02.2024 in unserer stationären Behandlung befand.",
+      "source_file": "18_Baseline.docx"
+    },
+    {
+      "date": "2024-02-05",
+      "date_evidence": "Am 05.02.2024",
+      "evidence": "Am 05.02.2024 konnten wir Frau Rauh in gutem Allgemeinzustand und gebesserten Beschwerden entlassen.",
+      "source_file": "18_Baseline.docx"
+    },
+    {
+      "date": "2024-01-30",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 30.01.2024:",
+      "evidence": "Körperlicher  Untersuchungsbefund vom 30.01.2024:",
+      "source_file": "18_Baseline.docx"
+    },
+    {
+      "date": "2024-02-15",
+      "date_evidence": "für den 15.02.2024",
+      "evidence": "Wir vereinbarten eine erneute stationäre Aufnahme zur erneuten Applikation für den 15.02.2024.",
+      "source_file": "18_Baseline.docx"
+    }
+  ],
+  "DAS28": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "DAS28 heute ca. 4,4.",
+      "source_file": "18_Baseline.docx",
+      "value": 4.4,
+      "variant": null
+    }
+  ],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2024-01-30",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 30.01.2024:",
+      "evidence": "Gelenkstatus: TJC 6/SJC 4",
+      "source_file": "18_Baseline.docx",
+      "value": 6,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2024-01-30",
+      "date_evidence": "Körperlicher  Untersuchungsbefund vom 30.01.2024:",
+      "evidence": "Gelenkstatus: TJC 6/SJC 4",
+      "source_file": "18_Baseline.docx",
+      "value": 4,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 13,0 mg/l;  6,1 mg/l",
+      "source_file": "18_Baseline.docx",
+      "value": 13.0,
+      "operator": "=",
+      "unit": "mg/l"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-Reaktives Protein 13,0 mg/l;  6,1 mg/l",
+      "source_file": "18_Baseline.docx",
+      "value": 6.1,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "dann wieder Zunahme der Arthralgien und Schwellungen.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Erneute Zunahme der Schwellungen nach vorübergehender Beschwerdebesserung unter Doxycyclin.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Multiple geschwollene Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Multiple druckschmerzhafte Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit 10/23 keine Therapie mehr, zuvor MTX, ADA (nur einmalig), ETA, ABATA, trotzdem chronische Synovitis.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Chronische Synovitis trotz vorausgegangener Therapien.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "SOnographisch auch im Knie.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie, Seite nicht angegeben"
+      ],
+      "description": "Sonographisch ebenfalls Synovitis im Knie im Zusammenhang mit der beschriebenen chronischen Synovitis.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der ergänzenden Arthrosonographie zeigten sich eine synoviale Hypertrophie PIP5 re, MCP 2/3 bds, wenig Doppleraktivität.",
+      "source_file": "18_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "PIP5 rechts",
+        "MCP2 beidseits",
+        "MCP3 beidseits"
+      ],
+      "description": "Synoviale Hypertrophie mit wenig Doppleraktivität; keine ausdrückliche Bezeichnung als Synovitis in diesem Sonographiebefund.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Im FAPI-Pet, welches bereits in der Vorwoch erfolgt war, zeigten sich aktive Synovitis mehrerer Gelenke, erfreulicherweise ohne Erosionen.",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Aktive Synovitis mehrerer Gelenke im FAPI-PET ohne Erosionen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-31",
+      "date_evidence": "Hauptbefund vom 31.01.2024:",
+      "evidence": "Keine aktive Entzündung.",
+      "source_file": "18_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Synovialbiopsie, Lokalisation nicht angegeben"
+      ],
+      "description": "Histologisch keine aktive Entzündung in der Synovialbiopsie.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-31",
+      "date_evidence": "Hauptbefund vom 31.01.2024:",
+      "evidence": "Summenscore: 3 Graduierung nach Krenn et al: Low grade Synovialitis (2-4)",
+      "source_file": "18_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Synovialbiopsie, Lokalisation nicht angegeben"
+      ],
+      "description": "Histologisch Low grade Synovialitis; dokumentierter Krenn-Summenscore 3.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ausgeprägte Morgensteifigkeit.",
+      "source_file": "18_Baseline.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ohne Basistherapie in Remission ca. 2009-2022",
+      "source_file": "18_Baseline.docx",
+      "description": "Remission ohne Basistherapie ungefähr 2009–2022.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuell: Schub der Grunderkrankung, inidividueller Heilversuch mit Blinatumomab",
+      "source_file": "18_Baseline.docx",
+      "description": "Aktueller Schub der rheumatoiden Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Elektive stationäre Aufnahme bei Therapierefraktärer sero+ RA.",
+      "source_file": "18_Baseline.docx",
+      "description": "Therapierefraktäre seropositive rheumatoide Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung der Patientin trotz verschiedener Therapieregime nicht kontrolliert.",
+      "source_file": "18_Baseline.docx",
+      "description": "Grunderkrankung trotz verschiedener Therapieregime nicht kontrolliert.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-05",
+      "date_evidence": "Am 05.02.2024",
+      "evidence": "Am 05.02.2024 konnten wir Frau Rauh in gutem Allgemeinzustand und gebesserten Beschwerden entlassen.",
+      "source_file": "18_Baseline.docx",
+      "description": "Gebesserte Beschwerden bei Entlassung.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumatoide Arthritis (RA), ED 01/2008",
+      "source_file": "18_Baseline.docx",
+      "description": "Rheumatoide Arthritis, Erstdiagnose Januar 2008.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Initial Rheumafaktor neg., CCP-Ak und MCV-Ak positiv",
+      "source_file": "18_Baseline.docx",
+      "description": "Initial Rheumafaktor negativ, CCP- und MCV-Antikörper positiv.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumafaktor IgG 40,06 IE/ml;  30,61 IE/ml",
+      "source_file": "18_Baseline.docx",
+      "description": "Rheumafaktor IgG: erster Wert 40,06 IE/ml, letzter Wert 30,61 IE/ml; Messdaten nicht eindeutig zugeordnet.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "CCP AK > 200; wird verdünnt",
+      "source_file": "18_Baseline.docx",
+      "description": "CCP-Antikörper >200; Verdünnung angekündigt, Einheit nicht angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Anti-MCV 174,1 U/ml",
+      "source_file": "18_Baseline.docx",
+      "description": "Anti-MCV 174,1 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der Immunserologie waren Rheumafaktor, anti-CCP- und anti-MCV-Antikörper positiv.",
+      "source_file": "18_Baseline.docx",
+      "description": "Rheumafaktor, anti-CCP- und anti-MCV-Antikörper positiv.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Laborchemisch fanden sich leicht erhöhte Entzündungswerte.",
+      "source_file": "18_Baseline.docx",
+      "description": "Leicht erhöhte Entzündungswerte.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Keine Haut, keine Augenmanifestationen, kein Fieber, keine anderen Infekte.",
+      "source_file": "18_Baseline.docx",
+      "description": "Keine Haut- oder Augenmanifestationen, kein Fieber und keine anderen Infekte anamnestisch angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Während Doxycylin-Einnahme Fieber, Schüttelfrost, Arthralgien, sowie stechender Schmerz retrobulbär.",
+      "source_file": "18_Baseline.docx",
+      "description": "Fieber, Schüttelfrost, Arthralgien und stechender retrobulbärer Schmerz während Doxycyclin-Einnahme.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "V.a. Doxycyclin-Allergie",
+      "source_file": "18_Baseline.docx",
+      "description": "Verdacht auf Doxycyclin-Allergie.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Nachweis einer multifokal gesteigerten FAP-Expression primär die Sehnen und Gelenke von Händen und Füßen betreffend wie oben beschrieben. Keine erosiven Gelenkveränderungen.",
+      "source_file": "18_Baseline.docx",
+      "description": "Multifokal gesteigerte FAP-Expression an Sehnen und Gelenken von Händen und Füßen; keine erosiven Gelenkveränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Mäßig akzentuierte Nuklidspeicherung bds. im Schultergelenk, primär in Projektion auf den Schultergelenkspalt sowie rechts an der Bursa subacromialis DD im Verlauf der Sehne des Musculus subscapularis.",
+      "source_file": "18_Baseline.docx",
+      "description": "Nuklidspeicherung in beiden Schultergelenken sowie rechts an der Bursa subacromialis, differentialdiagnostisch im Verlauf der Subscapularissehne.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Mäßiger muskulärer Uptake bds. am Ansatz des Musculus glutealis minimus bds. am Trochanter major sowie am Übergang zur Fascia lata und am Ansatz der ischiokruralen Muskulatur am ehesten im Rahmen einer Ansatztendinopathie.",
+      "source_file": "18_Baseline.docx",
+      "description": "Uptake an den beschriebenen Muskelansätzen, am ehesten Ansatztendinopathie.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Weitere kleinere fokale Mehrspeicherungen in multiplen Sehnenansätzen um die Kniegelenke.",
+      "source_file": "18_Baseline.docx",
+      "description": "Fokale Mehrspeicherungen an multiplen Sehnenansätzen um die Kniegelenke.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Gelenk-assoziierte Mehranreicherungen finden sich am Carpo-Ulnargelenk und STT-Gelenk der Handwurzel , am MCP D2 und D4, am PIP D 3 und D5 sowie DIP D2.",
+      "source_file": "18_Baseline.docx",
+      "description": "Rechte Hand: gelenkassoziierte Mehranreicherungen am Carpo-Ulnar- und STT-Gelenk, MCP2/4, PIP3/5 und DIP2.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Ringförmiger Uptake im Verlauf der Carpo-Carpalgelenklinie. Fokaler Uptake am Carpo-Ulnargelenk sowie am MCP D3/D4 und PIP D3.",
+      "source_file": "18_Baseline.docx",
+      "description": "Linke Hand: Uptake an der Carpo-Carpalgelenklinie, am Carpo-Ulnargelenk, MCP3/4 und PIP3.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Kräftige, langstreckige Nuklidspeicherung in Projektion auf die Flexorensehnen D2/D3 im Karpaltunnel und palmar. Zusätzliche langstreckige Nuklidspeicherung im Verlauf der Flexorensehnen D1 am Daumensattelgelenk.",
+      "source_file": "18_Baseline.docx",
+      "description": "Rechte Hand: langstreckige Nuklidspeicherung an den Flexorensehnen D2/3 im Karpaltunnel und palmar sowie D1 am Daumensattelgelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Kräftige langstreckige Traceranreicherung im distalen Verlauf der Flexorensehnen D1, D2 und D5. Hier besonders langstreckige Auffälligkeiten der D1 Flexorensehne bis palmar und in den Karpaltunnel reichend.",
+      "source_file": "18_Baseline.docx",
+      "description": "Linke Hand: Traceranreicherung an Flexorensehnen D1/2/5, D1 bis palmar und in den Karpaltunnel reichend.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Kräftige Tracerspeicherung am Ansatz der Achillessehne am Calcaneus (SUVmax 7,7). Intensiver Nukliduptake am MTP D3 mit korrelierenden periartikulärem Weichteilplus (SUVmax 14,7). Etwas geringer Mehranreicherung am MTP D1. Betonter subkutaner Nukliduptake im Fersenbereich.",
+      "source_file": "18_Baseline.docx",
+      "description": "Rechter Fuß: Tracerspeicherung am Achillessehnenansatz, MTP3 mit periartikulärem Weichteilplus, geringer am MTP1 sowie subkutan im Fersenbereich.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-22",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 22.01.2024:",
+      "evidence": "Kräftige Tracerspeicherung am Ansatz der Achillessehne am Calcaneus und am Ansatz der Plantaraponeurose. Langstreckiger Nukliduptake im Verlauf der Sehne des M. tibialis anterior. Intensiver Nukliduptake am MTP D3-D5 mit Punctum maximum wieder an D3. Zusätzlich Mehranreicherung auch an den PIP D1, D4 und D5.",
+      "source_file": "18_Baseline.docx",
+      "description": "Linker Fuß: Tracerspeicherung an Achillessehnen- und Plantaraponeurosenansatz, Tibialis-anterior-Sehne, MTP3–5 mit Maximum an D3 sowie PIP1/4/5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-01-31",
+      "date_evidence": "Hauptbefund vom 31.01.2024:",
+      "evidence": "Synovial-PE mit dichtem fibrosiertem Bindegewebe und nur äußerst vereinzelten Lymphozyten, leicht verbreiterter Deckzellschicht und gering erhöhter Stromazelldichte.",
+      "source_file": "18_Baseline.docx",
+      "description": "Histologische Synovialbiopsie mit dichtem fibrosiertem Bindegewebe, vereinzelten Lymphozyten, leicht verbreiterter Deckzellschicht und gering erhöhter Stromazelldichte.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-31",
+      "date_evidence": "Hauptbefund vom 31.01.2024:",
+      "evidence": "Keine Kristallablagerungen.",
+      "source_file": "18_Baseline.docx",
+      "description": "Keine Kristallablagerungen in der Synovialbiopsie.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-01-31",
+      "date_evidence": "Hauptbefund vom 31.01.2024:",
+      "evidence": "Fibrosegrad: Grad 3: Subtotale bis totale interstitielle Fibrose Stromafibrose semiquantitativ in %: 70%",
+      "source_file": "18_Baseline.docx",
+      "description": "Synovialbiopsie: Fibrosegrad 3, subtotale bis totale interstitielle Fibrose; Stromafibrose semiquantitativ 70%.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit 10/23 keine Therapie mehr",
+      "source_file": "18_Baseline.docx",
+      "drug": null,
+      "description": "Bei Aufnahme seit Oktober 2023 keine RA-Therapie mehr."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuell: Schub der Grunderkrankung, inidividueller Heilversuch mit Blinatumomab",
+      "source_file": "18_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Individueller Heilversuch mit Blinatumomab im aktuellen Schub."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX 2008 für ca. 9 Mon., beendet bei schlechter Verträglichkeit (GI-Beschwerden, starke Übelkeit, AZ-Verschlechterung)",
+      "source_file": "18_Baseline.docx",
+      "drug": "MTX",
+      "description": "2008 für ungefähr neun Monate; beendet wegen gastrointestinaler Beschwerden, starker Übelkeit und Verschlechterung des Allgemeinzustands."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab 01/23 (Exanthem)",
+      "source_file": "18_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Januar 2023; Exanthem."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "zuvor MTX, ADA (nur einmalig), ETA, ABATA",
+      "source_file": "18_Baseline.docx",
+      "drug": "ADA",
+      "description": "Adalimumab nur einmalig verabreicht."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Etanercept (01-07/23, anhaltend Aktivität)",
+      "source_file": "18_Baseline.docx",
+      "drug": "Etanercept",
+      "description": "Januar bis Juli 2023; anhaltende Krankheitsaktivität."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Therapie zuletzt: Abatacept 125mg s.c. 07/2023-10/2023",
+      "source_file": "18_Baseline.docx",
+      "drug": "Abatacept",
+      "description": "125 mg subkutan von Juli bis Oktober 2023; Applikationsintervall nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Bei frgl. Borreliose wurde im 11/2023 Doxycyclin für 28 Tage gegeben, hierunter gebesserte Beschwerden, dann wieder Zunahme der Arthralgien und Schwellungen.",
+      "source_file": "18_Baseline.docx",
+      "drug": "Doxycyclin",
+      "description": "Im November 2023 für 28 Tage bei fraglicher Borreliose; vorübergehende Beschwerdebesserung, anschließend erneute Zunahme von Arthralgien und Schwellungen."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Erneute Blinatumomab-Applikation ab dem 15.02.2024 auf unserer Station.",
+      "source_file": "18_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Erneute stationäre Applikation ab 15.02.2024 geplant."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. MTX 2008 für ca. 9 Mon., beendet bei schlechter Verträglichkeit (GI-Beschwerden, starke Übelkeit, AZ-Verschlechterung)",
+      "source_file": "18_Baseline.docx",
+      "drug": "MTX",
+      "description": "Historische Beendigung nach ungefähr neun Monaten im Jahr 2008 wegen schlechter Verträglichkeit."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Seit 10/23 keine Therapie mehr",
+      "source_file": "18_Baseline.docx",
+      "drug": null,
+      "description": "Historisches Ende der RA-Therapie seit Oktober 2023 dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Patientin erhielt kum. 38,5µg Blinatumomab als Daureinfusion über 96h. Es traten keine relevanten unerwünschte Ereignisse auf.",
+      "source_file": "18_Baseline.docx",
+      "drug": "Blinatumomab",
+      "description": "Während des stationären Aufenthalts tatsächlich verabreicht: kumulativ 38,5 µg als Dauerinfusion über 96 Stunden; keine relevanten unerwünschten Ereignisse. Genaues Beobachtungsdatum nicht angegeben."
+    }
+  ],
+  "metadata": {
+    "patient_id": 18,
+    "disease": "RA",
+    "timepoint": "BA",
+    "source_files": [
+      "18_Baseline.docx"
+    ]
+  }
+}

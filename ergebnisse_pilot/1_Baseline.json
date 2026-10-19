@@ -1,0 +1,444 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "source_file": "1_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein 35,9 mg/l",
+      "source_file": "1_Baseline.docx",
+      "value": 35.9,
+      "operator": "=",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Hoch sensitives CRP >10,31 mg/l",
+      "source_file": "1_Baseline.docx",
+      "value": 10.31,
+      "operator": ">",
+      "unit": "mg/l"
+    }
+  ],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "BKS: 31",
+      "source_file": "1_Baseline.docx",
+      "value": 31,
+      "operator": "=",
+      "unit": null
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Die Beschwerdesymptomatik hatte erstmalig im Juni 2020 stattgefunden. Damals kam es zu einer Schwellung im Sprunggelenk linksseitig.",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Sprunggelenk links"
+      ],
+      "description": "Schwellung bei erstmaliger Beschwerdesymptomatik im Juni 2020.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Zuletzt entstand in den letzten 2 Wochen starke Schmerzen und Schwellungen im Kniegelenk linksseitig.",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kniegelenk links"
+      ],
+      "description": "Starke Schmerzen und Schwellungen seit zwei Wochen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Gelenkschmerzen/Schwellung: Knie rechts",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Knie rechts"
+      ],
+      "description": "Gelenkschmerzen/Schwellung anamnestisch rechts angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Wir punktierten das ausgeprägt geschwollene Kniegelenk",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kniegelenk links"
+      ],
+      "description": "Ausgeprägte Kniegelenkschwellung mit Punktion.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Sonographie Kniegelenk linksseitig: ausgeprägter suprapatellärer Erguss mit Synovialis-Proliferation.",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kniegelenk links, suprapatellär"
+      ],
+      "description": "Sonographisch ausgeprägter suprapatellärer Erguss.",
+      "context": "imaging"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Sonographie Kniegelenk linksseitig: ausgeprägter suprapatellärer Erguss mit Synovialis-Proliferation.",
+      "source_file": "1_Baseline.docx",
+      "status": "present",
+      "sites": [
+        "Kniegelenk links"
+      ],
+      "description": "Sonographische Synovialis-Proliferation mit ausgeprägtem suprapatellärem Erguss.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eindeutig entzündliche Rückenschmerzen vor diesem Episoden gab der Patient nicht an.",
+      "source_file": "1_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Rücken"
+      ],
+      "description": "Keine eindeutig entzündlichen Rückenschmerzen vor den beschriebenen Episoden angegeben.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Nächtl. Rückenschmerz: nein",
+      "source_file": "1_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "Rücken"
+      ],
+      "description": "Nächtlicher Rückenschmerz verneint.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Morgensteifigkeit: nein",
+      "source_file": "1_Baseline.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Der Patient hatte bisher keine Uveitis und keine Schuppenflechte.",
+      "source_file": "1_Baseline.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Bisher keine Schuppenflechte.",
+      "context": "history"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Aufgrund der starken Ausprägung der peripheren Gelenkmanifestation sowie nachgewiesener Sakroiliitis und zweimaligem NSAR-Versagen",
+      "source_file": "1_Baseline.docx",
+      "description": "Stark ausgeprägte periphere Gelenkmanifestation, nachgewiesene Sakroiliitis und zweimaliges NSAR-Versagen.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "axiale Spondylarthritis (Erstmanifestation 06/2020, Erstdiagnose 11/2020)",
+      "source_file": "1_Baseline.docx",
+      "description": "Axiale Spondylarthritis; Erstmanifestation 06/2020, Erstdiagnose 11/2020.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "HLA B 27 positiv, IL 23 Rezeptor Polymorphismus",
+      "source_file": "1_Baseline.docx",
+      "description": "HLA B 27 positiv; IL 23 Rezeptor Polymorphismus in der Diagnosenliste angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Der IL 23 Rezeptor Polymorphismus ist noch in Bearbeitung.",
+      "source_file": "1_Baseline.docx",
+      "description": "IL 23 Rezeptor Polymorphismus laut Beurteilung noch in Bearbeitung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden.",
+      "source_file": "1_Baseline.docx",
+      "description": "MRT-bestätigte Sakroiliitis rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig",
+      "source_file": "1_Baseline.docx",
+      "description": "Ausgeprägte ISG-Schmerzen rechts im früheren Verlauf.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z. n. Sprunggelenkarthritis links",
+      "source_file": "1_Baseline.docx",
+      "description": "Frühere Sprunggelenkarthritis links.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis",
+      "source_file": "1_Baseline.docx",
+      "description": "Ausgeprägte Kniegelenksarthritis links; rechts kein eindeutiger Arthritisnachweis; keine Arthritis beider Sprunggelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Aktuell bestehen insbesondere Kniegelenksschmerzen.",
+      "source_file": "1_Baseline.docx",
+      "description": "Aktuell insbesondere Kniegelenksschmerzen.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Beim Vater des betroffenen Patienten besteht ebenfalls ein M. Bechterew.",
+      "source_file": "1_Baseline.docx",
+      "description": "Positive Familienanamnese für M. Bechterew beim Vater.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Der Patient hatte bisher keine Uveitis und keine Schuppenflechte.",
+      "source_file": "1_Baseline.docx",
+      "description": "Bisher keine Uveitis.",
+      "context": "history"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Augenentzündung: nein, Sicca: nein, Hauteffloreszenzen: nein, Raynaud: nein, Schleimhautulzera nein, Abgeschlagenheit bisschen",
+      "source_file": "1_Baseline.docx",
+      "description": "Augenentzündung, Sicca, Hauteffloreszenzen, Raynaud und Schleimhautulzera verneint; etwas Abgeschlagenheit.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantiferon-Test neg., Hep.Serologie unauffällig.",
+      "source_file": "1_Baseline.docx",
+      "description": "Quantiferon-Test negativ und Hepatitisserologie unauffällig.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ak gegen Scl-70 (+)",
+      "source_file": "1_Baseline.docx",
+      "description": "Antikörper gegen Scl-70 (+).",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ANA auf Hep2 negativ",
+      "source_file": "1_Baseline.docx",
+      "description": "ANA auf Hep2 negativ.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "CCP zykl. zitrul. Peptide 1,05 RE/ml (< 5 RE/ml), Anti-MCV 1,6 U/ml (< 20 U/ml)",
+      "source_file": "1_Baseline.docx",
+      "description": "CCP 1,05 RE/ml und Anti-MCV 1,6 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rheumafaktor IgA 1,38 U/ml (0 - 18 U/ml), Rheumafaktor IgG 1,48 U/ml (0 - 18 U/ml), Rheumafaktor IgM 1,86 U/ml (0 - 18 U/ml)",
+      "source_file": "1_Baseline.docx",
+      "description": "Rheumafaktor IgA 1,38 U/ml, IgG 1,48 U/ml und IgM 1,86 U/ml.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Kniegelenkspunktat vom 25.11.2020:",
+      "evidence": "Kultureller Befund: nach 6 Tagen kein Bakterienwachstum",
+      "source_file": "1_Baseline.docx",
+      "description": "Kniegelenkspunktat ohne Bakterienwachstum nach sechs Tagen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Kniegelenkspunktat vom 25.11.2020:",
+      "evidence": "Gram-Präparat: ++ Leukozyten, keine Mikroorganismen",
+      "source_file": "1_Baseline.docx",
+      "description": "Kniegelenkspunktat mit ++ Leukozyten, ohne Mikroorganismen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Kniegelenkspunktat vom 25.11.2020:",
+      "evidence": "bakterielle PCR: negativ",
+      "source_file": "1_Baseline.docx",
+      "description": "Bakterielle PCR im Kniegelenkspunktat negativ.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "aktuell Ibuprofen 300 mg/Tag",
+      "source_file": "1_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Aktuelle Dauermedikation: 300 mg/Tag."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Der Patient hatte aufgrund der Gelenkentzündungen im Sprunggelenk und Kniegelenk sowie am Rücken NSAR eingenommen. Diese helfen, allerdings entwickelte sich die Kniegelenksarthritis unter NSAR-Therapie.",
+      "source_file": "1_Baseline.docx",
+      "drug": null,
+      "description": "NSAR wegen Gelenkentzündungen und Rückenbeschwerden; hilfreich, jedoch Entwicklung der Kniegelenksarthritis unter NSAR-Therapie."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Therapiebeginn mit Secukinumab 12/2020",
+      "source_file": "1_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Therapiebeginn für 12/2020 angegeben."
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Nach Kostenzusage der Krankenkasse und zusätzlicher Ganzkörperuntersuchung mittels FAPI-PET  wird die Erstgabe der Basistherapie Secukinumab in unserer Sprechstunde erfolgen.",
+      "source_file": "1_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Empfohlene Basistherapie; Erstgabe in der Sprechstunde nach Kostenzusage und Ganzkörperuntersuchung mittels FAPI-PET."
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Cosentyx 150 mg 5 x wöchentlich, dann danach alle 4 Wochen",
+      "source_file": "1_Baseline.docx",
+      "drug": "Cosentyx",
+      "description": "Therapieempfehlung: 150 mg 5 x wöchentlich, danach alle 4 Wochen."
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Arcoxia 90 mg 1-0-0 b.B.",
+      "source_file": "1_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Therapieempfehlung: 90 mg 1-0-0 bei Bedarf."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-11-25",
+      "date_evidence": "Punktion Kniegelenk 25.11.2020",
+      "evidence": "Punktion Kniegelenk 25.11.2020 mit i.a. Applikation von Prednisolon und Entnahme von 50 ml seröser Flüssigkeit",
+      "source_file": "1_Baseline.docx",
+      "drug": "Prednisolon",
+      "description": "Kniegelenkpunktion mit intraartikulärer Prednisolonapplikation und Entnahme von 50 ml seröser Flüssigkeit."
+    },
+    {
+      "date": "2020-11-25",
+      "date_evidence": "der sich am 25.11.2020 ambulant vorstellte.",
+      "evidence": "Punktion des Gelenks mit i.a. Installation mit Volon 40 mg sowie Entnahme von 50 ml seröser Flüssigkeit.",
+      "source_file": "1_Baseline.docx",
+      "drug": "Volon",
+      "description": "Punktion des linken Kniegelenks mit intraartikulärer Gabe von Volon 40 mg und Entnahme von 50 ml seröser Flüssigkeit; abweichende Medikamentenangabe zur Prednisolonapplikation."
+    }
+  ],
+  "metadata": {
+    "patient_id": 1,
+    "disease": "SpA",
+    "timepoint": "BA",
+    "source_files": [
+      "1_Baseline.docx"
+    ]
+  }
+}

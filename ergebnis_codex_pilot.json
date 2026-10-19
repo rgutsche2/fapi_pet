@@ -1,0 +1,29 @@
+{
+  "BASDAI": [
+    {
+      "value": 4.85,
+      "date": "2020-08-20",
+      "date_evidence": "der sich am 20.08.2020 ambulant vorstellte.",
+      "evidence": "BASDAI 4,85"
+    }
+  ],
+  "CRP": [
+    {
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l",
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,2 mg/l"
+    }
+  ],
+  "joint_swelling": [
+    {
+      "status": "absent",
+      "sites": [],
+      "date": "2020-08-20",
+      "date_evidence": "der sich am 20.08.2020 ambulant vorstellte.",
+      "evidence": "Gelenke: DS rechte Schulter, keine Schwellungen, leichter DS HWS/BWS/LWS, Patrick negativ bds."
+    }
+  ]
+}

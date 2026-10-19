@@ -1,0 +1,448 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "source_file": "21_FollowUp.docx"
+    },
+    {
+      "date": "2024-07-02",
+      "date_evidence": "Am 2.07",
+      "evidence": "Am 2.07 erfolge komplikationslos eine Handgelenksbiopsie.",
+      "source_file": "21_FollowUp.docx"
+    },
+    {
+      "date": "2024-09-25",
+      "date_evidence": "am 25.09.24 um 10:30 Uhr",
+      "evidence": "Eine WV ist am 25.09.24 um 10:30 Uhr geplant.",
+      "source_file": "21_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "TJC 12",
+      "source_file": "21_FollowUp.docx",
+      "value": 12,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "SJC 1",
+      "source_file": "21_FollowUp.docx",
+      "value": 1,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,4 mg/l",
+      "source_file": "21_FollowUp.docx",
+      "value": 5.4,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "Weiterhin Arthralgien und Schwellungen in mehreren Gelenken",
+      "source_file": "21_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "mehrere Gelenke, nicht näher lokalisiert"
+      ],
+      "description": "Weiterhin Schwellungen in mehreren Gelenken trotz Abatacept.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-HG re. 06/24: Synovialitis mit Pannus im distalen Radioulnargelenk unverändert, um den Carpus regredient.",
+      "source_file": "21_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "distales Radioulnargelenk rechts",
+        "Carpus rechts"
+      ],
+      "description": "Synovialitis mit Pannus; im distalen Radioulnargelenk unverändert, um den Carpus regredient; als MRT 06/24 dokumentiert.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-05-27",
+      "date_evidence": "Hand-MRT rechts nativ und mit KM vom 27.05.2024:",
+      "evidence": "Bei Rheumatoider Arthritis Synovialitis mit Pannus im distalen Radioulnargelenk unverändert, um den Carpus regredient zu 07/2023.",
+      "source_file": "21_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "distales Radioulnargelenk rechts",
+        "Carpus rechts"
+      ],
+      "description": "Synovialitis mit Pannus; im distalen Radioulnargelenk unverändert, um den Carpus gegenüber 07/2023 regredient.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Synovia-Biopsie 07/24: High grade Synovialitis",
+      "source_file": "21_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Histologisch High grade Synovialitis bei Synovia-Biopsie 07/24.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-07-02",
+      "date_evidence": "Hauptbefund vom 02.07.2024:",
+      "evidence": "Graduierung nach Krenn et al: High grade Synovialitis (5-9)",
+      "source_file": "21_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Handgelenk, Seite nicht angegeben"
+      ],
+      "description": "Histologisch High grade Synovialitis; Summenscore 5, mäßige interstitielle Fibrose.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "Morgensteifigkeit ca. 3h.",
+      "source_file": "21_FollowUp.docx",
+      "value": 3,
+      "operator": "approx",
+      "unit": "h",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "Aktuell berichtet der Pat. über einen unveränderten Zustand.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Patient berichtet einen unveränderten Zustand.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "Klinisch weiterhin Aktivität der Grunderkrankung.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Weiterhin klinische Krankheitsaktivität.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "seronegative rheumatoide Arthritis (RA), DD periphere Spondyloarthritis (EM 01/2023, ED 08/2023)",
+      "source_file": "21_FollowUp.docx",
+      "description": "Seronegative RA; Differenzialdiagnose periphere Spondyloarthritis; Erstmanifestation 01/2023, Erstdiagnose 08/2023.",
+      "context": "history"
+    },
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "Aktuell Arthralgien in den Fingergelenken und Handgelenken.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Aktuelle Arthralgien der Finger- und Handgelenke.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "VAS 6/10",
+      "source_file": "21_FollowUp.docx",
+      "description": "VAS 6/10; Bezug zu Patient, Arzt oder Schmerz nicht ausdrücklich dokumentiert.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "erhöhte CRP-Werte",
+      "source_file": "21_FollowUp.docx",
+      "description": "Erhöhte CRP-Werte ohne konkrete Messwerte oder Datumsangabe.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Synovia-Biopsie 08/23: Krenn-Score 9, B-Zellen 488/mm2",
+      "source_file": "21_FollowUp.docx",
+      "description": "Historische Synovia-Biopsie 08/23 mit Krenn-Score 9 und B-Zellen 488/mm2.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-HG re. 08/23: Arthritis",
+      "source_file": "21_FollowUp.docx",
+      "description": "Arthritis des rechten Handgelenks im MRT 08/23.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-HWS v. 05/2023: moderate neuroforaminale Enge rechts.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Moderate neuroforaminale Enge rechts im HWS-MRT 05/2023.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT-Schulter v. 07/2023: Insertionstendopathie, AC-Gelenksarthrose.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Insertionstendopathie und AC-Gelenksarthrose im Schulter-MRT 07/2023.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Röntgen Handgelenk: keine degenerativen Veränderungen.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Keine degenerativen Veränderungen im Röntgen des Handgelenks.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FAPI/PET 08/2023: Deutliche Fibroblastenaktivität in zahlreichen großen und kleinen Gelenken mit Punktum maximum in beiden Händen bei bekannter Polyarthritis.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Deutliche Fibroblastenaktivität in zahlreichen Gelenken, maximal in beiden Händen, im FAPI/PET 08/2023.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-05-27",
+      "date_evidence": "Hand-MRT rechts nativ und mit KM vom 27.05.2024:",
+      "evidence": "Einzelne unveränderte Erosionen in den Carpalia. Neue Erosionen in der distalen Ulna. Weitere Erosionen im Metakarpalköpfchen 5 in der Voruntersuchung nicht miterfasst. Keine Osteitis.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Rechts unveränderte karpale Erosionen, neue Erosionen der distalen Ulna und weitere Erosionen am Metakarpalköpfchen 5; keine Osteitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-05-27",
+      "date_evidence": "Hand-MRT rechts nativ und mit KM vom 27.05.2024:",
+      "evidence": "Fokales subchondrales Knochenmarködemsignal und vermehrte Kontrastmittelaufnahme proximal im Os capitatum",
+      "source_file": "21_FollowUp.docx",
+      "description": "Fokales subchondrales Knochenmarködemsignal mit vermehrter Kontrastmittelaufnahme im proximalen Os capitatum rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Es erfolgte eine MRT-Handgelenk links mit KM, hier zeigten sich teilweise regrediente entzündliche Veränderungen, allerdings auch persistierende Entzündung und neue Erosionen in den Händen.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Im Verlauf als MRT des linken Handgelenks dokumentiert: teilweise regrediente entzündliche Veränderungen, persistierende Entzündung und neue Erosionen der Hände.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2024:",
+      "evidence": "Im Vergleich zur VU von 08/23 überwiegend regrediente, gelenkassoziierte FAPI-Expression am Schultergürtel sowie an den Händen und Füßen. Hierbei weiterhin relativ kräftige FAP-Expression bds. an der Handwurzel, linksbetont in den Fingergelenken und im linken SC-Gelenk.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Überwiegend regrediente FAPI-Expression am Schultergürtel, Händen und Füßen; weiterhin kräftige Expression beider Handwurzeln, linksbetont der Fingergelenke und im linken SC-Gelenk.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-06-14",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 14.06.2024:",
+      "evidence": "Kniegelenk links mit a.e. posttraumatischen degenerativen Veränderungen und unverändert korrelierender FAP-Expression. Kein Hinweis auf FAP-positive Läsionen der Spondylgelenke.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Links wahrscheinlich posttraumatische degenerative Knieveränderungen mit unveränderter FAP-Expression; keine FAP-positiven Läsionen der Spondylgelenke.",
+      "context": "imaging"
+    },
+    {
+      "date": "2024-07-02",
+      "date_evidence": "Hauptbefund vom 02.07.2024:",
+      "evidence": "Summenscore: 5",
+      "source_file": "21_FollowUp.docx",
+      "description": "Histologischer Synovitis-Score nach Krenn: Summenscore 5.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-07-02",
+      "date_evidence": "Hauptbefund vom 02.07.2024:",
+      "evidence": "Fibrosegrad: Grad 2: mäßige interstitielle Fibrose Stromafibrose semiquantitativ in %: 60%",
+      "source_file": "21_FollowUp.docx",
+      "description": "Histologisch Fibrosegrad 2 mit mäßiger interstitieller Fibrose und 60% Stromafibrose.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-07-02",
+      "date_evidence": "Hauptbefund vom 02.07.2024:",
+      "evidence": "Kein Nachweis von Kristallablagerungen.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Keine Kristallablagerungen in der Synovia-Biopsie.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Arthrose Knie links",
+      "source_file": "21_FollowUp.docx",
+      "description": "Arthrose des linken Knies.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "In der Koloskopie vom 7/23 kein Hinweis auf Divertikulitis, sondern einzelne kleine Divertikel im Sigma, diese stellen keine Kontraindikation für eine Therapie mit Tocilizumab dar.",
+      "source_file": "21_FollowUp.docx",
+      "description": "Kleine Sigmadivertikel ohne Hinweis auf Divertikulitis; laut Beurteilung keine Kontraindikation für Tocilizumab.",
+      "context": "history"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2024-06-27",
+      "date_evidence": "der sich am 27.06.2024 ambulant vorstellte.",
+      "evidence": "trotz neu eingeleiteter Therapie mit Abatacept 03/2024.",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "In der Anamnese als seit 03/2024 eingeleitete Therapie mit fortbestehenden Beschwerden dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Naproxen 500mg B.b.",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Naproxen",
+      "description": "Naproxen 500 mg bei Bedarf; unter Therapiehistorie aufgeführt."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Prednisolon-Therapie max. 10mg tgl.",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Prednisolon",
+      "description": "Frühere Prednisolon-Therapie, maximal 10 mg täglich."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Methotrexat 15mg (08/23-12/23)",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Methotrexat",
+      "description": "Methotrexat 15 mg von 08/2023 bis 12/2023; Intervall nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Sulfasalazin ab 10/23-3/24",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Sulfasalazin",
+      "description": "Sulfasalazin von 10/2023 bis 03/2024."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab ab 12/23-03/24.",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Adalimumab von 12/2023 bis 03/2024."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n Abatacept 3/24- 6/24 empfohlen",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Abatacept",
+      "description": "Als Zustand nach Abatacept 03/2024 bis 06/2024 mit Zusatz „empfohlen“ dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Abatacent 125mg 1x/Woche von 03/2024 bis 06/2024 (abgesetzt bei Unwirksamkeit)",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Abatacent",
+      "description": "Im Original als Abatacent bezeichnet: 125 mg einmal wöchentlich von 03/2024 bis 06/2024, wegen Unwirksamkeit abgesetzt."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Aktuelle Therapie: Tocilizumab 162mg 1/Woche empfohlen",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Tocilizumab",
+      "description": "Tocilizumab 162 mg einmal wöchentlich empfohlen; tatsächlicher Beginn nicht dokumentiert."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "empfehlen wir eine Umstellung der Therapie auf Tocilizumab 162mg s.c. 1-mal pro Woche unter regelm. Blutkontrollen nach DGRh-Empfehlungen.",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Tocilizumab",
+      "description": "Umstellung auf Tocilizumab 162 mg subkutan einmal wöchentlich unter regelmäßigen Blutkontrollen empfohlen. Rezept und Patienteninfobroschüre mitgegeben."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Abatacent 125mg 1x/Woche von 03/2024 bis 06/2024 (abgesetzt bei Unwirksamkeit)",
+      "source_file": "21_FollowUp.docx",
+      "drug": "Abatacent",
+      "description": "Absetzen wegen Unwirksamkeit; Therapieende 06/2024 dokumentiert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 21,
+    "disease": "RA",
+    "timepoint": "FU",
+    "source_files": [
+      "21_FollowUp.docx"
+    ]
+  }
+}

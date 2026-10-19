@@ -1,0 +1,345 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "am 12.02.2024 ambulant vorstellte",
+      "source_file": "35_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "BASDAI: 2.02",
+      "source_file": "35_FollowUp.docx",
+      "value": 2.02,
+      "variant": null
+    }
+  ],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "MASES/LEI: 1",
+      "source_file": "35_FollowUp.docx",
+      "value": 1,
+      "variant": null
+    }
+  ],
+  "MASES": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "MASES/LEI: 1",
+      "source_file": "35_FollowUp.docx",
+      "value": 1,
+      "variant": null
+    }
+  ],
+  "HAQ": [],
+  "PASI": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "PASI: 0.30",
+      "source_file": "35_FollowUp.docx",
+      "value": 0.3,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "C-reaktives Protein <5,4 mg/l",
+      "source_file": "35_FollowUp.docx",
+      "value": 5.4,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Keine Gelenkschwellungen.",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Anamnestisch keine Gelenkschwellungen.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "keine geschwollene Gelenke.",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Im Gelenkstatus keine geschwollenen Gelenke.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Druckschmerz Knie links",
+      "source_file": "35_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Druckschmerz am linken Knie.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [
+    {
+      "date": null,
+      "date_evidence": "Im FAPI-PET sowie im MRT vom Knie li vom November 2023",
+      "evidence": "eine Arthrose beschrieben ohne Hinweis auf eine Synovialitis.",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "Knie links"
+      ],
+      "description": "Im FAPI-PET sowie im MRT des linken Knies Arthrose ohne Hinweis auf Synovialitis.",
+      "context": "imaging"
+    }
+  ],
+  "enthesitis": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "DS der Achillessehne links, sonst keine DS der Enthesen",
+      "source_file": "35_FollowUp.docx",
+      "status": "unclear",
+      "sites": [
+        "Achillessehne links",
+        "übrige Enthesen"
+      ],
+      "description": "Druckschmerz der linken Achillessehne; sonst kein Druckschmerz der Enthesen. Enthesitis nicht ausdrücklich diagnostiziert.",
+      "context": "clinical"
+    }
+  ],
+  "dactylitis": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "keine Daktylitis",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Daktylitis.",
+      "context": "clinical"
+    }
+  ],
+  "inflammatory_back_pain": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "keine Rückenschmerzen.",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Rückenschmerzen.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Keine Morgensteifigkeit.",
+      "source_file": "35_FollowUp.docx",
+      "value": null,
+      "operator": null,
+      "unit": null,
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis vulgaris (ED 2009)",
+      "source_file": "35_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris, Erstdiagnose 2009.",
+      "context": "history"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "PsO vulgaris in Behandlung mit Tildrakizumab in unserer Hautklinik und aktuell in Remission.",
+      "source_file": "35_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Psoriasis vulgaris anamnestisch aktuell in Remission unter Tildrakizumab.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Haut: Pso retroaurikulär",
+      "source_file": "35_FollowUp.docx",
+      "status": "present",
+      "sites": [
+        "retroaurikulär"
+      ],
+      "description": "Retroaurikuläre Psoriasis im Untersuchungsbefund.",
+      "context": "clinical"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "V.a. Psoriasis-Arthritis bei Psoriasis vulgaris (ED 2009)",
+      "source_file": "35_FollowUp.docx",
+      "description": "Verdacht auf Psoriasis-Arthritis bei Psoriasis vulgaris.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Es zeigt sich weiterhin kein Anhalt für eine Psoriasis-Arthritis.",
+      "source_file": "35_FollowUp.docx",
+      "description": "Weiterhin kein Anhalt für eine Psoriasis-Arthritis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Klinisch und laborchemisch fanden sich aktuell keine relevanten Auffälligkeiten.",
+      "source_file": "35_FollowUp.docx",
+      "description": "Aktuell klinisch und laborchemisch keine relevanten Auffälligkeiten.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "aktuell manchmal Schmerzen Achillessehne links",
+      "source_file": "35_FollowUp.docx",
+      "description": "Gelegentliche Schmerzen der linken Achillessehne.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Ab und zu Arthralgien und gelegentlich Schmerzen an Achillessehne li. und Kniegelenke, v.a. unter Belastung.",
+      "source_file": "35_FollowUp.docx",
+      "description": "Gelegentliche Arthralgien sowie Schmerzen der linken Achillessehne und der Kniegelenke, vor allem unter Belastung.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Keine Uveitis",
+      "source_file": "35_FollowUp.docx",
+      "description": "Keine Uveitis.",
+      "context": "clinical"
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Gonarthrose bds.",
+      "source_file": "35_FollowUp.docx",
+      "description": "Beidseitige Gonarthrose.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": "Im FAPI-PET sowie im MRT vom Knie li vom November 2023",
+      "evidence": "wurde eine Arthrose beschrieben ohne Hinweis auf eine Synovialitis.",
+      "source_file": "35_FollowUp.docx",
+      "description": "Arthrose in FAPI-PET und MRT des linken Knies; MRT vom November 2023.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "aktuelle Therapie: Tildrakizumab 100 mg s.c. alle 12 Wochen",
+      "source_file": "35_FollowUp.docx",
+      "drug": "Tildrakizumab",
+      "description": "Tildrakizumab 100 mg subkutan alle 12 Wochen."
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Tildakrizumab alle 12 Wochen",
+      "source_file": "35_FollowUp.docx",
+      "drug": "Tildakrizumab",
+      "description": "Als Dauermedikation Tildakrizumab alle 12 Wochen dokumentiert."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Z.n. Fumarat",
+      "source_file": "35_FollowUp.docx",
+      "drug": "Fumarat",
+      "description": "Frühere Therapie mit Fumarat."
+    },
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Z.n. Adalimumab (sek. Wirkverlust)",
+      "source_file": "35_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Frühere Therapie mit Adalimumab mit sekundärem Wirkverlust."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2024-02-12",
+      "date_evidence": "am 12.02.2024 ambulant vorstellte",
+      "evidence": "Wir empfahlen die Fortsetzung der Tildrakizumab in unserer Hautklinik.",
+      "source_file": "35_FollowUp.docx",
+      "drug": "Tildrakizumab",
+      "description": "Fortsetzung der Tildrakizumab-Therapie in der Hautklinik empfohlen."
+    }
+  ],
+  "therapy_change": [],
+  "metadata": {
+    "patient_id": 35,
+    "disease": "PsA",
+    "timepoint": "FU",
+    "source_files": [
+      "35_FollowUp.docx"
+    ]
+  }
+}

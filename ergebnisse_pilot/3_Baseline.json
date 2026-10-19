@@ -1,0 +1,360 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "source_file": "3_Baseline.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "C-reaktives Protein <5,2 mg/l",
+      "source_file": "3_Baseline.docx",
+      "value": 5.2,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "BKS 12/21 mm/h",
+      "source_file": "3_Baseline.docx",
+      "value": null,
+      "operator": "=",
+      "unit": "mm/h"
+    }
+  ],
+  "joint_swelling": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Gelenkstatus: keine periph. synovitische Gelenkschwellung.",
+      "source_file": "3_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "periphere Gelenke"
+      ],
+      "description": "Keine periphere synovitische Gelenkschwellung.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Gelenkstatus: keine periph. synovitische Gelenkschwellung.",
+      "source_file": "3_Baseline.docx",
+      "status": "absent",
+      "sites": [
+        "periphere Gelenke"
+      ],
+      "description": "Keine periphere synovitische Gelenkschwellung.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Nächtlicher Rückenschmerz",
+      "source_file": "3_Baseline.docx",
+      "status": "unclear",
+      "sites": [
+        "Rücken"
+      ],
+      "description": "Nächtlicher Rückenschmerz; nicht ausdrücklich als entzündlicher Rückenschmerz bezeichnet.",
+      "context": "clinical"
+    }
+  ],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [],
+  "disease_assessment": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "axiale Spondylarthropathie, SpA",
+      "source_file": "3_Baseline.docx",
+      "description": "Axiale Spondylarthropathie.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität.",
+      "source_file": "3_Baseline.docx",
+      "description": "Persistierende klinische Erkrankungsaktivität unter Secukinumab 150 mg/Monat.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 19.10.2020",
+      "evidence": "Insgesamt ist daher auch bildmorphologisch von einer persistierenden entzündlich-knöchernen Aktivität auszugehen.",
+      "source_file": "3_Baseline.docx",
+      "description": "Bildmorphologisch persistierende entzündlich-knöcherne Aktivität.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Der erosive Verlauf im Bereich L3/4 ist allerdings nicht typisch für eine Spondylarthropathie.",
+      "source_file": "3_Baseline.docx",
+      "description": "Erosiver Verlauf L3/4 als untypisch für eine Spondylarthropathie beurteilt.",
+      "context": "imaging"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Entzündung Achillessehne",
+      "source_file": "3_Baseline.docx",
+      "description": "Entzündung der Achillessehne, Seite nicht angegeben.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab.",
+      "source_file": "3_Baseline.docx",
+      "description": "Persistierende Wirbelsäulenschmerzen, vor allem lumbal, auch nach Umstellung auf Secukinumab.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_Baseline.docx",
+      "description": "Ansprechen auf Ibuprofen und Arcoxia.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HLA B 27 extern negativ, IL-23-R. Polymorphismus negativ",
+      "source_file": "3_Baseline.docx",
+      "description": "HLA B 27 extern negativ; IL-23-R.-Polymorphismus negativ.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT LWS-Sakrum extern: V.a. axiale Spondylarthritis mit zum Teil progredienter Spondylodiszitis besonders LW3/4.",
+      "source_file": "3_Baseline.docx",
+      "description": "Externes MRT mit Verdacht auf axiale Spondylarthritis und zum Teil progredienter Spondylodiszitis, besonders LW3/4.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rückbildung des links lateralen Bandscheibenvorfalls LW4/5 ohne derzeit relevante Bedrängung einer Nervenstruktur, ISG keine eindeutigen entzündlichen Veränderungen",
+      "source_file": "3_Baseline.docx",
+      "description": "Rückbildung des links lateralen Bandscheibenvorfalls LW4/5 ohne relevante Nervenbedrängung; keine eindeutigen entzündlichen ISG-Veränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT Sakrum 06/2020",
+      "evidence": "MRT Sakrum 06/2020: konstanter Befund, weiterhin entzündliche Veränderungen an LWS 3/4",
+      "source_file": "3_Baseline.docx",
+      "description": "MRT Sakrum im Juni 2020 mit konstantem Befund und weiterhin entzündlichen Veränderungen LWS 3/4.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantiferon/Hepatitis B/C Serologie negativ",
+      "source_file": "3_Baseline.docx",
+      "description": "Quantiferon und Hepatitis-B/C-Serologie negativ.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Borreliose vor 11 Jahren \nErythema migrans",
+      "source_file": "3_Baseline.docx",
+      "description": "Borreliose vor elf Jahren mit Erythema migrans.",
+      "context": "history"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 19.10.2020",
+      "evidence": "Irregulär konfigurierte Grund- bzw. Deckplatten von LWK 3/LWK 4 und LWK 4/LWK 5 mit jeweils erhöhter FAP-Expression, in Zusammenschau mit der MRT-Voruntersuchung hinweisend auf erhöhte Fibroblastenaktivität z.B. bei Entzündung ebenda.",
+      "source_file": "3_Baseline.docx",
+      "description": "Irreguläre Grund- beziehungsweise Deckplatten LWK 3/4 und LWK 4/5 mit erhöhter FAP-Expression; Hinweis auf erhöhte Fibroblastenaktivität, beispielsweise bei Entzündung.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 19.10.2020",
+      "evidence": "Zudem FAPI Anreicherung im Facettengelenk LWK 4/LWK 5 links.",
+      "source_file": "3_Baseline.docx",
+      "description": "FAPI-Anreicherung im linken Facettengelenk LWK 4/5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 19.10.2020",
+      "evidence": "Nuklid Mehrbelegung auch in Projektion auf den Ansatz der hamstring Muskulatur beidseits, am ehesten im Sinne einer Insertionstendinopathie.",
+      "source_file": "3_Baseline.docx",
+      "description": "Nuklidmehrbelegung an den Hamstringansätzen beidseits, am ehesten Insertionstendinopathie; links stärker als rechts.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 19.10.2020",
+      "evidence": "Leicht rechtskonvexe LWS-Skoliose.",
+      "source_file": "3_Baseline.docx",
+      "description": "Leicht rechtskonvexe LWS-Skoliose.",
+      "context": "imaging"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Die Borrelienserologie zeigte einen positiver IgM-ELISA bei passendem IgM-Bandenmuster und unauffälligem IgG-ELISA.",
+      "source_file": "3_Baseline.docx",
+      "description": "Differentialdiagnostisch positive Borrelien-IgM-Serologie mit passendem Bandenmuster bei unauffälligem IgG-ELISA.",
+      "context": "clinical"
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "ASL-Titer zeigte sich unauffällig.",
+      "source_file": "3_Baseline.docx",
+      "description": "Differentialdiagnostisch unauffälliger ASL-Titer.",
+      "context": "clinical"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Aktuell: Secukinumab 150 mg (seit 08/20)",
+      "source_file": "3_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab 150 mg seit August 2020."
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität.",
+      "source_file": "3_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab 150 mg/Monat bei persistierender Erkrankungsaktivität."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Z.n. Adalimumab 03/2020-08/2020 (unzureichende Wirkung)",
+      "source_file": "3_Baseline.docx",
+      "drug": "Adalimumab",
+      "description": "Adalimumab von März bis August 2020 mit unzureichender Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_Baseline.docx",
+      "drug": "Ibuprofen",
+      "description": "Dokumentiertes Ansprechen auf Ibuprofen; Dosis und Behandlungszeitraum nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_Baseline.docx",
+      "drug": "Arcoxia",
+      "description": "Dokumentiertes Ansprechen auf Arcoxia; Dosis und Behandlungszeitraum nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Antibiotische Therapie über 2 Wochen",
+      "source_file": "3_Baseline.docx",
+      "drug": null,
+      "description": "Antibiotische Therapie über zwei Wochen bei früherer Borreliose vor elf Jahren."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "In diesem Falle wäre eine erneute Antibiotika-Therapie mit Doxycyclin 100mg 1-0-1 (Vermeidung gleichzeitiger Einnahme von Milchprodukten und UV-Exposition) für 3 Wochen probatorisch sinnvoll.",
+      "source_file": "3_Baseline.docx",
+      "drug": "Doxycyclin",
+      "description": "Bei weiterhin aktiver Borrelieninfektion probatorisch Doxycyclin 100 mg 1-0-1 für drei Wochen empfohlen; gleichzeitige Einnahme von Milchprodukten und UV-Exposition vermeiden. Anschließend erneute Borrelienserologie hinsichtlich Serokonversion."
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "In diesem Fall sollte die Dosis des Secukinumab auf 300mg/Monat unter Kontrolle nach Maßgabe der DGRh erhöht werden.",
+      "source_file": "3_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Falls kein Hinweis auf persistierende Borrelieninfektion besteht, Erhöhung auf 300 mg/Monat unter Kontrolle nach Maßgabe der DGRh empfohlen."
+    },
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "Sollte sich hierbei auch keine Befundbesserung einstellen, empfehlen wir eine Therapieumstellung auf JAK-Inhibition im Rahmen einer klinischen Studie im Haus.",
+      "source_file": "3_Baseline.docx",
+      "drug": null,
+      "description": "Bei ausbleibender Befundbesserung nach Secukinumab-Dosiserhöhung Umstellung auf JAK-Inhibition im Rahmen einer klinischen Studie im Haus empfohlen; bereits mit der Patientin besprochen."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2020-10-19",
+      "date_evidence": "die sich am 19.10.2020 ambulant vorstellte",
+      "evidence": "auch nach Umstellung auf Secukinumab.",
+      "source_file": "3_Baseline.docx",
+      "drug": "Secukinumab",
+      "description": "Bereits erfolgte Umstellung auf Secukinumab; Beginn laut Diagnosen im August 2020."
+    }
+  ],
+  "metadata": {
+    "patient_id": 3,
+    "disease": "SpA",
+    "timepoint": "BA",
+    "source_files": [
+      "3_Baseline.docx"
+    ]
+  }
+}

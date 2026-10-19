@@ -1,0 +1,320 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "source_file": "33_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_FollowUp.docx",
+      "value": 12,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "SJC": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_FollowUp.docx",
+      "value": 0,
+      "scope": "unspecified",
+      "unit": null
+    }
+  ],
+  "LEI": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "MASES/LEI 0",
+      "source_file": "33_FollowUp.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "MASES": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "MASES/LEI 0",
+      "source_file": "33_FollowUp.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "HAQ": [],
+  "PASI": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "PASI: 0",
+      "source_file": "33_FollowUp.docx",
+      "value": 0,
+      "variant": null
+    }
+  ],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "Laborwerte vom 21.03.2025:",
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "33_FollowUp.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Schwellungen werden verneint.",
+      "source_file": "33_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Gelenkschwellungen anamnestisch verneint.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine geschwollenen Gelenke im dokumentierten Gelenkstatus.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Gelenkstatus: 12 TJ 0 SJ",
+      "source_file": "33_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "12 druckschmerzhafte Gelenke; Lokalisationen nicht angegeben.",
+      "context": "clinical"
+    }
+  ],
+  "synovitis": [],
+  "enthesitis": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "keine DS der Enthesen",
+      "source_file": "33_FollowUp.docx",
+      "status": "absent",
+      "sites": [],
+      "description": "Keine Druckschmerzen der Enthesen.",
+      "context": "clinical"
+    }
+  ],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Die Morgensteifigkeit sei nur kurz < 15 Minute.",
+      "source_file": "33_FollowUp.docx",
+      "value": 15,
+      "operator": "<",
+      "unit": "Minute",
+      "context": "clinical"
+    }
+  ],
+  "psoriasis_skin": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psorasis vulgaris seit dem 15.Lebensjahr",
+      "source_file": "33_FollowUp.docx",
+      "status": "present",
+      "sites": [],
+      "description": "Psoriasis vulgaris seit dem 15. Lebensjahr.",
+      "context": "history"
+    }
+  ],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "keine Bewegungseinschränkung",
+      "source_file": "33_FollowUp.docx",
+      "description": "Keine Bewegungseinschränkung.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "MDA nicht erreicht",
+      "source_file": "33_FollowUp.docx",
+      "description": "MDA nicht erreicht.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Da die Patientin bisher von Bimekizumab gut profitiert hat",
+      "source_file": "33_FollowUp.docx",
+      "description": "Bisher gutes Ansprechen auf Bimekizumab.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Psoriasis-Arthritis EM 2017",
+      "source_file": "33_FollowUp.docx",
+      "description": "Psoriasis-Arthritis, Erstmanifestation 2017.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "entzündliche Arthralgien der kleinen Gelenke",
+      "source_file": "33_FollowUp.docx",
+      "description": "Entzündliche Arthralgien der kleinen Gelenke.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "entzündliche Veränderungen und Erosionen (Hand-MRT)",
+      "source_file": "33_FollowUp.docx",
+      "description": "Entzündliche Veränderungen und Erosionen im Hand-MRT.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Spaltung Strecksehnenfach bei Tenovaginitis 2021",
+      "source_file": "33_FollowUp.docx",
+      "description": "Spaltung eines Strecksehnenfachs bei Tenovaginitis 2021.",
+      "context": "history"
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke.",
+      "source_file": "33_FollowUp.docx",
+      "description": "Vermehrte Beschwerden an Händen und Kniegelenken seit der Medikamentenpause.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Seitdem Bimekizumab pausiert sei , sei die Mukositis auch zurückgegangen.",
+      "source_file": "33_FollowUp.docx",
+      "description": "Rückgang der Mukositis seit der Bimekizumab-Pause.",
+      "context": "clinical"
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "wiederholt eine Pilzinfektion im Rückenbereich gehabt, welche mit Tabletten behandelt worden sei",
+      "source_file": "33_FollowUp.docx",
+      "description": "Wiederholte Pilzinfektionen im Rückenbereich, mit Tabletten behandelt.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Quantiferon Test/Hepatitis Screening negativ (01.24)",
+      "source_file": "33_FollowUp.docx",
+      "description": "Quantiferon-Test und Hepatitis-Screening im Januar 2024 negativ.",
+      "context": "history"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Aktuelle Therapie: Bimekizumab 160mg s.c. alle 28 d seit 08/2024, aktuell pausiert bei rez. Infekten und Mukositis",
+      "source_file": "33_FollowUp.docx",
+      "drug": "Bimekizumab",
+      "description": "160 mg s.c. alle 28 Tage seit 08/2024; aktuell wegen rezidivierender Infekte und Mukositis pausiert."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "bisherige Therapie: Apremilast seit 05/2021 bis 06.24",
+      "source_file": "33_FollowUp.docx",
+      "drug": "Apremilast",
+      "description": "Frühere Therapie von 05/2021 bis 06/2024."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "empfahlen wir einmalig noch das Medikament zu verabreichen und eine Beobachtung hinsichtlich de Mukositis.",
+      "source_file": "33_FollowUp.docx",
+      "drug": "Bimekizumab",
+      "description": "Einmalige weitere Gabe empfohlen, anschließend Beobachtung hinsichtlich Mukositis."
+    },
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Sollte die Mukositis wieder auftreten, planen wir die Umstellung der bDMARD-Therapie, in erster Linie steht eine anti-IL23 -Therapie wie Guselkumab in Raum.",
+      "source_file": "33_FollowUp.docx",
+      "drug": "Guselkumab",
+      "description": "Bei erneutem Auftreten der Mukositis Umstellung der bDMARD-Therapie geplant; bevorzugt eine anti-IL23-Therapie wie Guselkumab."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": "2025-03-21",
+      "date_evidence": "die sich am 21.03.2025 ambulant vorstellte.",
+      "evidence": "Das Medikament sei zuletzt am 28.01. appliziert worden, danach habe die Patientin die Medikation pausiert",
+      "source_file": "33_FollowUp.docx",
+      "drug": "Bimekizumab",
+      "description": "Nach letzter Applikation am 28.01. von der Patientin pausiert; Jahr der letzten Applikation nicht ausdrücklich angegeben. Als Gründe sind Infekte und Mukositis dokumentiert."
+    }
+  ],
+  "metadata": {
+    "patient_id": 33,
+    "disease": "PsA",
+    "timepoint": "FU",
+    "source_files": [
+      "33_FollowUp.docx"
+    ]
+  }
+}

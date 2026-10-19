@@ -1,0 +1,392 @@
+{
+  "clinical_dates": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "source_file": "3_FollowUp.docx"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Eine Wiedervorstellung ist in 3 Monaten geplant",
+      "source_file": "3_FollowUp.docx"
+    }
+  ],
+  "DAS28": [],
+  "ASDAS_CRP": [],
+  "ASDAS_ESR": [],
+  "BASDAI": [],
+  "BASFI": [],
+  "BASMI": [],
+  "BAS_G": [],
+  "SDAI": [],
+  "CDAI": [],
+  "DAPSA": [],
+  "TJC": [],
+  "SJC": [],
+  "LEI": [],
+  "MASES": [],
+  "HAQ": [],
+  "PASI": [],
+  "VAS_physician": [],
+  "VAS_patient": [],
+  "VAS_pain": [],
+  "CRP": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "Laborwerte vom 18.01.2021:",
+      "evidence": "C-reaktives Protein <5,1 mg/l",
+      "source_file": "3_FollowUp.docx",
+      "value": 5.1,
+      "operator": "<",
+      "unit": "mg/l"
+    }
+  ],
+  "hsCRP": [],
+  "ESR_1h": [],
+  "ESR_2h": [],
+  "ESR_unspecified": [],
+  "joint_swelling": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "keine periph. synovitische Gelenkschwellung",
+      "source_file": "3_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "periphere Gelenke"
+      ],
+      "description": "Keine periphere synovitische Gelenkschwellung.",
+      "context": "clinical"
+    }
+  ],
+  "joint_tenderness": [],
+  "synovitis": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "keine periph. synovitische Gelenkschwellung",
+      "source_file": "3_FollowUp.docx",
+      "status": "absent",
+      "sites": [
+        "periphere Gelenke"
+      ],
+      "description": "Keine periphere synovitische Gelenkschwellung.",
+      "context": "clinical"
+    }
+  ],
+  "enthesitis": [],
+  "dactylitis": [],
+  "inflammatory_back_pain": [],
+  "morning_stiffness": [],
+  "psoriasis_skin": [],
+  "nail_psoriasis": [],
+  "wall_tragus": [],
+  "finger_floor": [],
+  "lateral_flexion": [],
+  "cervical_rotation": [],
+  "Schober": [],
+  "mobility_text": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "weiterhin aggravierte axiale Bewegungseinschränkung",
+      "source_file": "3_FollowUp.docx",
+      "description": "Weiterhin aggravierte axiale Bewegungseinschränkung.",
+      "context": "clinical"
+    }
+  ],
+  "disease_assessment": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Axiale Spondylarthropathie, SpA, DD erosive Osteochondrosis intervertebralis",
+      "source_file": "3_FollowUp.docx",
+      "description": "Axiale Spondylarthropathie; differentialdiagnostisch erosive Osteochondrosis intervertebralis.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat",
+      "source_file": "3_FollowUp.docx",
+      "description": "Persistierende klinische und radiographische Aktivität unter Secukinumab 300 mg pro Monat.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt",
+      "source_file": "3_FollowUp.docx",
+      "description": "Partielles Ansprechen auf die bisherige immunsuppressive Therapie im FAPI PET/CT 02/21.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "persistierenden massiven klinischen Symptomatik und der signifikanten Restaktivität (MRT-morphologisch und im FAPI PET/CT)",
+      "source_file": "3_FollowUp.docx",
+      "description": "Persistierende massive klinische Symptomatik mit signifikanter Restaktivität in MRT und FAPI PET/CT.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ergeben sich aktuell keine ausreichenden Hinweise, die auf eine infektiologische Genese schließen lassen können",
+      "source_file": "3_FollowUp.docx",
+      "description": "Keine ausreichenden Hinweise auf eine infektiologische Genese.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Weiterhin sollte eine erosive Osteochondrosis intervertebralis differentialdiagnostisch als nicht-entzündliche Ursache der Beschwerden berücksichtigt werden.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Erosive Osteochondrosis intervertebralis als mögliche nichtentzündliche Ursache der Beschwerden.",
+      "context": "clinical"
+    }
+  ],
+  "other_relevant": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "ankylosierende WS-Veränderungen im Bereich der LWS",
+      "source_file": "3_FollowUp.docx",
+      "description": "Ankylosierende Wirbelsäulenveränderungen im Bereich der LWS.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Z.n. Entzündung Achillessehne",
+      "source_file": "3_FollowUp.docx",
+      "description": "Frühere Entzündung der Achillessehne; Seite nicht angegeben.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Nächtlicher Rückenschmerz",
+      "source_file": "3_FollowUp.docx",
+      "description": "Nächtlicher Rückenschmerz.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_FollowUp.docx",
+      "description": "Ansprechen auf Ibuprofen und Arcoxia.",
+      "context": "history"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "HLA B 27 extern negativ, IL-23-R. Polymorphismus negativ",
+      "source_file": "3_FollowUp.docx",
+      "description": "HLA B 27 extern negativ und IL-23-R.-Polymorphismus negativ.",
+      "context": "history"
+    },
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS",
+      "source_file": "3_FollowUp.docx",
+      "description": "Persistierende Wirbelsäulenschmerzen, vor allem an der LWS, auch nach Secukinumab-Dosiserhöhung.",
+      "context": "clinical"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "MRT LWS-Sakrum extern: V.a. axiale Spondylarthritis mit progredienter abakterielle Spondylodiszitis (Andersson-Läsion) besonders LW3/4.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Externes MRT: Verdacht auf axiale Spondylarthritis mit progredienter abakterieller Spondylodiszitis beziehungsweise Andersson-Läsion, besonders LW3/4.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Rückbildung des links lateralen Bandscheibenvorfalls LW4/5 ohne derzeit relevante Bedrängung einer Nervenstruktur, ISG keine eindeutigen entzündlichen Veränderungen",
+      "source_file": "3_FollowUp.docx",
+      "description": "Rückbildung des links lateralen Bandscheibenvorfalls LW4/5 ohne relevante Nervenbedrängung; keine eindeutigen entzündlichen ISG-Veränderungen.",
+      "context": "imaging"
+    },
+    {
+      "date": null,
+      "date_evidence": "MRT LWS/Sakrum 06/2020:",
+      "evidence": "konstanter Befund, weiterhin entzündliche Veränderungen an LWS 3/4",
+      "source_file": "3_FollowUp.docx",
+      "description": "MRT 06/2020 mit konstantem Befund und weiterhin entzündlichen Veränderungen an LWS 3/4.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-15",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 15.02.2021:",
+      "evidence": "rückläufige Nuklidspeicherung LWK3/4 bei bekannt irregulär konfigurierten Grund- bzw. Deckplatten sowie konstant erhöhte FAP-Expression in LWK 4/LWK 5",
+      "source_file": "3_FollowUp.docx",
+      "description": "Rückläufige Nuklidspeicherung LWK3/4 bei irregulären Endplatten; konstant erhöhte FAP-Expression LWK4/5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-15",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 15.02.2021:",
+      "evidence": "gering rückläufige Nuklidspeicherung im Facettengelenk LWK 4/LWK 5 links",
+      "source_file": "3_FollowUp.docx",
+      "description": "Gering rückläufige Nuklidspeicherung im linken Facettengelenk LWK4/5.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-15",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 15.02.2021:",
+      "evidence": "Unveränderte Nuklidmehrbelegung in Projektion auf den Ansatz der hamstring Muskulatur beidseits, am ehesten im Sinne einer Insertionstendinopathie.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Unveränderte Nuklidmehrbelegung an den Hamstring-Ansätzen beidseits, am ehesten Insertionstendinopathie.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-02-15",
+      "date_evidence": "FAPI PET/CT mit CT low dose vom 15.02.2021:",
+      "evidence": "Bekannte geringe Radionuklidanreicherung in Projektion auf den Ansatz der hamstring Muskulatur und um den Trochanter major bds..",
+      "source_file": "3_FollowUp.docx",
+      "description": "Geringe Radionuklidanreicherung an den Hamstring-Ansätzen und um den Trochanter major beidseits.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-16",
+      "date_evidence": "LWS-Sacrum-MRT nativ und mit KM vom 16.03.2021:",
+      "evidence": "Befund in erster Linie passend zu mehrsegmentalen lumbalen Anderson-Läsionen, Aktivierungszeichen führend in Höhe LWK 4/5. Keine typischen Zeichen eine Spondylodiszitis.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Mehrsegmentale lumbale Anderson-Läsionen mit führenden Aktivierungszeichen LWK4/5; keine typischen Zeichen einer Spondylodiszitis.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-16",
+      "date_evidence": "LWS-Sacrum-MRT nativ und mit KM vom 16.03.2021:",
+      "evidence": "Reizzustand der Ligamenta interspinalia LWK 4/5 und der Facettengelenke LWK 4/5 und LWK 5/SWK 1 beidseits.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Reizzustand der Ligamenta interspinalia LWK4/5 und der Facettengelenke LWK4/5 und LWK5/SWK1 beidseits.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-16",
+      "date_evidence": "LWS-Sacrum-MRT nativ und mit KM vom 16.03.2021:",
+      "evidence": "Subchondrales Knochenmarködemsignal in drei konsekutiven Schichten ventrokranial an der rechten Iliosakralfuge im Os sacrum",
+      "source_file": "3_FollowUp.docx",
+      "description": "Subchondrales Knochenmarködemsignal ventrokranial an der rechten Iliosakralfuge im Os sacrum.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-16",
+      "date_evidence": "LWS-Sacrum-MRT nativ und mit KM vom 16.03.2021:",
+      "evidence": "Vorbestehende intraossäre Zysten am rechten Iliosakralgelenk im ventrokranialen Os sacrum, bei fehlender FAPI-Anreicherung in der Vor-PET in erster Linie degenerativ.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Vorbestehende intraossäre Zysten am rechten ISG im ventrokranialen Os sacrum, primär degenerativ eingeordnet.",
+      "context": "imaging"
+    },
+    {
+      "date": "2021-03-16",
+      "date_evidence": "LWS-Sacrum-MRT nativ und mit KM vom 16.03.2021:",
+      "evidence": "Hypertrophe Facettengelenksarthrosen LWK 4/5 und LWK 5/SWK 1 beidseits.",
+      "source_file": "3_FollowUp.docx",
+      "description": "Hypertrophe Facettengelenksarthrosen LWK4/5 und LWK5/SWK1 beidseits.",
+      "context": "imaging"
+    }
+  ],
+  "therapy_current": [
+    {
+      "date": "2021-01-18",
+      "date_evidence": "die sich am 18.01.2021 ambulant vorstellte",
+      "evidence": "auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab 300 mg alle 4 Wochen seit 11/20; weiterhin persistierende Schmerzen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Umstellung auf Upadacitinib 15mg 0-0-1 bei klinisch und radiographisch persistierender Aktivität 03/21",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Als aktuelle Therapie dokumentiert: Umstellung auf Upadacitinib 15 mg 0-0-1 in 03/21 wegen persistierender klinischer und radiographischer Aktivität."
+    }
+  ],
+  "therapy_previous": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Adalimumab 03/2020-08/2020 (unzureichende Wirkung)",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Adalimumab",
+      "description": "Adalimumab von 03/2020 bis 08/2020; unzureichende Wirkung."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Secukinumab 150 mg (seit 08/20), Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Secukinumab 150 mg seit 08/20; 300 mg alle 4 Wochen von 11/20 bis 03/21 mit teilweisem Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Ibuprofen",
+      "description": "Ansprechen auf Ibuprofen; Dosis und Zeitraum nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Ansprechen auf Ibuprofen, Arcoxia",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Arcoxia",
+      "description": "Ansprechen auf Arcoxia; Dosis und Zeitraum nicht angegeben."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Antibiotikatherapie über Wochen ohne Besserung der Beschwerden.",
+      "source_file": "3_FollowUp.docx",
+      "drug": null,
+      "description": "Antibiotikatherapie über Wochen ohne Besserung der Beschwerden im Rahmen der Abklärung einer infektiologischen Genese."
+    }
+  ],
+  "therapy_planned": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "empfehlen wir eine Therapieumstellung auf Upadacitinib 15mg 1x/Tag, unter Kontrolle nach Maßgabe der DGRh",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Empfohlene Umstellung auf Upadacitinib 15 mg einmal täglich mit regelmäßigen klinischen und serologischen Kontrollen, insbesondere Leberfunktion, Nierenfunktion und Blutbild."
+    }
+  ],
+  "therapy_change": [
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Secukinumab",
+      "description": "Dosiserhöhung auf 300 mg alle 4 Wochen ab 11/20; bis 03/21 mit teilweisem Ansprechen."
+    },
+    {
+      "date": null,
+      "date_evidence": null,
+      "evidence": "aktuelle Therapie: Umstellung auf Upadacitinib 15mg 0-0-1 bei klinisch und radiographisch persistierender Aktivität 03/21",
+      "source_file": "3_FollowUp.docx",
+      "drug": "Upadacitinib",
+      "description": "Als aktuelle Umstellung dokumentiert: Upadacitinib 15 mg 0-0-1 in 03/21 bei persistierender klinischer und radiographischer Aktivität."
+    }
+  ],
+  "metadata": {
+    "patient_id": 3,
+    "disease": "SpA",
+    "timepoint": "FU",
+    "source_files": [
+      "3_FollowUp.docx"
+    ]
+  }
+}
