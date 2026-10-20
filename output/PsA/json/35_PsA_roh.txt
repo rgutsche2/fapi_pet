@@ -1,0 +1,293 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2023-01-19",
+      "DAPSA": null,
+      "cDAPSA": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": 3,
+      "PASI": 0,
+      "HAQ": null,
+      "CRP-Wert": 8.7,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Tildrakizumab 100 mg s.c. alle 12 Wochen.",
+      "Klinische Hauptmanifestation": "Langjährige Knie- und Fußschmerzen beidseits mit etwa 10 Minuten Morgensteifigkeit sowie druckschmerzhafte Gelenke und Enthesen ohne synovitische Schwellungen.",
+      "Periphere Gelenkbeschwerden": "Seit Jahren Schmerzen in Knien und Füßen beidseits, Morgensteifigkeit etwa 10 Minuten. Druckschmerz am linken oberen Sprunggelenk und an beiden Knien; keine Gelenkschwellungen.",
+      "Axiale Beschwerden / ISG": null,
+      "Enthesitis": "Rezidivierende Sehnenansatzentzündungen an beiden Ellenbogen anamnestisch. Klinisch entheseale Druckschmerzen am rechten medialen Epikondylus, an beiden Achillessehnen und beidseits sternoklavikulär.",
+      "Daktylitis": null,
+      "Hautbeteiligung": "Psoriasis unter Tildrakizumab aktuell in Remission; Hautbefund unauffällig.",
+      "Nagelbeteiligung": null,
+      "Verlauf": "Seit Jahren Gelenkschmerzen und rezidivierende Sehnenansatzbeschwerden. Bei der Vorstellung kein klarer Hinweis auf Psoriasis-Arthritis; unveränderte Fortführung von Tildrakizumab empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "die sich am 19.01.2023 ambulant vorstellte."
+          }
+        ],
+        "LEI": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "LEI: 3, MASES: 2"
+          }
+        ],
+        "PASI": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "PASI:0"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "C-reaktives Protein 8,7 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "C-reaktives Protein 8,7 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "C-reaktives Protein 8,7 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "aktuelle Therapie: Tildrakizumab 100 mg s.c. alle 12 Wochen"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Seit Jahren Gelenkschmerzen in Knien und Füßen bds sowie Morgensteifigkeit von ca. 10 Minuten."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Klinisch fanden sich mehrere druckschmerzhafte Gelenke und Enthesen, keine synovitischen Schwellungen."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Seit Jahren Gelenkschmerzen in Knien und Füßen bds sowie Morgensteifigkeit von ca. 10 Minuten."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Gelenkstatus: Druckschmerzen: OSG links, Knie bds. Schwellungen: keine."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Rez. Sehnenansatzentzündungen an beiden Ellenbogen (Hier auch körperliche Belastung bei der Arbeit, beruflich ist sie Maschinenbediener)."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Entheseale Druckschmerzen: Epi med re, Achilles bds, Sternoclavicular bds"
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Erstvorstellung bei bek. Psoriasis vulgaris in Behandlung mit Tildrakizumab in unserer Hautklinik und aktuell in Remission."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Haut: o.p.B."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Seit Jahren Gelenkschmerzen in Knien und Füßen bds sowie Morgensteifigkeit von ca. 10 Minuten."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Rez. Sehnenansatzentzündungen an beiden Ellenbogen (Hier auch körperliche Belastung bei der Arbeit, beruflich ist sie Maschinenbediener)."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "In Zusammenschau der Befunde besteht bei Frau Krieger kein klarer Hinweis auf das Vorliegen einer Psoriasis-Arthritis."
+          },
+          {
+            "Datei": "35_Baseline.docx",
+            "Zitat": "Aus rheumatologischer Sicht besteht es vorerst keine Indikation zu einer Therapieeskalation und somit empfehlen wir die Weiterführung der aktuellen Therapie unverändert."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum sowie gesonderte Erhebungsdaten von LEI und PASI nicht angegeben.",
+        "Weitere Scores: „DAS28: 2,99“ und „LEI: 3, MASES: 2“ (35_Baseline.docx).",
+        "Klinische Enthesendruckschmerzen; sonographisch keine Enthesitiszeichen: „Keine Zeichen von Enthesitis, kein PD-Signal.“ (35_Baseline.docx)."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2024-02-12",
+      "DAPSA": null,
+      "cDAPSA": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "PASI": 0.3,
+      "HAQ": null,
+      "CRP-Wert": 5.4,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Tildrakizumab 100 mg s.c. alle 12 Wochen.",
+      "Klinische Hauptmanifestation": "Gelegentliche, vor allem belastungsabhängige Arthralgien und Schmerzen an Knien und linker Achillessehne. Keine Gelenkschwellungen oder Morgensteifigkeit.",
+      "Periphere Gelenkbeschwerden": "Gelegentliche Arthralgien und vor allem belastungsabhängige Knieschmerzen; Druckschmerz am linken Knie. Keine Gelenkschwellungen und keine Morgensteifigkeit.",
+      "Axiale Beschwerden / ISG": "Keine Rückenschmerzen.",
+      "Enthesitis": "Gelegentliche Schmerzen und Druckschmerz an der linken Achillessehne, sonst keine Enthesendruckschmerzen; keine ausdrücklich gesicherte Enthesitis.",
+      "Daktylitis": "Keine Daktylitis.",
+      "Hautbeteiligung": "Retroaurikuläre Psoriasis im aktuellen Hautbefund; anamnestisch als in Remission beschrieben.",
+      "Nagelbeteiligung": null,
+      "Verlauf": "Unter fortgeführtem Tildrakizumab Wohlbefinden mit gelegentlichen, vor allem belastungsabhängigen Beschwerden an Knien und linker Achillessehne. Keine Gelenkschwellungen, Morgensteifigkeit oder Rückenschmerzen; weiterhin kein Anhalt für Psoriasis-Arthritis. Retroaurikuläre Psoriasis im Untersuchungsbefund.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "die sich am 12.02.2024 ambulant vorstellte."
+          }
+        ],
+        "PASI": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "PASI: 0.30"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "aktuelle Therapie: Tildrakizumab 100 mg s.c. alle 12 Wochen"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Ab und zu Arthralgien und gelegentlich Schmerzen an Achillessehne li. und Kniegelenke, v.a. unter Belastung."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Gelenkschwellungen. Keine Morgensteifigkeit."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Ab und zu Arthralgien und gelegentlich Schmerzen an Achillessehne li. und Kniegelenke, v.a. unter Belastung."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Gelenkschwellungen. Keine Morgensteifigkeit."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Gelenkstatus: Druckschmerz Knie links, keine geschwollene Gelenke."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Uveitis, keine Daktylitis, keine Rückenschmerzen."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Ab und zu Arthralgien und gelegentlich Schmerzen an Achillessehne li. und Kniegelenke, v.a. unter Belastung."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "DS der Achillessehne links, sonst keine DS der Enthesen"
+          }
+        ],
+        "Daktylitis": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Uveitis, keine Daktylitis, keine Rückenschmerzen."
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Haut: Pso retroaurikulär"
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Vorstellung bei bek. PsO vulgaris in Behandlung mit Tildrakizumab in unserer Hautklinik und aktuell in Remission."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Die Patientin berichtet über Wohlfühlen."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Ab und zu Arthralgien und gelegentlich Schmerzen an Achillessehne li. und Kniegelenke, v.a. unter Belastung."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Gelenkschwellungen. Keine Morgensteifigkeit."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Keine Uveitis, keine Daktylitis, keine Rückenschmerzen."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Es zeigt sich weiterhin kein Anhalt für eine Psoriasis-Arthritis."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Wir empfahlen die Fortsetzung der Tildrakizumab in unserer Hautklinik."
+          },
+          {
+            "Datei": "35_FollowUp.docx",
+            "Zitat": "Haut: Pso retroaurikulär"
+          }
+        ]
+      },
+      "Hinweise": [
+        "Klinischer Referenztermin 12.02.2024 aus der Follow-up-Briefgruppe trotz Scan am 17.11.2023.",
+        "Labordatum und gesondertes PASI-Erhebungsdatum nicht angegeben.",
+        "LEI nicht eindeutig zuordenbar: „MASES/LEI: 1“ (35_FollowUp.docx).",
+        "Weiterer Score: „BASDAI: 2.02“ (35_FollowUp.docx).",
+        "Ansprechen nicht beurteilbar: Wohlbefinden ohne ausdrückliche muskuloskelettale Besserung oder gute Gelenkbeschwerdekontrolle unter Therapie.",
+        "Anamnestische Hautremission und aktuell retroaurikuläre Psoriasis im Untersuchungsbefund."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "Patient": {
+    "Patient": 28,
+    "Erkrankung": "RA",
+    "Scans": {
+      "Baseline": "2021-02-08",
+      "Follow-up": "2021-07-19"
+    }
+  },
+  "fingerprint": "6e7662c4172ece256159e8036c993534324d83481f55b6b27cae765f09c63f6d",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2021-02-15",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.1,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat seit Januar 2021, Dosis nicht angegeben; Prednisolon reduziert, aktuelle Dosis nicht angegeben; Schmerzmittel intermittierend.",
+        "Klinische Hauptmanifestation": "Noch schmerzhafte und geschwollene Gelenke, insgesamt bereits rückläufig. Linkes Sprunggelenk schmerzhaft und geschwollen.",
+        "Gelenkbefund": "Schwellungen an MCP II/III und PIP II/III, Seite nicht angegeben; Druckschmerz der Daumensattelgelenke beidseits. Linkes Sprunggelenk geschwollen und schmerzhaft.",
+        "Weitere Gelenke": "Daumensattelgelenke beidseits druckschmerzhaft.",
+        "Verlauf": "Nach etwa sechs Wochen Methotrexat etwas geringere Schubhäufigkeit sowie weniger Gelenkschmerzen und Schwellungen; Prednisolon konnte reduziert werden. Klinisch teilweise gebessert, weiterhin auffälliger Gelenkbefund.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "die sich am 15.02.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "aktuelle Therapie: Methotrexat seit 1/2021"
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Prednisolon konnte reduziert werden. Schmermittel werden intermittierend benötigt."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Zudem seien die Gelenke nicht mehr so stark schmerzhaft und geschwollen."
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Sprunggelenk links geschwollen und schmerzhaft"
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Gelenke: Schwellungen: MCP 2/3, PIP/2/3,   Daumensattelgelenke beidseits DS"
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Sprunggelenk links geschwollen und schmerzhaft"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Daumensattelgelenke beidseits DS"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Vor 6 Wochen erfolgte die Einleitung einer Basismedikation mit Methotrexat."
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Insgesamt sei die Schubhäufigkeit bereits etwas reduziert. Zudem seien die Gelenke nicht mehr so stark schmerzhaft und geschwollen."
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Prednisolon konnte reduziert werden."
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Klinisch ist die Erkrankung mittlerweile erfreulicherweise etwas gebessert."
+            },
+            {
+              "Datei": "28_Baseline.docx",
+              "Zitat": "Sprunggelenk links geschwollen und schmerzhaft"
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "Seitenzuordnung der MCP-/PIP-Schwellungen nicht angegeben.",
+          "Methotrexat- und aktuelle Prednisolondosis nicht angegeben."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2021-07-19",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": 5,
+        "SJC": 5,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.7,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat 15 mg/Woche.",
+        "Klinische Hauptmanifestation": "Morgensteifigkeit etwa 45 Minuten und weiterhin geschwollene Gelenke; Regionen und Seiten klinisch nicht angegeben.",
+        "Gelenkbefund": "Fünf geschwollene und druckschmerzhafte Gelenke; Regionen und Seiten nicht angegeben.",
+        "Weitere Gelenke": null,
+        "Verlauf": "Unter Methotrexat weiterhin Morgensteifigkeit und Gelenkschwellungen; Erkrankung klinisch aktiv. Steigerung von Methotrexat auf 25 mg/Woche und Einleitung von Baricitinib 4 mg/Tag empfohlen. Klinischer Nutzen der bisherigen Therapie nicht eindeutig beurteilt.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "die sich am 19.07.2021 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 5 geschwollene und druckschmerzhafte Gelenke"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 5 geschwollene und druckschmerzhafte Gelenke"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,7 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,7 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,7 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Methotrexat mit 15mg/Woche rglm eingenommen und gut vertragen."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit ca 45 MIn Weiterhin geschwollene Gelenke"
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 5 geschwollene und druckschmerzhafte Gelenke"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit ca 45 MIn Weiterhin geschwollene Gelenke"
+            },
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Erkrankung ist klinisch und sonographisch aktiv."
+            },
+            {
+              "Datei": "28_FollowUp.docx",
+              "Zitat": "Wir empfehlen: Das MTX auf 25mg/Woche steigern\nBeginn mit Baricitinib 4mg/Tag"
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP vom 19.07.2021 gewählt; weiterer CRP-Wert vom 09.08.2021: 9,4 mg/l.",
+          "TJC und SJC jeweils aus der ausdrücklich dokumentierten Zahl von fünf geschwollenen und druckschmerzhaften Gelenken übernommen; Zählbereich nicht angegeben.",
+          "Baricitinib laut Diagnoseeintrag erst seit August 2021; am Referenztermin nur empfohlen. Methotrexat 25 mg/Woche ebenfalls erst als Steigerung empfohlen.",
+          "Fortbestehende Beschwerden und klinische Aktivität belegen allein kein fehlendes Ansprechen; eine eindeutige Aussage zum klinischen Nutzen fehlt."
+        ]
+      }
+    ]
+  }
+}

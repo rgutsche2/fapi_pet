@@ -1,0 +1,267 @@
+{
+  "Patient": {
+    "Patient": 9,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2020-01-24",
+      "Follow-up": "2020-08-07"
+    }
+  },
+  "fingerprint": "6db13a1c4b969ae6177ef71bfa59ced511ae4be71d5f12e471df9ae008ab5d78",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-01-15",
+        "ASDAS-CRP": null,
+        "BASDAI": 7.3,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": 0.5,
+        "CRP-Wert": 6.5,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Diclofenac bei Bedarf, Dosis unbekannt; Arcoxia 90 mg täglich ab 15.01.2020 eingeleitet.",
+        "Klinische Hauptmanifestation": "Schmerzen im Bereich beider ISG und der LWS. Druckschmerz der LWS, beide ISG nicht druckschmerzhaft.",
+        "Axiale Beschwerden / ISG": "Bestehende Schmerzen beider ISG und der LWS mit geringem Ansprechen auf Diclofenac.",
+        "Weitere Gelenke": "Schmerzen und Schwellungen sonstiger Gelenke verneint; keine druckschmerzhaften oder geschwollenen Gelenke dokumentiert.",
+        "Verlauf": "Hohe Krankheitsaktivität und geringes Ansprechen auf Diclofenac; zweites NSAR Arcoxia eingeleitet. Biologika-Therapie einen Monat nach Beginn der Isoniazid-Prophylaxe erwogen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 9, der sich am 15.01.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "BASDAI: 7.3"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "HAQ:0.5"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Eine Therapie mit einem zweiten NSAR (Arcoxia) wird eingeleitet."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Der Patient berichtet über bestehende Schmerzen im Bereich ISG bds und LWS."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "LWS DS, ISG bds. nicht DS."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Der Patient berichtet über bestehende Schmerzen im Bereich ISG bds und LWS."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Gelenke keine DS/geschwollen"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Klinik, radiologische Befunde und Labor sprechen für eine axiale Spondylarthritis und weisen derzeit auf einen hohen Aktivitätsgrad der Erkrankung hin."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Eine Therapie mit einem zweiten NSAR (Arcoxia) wird eingeleitet."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Ein Monat nach der Antibiose wird die Einleitung einer Biologika-Therapie erwogen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "BASDAI und HAQ ohne ausdrücklich angegebenes eigenes Untersuchungsdatum.",
+          "Diclofenac in der Dauermedikation zweimal täglich, in der aktuellen Anamnese bei Bedarf angegeben; aktuelle Anamnese bevorzugt."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-05-28",
+        "ASDAS-CRP": null,
+        "BASDAI": 9.9,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": 0,
+        "CRP-Wert": null,
+        "CRP-Vergleichszeichen": null,
+        "CRP-Einheit": null,
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Secukinumab 150 mg alle 4 Wochen seit Februar 2020; zusätzlich Diclofenac bei Bedarf und Arcoxia 90 mg täglich laut Dauermedikation.",
+        "Klinische Hauptmanifestation": "Unverändert tiefsitzender Rückenschmerz mit etwa 60 Minuten Morgensteifigkeit. Druckschmerz der LWS und beidseits positives Patrick-Zeichen.",
+        "Axiale Beschwerden / ISG": "Unter Secukinumab unverändert tiefsitzender Rückenschmerz ohne bemerktes Ansprechen; LWS druckschmerzhaft und Patrick-Zeichen beidseits positiv.",
+        "Weitere Gelenke": "Schmerzen und Schwellungen sonstiger Gelenke verneint; klinisch keine Gelenkschwellungen.",
+        "Verlauf": "Unter Secukinumab keine klinische Besserung der Rückenbeschwerden; BASDAI 9,9 gegenüber 7,3 bei Baseline. Nach den Injektionen Appetitlosigkeit und Übelkeit. Dosiserhöhung auf 300 mg alle 4 Wochen bei guter Verträglichkeit erwogen.",
+        "Ansprechen (Ja/Nein)": "Nein",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 9, der sich am 28.05.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "HAQ 0, BAS-G 10; BASFI 5,3; BASDAI 9,9; VAS Arzt 2"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "HAQ 0, BAS-G 10; BASFI 5,3; BASDAI 9,9; VAS Arzt 2"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab 150 mg/4 Wochen seit 02/2020"
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Diclofenac bei Bed."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Unter Secukinumab, weiter unverändert tiefsitzender Rückenschmerz."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "MS sei ca. 60 Minuten."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "LWS DS, Patrick-Zeichen bds positiv, DS LWS, BASMI 1"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Unter Secukinumab, weiter unverändert tiefsitzender Rückenschmerz."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Er habe keinerlei Ansprechen der Beschwerden bemerkt."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "LWS DS, Patrick-Zeichen bds positiv, DS LWS, BASMI 1"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "keine Gelenkschwellungen"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "HAQ 0, BAS-G 10; BASFI 5,3; BASDAI 9,9; VAS Arzt 2"
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "BASDAI: 7.3"
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Nach dem Spritzen leide er an Appetitlosigkeit und Übelkeit."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Bei guter Verträglichkeit im Verlauf kann eine Erhöhung von Secukinumab auf 300 mg/4 Wochen versucht werden."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Keine Laborwerte: Patient ohne Blutentnahme gegangen und Ersatztermin nicht wahrgenommen.",
+          "BASDAI und HAQ ohne ausdrücklich angegebenes eigenes Untersuchungsdatum.",
+          "Diclofenac und Arcoxia nur in der Dauermedikationsliste aufgeführt; tatsächliche Einnahme in der aktuellen Anamnese nicht bestätigt. Feste NSAR-Einnahme wird empfohlen."
+        ]
+      }
+    ]
+  }
+}

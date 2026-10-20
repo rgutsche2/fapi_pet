@@ -1,0 +1,248 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2022-06-27",
+      "DAS28": 3.26,
+      "DAS28-Variante": "CRP",
+      "TJC": null,
+      "SJC": null,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Methotrexat 15 mg/Woche und Prednisolon 5 mg; Steigerung von Methotrexat auf 25 mg/Woche empfohlen.",
+      "Klinische Hauptmanifestation": "Weiterhin Schmerzen der linken Schulter und anamnestisch Schwellungen einiger nicht näher bezeichneter Gelenke. Tennisspielen wieder möglich.",
+      "Gelenkbefund": "Druckdolenz des linken Schultergelenks; weiterer Gelenkstatus im Brief nicht ausgeführt.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Seit Beginn mit Methotrexat sukzessive deutliche Besserung ohne Schub, jedoch weiterhin aktive Erkrankung mit Gelenkschwellungen und Schmerzen der linken Schulter. Prednisolon auf 5 mg reduziert; Methotrexat-Steigerung empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "der sich am 27.06.2022 ambulant vorstellte."
+          }
+        ],
+        "DAS28": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "DAS28 CRP: 3,26 (vormals 7,67)"
+          }
+        ],
+        "DAS28-Variante": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "DAS28 CRP: 3,26 (vormals 7,67)"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Aktuell 15mg/Woche."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Beginn mit Methotrexat Anfang Mai."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Prednisolon konnte auf 5mg reduziert werden."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Deshalb Empfehlung Methotrexat auf 25mg/Woche zu steigern."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Nach wie vor seien einige Gelenke geschwollen sowie die linke Schulter schmerzhaft."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Tennisspielen sei wieder möglich."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Gelenkstatus: Druckdolenz Schultergelenk links, weitere Gelenkstatus siehe RHEMIT"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Beginn mit Methotrexat Anfang Mai."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Kein Schub, Die Beschwerden hätten sich sukzzessive gebessert."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Nach wie vor seien einige Gelenke geschwollen sowie die linke Schulter schmerzhaft."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Die Erkrankung ist erfreulicherweise deutlich gebessert, jedoch weiterhin aktiv."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Prednisolon konnte auf 5mg reduziert werden."
+          },
+          {
+            "Datei": "25_Baseline.docx",
+            "Zitat": "Deshalb Empfehlung Methotrexat auf 25mg/Woche zu steigern."
+          }
+        ]
+      },
+      "Hinweise": [
+        "CRP: Labordatum nicht angegeben. DAS28: Einzeldatum nicht ausdrücklich angegeben; vormals 7,67 ist ein historischer Wert.",
+        "Die Diagnoseliste nennt Methotrexat 25 mg/Woche und Prednisolon 7,5 mg. Für die laufende Therapie wurden die aktuelle Anamnese mit 15 mg/Woche beziehungsweise 5 mg und die erst empfohlene Methotrexat-Steigerung berücksichtigt.",
+        "Ibuprofen und Celecoxib sind unter Dauermedikation aufgeführt; die tatsächliche aktuelle Einnahme ist angesichts der Einordnung von Ibuprofen als bisherige Therapie unklar."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2022-11-11",
+      "DAS28": 0.49,
+      "DAS28-Variante": "BSG",
+      "TJC": null,
+      "SJC": null,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 13.9,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Methotrexat 25 mg/Woche, Folsäure 5 mg/Woche und Prednisolon 3,5 mg täglich.",
+      "Klinische Hauptmanifestation": "Wohlbefinden ohne aktuelle Gelenkbeschwerden; Morgensteifigkeit maximal 10 Minuten.",
+      "Gelenkbefund": "Keine druckschmerzhaften oder geschwollenen Gelenke.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Unter laufender Therapie sehr gute klinische Einstellung mit dokumentierter klinischer Remission und ohne Gelenkbeschwerden. Erhöhte Entzündungsparameter ohne klinisches Korrelat; Nachkontrolle und schrittweise Prednisolon-Reduktion empfohlen.",
+      "Ansprechen (Ja/Nein)": "Ja",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "der sich am 11.11.2022 ambulant vorstellte."
+          }
+        ],
+        "DAS28": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "DAS28 ESR: 0.49"
+          }
+        ],
+        "DAS28-Variante": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "DAS28 ESR: 0.49"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 13,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 13,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 13,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "MTX 25mg/Wo"
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Folsäure 5mg/Wo"
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Prednisolon 3.5mg 1-0-0"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Der Patientin berichtet von Wohlbefinden."
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Aktuell bestehen keine Gelenkbeschwerden, Morgensteifigkeit max 10 Minuten."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine druckschmerzhafte oder geschwollene Gelenke"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Die Erkrankung hat sich erfreulicherweise sehr gut eingestellt und befindet sich in klinischer Remission."
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Aktuell bestehen keine Gelenkbeschwerden, Morgensteifigkeit max 10 Minuten."
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Serologisch lassen sich erhöhte Entzündungsparameter, ohne klinische Korrelat."
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Eine Nachkontrolle ist zu empfehlen."
+          },
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Wir empfehlen deshalb die Fortsetzung der Therapie mit Methotrexat 25mg/Woche und eine Reduktion von Prednisolon um 0,5 mg alle 7 Tage."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "25_FollowUp.docx",
+            "Zitat": "Die Erkrankung hat sich erfreulicherweise sehr gut eingestellt und befindet sich in klinischer Remission."
+          }
+        ]
+      },
+      "Hinweise": [
+        "CRP vom 11.11.2022. DAS28: Einzeldatum nicht ausdrücklich angegeben."
+      ]
+    }
+  ]
+}

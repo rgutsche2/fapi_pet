@@ -1,0 +1,241 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2020-11-25",
+      "ASDAS-CRP": null,
+      "BASDAI": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": null,
+      "CRP-Wert": 35.9,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 31,
+      "Aktuelle Therapie": "Ibuprofen 300 mg/Tag.",
+      "Klinische Hauptmanifestation": "Ausgeprägte schmerzhafte Kniegelenksarthritis links mit Schwellung; rechts kein eindeutiger Arthritisnachweis.",
+      "Axiale Beschwerden / ISG": "Im Verlauf ausgeprägte ISG-Schmerzen rechts. Eindeutig entzündliche Rückenschmerzen vor diesen Episoden und nächtlicher Rückenschmerz verneint; aktuelles Ausmaß der ISG-Beschwerden unklar.",
+      "Weitere Gelenke": "Früher Sprunggelenksschwellung links; aktuell an beiden Sprunggelenken keine Arthritis.",
+      "Verlauf": "Nach Sprunggelenksbeteiligung links und ISG-Schmerzen rechts zuletzt starke Schmerzen und Schwellung des linken Knies trotz NSAR. Secukinumab-Einleitung empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 1, der sich am 25.11.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "BKS: 31"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "aktuell Ibuprofen 300 mg/Tag"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Zuletzt entstand in den letzten 2 Wochen starke Schmerzen und Schwellungen im Kniegelenk linksseitig."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Eindeutig entzündliche Rückenschmerzen vor diesem Episoden gab der Patient nicht an."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Nächtl. Rückenschmerz: nein"
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Damals kam es zu einer Schwellung im Sprunggelenk linksseitig."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Damals kam es zu einer Schwellung im Sprunggelenk linksseitig."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Zuletzt entstand in den letzten 2 Wochen starke Schmerzen und Schwellungen im Kniegelenk linksseitig."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Diese helfen, allerdings entwickelte sich die Kniegelenksarthritis unter NSAR-Therapie."
+          },
+          {
+            "Datei": "1_Baseline.docx",
+            "Zitat": "Wir empfehlen die Einleitung einer Basistherapie mit Secukinumab."
+          }
+        ]
+      },
+      "Hinweise": [
+        "CRP- und BKS-Labordatum nicht angegeben.",
+        "Seitenwiderspruch: Rheumatologische Anamnese nennt „Gelenkschmerzen/Schwellung: Knie rechts“; ausführliche Anamnese und Untersuchungsbefund belegen die aktuelle Arthritis links.",
+        "Aktuelles Ausmaß der ISG-Beschwerden nicht eindeutig beschrieben.",
+        "Diagnoseliste nennt „Therapiebeginn mit Secukinumab 12/2020“; dies liegt nach dem Referenzbesuch. Im damaligen Verlauf ist die Erstgabe erst geplant."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2021-06-14",
+      "ASDAS-CRP": null,
+      "BASDAI": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": null,
+      "CRP-Wert": 5.4,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 3,
+      "Aktuelle Therapie": "Secukinumab (Cosentyx) 150 mg einmal monatlich; keine NSAR-Einnahme erforderlich.",
+      "Klinische Hauptmanifestation": "Vollständig beschwerdefrei; keine peripheren Arthritiden.",
+      "Axiale Beschwerden / ISG": "ISG-Symptomatik rückläufig; aktuell kein entzündlicher Rückenschmerz und keine Bewegungseinschränkung der ISG.",
+      "Weitere Gelenke": "Seit Beginn der Cosentyx-Therapie keine peripheren Gelenkbeschwerden mehr.",
+      "Verlauf": "Unter Secukinumab keine peripheren Gelenkbeschwerden mehr und rückläufige ISG-Symptomatik; aktuell vollständig beschwerdefrei, ohne NSAR-Bedarf.",
+      "Ansprechen (Ja/Nein)": "Ja",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 1, der sich am 14.06.2021 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "BKS: 3"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Cosentyx 150 mg 1 x Monat"
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "NSAR müssen nicht eingenommen werden."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Der Patient ist vollständig beschwerdefrei."
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig."
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig."
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+          },
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "NSAR müssen nicht eingenommen werden."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "1_FollowUp.docx",
+            "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+          }
+        ]
+      },
+      "Hinweise": [
+        "CRP- und BKS-Labordatum nicht angegeben."
+      ]
+    }
+  ]
+}

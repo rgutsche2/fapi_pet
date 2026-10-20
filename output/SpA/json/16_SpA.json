@@ -1,0 +1,249 @@
+{
+  "Patient": {
+    "Patient": 16,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2018-11-19",
+      "Follow-up": "2019-08-05"
+    }
+  },
+  "fingerprint": "952f1ddbb8ece1715cba742edb4c11b29bd8da6b4f55fc2c43b4ddec856cabbb",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2018-10-19",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 10.9,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 21,
+        "Aktuelle Therapie": "NSAR, zuletzt Arcoxia über mehrere Wochen; Dosis nicht angegeben.",
+        "Klinische Hauptmanifestation": "Zunehmende subjektive Steifigkeit peripherer und axialer Gelenke sowie rezidivierende axiale und entheseale Beschwerden unter NSAR. Morgensteifigkeit etwa 30 Minuten; keine geschwollenen oder druckschmerzhaften Gelenke.",
+        "Axiale Beschwerden / ISG": "Rezidivierende axiale Beschwerden und zunehmende axiale Steifigkeit trotz NSAR.",
+        "Weitere Gelenke": "Subjektive Steifigkeit peripherer Gelenke ohne klinisch geschwollene oder druckschmerzhafte Gelenke; Regionen nicht näher benannt.",
+        "Verlauf": "Weiterhin klinische Krankheitsaktivität trotz mehrmonatiger Behandlung mit verschiedenen NSAR; Einleitung von Secukinumab empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 16, der sich am 19.10.2018 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "C-reaktives Protein 10,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "C-reaktives Protein 10,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "C-reaktives Protein 10,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "BKS: 21/44 mm"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Rez. weiterhin axiale Beschwerden als auch an den Enthesen unter NSAR, zunächst Ibuprofen, dann Diclofenac, dann Arcoxia für mehrere Wochen."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Der Pat. berichtet von einer zunehmenden subjektiven Steifigkeit der peripheren und axialen Gelenke."
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Rez. weiterhin axiale Beschwerden als auch an den Enthesen unter NSAR, zunächst Ibuprofen, dann Diclofenac, dann Arcoxia für mehrere Wochen."
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Morgensteifigkeit von ca. 30 Minuten"
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen/druckschmerzhaften Gelenke"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Der Pat. berichtet von einer zunehmenden subjektiven Steifigkeit der peripheren und axialen Gelenke."
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Rez. weiterhin axiale Beschwerden als auch an den Enthesen unter NSAR, zunächst Ibuprofen, dann Diclofenac, dann Arcoxia für mehrere Wochen."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Der Pat. berichtet von einer zunehmenden subjektiven Steifigkeit der peripheren und axialen Gelenke."
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen/druckschmerzhaften Gelenke"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Klinisch und bildmorphologisch weiterhin Aktivität der rheumatologischen Erkrankung trotz mehrmonatiger Therapie mit verschiedenen NSAR."
+            },
+            {
+              "Datei": "16_Baseline.docx",
+              "Zitat": "Aufgrund der enthesialen Beteiligung empfehlen wir Secukinumab nach DGRh-Eindosierungsschema (wurde dem Patienten mitgegeben) und unter regelmäßigen Kontrollen nach Maßgabe der DGRh."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "BKS 21/44 mm: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
+          "Der Diagnoseeintrag „aktuelle Therapie: Secukinumab (seit 11/18)“ liegt zeitlich nach dem Referenzbesuch am 19.10.2018; damals wurde die Einleitung erst empfohlen."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2019-06-25",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 11,
+        "Aktuelle Therapie": "Secukinumab seit 11/2018; Dosis und Intervall nicht angegeben. Ibuprofen 600 mg bei Bedarf dokumentiert.",
+        "Klinische Hauptmanifestation": "Weitgehende Beschwerdefreiheit mit nur gelegentlichen leichten Beschwerden am linken Handgelenk, ohne Morgensteifigkeit. Keine geschwollenen oder druckschmerzhaften Gelenke; Enthesen nicht druckschmerzhaft.",
+        "Axiale Beschwerden / ISG": "Keine Wirbelsäulen- oder Beckenschmerzen; Wirbelsäule und ISG ohne Druckschmerz.",
+        "Weitere Gelenke": "Keine weiteren Gelenkbeschwerden.",
+        "Verlauf": "Unter Secukinumab weitgehend beschwerdefrei mit gelegentlichen leichten Restbeschwerden am linken Handgelenk; keine axialen Beschwerden oder Morgensteifigkeit. Bei gutem klinischem Befund unveränderte Fortführung empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 16, der sich am 25.06.2019 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "BKS: 11/ 28 mm"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab (seit 11/18)"
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Ibu 600mg b.B."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Er berichtet über Beschwerdefreiheit, nur ggl. leichte Beschwerden am li. Handgelenk, keine Morgensteifigkeit, keine Wirbelsäulen- oder Beckenschmerzen, keine weiteren Gelenkbeschwerden."
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen/druckschmerzhaften Gelenke"
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "WS und ISG: kein DS, Enthesen nicht druckschmerzhaft"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Er berichtet über Beschwerdefreiheit, nur ggl. leichte Beschwerden am li. Handgelenk, keine Morgensteifigkeit, keine Wirbelsäulen- oder Beckenschmerzen, keine weiteren Gelenkbeschwerden."
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "WS und ISG: kein DS, Enthesen nicht druckschmerzhaft"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Er berichtet über Beschwerdefreiheit, nur ggl. leichte Beschwerden am li. Handgelenk, keine Morgensteifigkeit, keine Wirbelsäulen- oder Beckenschmerzen, keine weiteren Gelenkbeschwerden."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Die WV des Pat. erfolgte bei bek. SpA, seit 11/18 unter Cosentyx."
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Er berichtet über Beschwerdefreiheit, nur ggl. leichte Beschwerden am li. Handgelenk, keine Morgensteifigkeit, keine Wirbelsäulen- oder Beckenschmerzen, keine weiteren Gelenkbeschwerden."
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Aktuell bei gutem Befund klinisch u. laborchemisch empfehlen wir die unveränderte Fortführung der aktuellen Therapie."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Die WV des Pat. erfolgte bei bek. SpA, seit 11/18 unter Cosentyx."
+            },
+            {
+              "Datei": "16_FollowUp.docx",
+              "Zitat": "Er berichtet über Beschwerdefreiheit, nur ggl. leichte Beschwerden am li. Handgelenk, keine Morgensteifigkeit, keine Wirbelsäulen- oder Beckenschmerzen, keine weiteren Gelenkbeschwerden."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "BKS 11/28 mm: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
+          "Ibuprofen ist als Bedarfsmedikation dokumentiert; im Verlauf wird wegen grenzwertig erhöhter Leberwerte das Vermeiden von NSAR empfohlen."
+        ]
+      }
+    ]
+  }
+}

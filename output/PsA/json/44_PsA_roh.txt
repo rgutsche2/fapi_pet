@@ -1,0 +1,290 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2019-05-09",
+      "DAPSA": null,
+      "cDAPSA": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "PASI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 4,
+      "Aktuelle Therapie": "Keine rheumatologische Medikation.",
+      "Klinische Hauptmanifestation": "Führend anhaltender Enthesendruckschmerz; Synovitiden nicht vordergründig. Zusätzlich dokumentierte Schmerzen an Finger-, Daumensattel- und Zehengelenken.",
+      "Periphere Gelenkbeschwerden": "Keine Synovitiden vordergründig. Im PET-Bericht klinisch dokumentierte Schmerzen und sichtbare Schwellung am PIP II links sowie Schmerzen am DIP V links, PIP V rechts, an beiden Daumensattelgelenken und am PIP der IV. Zehe rechts.",
+      "Axiale Beschwerden / ISG": null,
+      "Enthesitis": "Enthesendruckschmerz am rechten Ellenbogen, rechten Handgelenk und beidseits an der Patella; Achillessehnen beidseits unauffällig.",
+      "Daktylitis": null,
+      "Hautbeteiligung": "Haut gebessert; aktuell keine psoriasiformen Plaques.",
+      "Nagelbeteiligung": null,
+      "Verlauf": "Weiterhin klinische Krankheitsaktivität mit Enthesendruckschmerz bei gebesserter Haut. Einleitung von MTX und einer Steroidstoßtherapie empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "die sich am 09.05.2019 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "BKS 4/9 mm"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Med.: keine"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Weiterhin DS über Enthesen. Keine Synovitiden vordergründig."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit den anamnestischen Schmerzangaben zeigt sich eine fokale intensive FAPI Mehrspeicherung im DIP Gelenk V links (SUVmax 6,2) sowie im PIP Gelenk V rechts (SUVmax 3,8)."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit den anamnestischen Schmerzangaben fokale FAPI Mehrspeicherung im Gelenksspalt im Daumensattelgelenk bds. rechts > links, exemplarisch rechts (SUVmax 4,3) sowie im Gelenksspalt zwischen Os scaphoideum und Os trapezium rechts (SUVmax 3,9), hier ohne klares CT morphologisches Korrelat."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit der anamnestischen Schmerzangabe zeigt sich eine fokale Tracermehrspeicherung im PIP des IV. Zehs rechts (IMA 336, SUVmax 4,7)."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Keine Synovitiden vordergründig."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit der anamnestischen Schmerzangabe und der inspektorisch deutlich sichtbaren Schwellung zeigt sich eine kräftige FAPI Anreicherung im PIP II Gelenk links (Serie 5 IMA 263, SUVmax 6,0)."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit den anamnestischen Schmerzangaben zeigt sich eine fokale intensive FAPI Mehrspeicherung im DIP Gelenk V links (SUVmax 6,2) sowie im PIP Gelenk V rechts (SUVmax 3,8)."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit den anamnestischen Schmerzangaben fokale FAPI Mehrspeicherung im Gelenksspalt im Daumensattelgelenk bds. rechts > links, exemplarisch rechts (SUVmax 4,3) sowie im Gelenksspalt zwischen Os scaphoideum und Os trapezium rechts (SUVmax 3,9), hier ohne klares CT morphologisches Korrelat."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "In Übereinstimmung mit der anamnestischen Schmerzangabe zeigt sich eine fokale Tracermehrspeicherung im PIP des IV. Zehs rechts (IMA 336, SUVmax 4,7)."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Enthesen: DS über Ellenbogen rechts, HG rechts, Patella bds., Achillessehnen bds. unauffällig"
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Haut besser."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Haut: aktuell keine psoarisiforme Plaques"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Weiterhin DS über Enthesen. Keine Synovitiden vordergründig. Haut besser."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "Klinisch zeigt sich weiterhin Krankheitsaktivität. Es wurde daher Beginn von MTX als immunsuppressive Basistherapie besprochen."
+          },
+          {
+            "Datei": "44_Baseline.docx",
+            "Zitat": "zusätzlich Steroidstoßtherapie wie besprochen beginnend mit 20mg/Tag, dann wochenweise Reduktion um 2,5mg"
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BKS nicht angegeben; BKS 4/9 mm gemäß Studienkonvention als 4 mm nach 1 h erfasst.",
+        "Zusätzliche anamnestische Gelenkschmerzen und die inspektorische Schwellung stammen aus dem PET-Bericht vom 03.06.2019; keine Zuordnung zum Referenzbesuch am 09.05.2019.",
+        "MTX 15 mg wöchentlich, Folsäure und Steroidstoßtherapie sind Empfehlungen, keine belegte laufende Therapie."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2020-09-22",
+      "DAPSA": null,
+      "cDAPSA": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "PASI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 4,
+      "Aktuelle Therapie": "Adalimumab 40 mg alle 2 Wochen; nach Pause seit April 2020 wieder eingenommen.",
+      "Klinische Hauptmanifestation": "Fortbestehende Schmerzen und Schwellungen an Fingern und Klavikula sowie Schmerzen an linker Schulter und beiden ISG. Nächtliche Rückenschmerzen bei deutlich gebesserter Steifigkeit.",
+      "Periphere Gelenkbeschwerden": "Anamnestisch Schmerzen und Schwellungen am rechten kleinen Finger und Daumen. Klinisch Druckschmerz und Schwellung an MCP II links, PIP II/III rechts und Klavikula sowie Druckschmerz der linken Schulter; Morgensteifigkeit nach Sitzen ohne Dauerangabe.",
+      "Axiale Beschwerden / ISG": "Vor allem nächtliche Rückenschmerzen im unteren LWS-Bereich; beidseitiger ISG-Druckschmerz.",
+      "Enthesitis": null,
+      "Daktylitis": null,
+      "Hautbeteiligung": "Keine aktuellen Hauterscheinungen.",
+      "Nagelbeteiligung": null,
+      "Verlauf": "Seit erneuter regelmäßiger Adalimumab-Einnahme im April 2020 besteht fast keine Steifigkeit mehr. Insgesamt subjektiv unverändert mit fortbestehenden Gelenkschmerzen, Schwellungen und nächtlichen Rückenschmerzen; wegen klinischer Restaktivität Umstellung auf Ustekinumab erwogen, noch nicht begonnen.",
+      "Ansprechen (Ja/Nein)": "Ja",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "die sich am 22.09.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "BKS 4/14 mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Adalimumab 40 mg alle 2 Wochen"
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Aktuell: Adalimumab 40 mg alle 2 Wochen seit 01/2020, Pause von 02/2020-04/2020, erneuter Beginn 04/2020"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Gelenkstatus: DS und Schwellung  MCP 2 links, PIP 2,3 rechts, Clavicula, DS linker Schulter, ISG bds."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Rückenschmerzen bestehen vor allem Nachts. Steifigkeit bestehe fast nicht mehr, seit Emraldi wieder fest eingenommen werde."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Aktuell habe sie Schmerzen und Schwellungen am rechten kleinen Finger und Daumen."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Gelenkstatus: DS und Schwellung  MCP 2 links, PIP 2,3 rechts, Clavicula, DS linker Schulter, ISG bds."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit nach Sitzen"
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Rückenschmerzen bestehen vor allem Nachts."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Schmerzen im unteren LWS"
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Gelenkstatus: DS und Schwellung  MCP 2 links, PIP 2,3 rechts, Clavicula, DS linker Schulter, ISG bds."
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "keine Hauterscheinung"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Steifigkeit bestehe fast nicht mehr, seit Emraldi wieder fest eingenommen werde. Im April wurde wieder damit begonnen."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Es gehe ihr unverändert."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Aktuell habe sie leichte Schwellungen und Schmerzen im Bereich der Finger, Schulter, Klavicula und ISG."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Rückenschmerzen bestehen vor allem Nachts."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "In der Zusammenschau mit der Klinik besteht noch Aktivität der Grunderkrankung, sodass wir eine Therapieumstellung auf Ustekinumab erwägen würden."
+          },
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Aktuell möchte sie noch über die Therapie nachdenken, sodass kein Rezept mitgegeben wurde."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "44_FollowUp.docx",
+            "Zitat": "Steifigkeit bestehe fast nicht mehr, seit Emraldi wieder fest eingenommen werde."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BKS nicht angegeben; BKS 4/14 mm/h gemäß Studienkonvention als 4 mm nach 1 h erfasst.",
+        "Ansprechen als klinische Teilbesserung der Steifigkeit gewertet; fortbestehende Krankheitsaktivität und insgesamt unverändertes Befinden bleiben erhalten.",
+        "Die Therapiehistorie nennt Cosentyx bis 12/20 und widerspricht damit der aktuellen Adalimumab-Dokumentation; aktuelle Anamnese und Dauermedikation haben Vorrang."
+      ]
+    }
+  ]
+}

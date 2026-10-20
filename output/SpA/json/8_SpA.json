@@ -1,0 +1,228 @@
+{
+  "Patient": {
+    "Patient": 8,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2020-04-27",
+      "Follow-up": "2020-09-11"
+    }
+  },
+  "fingerprint": "1b9a8e0a573087fe8c07b70138890fcab826dda91a7d35a715c8ec5181a530b5",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-04-20",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 13.8,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Diclofenac 75 mg zweimal täglich, seit etwa zwei Wochen regelmäßig.",
+        "Klinische Hauptmanifestation": "Seit etwa zehn Tagen zunehmende nächtliche Schmerzen im LWS-/ISG-Bereich. Klinisch kein Hinweis auf Synovitis oder Enthesitis.",
+        "Axiale Beschwerden / ISG": "Zunehmende nächtliche Schmerzen im LWS-/ISG-Bereich; Morgensteifigkeit verneint, Patrickzeichen negativ.",
+        "Weitere Gelenke": "Kein klinischer Hinweis auf Synovitis oder Enthesitis.",
+        "Verlauf": "Persistierende klinische Aktivität unter NSAR mit zuletzt zunehmenden axialen Beschwerden. Therapieeskalation mit Adalimumab 40 mg alle zwei Wochen rezeptiert; tatsächlicher Beginn zum Besuch nicht belegt.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "der sich am 20.04.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Diclofenac 75mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich."
+            },
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich. Morgensteifigkeit wurde verneint."
+            },
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Patrickzeichen negativ."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "bisherige Therapie Sulfasalazin (Unverträglichkeit), Ibuprofen, Diclofenac (persistierende klinische und bildmorphologische Aktivität unter mehreren NSAR)"
+            },
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich."
+            },
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Wir rezeptierten nach Ausschluss einer latenten Tuberkulose und Hep B/C Adalimumab 40mg alle 2 Wochen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP: Labordatum nicht angegeben.",
+          "Adalimumab ist als Beginn aufgeführt und rezeptiert; eine bereits laufende Anwendung am 20.04.2020 ist nicht eindeutig belegt."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-11-09",
+        "ASDAS-CRP": null,
+        "BASDAI": 1.4,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 5,
+        "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen.",
+        "Klinische Hauptmanifestation": "Deutlich gebesserte muskuloskelettale Beschwerden der Wirbelsäule. Keine peripheren Gelenkschwellungen, kein Druckschmerz und keine Enthesitis.",
+        "Axiale Beschwerden / ISG": "Deutliche Besserung der Wirbelsäulenbeschwerden; aktuelle ISG-Beschwerden nicht gesondert beschrieben.",
+        "Weitere Gelenke": "Keine peripheren Gelenkschwellungen; klinisch keine synovitische Gelenkschwellung, kein Druckschmerz und keine Enthesitis.",
+        "Verlauf": "Unter laufendem Adalimumab deutliche Besserung der Wirbelsäulenbeschwerden und weiterhin ausreichende klinische Krankheitskontrolle. Fortführung empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "der sich am 09.11.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "BASDAI 1,4"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "BKS 5/11"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+            },
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+            },
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+            },
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Klinisch zeigt sich weiterhin eine ausreichende Kontrolle der rheumatologischen Grunderkrankung."
+            },
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Klinisch zeigt sich weiterhin eine ausreichende Kontrolle der rheumatologischen Grunderkrankung."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP und BKS: Labordatum nicht angegeben.",
+          "BKS 5/11: gemäß Studienkonvention erster Wert als BSG nach einer Stunde übernommen.",
+          "Diclofenac steht mit identischem Dosierungs- und Zeittext wie im Baseline-Brief in der Dauermedikation; die tatsächliche weitere Einnahme ist unklar."
+        ]
+      }
+    ]
+  }
+}

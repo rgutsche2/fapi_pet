@@ -1,0 +1,220 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2023-08-23",
+      "DAS28": null,
+      "DAS28-Variante": null,
+      "TJC": null,
+      "SJC": null,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 1,
+      "Aktuelle Therapie": "Prednisolon 10 mg täglich; Diclofenac 75 mg bis zweimal täglich bei Bedarf.",
+      "Klinische Hauptmanifestation": "Seit Januar 2023 Schmerzen und Schwellungen beider Handgelenke sowie Schmerzen beider Schultern. Morgensteifigkeit etwa 2–3 Stunden.",
+      "Gelenkbefund": "Druckschmerz beider Handgelenke ohne Schwellung; Druckschmerz beider Schultern.",
+      "Weitere Gelenke": "Beide Schultern zusätzlich zu den Handgelenken betroffen.",
+      "Verlauf": "Deutliche Beschwerdebesserung unter Prednisolon und Linderung unter NSAR; weiterhin Druckschmerz an Handgelenken und Schultern. Einleitung von Methotrexat 15 mg wöchentlich mit Folsäure empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 21, der sich am 12.07.2023  und am 23.08.2023 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "BKS: 1"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Aktuell seit ca. einer Woche Prednisolon 10mg tgl."
+          },
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Diclofenac 75 1-0-1 b.B."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Seit 01/2023 Schmerzen und Schwellungen an den Handgelenken bds. Morgensteifigkeit ca. 2-3h. Dazu Schmerzen an beiden Schultern, Linderung der Symptomatik unter NSAR."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Gelenkstatus: DS ohne Schwellung der HG bds. DS Schultern bds."
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Dazu Schmerzen an beiden Schultern, Linderung der Symptomatik unter NSAR."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Der Pat. berichtet allerdings über eine deutliche Verbesserung der Beschwerden unter Prednisolon."
+          },
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Dazu Schmerzen an beiden Schultern, Linderung der Symptomatik unter NSAR."
+          },
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "Gelenkstatus: DS ohne Schwellung der HG bds. DS Schultern bds."
+          },
+          {
+            "Datei": "21_Baseline.docx",
+            "Zitat": "aktuelle Empfehlung: Beginn einer Therapie mit Methotrexat 15mg 1-mal wöchentlich und Folsäure 5mg 24h nach MTX"
+          }
+        ]
+      },
+      "Hinweise": [
+        "Der 23.08.2023 ist der belegte Besuch mit dem geringsten Abstand zum Baseline-Scan.",
+        "Anamnese, klinischer Gelenkbefund und laufende Medikation sind im zusammenfassenden Brief keinem der beiden Besuche eindeutig zugeordnet.",
+        "Labordatum für CRP und BKS nicht angegeben; BKS gemäß Studienkonvention als BSG nach einer Stunde in mm erfasst.",
+        "Methotrexat und Folsäure sind in dieser Briefgruppe nur als Therapieempfehlung dokumentiert."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2024-06-27",
+      "DAS28": null,
+      "DAS28-Variante": null,
+      "TJC": 12,
+      "SJC": 1,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.4,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Naproxen 500 mg bei Bedarf.",
+      "Klinische Hauptmanifestation": "Weiterhin Arthralgien und Schwellungen mehrerer Gelenke, aktuell Schmerzen der Finger- und Handgelenke. Morgensteifigkeit etwa 3 Stunden.",
+      "Gelenkbefund": "Dokumentierter Gelenkstatus mit 12 druckschmerzhaften und einem geschwollenen Gelenk; Lokalisationen nicht angegeben.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Klinisch unveränderte Beschwerden und weiterhin Krankheitsaktivität unter der seit März 2024 beurteilten Abatacept-Therapie; wegen Unwirksamkeit im Juni abgesetzt. Umstellung auf Tocilizumab 162 mg subkutan einmal wöchentlich empfohlen.",
+      "Ansprechen (Ja/Nein)": "Nein",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 21, der sich am 27.06.2024 ambulant vorstellte."
+          }
+        ],
+        "TJC": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Gelenkstatus: TJC 12  SJC 1  VAS 6/10"
+          }
+        ],
+        "SJC": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Gelenkstatus: TJC 12  SJC 1  VAS 6/10"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Naproxen 500mg B.b."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Weiterhin Arthralgien und Schwellungen in mehreren Gelenken trotz neu eingeleiteter Therapie mit Abatacept 03/2024."
+          },
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Aktuell Arthralgien in den Fingergelenken und Handgelenken. Morgensteifigkeit ca. 3h."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Gelenkstatus: TJC 12  SJC 1  VAS 6/10"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Aktuell berichtet der Pat. über einen unveränderten Zustand."
+          },
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Klinisch weiterhin Aktivität der Grunderkrankung."
+          },
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Abatacent 125mg 1x/Woche von 03/2024 bis 06/2024 (abgesetzt bei Unwirksamkeit)"
+          },
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde empfehlen wir eine Umstellung der Therapie auf Tocilizumab 162mg s.c. 1-mal pro Woche unter regelm. Blutkontrollen nach DGRh-Empfehlungen."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "21_FollowUp.docx",
+            "Zitat": "Abatacent 125mg 1x/Woche von 03/2024 bis 06/2024 (abgesetzt bei Unwirksamkeit)"
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP nicht angegeben.",
+        "Zählbereich von TJC und SJC nicht angegeben.",
+        "Abatacept wird in der Anamnese als beurteilte Therapie genannt, in der Therapiehistorie jedoch im Juni 2024 wegen Unwirksamkeit als abgesetzt dokumentiert; der genaue Absetztag ist unklar.",
+        "Tocilizumab ist nur empfohlen; ein tatsächlicher Therapiebeginn ist nicht belegt. Die Ansprechenkategorie bezieht sich auf Abatacept."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "indikation": "RA",
+  "scores": [
+    {
+      "name": "DAS28",
+      "typ": "Zahl"
+    },
+    {
+      "name": "DAS28-Variante",
+      "typ": "Text"
+    },
+    {
+      "name": "TJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "SJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "SDAI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "CDAI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "HAQ",
+      "typ": "Zahl"
+    }
+  ],
+  "klinische_spalten": [
+    "Klinische Hauptmanifestation",
+    "Gelenkbefund",
+    "Weitere Gelenke"
+  ],
+  "auswahlwerte": {
+    "DAS28-Variante": [
+      "CRP",
+      "BSG",
+      "nicht angegeben"
+    ]
+  },
+  "gekoppelte_felder": [
+    [
+      "DAS28",
+      "DAS28-Variante"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "indikation": "SpA",
+  "scores": [
+    {
+      "name": "ASDAS-CRP",
+      "typ": "Zahl"
+    },
+    {
+      "name": "BASDAI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "TJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "SJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "LEI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "MASES",
+      "typ": "Zahl"
+    },
+    {
+      "name": "HAQ",
+      "typ": "Zahl"
+    }
+  ],
+  "klinische_spalten": [
+    "Klinische Hauptmanifestation",
+    "Axiale Beschwerden / ISG",
+    "Weitere Gelenke"
+  ],
+  "auswahlwerte": {},
+  "gekoppelte_felder": []
+}

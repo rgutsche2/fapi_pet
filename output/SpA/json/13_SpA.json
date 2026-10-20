@@ -1,0 +1,250 @@
+{
+  "Patient": {
+    "Patient": 13,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2019-01-28",
+      "Follow-up": "2020-08-17"
+    }
+  },
+  "fingerprint": "79d2dd9cdfac4eebf8092704153050c30db817a956b950c53b8eeebac12b71e9",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2018-11-26",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 37.9,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "NSAR-Therapie; Präparat und Dosis der aktuell laufenden Behandlung nicht eindeutig angegeben.",
+        "Klinische Hauptmanifestation": "Fersensporn links mit deutlicher Bewegungseinschränkung und Druckschmerz über beiden Achillessehnen. Morgensteifigkeit 15–20 Minuten, keine synovitische Gelenkschwellung.",
+        "Axiale Beschwerden / ISG": "Kein Hinweis auf entzündlichen Rückenschmerz; Wirbelsäule frei beweglich.",
+        "Weitere Gelenke": null,
+        "Verlauf": "Seit zwei Jahren Fersenbeschwerden; unter NSAR Linderung, jedoch weiterhin deutliche Beschwerden mit Bewegungseinschränkung. Umstellung auf Arcoxia 90 mg täglich für vier Wochen bei Bestätigung des Verdachts und persistierenden Entzündungszeichen empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "die sich am 26.11.2018  in unserer Triage-Sprechstunde vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "C-reaktives Protein 37,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "C-reaktives Protein 37,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "C-reaktives Protein 37,9 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Auf NSAR käme es zu einer Linderung der Beschwerden, allerdings weiterhin deutliche Beschwerdesymptomatik unter NSAR mit Bewegungseinschränkung."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "seit 2 J. Fersensporn li."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Die Pat. berichtet von seit 2 J. bestehendem Fersensporn mit massiver Einschränkung der Beweglichkeit."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Morgensteifigkeit 15-20 Min."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Gelenke: keine synovitische Gelenkschwellung, Druckschmerz über Achillessehnen bds., ansonsten unauffällige Sehnen"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Kein Hinweis auf entzündlichen Rückenschmerz."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "WS frei beweglich"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Die Pat. berichtet von seit 2 J. bestehendem Fersensporn mit massiver Einschränkung der Beweglichkeit."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Auf NSAR käme es zu einer Linderung der Beschwerden, allerdings weiterhin deutliche Beschwerdesymptomatik unter NSAR mit Bewegungseinschränkung."
+            },
+            {
+              "Datei": "13_Baseline.docx",
+              "Zitat": "Sollte sich hierbei der V.a. eine Spondylarthropathie mit peripherer Gelenkbeteiligung erhärten und persistierende Entzündungszeichen detektierbar sein, empfehlen wir eine Umstellung der NSAR-Thearpie auf Arcoxia 90mg 1-0-0 für 4 Wochen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "Ibuprofen wird als bisherige Therapie mit unzureichender Wirkung genannt; das aktuell verwendete NSAR bleibt unklar. Arcoxia ist nur bedingt empfohlen."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-09-24",
+        "ASDAS-CRP": null,
+        "BASDAI": 1.63,
+        "TJC": 0,
+        "SJC": 0,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": 0.13,
+        "CRP-Wert": 10.5,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 29,
+        "Aktuelle Therapie": "Secukinumab 300 mg einmal monatlich, seit Juni 2020 in dieser Dosis; Ibuprofen 600 mg bei Bedarf.",
+        "Klinische Hauptmanifestation": "Deutlich gebesserte Beschwerden beider Füße bei Plantarfasziitis und Fersensporn. Noch leichter Druckschmerz plantar rechts und an der linken Ferse, keine erkennbare Schwellung.",
+        "Axiale Beschwerden / ISG": null,
+        "Weitere Gelenke": "Keine druckschmerzhaften oder geschwollenen Gelenke im dokumentierten Gelenkstatus: TJC 0, SJC 0.",
+        "Verlauf": "Deutliche klinische Besserung mit drei bis vier Wochen beinahe Beschwerdefreiheit; gutes klinisches Ansprechen unter Secukinumab dokumentiert. Die Patientin führt die Besserung der Fußbeschwerden auf berufliche Entlastung zurück; leichter Druckschmerz bleibt bestehen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "die sich am 24.09.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "HAQ 0,13; BASFI 1,1; BASDAI 1,63"
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0, TJC 0"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0, TJC 0"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "HAQ 0,13; BASFI 1,1; BASDAI 1,63"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 10,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 10,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 10,5 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "BKS: 29/61 mm/h."
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Secukinumab 150 mg 1x/Monat seit 10/2019, erhöht auf 300 mg 1x/Monat 06/2020"
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Ibuprofen bei Bedarf 600 mg"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Insbesondere die Beschwerden bei Plantarfasziitis und bekanntem Fersensporn in beiden Füßen hätten sich deutlich verbessert."
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Enthesen: leichter Druckschmerz plantar rechts und an Ferse linksseitig, keine Schwellung erkennbar."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0, TJC 0"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Ihr ginge es deutlich besser."
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Drei bis vier Wochen lang hätte beinahe Beschwerdefreiheit bestanden."
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Dies führe sie auf berufliche Veränderungen (Entlastung durch vermehrtes Sitzen in neuem Job) zurück."
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Anamnestisch, klinisch und radiologisch zeigte sich heute ein gutes Therapieansprechen der Beschwerden auf die Cosentyx-Therapie."
+            },
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Enthesen: leichter Druckschmerz plantar rechts und an Ferse linksseitig, keine Schwellung erkennbar."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "13_FollowUp.docx",
+              "Zitat": "Anamnestisch, klinisch und radiologisch zeigte sich heute ein gutes Therapieansprechen der Beschwerden auf die Cosentyx-Therapie."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "BKS 29/61 mm/h: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
+          "Die zusätzliche Angabe „Weiterhin keine Änderung seit letzter Vorstellung.“ ist zeitlich nicht näher erläutert; die aktuelle Anamnese und Beurteilung dokumentieren ausdrücklich eine klinische Besserung."
+        ]
+      }
+    ]
+  }
+}

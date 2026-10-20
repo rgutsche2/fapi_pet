@@ -1,0 +1,277 @@
+{
+  "Patient": {
+    "Patient": 32,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2023-10-24",
+      "Follow-up": "2025-11-03"
+    }
+  },
+  "fingerprint": "7f99c401e8475675d59844e88ea8b7fad98f46ba498a8af41554902f09dee173",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2023-10-05",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": 10,
+        "SJC": 3,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Certolizumab und Leflunomid, zuletzt auf 20 mg erhöht; unter Leflunomid Übelkeit und Erbrechen.",
+        "Klinische Hauptmanifestation": "Persistierende Gelenkschmerzen und chronische Gelenkschwellungen bei postarthritischen Deformitäten; zunehmende Psoriasis-Hautläsionen.",
+        "Periphere Gelenkbeschwerden": "Arthralgien der PIP-Gelenke, Handgelenke und Schultern. Postarthritische Deformitäten mehrerer Gelenke, TJC 10 und drei chronisch geschwollene Gelenke.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": null,
+        "Daktylitis": null,
+        "Hautbeteiligung": "Vermehrte Psoriasis-Läsionen an Kopfhaut, Ohrgängen, Brust, Bauch und Genitalbereich.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Zunehmende Hautaktivität bei persistierenden Gelenkschmerzen und chronischen Schwellungen. Leflunomid wird schlecht vertragen; Absetzen und Umstellung auf Bimekizumab empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "die sich am 05.10.2023 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Gelenkstatus: post-arthritische Deformitäten mehrere Gelenke, TJC 10, SJC chron. Schwellungen drei Gelenke"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Gelenkstatus: post-arthritische Deformitäten mehrere Gelenke, TJC 10, SJC chron. Schwellungen drei Gelenke"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Aktuell Cimzia/Leflunomid"
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Die Therapie mit Arava wurde zuletzt auf 20 mg erhöht, dies wird nicht optimal vertragen, hier vermehrt Übelkeit u. Erbrechen."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Klinisch zeigte sich vermehrte Aktivität der Grunderkrankung mit vermehrten Hautläsionen, und persistierenden Gelenkschmerzen und chron. Gelenkschwellungen."
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Gelenkstatus: post-arthritische Deformitäten mehrere Gelenke, TJC 10, SJC chron. Schwellungen drei Gelenke"
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Aktuell Arthralgien PIP-Gelenke, Handgelenke, Schulterbereich."
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Gelenkstatus: post-arthritische Deformitäten mehrere Gelenke, TJC 10, SJC chron. Schwellungen drei Gelenke"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Aktuell berichtet die Pat. über vermehrte Psoriasis-Läsionen, hauptsächlich Kopfhaut, Ohrgänge, Brustbereich, Bauchbereich, Genitalbereich."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Klinisch zeigte sich vermehrte Aktivität der Grunderkrankung mit vermehrten Hautläsionen, und persistierenden Gelenkschmerzen und chron. Gelenkschwellungen."
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Die Therapie mit Leflunomid wird nicht optimal vertragen."
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "In Zusammenschau der Befunde bei noch aktiver Grunderkrankung empfehlen wir eine Therapieumstellung auf Bimekizumab 160mg."
+            },
+            {
+              "Datei": "32_Baseline.docx",
+              "Zitat": "Die Therapie mit Leflunomid soll abgesetzt werden."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "Zählbereich von TJC und SJC nicht angegeben; SJC bezeichnet ausdrücklich chronische Schwellungen.",
+          "Der Diagnoseeintrag nennt bereits Beginn Bimekizumab; Anamnese und Beurteilung beschreiben die Umstellung erst als Empfehlung. Ein tatsächlicher Beginn am Referenztermin ist nicht belegt."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2025-03-26",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.1,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 12,
+        "Aktuelle Therapie": "Bimekizumab 160 mg alle 4 Wochen seit Oktober 2023.",
+        "Klinische Hauptmanifestation": "Seit vier Wochen anhaltende Schmerzen der linken Hüfte beziehungsweise Gesäßregion, tagsüber ständig und nachts mit Schlafstörung. Klinischer Verdacht auf entzündlichen Rückenschmerz beziehungsweise linksseitige Hüftschmerzen.",
+        "Periphere Gelenkbeschwerden": "Linke Hüftrotation schmerzhaft, kein Trochanterdruckschmerz. Ansonsten keine Gelenkprobleme und keine weiteren druckschmerzhaften oder geschwollenen Gelenke.",
+        "Axiale Beschwerden / ISG": "Linksseitige Gesäßschmerzen mit nächtlichem Erwachen; Verdacht auf entzündlichen Rückenschmerz. Mennell unauffällig.",
+        "Enthesitis": "Keine druckschmerzhaften oder geschwollenen Enthesen.",
+        "Daktylitis": null,
+        "Hautbeteiligung": "Einzelne Psoriasisläsionen links parietal; übrige Haut unauffällig.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Unter Bimekizumab aktuell keine sonstigen Gelenkprobleme, jedoch seit vier Wochen linksseitige Hüft-/Gesäßschmerzen mit Verdacht auf Krankheitsaktivität. Einzelne Psoriasisläsionen bestehen fort. Probatorischer Wechsel auf Etanercept empfohlen; ein klinischer Nutzen von Bimekizumab wird nicht ausdrücklich beurteilt.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "die sich am 26.03.2025 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "BKS: 12 mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Bimekizumab 160mg alle 4 Wochen (seit 10/23)"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Seit 4 Wochen Schmerzen in den linken Hüfte/Gesäß. Kann nachts nicht auf dieser Seite schlafen, wacht dann aber immer wieder auf. Tagsüber ständig Schmerzen."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Verdacht auf entzündlicher Rückenschmerz bzw. Hüftschmerzen linksseitig."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Sonst keine Gelenkprobleme."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Hüftgelenks Rotation links schmerzhaft, kein Trochanterdruckschmerz. Keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Seit 4 Wochen Schmerzen in den linken Hüfte/Gesäß. Kann nachts nicht auf dieser Seite schlafen, wacht dann aber immer wieder auf."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Verdacht auf entzündlicher Rückenschmerz bzw. Hüftschmerzen linksseitig."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Mennell unauffällig."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Einzelne Psoriasisläsionen parietal links. Restliche Haut und Mundschleimhaut Befund unauffällig."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Bimekizumab 160mg alle 4 Wochen (seit 10/23)"
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Seit 4 Wochen Schmerzen in den linken Hüfte/Gesäß."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Sonst keine Gelenkprobleme."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Einzelne Psoriasisläsionen parietal links."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Es besteht zumindest klinisch der Verdacht auf Krankheitsaktivität."
+            },
+            {
+              "Datei": "32_FollowUp.docx",
+              "Zitat": "Daher wird mit der Patientin der probatorische Wechsel auf den alternativen TNF-Blocker Etanercept (Benepali) besprochen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "Etanercept 50 mg einmal wöchentlich ist empfohlen; ein bereits erfolgter Therapiebeginn ist nicht belegt.",
+          "Ansprechen nicht eindeutig beurteilbar: neue Hüft-/Gesäßschmerzen bei lediglich vermuteter entzündlicher Aktivität; keine ausdrückliche Aussage zu klinischer Besserung, guter Krankheitskontrolle oder fehlendem Ansprechen."
+        ]
+      }
+    ]
+  }
+}

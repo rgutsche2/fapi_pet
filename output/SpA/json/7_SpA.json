@@ -1,0 +1,285 @@
+{
+  "Patient": {
+    "Patient": 7,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2020-05-25",
+      "Follow-up": "2021-01-25"
+    }
+  },
+  "fingerprint": "1771bbb63ccef06b3331428a151729b373feea63907e2569cedeaf6a1b9e03a9",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-04-30",
+        "ASDAS-CRP": null,
+        "BASDAI": 5.4,
+        "TJC": 0,
+        "SJC": 0,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": 0.375,
+        "CRP-Wert": 9.7,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 39,
+        "Aktuelle Therapie": "Methocarbamol 750 mg bei Bedarf.",
+        "Klinische Hauptmanifestation": "Anhaltende Beschwerden und Druckschmerz über BWS/LWS und ISG, Mennell links stärker als rechts positiv. Leichte bewegungsabhängige Beschwerden im linken Schultergelenk.",
+        "Axiale Beschwerden / ISG": "Konstante Schmerzen im LWS-Bereich und tiefen Rücken in Ruhe und bei Bewegung, teilweise Taubheitsgefühl im rechten Fuß. Kein nächtliches Erwachen durch Rückenschmerzen.",
+        "Weitere Gelenke": "Keine geschwollenen Gelenke; kein Hinweis auf periphere Enthesitis. Vorübergehendes Instabilitätsgefühl im linken Knie inzwischen abgeklungen.",
+        "Verlauf": "Weiterhin axiale Beschwerden trotz achtwöchiger fester Einnahme von Etoricoxib 60 mg ohne Ansprechen. Einleitung von Adalimumab 40 mg alle zwei Wochen subkutan empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "der sich am 30.04.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "HAQ 0,375; BAS-G 5,5; BASFI 2,2; BASDAI 5,4"
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "RA: SJC 0 TJC aktuell 0 MS 0 min, keine nächtlichen Rückenschmerzen, keine Hauteffloreszenzen, keine Augenentzündungen, kein Hinweis auf Raynaud- und Sicca-Symptomatik, keine vermehrte Infektneigung"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "RA: SJC 0 TJC aktuell 0 MS 0 min, keine nächtlichen Rückenschmerzen, keine Hauteffloreszenzen, keine Augenentzündungen, kein Hinweis auf Raynaud- und Sicca-Symptomatik, keine vermehrte Infektneigung"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "HAQ 0,375; BAS-G 5,5; BASFI 2,2; BASDAI 5,4"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,7 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,7 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,7 mg/l"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "BKS: 39/75 mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Methocarbamol 750 mg b. Bed."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Klinisch weiterhin Beschwerden in der BWS/LWS und im ISG, anamnestisch kein Ansprechen der Beschwerden nach fester Einnahme von Etoricoxib 60 mg über 8 Wochen."
+            },
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Druckschmerz über BWS/LWS, Druckschmerz ISG, Mennell positiv links>rechts"
+            },
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Bei eher diffusen Beschwerden im linken Schultergelenk bei Bewegung veranlassten wir eine Röntgenuntersuchung, die keine knöchernen Auffälligkeiten und insbesondere keine degenerativen Veränderungen zeigte."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Es bestünden konstant Rückenbeschwerden mit punctum maximum in der LWS-Gegend und im tiefen Rücken in Ruhe und bei Bewegung, tlw. auch Taubheitsgefühl im rechten Fuß."
+            },
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Kein nächtliches Erwachen wegen der Rückenschmerzen."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen Gelenke, Druckschmerz über BWS/LWS, Druckschmerz ISG, Mennell positiv links>rechts, kein Hinweis für periphere Enthesitis, Schultergelenke leicht asymmetrisch, Schulterblatt links prominenter als rechts,"
+            },
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Zwischenzeitlich habe sich sein linkes Kniegelenk drei Tage lang instabil angefühlt, als trete er ins Leere, aktuell aber nicht mehr."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Klinisch weiterhin Beschwerden in der BWS/LWS und im ISG, anamnestisch kein Ansprechen der Beschwerden nach fester Einnahme von Etoricoxib 60 mg über 8 Wochen."
+            },
+            {
+              "Datei": "7_Baseline.docx",
+              "Zitat": "Beginn einer Therapie mit Adalimumab 40 mg alle 2 Wochen subkutan"
+            }
+          ]
+        },
+        "Hinweise": [
+          "Adalimumab laut ergänzter Medikamentenliste seit 05/2020; am Referenzbesuch 30.04.2020 noch keine belegte laufende Therapie, Einleitung im Verlauf empfohlen.",
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "Für Scores und Gelenkstatus kein gesondertes Erhebungsdatum angegeben.",
+          "BKS 39/75 mm/h: erster Wert 39 gemäß Studienkonvention als BSG nach einer Stunde übernommen."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-11-27",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 5.1,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 2,
+        "Aktuelle Therapie": "Adalimumab 40 mg subkutan alle zwei Wochen seit 05/2020; Methocarbamol 750 mg bei Bedarf, seit letzter Vorstellung einmal eingenommen.",
+        "Klinische Hauptmanifestation": "Aktuell keine Gelenkschmerzen, Gelenkschwellungen oder Morgensteifigkeit; keine druckschmerzhaften oder geschwollenen Gelenke. Klinisch kein Anhalt für Aktivität der SpA.",
+        "Axiale Beschwerden / ISG": "Aktuell keine Beschwerden; Wirbelsäule ohne Klopfschmerz. Seit Adalimumab anamnestisch keine Schübe mehr.",
+        "Weitere Gelenke": "Keine aktuellen peripheren Gelenkbeschwerden oder klinischen Schwellungen.",
+        "Verlauf": "Unter Adalimumab anamnestisch keine weiteren Schübe und aktuell beschwerdefrei, klinisch kein Anhalt für SpA-Aktivität. Gelegentlich orthostatischer Schwindel und beidseitiges Einschlafen der Beine nach längerem Sitzen auf der Toilette.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "der sich am 27.11.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "BKS 2mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Adalimumab 40 mg/2 Wochen s.c. seit 05/2020"
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Methocarbamol 750 mg b. Bed."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Einmalig seit der letzten Vorstellung sei Methocarbamol eingenommen worden."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "keine Gelenkschmerzen, keine Gelenkschwellungen, keine Morgensteifigkeit."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "keine druckschmerzhaften oder geschwollenen Gelenke."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Klinisch aktuell kein Anhalt für Aktivität der SPA."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Ansonsten aktuell keine Beschwerden."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Wirbelsäule: Kein Klopfschmerz."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Herr A. berichtet seit Adalimumab keine Schübe mehr gehabt zu haben."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "keine Gelenkschmerzen, keine Gelenkschwellungen, keine Morgensteifigkeit."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "keine druckschmerzhaften oder geschwollenen Gelenke."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Herr A. berichtet seit Adalimumab keine Schübe mehr gehabt zu haben."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Ansonsten aktuell keine Beschwerden."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Klinisch aktuell kein Anhalt für Aktivität der SPA."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Ggl. würde ein orthostatischer Schwindel auftreten und nach längerem Sitzen auf der Toilette würden die Beine bds. einschlafen."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Herr A. berichtet seit Adalimumab keine Schübe mehr gehabt zu haben."
+            },
+            {
+              "Datei": "7_FollowUp.docx",
+              "Zitat": "Ansonsten aktuell keine Beschwerden."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "Zusätzlich vier Schmerzschübe im gesamten Jahr über insgesamt maximal einen Tag angegeben; zeitliche Zuordnung zum Therapiebeginn nicht eindeutig."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "Patient": {
+    "Patient": 23,
+    "Erkrankung": "RA",
+    "Scans": {
+      "Baseline": "2023-06-19",
+      "Follow-up": "2023-10-02"
+    }
+  },
+  "fingerprint": "a292d4ee9ed43ecc66804b4f7a23b60c086d10890758637c45be224d3c9b6669",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2023-06-19",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 13.2,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat 15 mg/Woche, Folsäure 5 mg am Folgetag und Ibuprofen 600 mg dreimal täglich bei Aufnahme.",
+        "Klinische Hauptmanifestation": "Schmerzen der PIP, Handgelenke, Schultern, Knie und Sprunggelenke beidseits, an den Knien linksbetont. Morgensteifigkeit 30–60 Minuten sowie Sensibilitätsstörungen beim Greifen.",
+        "Gelenkbefund": "Druckschmerz und Schwellungen an Knien und Sprunggelenken beidseits sowie MCP-, PIP-, Hand- und Ellenbogengelenken; zusammenfassend auch Schultern und MCP II/III beidseits betroffen.",
+        "Weitere Gelenke": "Zusätzlich Ellenbogen klinisch betroffen.",
+        "Verlauf": "Wiederkehrende Beschwerden ohne durchschlagenden Effekt der bisherigen Therapie. Adalimumab seit drei Wochen pausiert; Blinatumomab im stationären Verlauf am 20.06.2023 eingeleitet.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Körperlicher  Untersuchungsbefund vom 19.06.2023:"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Methotrexat 15 mg/Woche"
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Folsäure 5 mg am Folgetag"
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Ibuprofen 600 mg 1-1-1"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Die Patientin beschreibt aktuell Gelenkschmerzen in den PIP bds., den Handgelenken bds., den Schultergelenken bds., den Kniegelenken bds. (links betont) und der Sprunggelenke bds."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Es bestünde eine Steifigkeit der Gelenke sowie Sensibilitätsstörungen beim Greifen."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Morgensteifigkeit von 30-60min"
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung Knie bds. Sprunggelenke bds. MCPs, PIPs, Handgelenke und Ellenbogen."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "V.a. PIP bds., MCPs DII/III bds., Handgelenke, Schultern, Knie (links > rechts) und Sprunggelenke waren deutlich geschwollen und druckschmerzhaft."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung Knie bds. Sprunggelenke bds. MCPs, PIPs, Handgelenke und Ellenbogen."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Die Beschwerden seien immer wiederkehrend ohne durchschlagendem Effekt der bisherigen Therapie."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Vor drei Wochen sei die letzte Adalimumabgabe erfolgt, aktuell nehme die Patientin nur MTX gegen die rheumatischen Beschwerden."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Die Therapieeinleitung erfolgte am 20.06.2023."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Die Aufnahme der Patientin erfolgte bei therapierefraktärer rheumatoider Arthritis zur Gabe von Blinatumomab und oben beschriebener Anamnese."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP während des Aufenthalts vom 19.06.–26.06.2023; Labordatum nicht angegeben.",
+          "Der zusammenfassende Gelenkbefund ist keinem einzelnen Untersuchungstag eindeutig zugeordnet.",
+          "Blinatumomab erst ab 20.06.2023, somit am klinischen Referenztermin noch keine laufende Therapie; Adalimumab bereits pausiert."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2024-01-18",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": 0,
+        "SJC": 0,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.9,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat 15 mg einmal wöchentlich.",
+        "Klinische Hauptmanifestation": "Am 18.01.2024 keine Schübe oder Gelenkbeschwerden. Morgensteifigkeit widersprüchlich als fehlend beziehungsweise 1–2 Minuten dokumentiert.",
+        "Gelenkbefund": "Am 18.01.2024 keine druckschmerzhaften oder geschwollenen Gelenke dokumentiert, TJ 0 und SJ 0.",
+        "Weitere Gelenke": "Am 18.04.2024 vorübergehend Schmerzen der Hände beziehungsweise des rechten Handgelenks und einmalig des linken Knies, rasch wieder gebessert.",
+        "Verlauf": "Am 18.01.2024 anhaltend gute klinische Kontrolle ohne RA-Schübe unter weitergeführtem Methotrexat. Am 18.04.2024 kurzzeitige Hand-/Handgelenk- und linke Knieschmerzen mit rascher Besserung nach einmaliger Ibuprofeneinnahme; zusätzlich Taubheitsgefühl der Fingerspitzen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "18.1.2024: Corona gehabt, 2 Wochen vor Weihnachten (Mitte Dezember) , Kreislaufproblme, Schweißausbruch, 2 Wochen Hustne gehabt, insgesamt Dauer 2 Wochen, ansonsten aber überhaupt nichts einschl. kein Schub RA."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "TJ: 0"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "SJ: 0"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Methotrexat 15 mg/Woche"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Keine Morgensteifigkeit, keine TJ/SJ"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit 1-2 Minuten"
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Keine Morgensteifigkeit, keine TJ/SJ"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "TJ: 0"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "SJ: 0"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Etwas Taubheitsgefühl Fingerspitzen."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Der 18.01.2024 ist der scan-nächste eindeutig dokumentierte rheumatologische Vorstellungstag; der 14.07.2023 ist nur als Entlassungstag, der 15.08.2023 nur als geplanter Termin belegt.",
+          "TJC, SJC und CRP vom 18.01.2024; Zählbereich von TJ/SJ nicht angegeben.",
+          "Morgensteifigkeit am 18.01.2024 widersprüchlich: keine beziehungsweise 1–2 Minuten.",
+          "MTX-Dosis aus der Medikationsangabe der Vorgeschichte; am 18.01.2024 ist die wöchentliche Fortführung ausdrücklich bestätigt.",
+          "DAS28-ESR 2,54 gehört zur historischen stationären Zweitgabe von Blinatumomab im Juli 2023 und wurde nicht als aktueller Score übernommen.",
+          "Beschwerden vom 18.04.2024 sind als späterer Verlauf gekennzeichnet; dessen CRP 9,6 mg/l wird zugunsten des Referenzterminwertes nicht ausgewählt."
+        ]
+      }
+    ]
+  }
+}

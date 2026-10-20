@@ -1,0 +1,278 @@
+{
+  "Patient": {
+    "Patient": 43,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2019-11-25",
+      "Follow-up": "2020-12-18"
+    }
+  },
+  "fingerprint": "1415a0e258fc6acdd1e86461eb591509f471bfd70aa5b6ef65acc0f04976cc02",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2019-11-11",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat 10 mg einmal wöchentlich mit Folsäure 5 mg im Anschluss; Prednisolon 10 mg.",
+        "Klinische Hauptmanifestation": "Rezidivierende Beschwerden der MCP-Gelenke beidseits mit deutlicher Morgensteifigkeit und eingeschränkter Fingerbeweglichkeit; begleitende Enthesenbeschwerden.",
+        "Periphere Gelenkbeschwerden": "MCP-Beschwerden beidseits mit Morgensteifigkeit ohne dokumentierte Dauer und eingeschränkter Fingerbeweglichkeit. Diskrete Schwellungen MCP 2/3 beidseits ohne direkten Gelenkdruckschmerz; zusätzlich Schmerzen an Knien, Ellbogen, Schultern und Hüften.",
+        "Axiale Beschwerden / ISG": "Langjährige Beschwerden der unteren LWS, auch in Ruhe.",
+        "Enthesitis": "Rezidivierende Enthesitiden der Plantarfaszien, Achillessehnen und Ellbogen beidseits; aktuell Druckschmerz der Plantarfaszien und leichter Druckschmerz der Achillessehnen beidseits.",
+        "Daktylitis": null,
+        "Hautbeteiligung": "Psoriasiforme Läsionen am gesamten Kapillitium und diskret an beiden Ellbogen; übriges Integument unauffällig.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Seit August 2018 rezidivierende Gelenk- und Enthesenbeschwerden. Prednisolon und anschließend Methotrexat bisher nur eingeschränkt wirksam; persistierende Haut- und muskuloskelettale Beschwerden. Einleitung von Secukinumab empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 43, der sich am 11.11.2019 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Lantarel 10 mg einmal die Woche"
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Folsan 5 mg im Anschluss nach Methotrexat-Gabe"
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Aktuell bestünde eine Therapie mit Prednisolon 10 mg."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Er berichtet seit 08/2018 über rezidivierende Arthralgien/Arthritiden im Bereich der MCP-Gelenke beidseits mit einer deutlichen Morgensteifigkeit und einer Einschränkung der Beweglichkeit der Finger."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Gelenke: diskrete Schwellung im Bereich MCP-2/3 beidseits, kein direkter Druckschmerz über den Gelenken, Druckschmerz über Plantarfaszie beidseits und leichter Druckschmerz Achillessehnen beidseits."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Er berichtet seit 08/2018 über rezidivierende Arthralgien/Arthritiden im Bereich der MCP-Gelenke beidseits mit einer deutlichen Morgensteifigkeit und einer Einschränkung der Beweglichkeit der Finger."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Gelenke: diskrete Schwellung im Bereich MCP-2/3 beidseits, kein direkter Druckschmerz über den Gelenken, Druckschmerz über Plantarfaszie beidseits und leichter Druckschmerz Achillessehnen beidseits."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Zusätzlich bestünden seit dieser Zeit Schmerzen im Bereich des gesamten Körpers, vor allem im Bereich der Plantarfaszie, der Achillessehnen, der Kniegelenke und der Ellbogen beidseits. Zusätzlich auch im Bereich der Schultern und Hüften."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Ebenso bestünden langjährige Beschwerden im Bereich der unteren LWS, auch in Ruhe."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "rezidivierende Enthesitiden im Bereich der Plantarfaszie, der Achillessehne und der Ellbogen beidseits"
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Gelenke: diskrete Schwellung im Bereich MCP-2/3 beidseits, kein direkter Druckschmerz über den Gelenken, Druckschmerz über Plantarfaszie beidseits und leichter Druckschmerz Achillessehnen beidseits."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Haut: psoriasiforme Läsionen am gesamten Kapillitium und diskret an beiden Ellbogen, übriges Integument unauffällig."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Er berichtet seit 08/2018 über rezidivierende Arthralgien/Arthritiden im Bereich der MCP-Gelenke beidseits mit einer deutlichen Morgensteifigkeit und einer Einschränkung der Beweglichkeit der Finger."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Diese habe jedoch nur eine sehr begrenzte Wirkung gezeigt. Daher wurde im Verlauf zusätzlich Methotrexat (Lantarel) vor etwa fünf Wochen verabreicht. Auch dieses Medikament hat bisher nur eine eingeschränkte Wirkung gezeigt."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Im Verlauf zeigte sich auch unter Methotrexat eine persistierende Beschwerdesymptomatik, sowohl im Bereich der Haut, als auch im muskuloskelettalen Bereich im Sinne von rezidivierenden Arthritiden und Enthesitiden."
+            },
+            {
+              "Datei": "43_Baseline.docx",
+              "Zitat": "Wir empfehlen daher eine Therapie-Eskalation auf Secukinumab 150 mg zunächst 5x wöchentlich, dann monatliche Gaben under Kontrollen nach Maßgabe der DGRh."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP: Labordatum nicht angegeben.",
+          "Secukinumab ist in der Diagnoseliste mit Beginn 12/2019 nachgetragen und war am Referenztermin 11.11.2019 keine laufende Therapie.",
+          "Abweichendes Baseline-PET-Datum: Patientenliste 25.11.2019, Befundüberschrift im Brief 26.11.2019."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-12-14",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": 5,
+        "SJC": 3,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": null,
+        "CRP-Vergleichszeichen": null,
+        "CRP-Einheit": null,
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Methotrexat einmal wöchentlich, Dosis nicht angegeben, mit Folsäure 5 mg am Folgetag; Adalimumab, Dosis und Intervall nicht angegeben.",
+        "Klinische Hauptmanifestation": "Erneut zunehmende Schmerzen beider Hände, Ellbogen und Schultern mit Kraftlosigkeit der Hände und Unfähigkeit zu Überkopfarbeiten; klinisch druckschmerzhafte und geschwollene Gelenke.",
+        "Periphere Gelenkbeschwerden": "Seit etwa drei Wochen vermehrte Schmerzen beider Hände, Ellbogen und Schultern; keine Überkopfarbeiten möglich, Kraftlosigkeit beider Hände. Fünf druckschmerzhafte und drei geschwollene Gelenke.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": "Druckschmerzhafte Enthesen an Achillessehnen und Ellbogen beidseits.",
+        "Daktylitis": null,
+        "Hautbeteiligung": "Zunehmende psoriasiforme Läsionen am Kopf und an den Streckseiten beider Ellbogen.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Unter Adalimumab zunächst deutlicher klinischer Nutzen, seit etwa drei Wochen erneut zunehmende Gelenkschmerzen mit funktionellen Einschränkungen und verschlechterter Hautbeteiligung. Aktuell persistierende Erkrankungsaktivität unter TNF-Inhibition mit Enthesenbeschwerden; Umstellung auf Upadacitinib bei Fortführung von Methotrexat empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 43, der sich am 14.12.2020 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Gelenke: 5 druckschmerzhafte, 3 geschwollene Gelenke"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Gelenke: 5 druckschmerzhafte, 3 geschwollene Gelenke"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "WV bei PsA unter MTX und Adalimumab zur Verlaufskontrolle."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "MTX sollte fortgeführt werden in der üblichen Dosierung 1x/Wo. + Folsäure 5mg am Folgetag, unter Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Seit ca. 3 Wochen nun wieder vermehrt Schmerzen in bd. Händen, bd. Ellenbogen und bd. Schultergelenken, kein Überkopfarbeiten möglich, Kraftlosigkeit in bd. Händen."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Gelenke: 5 druckschmerzhafte, 3 geschwollene Gelenke"
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Seit ca. 3 Wochen nun wieder vermehrt Schmerzen in bd. Händen, bd. Ellenbogen und bd. Schultergelenken, kein Überkopfarbeiten möglich, Kraftlosigkeit in bd. Händen."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Gelenke: 5 druckschmerzhafte, 3 geschwollene Gelenke"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Enthesen: Achillessehnen bds., Ellenbogen bds. druckschmerzhaft"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Zusätzlich aggravierte psoriasiforme Läsionen im Bereich der bd. Streckseiten der Ellenbogen und im Kopfbereich."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Der Pat. gibt an zunächst von der Umstellung auf Adalimumab hinsichtlich der Beschwerdesymptomatik deutlich profitiert zu haben."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Seit ca. 3 Wochen nun wieder vermehrt Schmerzen in bd. Händen, bd. Ellenbogen und bd. Schultergelenken, kein Überkopfarbeiten möglich, Kraftlosigkeit in bd. Händen."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Zusätzlich aggravierte psoriasiforme Läsionen im Bereich der bd. Streckseiten der Ellenbogen und im Kopfbereich."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Enthesen: Achillessehnen bds., Ellenbogen bds. druckschmerzhaft"
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Klinisch zeigt sich aktuell eine persistierende Erkrankungsaktivität unter TNF-Inhibition."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher eine Umstellung der immunsuppressiven Therapie auf Upadacitinib 15mg 1-0-0 unter Kontrollen nach Maßgabe der DGRh."
+            },
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "MTX sollte fortgeführt werden in der üblichen Dosierung 1x/Wo. + Folsäure 5mg am Folgetag, unter Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "43_FollowUp.docx",
+              "Zitat": "Der Pat. gibt an zunächst von der Umstellung auf Adalimumab hinsichtlich der Beschwerdesymptomatik deutlich profitiert zu haben."
+            }
+          ]
+        },
+        "Hinweise": [
+          "TJC/SJC: Zählbereich nicht angegeben.",
+          "Ansprechen Ja bezeichnet den ausdrücklich dokumentierten anfänglichen klinischen Nutzen unter Adalimumab; aktuell erneute Verschlechterung, keine anhaltend ausreichende Kontrolle.",
+          "Upadacitinib war am Referenztermin noch keine laufende Therapie. Zur Umstellung heißt es: „Da Adalimumab zuletzt am 18.12. gespritzt wurde, sollte bis zur Therapieumstellung noch ein Sicherheitsabstand bis 28.12.2020 eingehalten werden.“",
+          "Keine aktuellen Laborwerte: „Eine laborchemische Kontrolle konnte leider nicht durchgeführt werden, da der Pat. vorzeitig gegangen war.“"
+        ]
+      }
+    ]
+  }
+}

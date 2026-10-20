@@ -1,0 +1,203 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2020-10-19",
+      "ASDAS-CRP": null,
+      "BASDAI": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 12,
+      "Aktuelle Therapie": "Secukinumab 150 mg monatlich, seit 08/2020.",
+      "Klinische Hauptmanifestation": "Persistierende Wirbelsäulenschmerzen, vor allem lumbal. Keine peripheren synovitischen Gelenkschwellungen.",
+      "Axiale Beschwerden / ISG": "Persistierende Schmerzen vor allem an der LWS auch nach Umstellung auf Secukinumab.",
+      "Weitere Gelenke": "Keine peripheren synovitischen Gelenkschwellungen.",
+      "Verlauf": "Nach Umstellung auf Secukinumab weiterhin Wirbelsäulenschmerzen und klinisch persistierende Erkrankungsaktivität.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "die sich am 19.10.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "BKS 12/21 mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Aktuell: Secukinumab 150 mg (seit 08/20)"
+          },
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
+          },
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
+          },
+          {
+            "Datei": "3_Baseline.docx",
+            "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BKS nicht angegeben.",
+        "BKS 12/21 mm/h: erster Wert gemäß Studienkonvention übernommen.",
+        "Achillessehnenentzündung und nächtlicher Rückenschmerz stehen in der Diagnoseliste; ihre aktuelle Ausprägung ist nicht gesondert beschrieben."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2021-01-18",
+      "ASDAS-CRP": null,
+      "BASDAI": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": null,
+      "CRP-Wert": 5.1,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Secukinumab 300 mg alle vier Wochen, seit 11/2020.",
+      "Klinische Hauptmanifestation": "Weiterhin persistierende Wirbelsäulenschmerzen, vor allem lumbal, und aggravierte axiale Bewegungseinschränkung. Keine peripheren synovitischen Gelenkschwellungen.",
+      "Axiale Beschwerden / ISG": "Persistierende LWS-betonte Wirbelsäulenschmerzen trotz Secukinumab-Dosiserhöhung; weiterhin aggravierte axiale Bewegungseinschränkung.",
+      "Weitere Gelenke": "Keine peripheren synovitischen Gelenkschwellungen; frühere Achillessehnenentzündung.",
+      "Verlauf": "Auch nach Dosiserhöhung auf 300 mg Secukinumab weiterhin massive klinische Beschwerden und persistierende Aktivität. Umstellung auf Upadacitinib 15 mg täglich empfohlen; ein klinischer Nutzen von Secukinumab ist nicht eindeutig belegt.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "die sich am 18.01.2021 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
+          },
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung, weiterhin aggravierte axiale Bewegungseinschränkung."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
+          },
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung, weiterhin aggravierte axiale Bewegungseinschränkung."
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung, weiterhin aggravierte axiale Bewegungseinschränkung."
+          },
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Z.n. Entzündung Achillessehne"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat, auch wenn das FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt."
+          },
+          {
+            "Datei": "3_FollowUp.docx",
+            "Zitat": "Aufgrund der persistierenden massiven klinischen Symptomatik und der signifikanten Restaktivität (MRT-morphologisch und im FAPI PET/CT) empfehlen wir eine Therapieumstellung auf Upadacitinib 15mg 1x/Tag, unter Kontrolle nach Maßgabe der DGRh."
+          }
+        ]
+      },
+      "Hinweise": [
+        "CRP vom 18.01.2021.",
+        "Der Brief enthält nachträgliche Ergänzungen bis 03/2021; deren Aussagen sind nicht durchgehend dem Referenzbesuch am 18.01.2021 zuzuordnen.",
+        "Upadacitinib ist mit Therapiebeginn 03/2021 vermerkt und war am klinischen Referenztermin keine laufende Therapie.",
+        "Ansprechen bleibt unklar: Die Therapiehistorie nennt „11/20-03/21 mit teilweise Ansprechen“, ohne klinischen Nutzen eindeutig zu beschreiben. Im aktuellen Verlauf wird partielles Ansprechen ausdrücklich anhand des FAPI-PET beschrieben; fortbestehende Beschwerden allein belegen kein Nein."
+      ]
+    }
+  ]
+}

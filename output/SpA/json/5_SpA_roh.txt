@@ -1,0 +1,242 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2020-08-05",
+      "ASDAS-CRP": null,
+      "BASDAI": 5.5,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": 0.875,
+      "CRP-Wert": 5.3,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 12,
+      "Aktuelle Therapie": "Ibuprofen 600 mg dreimal täglich; aktuell keine Basistherapie.",
+      "Klinische Hauptmanifestation": "Verspannungen und Schmerzen im Brustkorb sowie teilweise tiefsitzende Rückenschmerzen mit nächtlichem Erwachen. Druckschmerz links thorakal über den Rippenbögen auf BWS-Höhe und am rechten ISG; ausgeprägte Abgeschlagenheit.",
+      "Axiale Beschwerden / ISG": "Tiefsitzende Rückenschmerzen mit nächtlichem Erwachen sowie Druckschmerz am rechten ISG und links thorakal.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Nach Absetzen von Cimzia im März schlechteres Befinden als bei der letzten Vorstellung; leicht erhöhte entzündliche Aktivität. Zeitnaher Wiederbeginn von Certolizumab nach radiologischer Statuserhebung vereinbart.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "der sich am 05.08.2020 ambulant vorstellte."
+          }
+        ],
+        "BASDAI": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "HAQ 0,875; BASFI 2,2; BASDAI 5,5; BAS-G 6,5, VAS Arzt 2"
+          }
+        ],
+        "HAQ": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "HAQ 0,875; BASFI 2,2; BASDAI 5,5; BAS-G 6,5, VAS Arzt 2"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "C-reaktives Protein 5,3 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "C-reaktives Protein 5,3 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "C-reaktives Protein 5,3 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "BKS: 12/29 mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Aktuell feste Einnahme von Ibu 3x600 mg unter Einnahme von Pantoprazol."
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Verlaufskontrolle bei SpA, aktuell ohne Basistherapie."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Er leide unter Verspannungen und Schmerzen im Brustkorb, tlw. auch unter tiefsitzenden Rückenschmerzen mit nächtlichem Erwachen."
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Gelenke: Druckschmerz links thorakal an drei Druckpunkten über den Rippenbögen Höhe BWS und re ISG, BASMI 0"
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Ausgeprägte Abgeschlagenheit."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Er leide unter Verspannungen und Schmerzen im Brustkorb, tlw. auch unter tiefsitzenden Rückenschmerzen mit nächtlichem Erwachen."
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Gelenke: Druckschmerz links thorakal an drei Druckpunkten über den Rippenbögen Höhe BWS und re ISG, BASMI 0"
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "VK bei axialer SpA, aktuell ohne Basistherapie (Cimzia abgesetzt im März aus Angst vor Covid 19). Ihm ginge es schlechter als bei letzter Vorstellung."
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Bei dieser Vorstellung ergab sich Anhalt für leicht erhöhte, entzündl. Aktivität."
+          },
+          {
+            "Datei": "5_Baseline.docx",
+            "Zitat": "Wir vereinbarten mit Herrn Schade den zeitnahen Wiederbeginn einer Therapie mit Certolizumab nach erfolgter, radiolog. Statuserhebung mittles FAPI-PET/CT."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum nicht angegeben; BSG gemäß Studienkonvention aus BKS 12/29 als erster Wert übernommen.",
+        "Diagnose- und Medikationsliste nennen Certolizumab mit Wiederbeginn 08/2020; am Referenzbesuch laut aktueller Anamnese und Beurteilung noch keine Basistherapie, Wiederbeginn erst vereinbart.",
+        "PET-Datierung im Brief widersprüchlich: Befund vom 10.08.2020, Verlaufsabschnitt nennt 14.08.2020."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2020-11-12",
+      "ASDAS-CRP": null,
+      "BASDAI": 0.825,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": 0,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 1,
+      "Aktuelle Therapie": "Certolizumab (Cimzia), Wiederbeginn 08/2020; Ibuprofen 600 mg dreimal täglich laut Dauermedikation.",
+      "Klinische Hauptmanifestation": "Nur noch leichte Beschwerden in den Costovertebralgelenken; klinisch kein Druckschmerz und keine Schwellungen.",
+      "Axiale Beschwerden / ISG": "Nur noch leichte Beschwerden in den Costovertebralgelenken, durch Krankengymnastik und Massage gelindert. Aktuelle tiefsitzende Rücken- oder ISG-Beschwerden nicht ausdrücklich beschrieben.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Unter Cimzia sehr gutes Befinden und ausdrücklich gutes Therapieansprechen, im Alltag wieder aktiver; zufriedenstellende Erkrankungskontrolle bei leichten costovertebralen Restbeschwerden.",
+      "Ansprechen (Ja/Nein)": "Ja",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "der sich am 12.11.2020 ambulant vorstellte."
+          }
+        ],
+        "BASDAI": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "VAS Arzt 0; HAQ 0; BAS-G 1,5; BASFI 0,4, BASDAI 0,825"
+          }
+        ],
+        "HAQ": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "VAS Arzt 0; HAQ 0; BAS-G 1,5; BASFI 0,4, BASDAI 0,825"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "BKS: 1/4 mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "aktuelle Therapie: Certolizumab, Wiederbeginn 08/2020"
+          },
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "VK bei axialer SpA, aktuell unter Cimzia."
+          },
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Ibuprofen 600 mg 3x tägl."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Es bestünden nur noch leichte Beschwerden in den Costovertebralgelenken."
+          },
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Gelenke: kein DS, keine Schwellungen, BASMI 0"
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Es bestünden nur noch leichte Beschwerden in den Costovertebralgelenken. Hier würde KG und Massage gut helfen."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "VK bei axialer SpA, aktuell unter Cimzia. Herr Schade berichtet über ein sehr gutes Befinden und gute Therapieansprache. Er sei im Alltag wieder aktiver."
+          },
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde ergab sich eine zufriedenstellende Erkrankungskontrolle."
+          },
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Es bestünden nur noch leichte Beschwerden in den Costovertebralgelenken."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "5_FollowUp.docx",
+            "Zitat": "Herr Schade berichtet über ein sehr gutes Befinden und gute Therapieansprache."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum nicht angegeben; BSG gemäß Studienkonvention aus BKS 1/4 als erster Wert übernommen.",
+        "Aktuelle Certolizumab-Dosis nicht eindeutig dokumentiert; 400 mg alle zwei Wochen steht ausschließlich unter vorherigen Therapien.",
+        "Die fehlende ausdrückliche Beschreibung aktueller Rücken- oder ISG-Beschwerden ist keine dokumentierte Beschwerdefreiheit."
+      ]
+    }
+  ]
+}

@@ -1,104 +1,105 @@
-# FAPI PET Patient Database Processing
+# FAPI PET – gemeinsame Arztbrief-Auswertung
 
-Autor: **Robin Gutsche**  
-Institution: Nuklearmedizin, FAU Erlangen-Nürnberg
+Die Dateien aus diesem Ordner in den bestehenden Projektordner `fapi_pet` kopieren.
+Die vorhandenen Ordner `data` und `output` bleiben dort. Anschließend in PyCharm
+`codex_master.py` starten. Die bisherigen drei `codex_test`-Skripte werden für
+diesen Ablauf nicht mehr benötigt und können als alte Versionen aufbewahrt werden.
 
-## Zweck
-
-Das Projekt liest die Excel-Datei `Patientenliste_raw.xlsx` ein und erstellt eine
-formatierte Excel-Ausgabe mit getrennten Tabellen für:
-
-- Rheumatoide Arthritis (`RA`)
-- Psoriasis-Arthritis (`PsA`)
-- axiale Spondyloarthritis (`axSpA`)
-- periphere Spondyloarthritis (`pSpA`)
-
-Zusätzlich werden Follow-up-Untersuchungen erkannt. Da in der ursprünglichen
-Patientenliste sowohl Datumswerte als auch Freitextnotizen in den Follow-up-Spalten
-stehen können, unterscheidet das Skript zwischen:
-
-- sicherem Follow-up mit Datum,
-- Notiz zu einem Follow-up,
-- unklarem Follow-up-Hinweis mit fehlendem Datum.
-
-Unklare Fälle werden nicht automatisch als sicherer zusätzlicher Scan gewertet,
-sondern zur manuellen Prüfung markiert.
-
-## Projektstruktur
-
-```text
-FAPI_DataProcessing/
-├── main.py
-├── config.py
-├── indication_mapping.py
-├── followup_detection.py
-├── processing.py
-├── excel_output.py
-├── requirements.txt
-├── Patientenliste_raw.xlsx
-└── output/
-```
-
-## Installation in PyCharm
-
-1. Den Projektordner in PyCharm öffnen.
-2. Die Datei `Patientenliste_raw.xlsx` in den Projektordner kopieren.
-3. In PyCharm unten das Terminal öffnen.
-4. Abhängigkeiten installieren:
+Einmalig im PyCharm-Terminal:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-5. `data_set_up/main.py` ausführen.
+Der bereits verwendete Codex-CLI muss installiert und angemeldet sein.
 
-## Ausgabe
+## Einstellungen
 
-Die Ergebnisdatei wird hier erstellt:
-
-```text
-output/Patientenauswahl_FAPI.xlsx
-```
-
-Sie enthält unter anderem:
-
-- `PsA_Alle`
-- `PsA_Followups`
-- `PsA_Followup_Long`
-- `PsA_Pruefung`
-- entsprechende Tabellen für `SpA` und `axSpA`
-- `Nicht_zugeordnet`
-- `Indikationen_Uebersicht`
-
-## Neue Indikationsbezeichnungen ergänzen
-
-Noch nicht erkannte Schreibweisen erscheinen in:
-
-```text
-Indikationen_Uebersicht
-```
-
-Die Regeln werden in `data_set_up/indication_mapping.py` ergänzt.
-
-Beispiel:
+Oben in `codex_master.py` stehen die Einstellungen:
 
 ```python
-EXACT_MAPPING = {
-    "neue schreibweise": "PsA",
-}
+INDIKATIONEN = ["SpA", "RA", "PsA"]  # Alle drei nacheinander
+# INDIKATIONEN = ["PsA"]           # Alternativ nur PsA
+FOLLOW_UP_NUMMER = 1                # Bei mehreren FU-Scans den ersten nehmen
+NEU_AUSWERTEN = False               # Unveränderte fertige Ergebnisse wiederverwenden
 ```
 
-oder als Regex-Regel in `PATTERN_RULES`.
+Die aktuelle Patientenliste enthält 16 SpA-, 15 RA- und 17 PsA-Patienten.
+Pro Patient entstehen genau zwei Zeilen: Baseline und Follow-up. Das Skript
+filtert anhand der Studiengruppe; die Patientenzahlen sind nicht fest codiert.
 
-## Wichtiger methodischer Hinweis
+## Eingaben und Ausgabe
 
-Die automatische Follow-up-Erkennung basiert auf der vorhandenen Tabellenstruktur.
-Bei Freitext ohne eindeutig zugehöriges Datum ist nicht sicher entscheidbar, ob es
-sich um einen eigenen Scan oder lediglich um eine Notiz handelt. Diese Fälle werden
-deshalb unter `Manuelle Follow-up-Prüfung` markiert.
+- Patientenliste: `data/patients_fapi_pet.xlsx`, Blatt `Baseline + Follow-up`.
+- Arztbriefe: `data/Arztbriefe_Anonymisiert`, einschließlich Unterordnern.
+- Dateinamen: zum Beispiel `17_Baseline.docx` und `17_FollowUp.docx`.
+  Auch zusätzliche Briefe wie `20_Baseline_2.docx` und Dateikopien mit `(1)`
+  werden erkannt; bytegleiche Kopien werden pro Phase nur einmal gelesen.
+- Excel: `output/SpA/SpA_Auswertung.xlsx`, entsprechend für RA und PsA.
+- JSON mit Originalbelegen: `output/<Indikation>/json/<Patient>_<Indikation>.json`.
+- Ungeprüfte Modellantworten: daneben als `<Patient>_<Indikation>_roh.txt`.
 
-## Weitergabe
+Die Excel wird nach jedem Patienten gespeichert. Die Spaltennamen, Reihenfolge,
+Gruppen, Filter und Formeln werden aus dem Schema erzeugt. Eine separate
+Excel-Vorlage wird dazu nicht benötigt. Die Ergebnisdatei der jeweiligen
+Indikation wird beim Lauf aktualisiert; vorhandene JSON-Dateien bleiben bis zu
+einem erfolgreichen neuen Ergebnis erhalten.
 
-Der gesamte Projektordner kann weitergegeben werden. Auf einem anderen Rechner muss
-nur Python mit den Paketen aus `requirements.txt` installiert sein. Absolute Pfade
-werden nicht verwendet.
+## Prompts und Spalten ändern
+
+- `prompts/allgemein.txt`: gemeinsame Regeln zu Daten, Labor, Therapie,
+  Ansprechen und Originalbelegen.
+- `prompts/SpA.txt`, `RA.txt`, `PsA.txt`: krankheitsspezifische klinische Regeln.
+- `schemata/SpA.json`, `RA.json`, `PsA.json`: krankheitsspezifische Scorefelder,
+  klinische Spalten und erlaubte Auswahlwerte.
+
+Die gemeinsame Verarbeitung steht ausschließlich in `codex_master.py`.
+Feldnamen im jeweiligen Prompt müssen mit den Namen im Schema übereinstimmen.
+Die konkrete JSON-Ausgabestruktur und Feldtypen fügt das Master-Skript selbst an.
+Ein neues klinisches Textfeld wird in `klinische_spalten` ergänzt und im
+krankheitsspezifischen Prompt beschrieben. Der Excel-Export passt sich an.
+
+Bei geänderten Prompts, Schemata, Brieftexten oder Scan-Daten wird der betreffende
+Patient automatisch neu ausgewertet. Ein unveränderter Lauf verwendet fertige
+Ergebnisse wieder. Alte Ergebnisse aus den drei Einzel-Skripten werden wegen der
+neuen Promptstruktur einmal neu angefordert. Bei einem Codex-Verbindungs- oder
+Anmeldefehler stoppt der gesamte Lauf, einschließlich weiterer Indikationen.
+Nach Behebung des Fehlers `codex_master.py` erneut starten.
+
+## PsA-Symptomatik
+
+PsA erhält getrennte Spalten für:
+
+1. Klinische Hauptmanifestation.
+2. Periphere Gelenkbeschwerden einschließlich Untersuchungsbefund und weiterer Gelenke.
+3. Axiale Beschwerden / ISG.
+4. Enthesitis mit Lokalisation und Seite.
+5. Daktylitis mit betroffenem Finger bzw. betroffener Zehe.
+6. Hautbeteiligung.
+7. Nagelbeteiligung.
+
+Verlauf, Ansprechen und Hinweise folgen anschließend. Nicht erwähnte Symptome
+bleiben leer. Ausdrücklich verneinte Symptome werden als Text erhalten. Die
+PsA-Scorefelder sind DAPSA, cDAPSA, TJC, SJC, LEI, PASI und HAQ; Werte werden nur
+übernommen, wenn sie im Brief dokumentiert sind.
+
+## Vereinbarte Regeln
+
+- Ein abweichendes Labor- oder Untersuchungsdatum allein führt nicht zum
+  Ausschluss eines dokumentierten Werts aus der passenden Briefgruppe.
+- Das klinische Datum ist ein Referenztermin. Abweichende Einzeldaten und
+  Unsicherheiten stehen in der sichtbaren Excel-Spalte `Hinweise` und im JSON.
+- `Ansprechen (Ja/Nein)`: Im Follow-up zählen dokumentierte klinische Besserung,
+  Teilbesserung oder ausdrücklich gute/ausreichende klinische Kontrolle unter
+  Therapie als `Ja`. Ein ausdrücklicher Baseline-Vergleich ist nicht erforderlich.
+  Eindeutig fehlender Nutzen zählt als `Nein`; unklare Fälle bleiben leer.
+  Baseline bleibt in dieser Spalte leer. Bei PsA zählt das muskuloskelettale
+  Ansprechen; eine reine Hautbesserung reicht nicht aus.
+- Keine Ansprechen-Klassifikation allein aus Labor oder PET/MRT, keine
+  selbst berechneten Scores. Jedes ausgefüllte Extraktionsfeld benötigt Belege.
+- BSG: ein Feld, nach der vereinbarten Studienkonvention in mm nach einer Stunde;
+  bei zwei Werten wie `11/22` wird der erste übernommen.
+
+Technisch mit simulierten Codex-Antworten geprüft. Die echte Extraktionsqualität
+wird durch Sichtprüfung der Arztbriefe und der gespeicherten Originalbelege
+beurteilt; sie wurde durch die technischen Tests nicht nachgewiesen.

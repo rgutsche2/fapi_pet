@@ -1,0 +1,265 @@
+{
+  "Patient": {
+    "Patient": 37,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2020-11-02",
+      "Follow-up": "2021-05-21"
+    }
+  },
+  "fingerprint": "bb6ea7a037a938ca5afaf05a5d0b7568a434f5105b7d59bd427b856d8fdb4ff4",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-11-02",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 9.1,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Prednisolon 10 mg zur Überbrückung.",
+        "Klinische Hauptmanifestation": "Klinisch aktive PsA mit dauerhaften Arthralgien, Gelenkschwellungen, Arthritis, Enthesitis und Daktylitis.",
+        "Periphere Gelenkbeschwerden": "Dauerhafte Arthralgien; Gelenkschwellungen an multiplen Stellen berichtet, ohne klinische Einzelgelenkzuordnung.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": "Klinisch dokumentierte Enthesitis ohne eindeutige klinische Lokalisation.",
+        "Daktylitis": "Klinisch dokumentierte Daktylitis ohne Seiten- oder Strahlangabe.",
+        "Hautbeteiligung": null,
+        "Nagelbeteiligung": null,
+        "Verlauf": "Frühere Basistherapeutika wegen Unverträglichkeit abgesetzt; aktuell Überbrückung mit Prednisolon bei aktiver PsA. Beginn mit Secukinumab 300 mg alle 4 Wochen für den 13.11.2020 geplant.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "die sich am 02.11.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 9,1 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 9,1 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 9,1 mg/l (-<5 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Prednisolon 10 mg"
+            },
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "aktuell würde die Behandlung vor allem durch Prednisolon überbrückt."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Es bestünden dauerhafte Arthralgien, Gelenksschwellungen wären ebenfalls an multiplen Stellen aufgetreten."
+            },
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "aktive PsA sowohl klinisch aus auch radiologisch (Arthrosonographie und PET-Untersuchung) mit Arthritis, Enthesitis und Daktylitis."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Es bestünden dauerhafte Arthralgien, Gelenksschwellungen wären ebenfalls an multiplen Stellen aufgetreten."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "aktive PsA sowohl klinisch aus auch radiologisch (Arthrosonographie und PET-Untersuchung) mit Arthritis, Enthesitis und Daktylitis."
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "aktive PsA sowohl klinisch aus auch radiologisch (Arthrosonographie und PET-Untersuchung) mit Arthritis, Enthesitis und Daktylitis."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Aktuell würde keine systemische Immunsuppression eingenommen werden, verschiedene Basistherapeutika waren wegen Unverträglichkeit in der Vergangenheit abgesetzt worden, aktuell würde die Behandlung vor allem durch Prednisolon überbrückt."
+            },
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "aktive PsA sowohl klinisch aus auch radiologisch (Arthrosonographie und PET-Untersuchung) mit Arthritis, Enthesitis und Daktylitis."
+            },
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Kommende Woche 13.11.2020 ist der Beginn mit Secukinumab geplant."
+            },
+            {
+              "Datei": "37_Baseline.docx",
+              "Zitat": "Dies wird mit  300mg (2 Spritzen a 150mg) alle 4 Wochen im Rahmen der Studie über 6 Monate eingenommen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP: Labordatum nicht angegeben.",
+          "Secukinumab am Referenztermin nur geplant, daher nicht als laufende Therapie erfasst."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2021-05-07",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 1.5,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Secukinumab 300 mg alle 4 Wochen seit 11/2020; aktuell prednisolonfrei.",
+        "Klinische Hauptmanifestation": "Weiterhin starke Rückenschmerzen einschließlich beider ISG, vor allem in Ruhe. Periphere Gelenkschmerzen und Schwellungen unter Secukinumab gebessert.",
+        "Periphere Gelenkbeschwerden": "Schwellungen und Schmerzen der peripheren Gelenke gebessert; keine klinische Einzelgelenkzuordnung dokumentiert.",
+        "Axiale Beschwerden / ISG": "Weiterhin starke Rückenschmerzen und Beschwerden beider ISG, vor allem in Ruhe.",
+        "Enthesitis": "Periphere Enthesitis unter Secukinumab deutlich gebessert; klinische Lokalisation nicht angegeben.",
+        "Daktylitis": "Daktylitis unter Secukinumab deutlich gebessert; Seite und betroffene Strahlen nicht angegeben.",
+        "Hautbeteiligung": "Hautbeteiligung unter Secukinumab deutlich gebessert.",
+        "Nagelbeteiligung": "Nagelbeteiligung unter Secukinumab deutlich gebessert; Art und Lokalisation nicht angegeben.",
+        "Verlauf": "Deutliche Besserung des peripheren Befalls einschließlich Arthritis, Daktylitis und Enthesitis sowie der Haut- und Nagelbeteiligung unter Secukinumab; prednisolonfrei. Starke Rücken- und ISG-Beschwerden bestehen fort. Unveränderte Fortführung empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "die sich am 07.05.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Laborwerte vom 07.05.2021:"
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,5 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,5 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,5 mg/l (-<5 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab 300mg alle 4 Wochen seit 11/2020 initial im Rahmen einer Studie"
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Ebenfalls ist Frau Streit seit der Behandlung Prednisolonfrei."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Jedoch weiterhin starke Rückenschmerzen auch im Bereich des ISG Gelenks bds vor allem in Ruhe."
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Insbesondere die Haut als auch die Schwellungen und Schmerzen der peripheren Gelenke sei gebessert."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Insbesondere die Haut als auch die Schwellungen und Schmerzen der peripheren Gelenke sei gebessert."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Jedoch weiterhin starke Rückenschmerzen auch im Bereich des ISG Gelenks bds vor allem in Ruhe."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            }
+          ],
+          "Nagelbeteiligung": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Ebenfalls ist Frau Streit seit der Behandlung Prednisolonfrei."
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Jedoch weiterhin starke Rückenschmerzen auch im Bereich des ISG Gelenks bds vor allem in Ruhe."
+            },
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Wir empfehlen die Therapie zunächst unverändert mit 300mg Secukinumab alle 4 Wochen fortzuführen."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "37_FollowUp.docx",
+              "Zitat": "Zusammengefasst ist die Erkrankung unter Secukinumab insbesondere der periphere Befall (Daktylitis/Arthritis/Enthesitis sowie Nagelbeteiligung) und auch die Hautbeteiligung deutlich gebessert."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP vom 07.05.2021 wegen eindeutiger Zuordnung zum klinischen Referenztermin bevorzugt; der scannähere Wert vom 21.05.2021 beträgt 3,9 mg/l.",
+          "Prednisolon 10 mg steht weiterhin in der Diagnoseliste; die aktuelle Beurteilung dokumentiert ausdrücklich Prednisolonfreiheit."
+        ]
+      }
+    ]
+  }
+}

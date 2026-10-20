@@ -1,0 +1,260 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2020-10-05",
+      "DAS28": null,
+      "DAS28-Variante": null,
+      "TJC": null,
+      "SJC": null,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.2,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Methotrexat 20 mg s. c. einmal wöchentlich, Folsäure 5 mg am Folgetag; Sulfasalazin laut Anamnese, Dosis nicht angegeben; Diclofenac bei Bedarf.",
+      "Klinische Hauptmanifestation": "Ganzkörperschmerzen mit eingeschränkter Beweglichkeit, zunehmend schmerzhaftem Liegen im Bett und ausgeprägter Fatigue. Persistierende Beschwerden am rechten Ellenbogen und an der linken Plantarfaszie.",
+      "Gelenkbefund": "Schmerzen an PIP III beidseits, MCP I/II rechts und am linken Handgelenk; enthesialer Druckschmerz am rechten Ellenbogen und an der linken Plantarfaszie.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Unter MTX und Sulfasalazin weiterhin klinisch aktiv mit persistierenden Schmerzen und zunehmender funktioneller Beeinträchtigung. Erweiterung um Adalimumab 40 mg alle zwei Wochen empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "wir berichten über unsere gemeinsame Patientin, 29, die sich am 05.10.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Methotrexat 20 mg einmal wöchentlich s. c."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Folsäure 5 mg am Folgetag"
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Wiedervorstellung bei bek. rheumatoider Arthritis, DD Spondylarthropathie, aktuell unter MTX und Sulfasalazin."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Diclofenac b.B."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Pat. klagt über Ganzkörperschmerzen, Beschwerden bei der Beweglichkeit und würde zunehmend schmerzhaft im Bett liegen, ausgeprägte Fatigue."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Hierunter persistierender Druckschmerz an verschiedenen Enthesen im Bereich des re. Ellenbogens, aber auch im Bereich der Plantarfaszie links."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Gelenke: PIP 3 bds., MCP 1 und 2 re. schmerzhaft, Handgelenk li. schmerzhaft, enthesialer Druckschmerz Ellenbogen re. und Plantarfaszie li."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Wiedervorstellung bei bek. rheumatoider Arthritis, DD Spondylarthropathie, aktuell unter MTX und Sulfasalazin."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Pat. klagt über Ganzkörperschmerzen, Beschwerden bei der Beweglichkeit und würde zunehmend schmerzhaft im Bett liegen, ausgeprägte Fatigue."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Aktuell weiterhin klinisch aktiv, die sich auch bildmorphologisch in der erweiterten Bildgebung mittels FAPI-PET/CT bestätigte."
+          },
+          {
+            "Datei": "29_Baseline.docx",
+            "Zitat": "Wir empfehlen eine Erweiterung der immunsuppressiven Therapie auf eine Biologika-Therapie mit Anti-TNF Adalimumab 40 mg alle 2 Wochen unter Kontrollen nach Maßgabe der DGRh."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum nicht angegeben.",
+        "Sulfasalazin wird nur in der aktuellen Anamnese genannt; Dosis fehlt in der Dauermedikation.",
+        "Der Diagnoseeintrag „aktuelle Therapie: MTX + Erweiterung mit Adalimumab 11/20“ liegt nach dem Referenzbesuch; Adalimumab war damals nur empfohlen."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2021-04-19",
+      "DAS28": 3.27,
+      "DAS28-Variante": "CRP",
+      "TJC": null,
+      "SJC": null,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 5.1,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 22,
+      "Aktuelle Therapie": "Methotrexat 20 mg s. c. einmal wöchentlich und Adalimumab seit Januar 2021, laut Fortführungsempfehlung 40 mg alle 14 Tage; Folsäure 5 mg am Folgetag und Diclofenac bei Bedarf.",
+      "Klinische Hauptmanifestation": "Unveränderte Schmerzen am linken Fuß und an beiden Händen in Ruhe und bei Bewegung, ohne Linderung durch Bewegung. Schwellungen am linken oberen Sprunggelenk und an kleinen Gelenken der rechten Hand; Morgensteifigkeit unter 30 Minuten.",
+      "Gelenkbefund": "Druckschmerz und Schwellung am linken oberen Sprunggelenk; Schwellungen an PIP-Gelenken der rechten Hand, im Original „3-4 PIP“.",
+      "Weitere Gelenke": null,
+      "Verlauf": "Unter MTX und seit etwa drei Monaten Adalimumab unveränderte Schmerzen und persistierende klinische Krankheitsaktivität; ein klinischer Nutzen ist nicht eindeutig beurteilt. Fortführung von Adalimumab und ergänzender Prednisolonstoß empfohlen; weitere Abklärung der Beschwerden am linken Fuß und oberen Sprunggelenk vorgesehen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "wir berichten über unsere gemeinsame Patientin, 29, die sich am 19.04.2021 ambulant vorstellte."
+          }
+        ],
+        "DAS28": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "DAS28-CRP 3.27"
+          }
+        ],
+        "DAS28-Variante": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "DAS28-CRP 3.27"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "BSG: 22 mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Methotrexat 20 mg einmal wöchentlich s. c."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Adalimumab seit 01/21"
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Adalimumab 40 mg 1x alle 14 Tage, unter hausärztlichen Kontrollen nach Maßgabe der DGRh"
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Folsäure 5 mg am Folgetag"
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Diclofenac b.B."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Aktuell unveränderte Schmerzen am li. Fuß und an den Händen beidseits."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Die Pat. berichtet über Schmerzen, die sowohl in Ruhe als auch bei Bewegung vorhanden seien."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Sie berichtet über keine Linderung der Beschwerden bei Bewegung."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Dazu Schwellungen am OSG li. und an den kleinen Gelenke der re. Hand."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Sie berichtet über eine Morgensteifigkeit von weniger als 30 Minuten."
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Gelenke: DS am OSG li., Schwellungen OSG li. und 3-4 PIP Hand re."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Aktuell unveränderte Schmerzen am li. Fuß und an den Händen beidseits."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Aktuell anamnestisch und klinisch sehen wir eine persistierende Krankheitsaktivität."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Insgesamt hat die Pat. die Therapie mit Adalimumab erst vor 3 Monaten begonnen."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Um eine deutliche Wirkung des Medikaments zu beurteilen, ist ein Zeitfenster von 3-6 Monaten notwendig."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Wir empfehlen daher die unveränderte Fortführung der Adalimumab-Therapie bis zur nächsten WV und ergänzen die aktuelle Therapie mit einer Steroidstoß-Therapie wie unten beschrieben."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Hier empfehlen wir weitere Bildgebungen durch CT (Dual-Energy-CT) und MRT des li. OSG und Fuß, um die Genese der Symptomatik besser zu beurteilen."
+          },
+          {
+            "Datei": "29_FollowUp.docx",
+            "Zitat": "Prednisolon 10 mg 1x täglich für 10 Tage, danach Reduktion um 2,5 mg pro Woche bis zum Absetzen"
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BSG nicht angegeben.",
+        "„3-4 PIP Hand re.“ lässt offen, ob die Gelenke III/IV oder eine Anzahl gemeint sind; kein standardisierter SJC dokumentiert.",
+        "Folsäure laut Dauermedikation 5 mg, in der Therapieempfehlung 10 mg am Folgetag nach MTX.",
+        "Prednisolonstoß neu empfohlen; vorherige Einnahme nicht belegt.",
+        "Ansprechen nicht eindeutig beurteilbar: persistierende Beschwerden, jedoch keine ausdrückliche Feststellung fehlenden klinischen Ansprechens; Wirkung soll weiter abgewartet werden."
+      ]
+    }
+  ]
+}

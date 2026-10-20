@@ -1,0 +1,312 @@
+{
+  "Patient": {
+    "Patient": 42,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2020-03-16",
+      "Follow-up": "2020-09-21"
+    }
+  },
+  "fingerprint": "02dc8340f9c29f605179ad8fad4605f905b2e5852e2c51516997469f696287d5",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-03-25",
+        "DAPSA": 24,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": 1.2,
+        "HAQ": 0.375,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 1,
+        "Aktuelle Therapie": "Bei Vorstellung Etanercept seit 09/2019, MTX 25 mg s.c., Folsäure 5 mg, Prednisolon 5 mg und Diclofenac bei Bedarf. Im Rahmen der Vorstellung Etanercept abgesetzt und Tofacitinib 5 mg zweimal täglich begonnen.",
+        "Klinische Hauptmanifestation": "Aktive periphere Gelenkbeschwerden mit persistierenden Schmerzen an Händen, Knien und Füßen sowie Schwellungen an Händen und Füßen.",
+        "Periphere Gelenkbeschwerden": "Bewegungsunabhängige Schmerzen an Händen, Knien und Füßen; Morgensteifigkeit etwa eine Stunde. Druckschmerz beider Handgelenke, PIP 2 rechts, PIP 2, 3 und 5 links, MCP 3 links sowie MTT 3 und 4 rechts und MTT 3 links. Schwellungen der PIP 2 und 3 links sowie des linken Handgelenks.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": "Anamnestisch verneint.",
+        "Daktylitis": "Anamnestisch verneint.",
+        "Hautbeteiligung": "Aktive Psoriasis an Kopfhaut und beiden Gehörgängen.",
+        "Nagelbeteiligung": "Keine Nagelpsoriasis.",
+        "Verlauf": "Persistierende Beschwerden und erhöhte Krankheitsaktivität unter Etanercept; Umstellung auf Tofacitinib eingeleitet.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "der sich am 25.03.2020 ambulant vorstellte."
+            }
+          ],
+          "DAPSA": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "DAPSA:24"
+            }
+          ],
+          "PASI": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "PASI 1.2"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "HAQ: 0.375"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)."
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)."
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)."
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "BKS 1/2"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "WV bei bek. Psoriasisarthritis seit 09/2019 unter Etanercept."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "MTX 25 mg s.c."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Folsäure 5 mg"
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Prednisolon 5 mg"
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Diclofenac bei Bedarf."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Etanercept abgesetzt."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Tofacitinib begonnen 5 mg 1-0-1 unter regelmäßigen klinischen und serologischen Kontrollen nach Maßgabe der DGRh"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Aktuell berichtet er über einen schlechten Zustand, aufgrund persistierender Schmerzen am Hände, Knie und Füße, begleiteten von Schwellungen am Hände und Füßen."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Aktuell berichtet er über einen schlechten Zustand, aufgrund persistierender Schmerzen am Hände, Knie und Füße, begleiteten von Schwellungen am Hände und Füßen."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Die Schmerzen seien von Bewegung nicht abhängig. MS sei ca. 1 Stunde."
+            },
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Gelenkstatus: DS Handgelenke bds., 2 PIP re. 2-3-5 PIP li., 3 MCP li. 3-4 MTT re. 3 MTT li. Schwellungen 2-3 PIP li. und Handgelenk li."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Er verneint Uveitis, Enthesitis oder Daktylitis."
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Er verneint Uveitis, Enthesitis oder Daktylitis."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Psoriasis sei aktuell im Kopfhaut und Ohr Gang bds. aktiv."
+            }
+          ],
+          "Nagelbeteiligung": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Keine Nägelpsoriasis"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "42_Baseline.docx",
+              "Zitat": "Die Klinik und die radiologische Befunde sprechen aktuell für eine erhöhte Aktivität der Grunderkrankung unter Etanercept. Aus diesem Grund wurde eine Therapieumstellung von Etanercept auf Tofacitinib eingeleitet."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben.",
+          "BKS 1/2: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
+          "MASES 0, nicht als LEI übernommen. Originalbeleg: 42_Baseline.docx: „MASES:0“.",
+          "Die Therapie bei Vorstellung und die unmittelbar eingeleitete Umstellung sind getrennt dargestellt. Prednisolon anschließend vorübergehend erhöht und ausgeschlichen: 42_Baseline.docx: „Prednisolon 10 mg für 2 Woche, dann wöchentliche schrittweise Reduktion der Dosis auf 2.5 mg, bis Stopp“."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-10-05",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Secukinumab 150 mg s.c.; zusätzlich MTX 25 mg s.c., Folsäure 5 mg, Prednisolon 5 mg und Diclofenac bei Bedarf.",
+        "Klinische Hauptmanifestation": "Persistierende periphere Gelenkschmerzen und Schwellungen unter Secukinumab; zusätzlich LWS-Beschwerden mit nächtlichem Erwachen.",
+        "Periphere Gelenkbeschwerden": "Persistierende Schmerzen beider Daumengrundgelenke und Handgelenke sowie Morgensteifigkeit ohne Dauerangabe; zusätzlich rechte Schulter betroffen. Druckschmerz beider Handgelenke, PIP 2 rechts, PIP 2, 3 und 5 links, MCP 3 links sowie MTT 3 und 4 rechts und MTT 3 links. Schwellungen der PIP 2 und 3 links sowie des linken Handgelenks.",
+        "Axiale Beschwerden / ISG": "LWS-Beschwerden mit nächtlichem Erwachen; klinisch persistierende axiale Aktivität beschrieben.",
+        "Enthesitis": null,
+        "Daktylitis": null,
+        "Hautbeteiligung": "Aktuell keine psoriasiformen Läsionen; minimale Rötung beider Ellenbogen.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Nach unzureichender Wirkung von Tofacitinib Umstellung auf Secukinumab. Darunter weiterhin periphere und axiale Beschwerden ohne ausdrücklich belegte klinische Besserung. Aktuell keine psoriasiformen Läsionen. Erhöhung von Secukinumab auf 300 mg monatlich empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "der sich am 05.10.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Die Wiedervorstellung erfolgte bei bekannter Psoriasisarthritis, nach zuletzt Therapieumstellung von Tofacitinib auf Secukinumab 150 mg s.c."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "MTX 25 mg s. c."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Folsäure 5 mg"
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Prednisolon 5 mg"
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Diclofenac bei Bedarf"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Hierunter berichtet der Pat. über eine persistierende Schmerzhaftigkeit beider Daumengrundgelenke, Handgelenke, eine persistierende Morgensteifigkeit, aktuell Beschwerden auch in der re. Schulter und im Bereich der LWS mit nächtl. Erwachen."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Schwellungen 2-3 PIP links und Handgelenk links."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Hierunter berichtet der Pat. über eine persistierende Schmerzhaftigkeit beider Daumengrundgelenke, Handgelenke, eine persistierende Morgensteifigkeit, aktuell Beschwerden auch in der re. Schulter und im Bereich der LWS mit nächtl. Erwachen."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Gelenke: Druckschmerz Handgelenke beidseits, 2 PIP rechts, 2,3,5 PIP links, 3 MCP links, 3-4 MTT rechts, 3 MTT links. Schwellungen 2-3 PIP links und Handgelenk links."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Hierunter berichtet der Pat. über eine persistierende Schmerzhaftigkeit beider Daumengrundgelenke, Handgelenke, eine persistierende Morgensteifigkeit, aktuell Beschwerden auch in der re. Schulter und im Bereich der LWS mit nächtl. Erwachen."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Wir vereinbarten mit dem Pat. aufgrund der persistierenden, entzündl. Aktivität im Bereich mehrerer peripherer Gelenke und auch einer persistierenden axialen Aktivität eine Gelenksbiopsie zur langfristigen Therapieplanung."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Haut: Aktuell keine psoriasiformen Läsionen, minimale Rötung im Bereich beider Ellenbogen"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Tofacitinib 04-06/2020, ohne ausreichende Wirkung"
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Die Wiedervorstellung erfolgte bei bekannter Psoriasisarthritis, nach zuletzt Therapieumstellung von Tofacitinib auf Secukinumab 150 mg s.c."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Wir vereinbarten mit dem Pat. aufgrund der persistierenden, entzündl. Aktivität im Bereich mehrerer peripherer Gelenke und auch einer persistierenden axialen Aktivität eine Gelenksbiopsie zur langfristigen Therapieplanung."
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Haut: Aktuell keine psoriasiformen Läsionen, minimale Rötung im Bereich beider Ellenbogen"
+            },
+            {
+              "Datei": "42_FollowUp.docx",
+              "Zitat": "Bei bildmorphologisch rückläufigen entzündlichen Läsionen aber trotzdem anhaltender geringer entzündlicher Aktivität empfehlen wir eine Dosiserhöhung des Secukinumab auf 300mg pro Monat unter Kontrollen nach Maßgabe der DGRh."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "Ansprechen unter Secukinumab nicht eindeutig beurteilbar: persistierende Beschwerden allein belegen kein Nein; die bildgebende Befundbesserung belegt kein klinisches Ansprechen.",
+          "Secukinumab 150 mg s.c. ist in der aktuellen Anamnese belegt; die Erhöhung auf 300 mg monatlich wird im Verlauf empfohlen und ist für den Untersuchungstag nicht als bereits umgesetzt gesichert."
+        ]
+      }
+    ]
+  }
+}

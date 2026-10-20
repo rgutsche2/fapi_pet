@@ -1,0 +1,274 @@
+{
+  "Patient": {
+    "Patient": 47,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2018-12-03",
+      "Follow-up": "2020-10-09"
+    }
+  },
+  "fingerprint": "ec0880044a324a9fae8944eaa28b77865c4761c0c2ae22f66fffdab773025faa",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2018-11-26",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": 0,
+        "SJC": 0,
+        "LEI": null,
+        "PASI": 5.1,
+        "HAQ": null,
+        "CRP-Wert": 9.0,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Diclofenac 50 mg 1-0-1 und topische Therapie; Secukinumab wegen unzureichender Wirkung pausiert.",
+        "Klinische Hauptmanifestation": "Anamnestisch rezidivierende Gelenkschwellungen einschließlich DIP-Gelenken sowie Beschwerden an Sehnen und Sehnenansätzen. Aktuell keine druckschmerzhaften oder geschwollenen Gelenke im dokumentierten Gelenkstatus.",
+        "Axiale Beschwerden / ISG": "Wirbelsäule frei beweglich; Finger-Boden-Abstand 0 cm. Axiale Schmerzen nicht beschrieben.",
+        "Weitere Manifestationen": "Enthesen: leichter Druckschmerz beidseits costochondral an der 1. und 7. Rippe, an den Spinae iliacae anteriores superiores beidseits und an der linken Achillessehne. Daktylitis: keine. Haut: Plaques an beiden Ellenbogen, beiden Leisten und am gesamten Capillitium, 10 % Körperoberfläche. Nägel: kein Befall.",
+        "Verlauf": "Rezidivierende Gelenkschwellungen und Sehnenansatzbeschwerden bei unzureichender Wirkung mehrerer NSAR und von Secukinumab; aktuell entheseale Druckschmerzen bei TJC und SJC jeweils 0. Einleitung von Tofacitinib 5 mg zweimal täglich empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "wir berichten über unsere gemeinsame Patientin, 47, die sich am 26.11.2018 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "PASI": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "10% der Körperoberfläche; PASI 5,1"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Med.: Metformin 1000 1-0-1, Diclofenac 50mg 1-0-1, topische Therapie, Secukinumab aktuell pausiert bei unzureichender Wirkung"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Sie berichtet über rez. synovitische Gelenkschwellungen aber auch Tendinopathien und Enthesiopathien im Bereich der Achillessehne, aber auch im Bereich der Hüfte und Ellenbogen sowie kleinen Fingergelenken."
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Sie berichtet auch über Schwellungen der DIP-Gelenke rez."
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "Weitere Manifestationen": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "keine Daktylitis"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Haut: psoriasiforme Plaques an bd. Ellenbogen, im Bereich bd. Leisten, am gesamten Capillitium. 10% der Körperoberfläche; PASI 5,1"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Nägel: kein Befall"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Sie berichtet über rez. synovitische Gelenkschwellungen aber auch Tendinopathien und Enthesiopathien im Bereich der Achillessehne, aber auch im Bereich der Hüfte und Ellenbogen sowie kleinen Fingergelenken."
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "In der Vorgeschichte wurde bereits NSAR mehrere Präp. versucht ohne ausreichende Wirkung. Zuletzt erfolgte eine Therapie mit Secukinumab, ebenfalls ohne ausreichende Wirkung."
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Wir empfehlen daher eine Umstellung der immunsuppressiven Basistherapie auf Tofacitinib 5mg 1-0-1 unter regelm. Kontrollen nach Maßgabe der DGRh."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Zählbereich von TJC und SJC nicht angegeben.",
+          "MASES 7; Originalbeleg: „Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7“ (47_Baseline.docx).",
+          "Labor im Brief ohne eigenes Messdatum; genaue zeitliche Zuordnung zum Untersuchungstag nicht ausdrücklich dokumentiert."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-12-18",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 6.4,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Certolizumab 200 mg subkutan alle 14 Tage; bei gelegentlichen Hautplaques topische Therapie.",
+        "Klinische Hauptmanifestation": "Gelegentliche Handgelenkschmerzen mit dezentem radialem Druckschmerz beidseits; keine geschwollenen Gelenke. Fußschmerzen vollständig verschwunden. Keine Morgensteifigkeit.",
+        "Axiale Beschwerden / ISG": null,
+        "Weitere Manifestationen": "Haut: aktuell keine erythrosquamösen Plaques; gelegentlich noch psoriasiformer Plaque in der Rima ani, topisch gut kontrollierbar.",
+        "Verlauf": "Unter Certolizumab gute klinische Kontrolle: Fußschmerzen vollständig verschwunden, gelegentliche Handgelenkschmerzen und dezenter Druckschmerz bleiben. Keine Gelenkschwellungen; ärztlich aktuell kein klinischer Anhalt für Krankheitsaktivität. Haut deutlich gebessert, gelegentliche Plaques in der Rima ani topisch kontrollierbar.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "wir berichten über unsere gemeinsame Patientin, 47, die sich am 18.12.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Cimzia 200 mg alle 14 Tage s.c."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen. Die Schmerzen im Fuß seien vollständig verschwunden."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Keine Morgensteifigkeit."
+            }
+          ],
+          "Weitere Manifestationen": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Haut: aktuell keine erythrosquamösen Plaques."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen. Die Schmerzen im Fuß seien vollständig verschwunden."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Klinisch aktuell kein Anhalt für Aktivität der Grunderkrankung."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Keine psoriasistypischen Plaques mehr."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Die Schmerzen im Fuß seien vollständig verschwunden."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Widersprüchliche Anamnese: pauschal „Keine Gelenkschmerzen“, zugleich konkret gelegentliche Handgelenkschmerzen und beidseitiger Druckschmerz; konkrete Angaben haben Vorrang.",
+          "Ansprechen als muskuloskelettale Teilbesserung bei verschwundenen Fußschmerzen und dokumentierter guter Kontrolle unter Cimzia; keine vollständige Beschwerdefreiheit.",
+          "Enthesitis, fehlende Daktylitis und fehlender Nagelbefall stehen nur in der fortgeführten Diagnoseliste; aktueller Befund hierzu nicht eindeutig belegt.",
+          "Labor im Brief ohne eigenes Messdatum; genaue zeitliche Zuordnung zum Untersuchungstag nicht ausdrücklich dokumentiert."
+        ]
+      }
+    ]
+  }
+}

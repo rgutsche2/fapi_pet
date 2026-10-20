@@ -1,0 +1,213 @@
+{
+  "Patient": {
+    "Patient": 24,
+    "Erkrankung": "RA",
+    "Scans": {
+      "Baseline": "2023-04-17",
+      "Follow-up": "2023-07-07"
+    }
+  },
+  "fingerprint": "e12c5a30223875017b0267cc6ac7486c98534b927671f7d42e9808b46a079189",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2023-04-24",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": null,
+        "CRP-Vergleichszeichen": null,
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Bei Aufnahme Filgotinib und MTX bereits abgesetzt; während des Aufenthalts Einleitung von Blinatumomab über fünf Tage.",
+        "Klinische Hauptmanifestation": "Zunehmende Schmerzen und druckdolente Schwellungen beider Hand- und Fingergelenke, Schultern und Knie. Tägliche Morgensteifigkeit der Hände für 3–4 Stunden.",
+        "Gelenkbefund": "Druckdolenz und Schwellung beider Handgelenke, MCP II/III und Daumengrundgelenke beidseits, beider Schultern, Knie rechts stärker als links sowie beider OSG und Fußgelenke.",
+        "Weitere Gelenke": "Zusätzlich Schmerzen beider Fußgelenke und aller Zehen.",
+        "Verlauf": "Unter Filgotinib zunächst nur mäßiger Nutzen, seit Januar 2023 zunehmender Wirkverlust mit Schmerzen wie bei Erstdiagnose. Im Aufenthalt Beginn eines individuellen Heilversuchs mit Blinatumomab.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Körperlicher  Untersuchungsbefund vom 24.04.2023:"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 3,6 mg/l;  18,9 mg/l (<5 mg/l) [Min: 3,6 mg/l; Max: 67,2 mg/l]"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Filgotinib 100 mg 1-0-0 (vor 7d abgesetzt)"
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "MTX 7,5 mg 1x/Woche s.c. (vor 14d abgesetzt)"
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 5 Tage."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "AA: Die stationäre Vorstellung von Herrn Zipfel erfolgt wegen zunehmenden Gelenkschmerzen und druckdolenten Schwellungen im Rahmen seiner Rheumatoiden Arthritis."
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Schmerzen habe er vor allem in beiden Handgelenken, den MCP-DIP-Gelenken, in beiden Schultern und in beiden Kniegelenken."
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Die Morgensteifigkeit in den Händen würde jeden Tag ca. 3-4 Stunden anhalten."
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung: beide Handgelenke, MCP2/3 bds., Daumengrundgelenk bds., Schulter bds., Knie re>li, OSG bds., Fußgelenke beidseits"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Gelenkschmerzen beider Hände und Finger, beider Schultern, beider Knie, beider Fußgelenke und aller Zehen"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Die seit 10/22 laufende Therapie mit Filgotinib, habe ihm nur mäßig geholfen."
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Seit 01/23 würde die Wirkung des Medikaments zunehmend nachlassen und die Schmerzintensität sei auf dem Niveau wie bei Erstdiagnose."
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 5 Tage."
+            }
+          ]
+        },
+        "Hinweise": [
+          "CRP zeitlich nicht eindeutig auswählbar: erster Wert 3,6 mg/l, letzter Wert 18,9 mg/l, Minimum 3,6 mg/l, Maximum 67,2 mg/l; keine einzelnen Messtage angegeben. Originalbeleg: 24_Baseline.docx: „C-Reaktives Protein 3,6 mg/l;  18,9 mg/l (<5 mg/l) [Min: 3,6 mg/l; Max: 67,2 mg/l]“.",
+          "Der Beginn der Blinatumomabgabe ist innerhalb des Aufenthalts nicht einzeln datiert; am Referenztermin waren Filgotinib und MTX bereits abgesetzt."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2023-07-17",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": null,
+        "CRP-Vergleichszeichen": null,
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Blinatumomab im individuellen Heilversuch, dritter Zyklus über fünf Tage; Dosis nicht angegeben.",
+        "Klinische Hauptmanifestation": "Leicht gebesserte Gelenkschmerzen, NRS 4/10, weiterhin an beiden Hand- und Fingergelenken mit ausgeprägter Morgensteifigkeit der Finger für 3–4 Stunden.",
+        "Gelenkbefund": "Im Juli multiple geschwollene und druckdolente Gelenke, vor allem Hände und Finger. Der auf 09.05.2023 datierte Detailstatus nennt Schwellung und Druckdolenz beider Handgelenke, MCP III/IV links, MCP I/II/IV und PIP IV rechts sowie zusätzlich Druckdolenz beider Schultern.",
+        "Weitere Gelenke": "Weiterhin Schmerzen beider Schultern, des rechten Knies und beider Sprunggelenke; zusätzlich Myalgien im Arm- und Schulterbereich.",
+        "Verlauf": "Klinische Teilbesserung der Gelenkschmerzen unter der beurteilten Blinatumomabtherapie. Schmerzen, Schwellungen und ausgeprägte Morgensteifigkeit bestehen fort.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Arthrosonographie vom 17.07.23:"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 7,1 mg/l;  2,9 mg/l (<5 mg/l) [Min: 2,9 mg/l; Max: 7,1 mg/l]"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Die Aufnahme des Patienten erfolgte elektiv zum dritten Therapiezyklus von Blinatumomab im Rahmen eines individuellen Heilversuchs bei therapierefraktärer seronegativer rheumatoider Arthritis."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Anschließend initierten wir die Therapie mit Blinatumomab über 5 Tage."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken; ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich verschiedene geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Körperlicher  Untersuchungsbefund vom 09.05.2023:"
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Gelenkstatus: Schwellung: beide Handgelenke, III-IV MCP li., I, II MCP re., IV MCP und IV PIP re."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Druckdolenz: beide Handgelenke, III-IV MCP li., I, II MCP re., IV MCP und IV PIP re., Schulter bds."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken; ausgeprägte Morgensteifigkeit der Finger (3-4 h), Myalgien im Arm- und Schulterbereich"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich verschiedene geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Referenztermin 17.07.2023 durch die rheumatologische Arthrosonographie belegt. Der körperliche Detailstatus trägt ausdrücklich das Datum 09.05.2023; eine Übertragung dieses Detailstatus auf Juli ist nicht gesichert. Der Juli-Verlauf bestätigt unabhängig davon geschwollene und druckdolente Hand- und Fingergelenke.",
+          "Anamnese und klinische Besserungsangabe sind innerhalb des Juli-Briefes nicht einzeln datiert.",
+          "CRP zeitlich nicht eindeutig auswählbar: erster Wert 7,1 mg/l, letzter Wert 2,9 mg/l, Minimum 2,9 mg/l, Maximum 7,1 mg/l; keine einzelnen Messtage angegeben. Originalbeleg: 24_FollowUp.docx: „C-Reaktives Protein 7,1 mg/l;  2,9 mg/l (<5 mg/l) [Min: 2,9 mg/l; Max: 7,1 mg/l]“.",
+          "Blinatumomabgabe im Juli-Aufenthalt dokumentiert, genauer Beginn nicht angegeben. Die Ansprechenkategorie beruht auf der klinisch berichteten Teilbesserung, nicht auf der Bildgebung."
+        ]
+      }
+    ]
+  }
+}

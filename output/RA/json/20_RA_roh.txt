@@ -1,0 +1,256 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2023-09-04",
+      "DAS28": null,
+      "DAS28-Variante": null,
+      "TJC": null,
+      "SJC": 2,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": null,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Lodotra 2 mg täglich und Ibuprofen 600 mg zweimal täglich bei Aufnahme.",
+      "Klinische Hauptmanifestation": "Belastungsabhängige Schmerzen an Schultern, Handgelenken, Knien, Sprunggelenken und kleinen Zehen beidseits sowie am rechten Daumen; aktuell mild bis moderat. Morgensteifigkeit 1–2 Stunden, gelegentlich länger anhaltende Knie- und Sprunggelenkschwellungen.",
+      "Gelenkbefund": "Druckschmerz an Schultern und Handgelenken beidseits, rechtem Daumengrund- und Daumensattelgelenk sowie kleinen Zehen beidseits; zwei geschwollene Gelenke an den kleinen Zehen, links stärker als rechts.",
+      "Weitere Gelenke": "Zusätzlich Knie und Sprunggelenke beidseits mit Schmerzen und gelegentlichen Schwellungen.",
+      "Verlauf": "Bei Aufnahme mildere Schmerzen als in den letzten Wochen; Ibuprofen hilft geringfügig, Cortison sehr gut. Bei therapierefraktärer RA während des Aufenthalts Blinatumomab über 96 Stunden eingeleitet.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Körperlicher  Untersuchungsbefund vom 04.09.2023:"
+          }
+        ],
+        "SJC": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "2 geschwollene Gelenke: kleine Zehen li > re"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 0,5 mg/l;  1,5 mg/l (<5 mg/l) [Min: 0,5 mg/l; Max: 76,3 mg/l]"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 0,5 mg/l;  1,5 mg/l (<5 mg/l) [Min: 0,5 mg/l; Max: 76,3 mg/l]"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Lodotra 2 mg 0-0-0-1"
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Ibuprofen 600 mg 1-0-1"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Der Patient berichtete von Schmerzen in Schultern (bds. ausstrahlend Richtung Brustkorb), Handgelenken, Knien, Sprunggelenken und kleinen Zehen bds, sowie im rechten Daumen."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Die Schmerzen würden bei Belastung stärker werden, Ibuprofen helfe geringfügig, Cortison sehr gut."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Heute wären die Schmerzen mild bis moderat im Vergleich zu den letzten Wochen."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Gelegentlich habe er zudem 1-2 Wochen anhaltende Schwellungen in den Knien und Sprunggelenken."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "1-2 h Morgensteifigkeit"
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Gelenkstatus: Druckschmerz Schultern bds., Handgelenke bds., Daumegund- und -sattelgelenk re, kleine Zehen bds., 2 geschwollene Gelenke: kleine Zehen li > re"
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Gelenkschmerzen mit gelegentlicher Schwellung Knie bds., Fußgelenke bds., kleine Zehen bds."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Heute wären die Schmerzen mild bis moderat im Vergleich zu den letzten Wochen."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Die Schmerzen würden bei Belastung stärker werden, Ibuprofen helfe geringfügig, Cortison sehr gut."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Die Aufnahme des Patienten erfolgte elektiv zu individuellem Heilversuch mit Blinatumomab bei therapierefraktärer seronegativer rheumatoider Arthritis und oben beschriebener Anamnese."
+          },
+          {
+            "Datei": "20_Baseline.docx",
+            "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 96 Stunden."
+          }
+        ]
+      },
+      "Hinweise": [
+        "SJC: ausdrücklich zwei geschwollene Gelenke dokumentiert; Zählbereich nicht angegeben, kein ausgewiesener SJC28. Die zusammenfassende Beurteilung nennt zusätzlich multiple geschwollene und druckdolente Gelenke, vor allem an den Händen.",
+        "CRP-Wert zeitlich nicht eindeutig auswählbar: Aufenthaltslabor ohne einzelne Labordaten. Original: „C-Reaktives Protein 0,5 mg/l;  1,5 mg/l (<5 mg/l) [Min: 0,5 mg/l; Max: 76,3 mg/l]“ (20_Baseline.docx); erster Wert 0,5, letzter Wert 1,5, Maximum 76,3 mg/l. Keine eindeutige Zuordnung zum Referenztermin.",
+        "Jyseleca zuletzt am 03.09.2023 gegeben; nicht als laufende Therapie am Referenztermin übernommen. Blinatumomab erst im Aufenthaltsverlauf eingeleitet; Lodotra bei Entlassung auf 1 mg täglich reduziert.",
+        "Diagnoseliste bezeichnet die RA als seropositiv, die Verlaufsbeurteilung abweichend als seronegativ."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2024-03-14",
+      "DAS28": null,
+      "DAS28-Variante": null,
+      "TJC": 3,
+      "SJC": 0,
+      "SDAI": null,
+      "CDAI": null,
+      "HAQ": null,
+      "CRP-Wert": 6.0,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 16,
+      "Aktuelle Therapie": "Abatacept 125 mg subkutan wöchentlich und Prednisolon 12,5 mg täglich.",
+      "Klinische Hauptmanifestation": "Gelenkschmerzen an Schultern, Handgelenken und Fußgelenken; Morgensteifigkeit zwei Stunden.",
+      "Gelenkbefund": "Arthritis beider Handgelenke und schmerzhafte Schulterbewegungen beidseits. Gleichzeitig dokumentiert: TJC 3, SJC 0 und Arthritis verneint; Enthesitis und Daktylitis verneint.",
+      "Weitere Gelenke": "Zusätzlich Schmerzen an den Fußgelenken, Seite nicht angegeben.",
+      "Verlauf": "Unter Abatacept und Prednisolon weiterhin klinisch aktive RA mit Gelenkschmerzen und zweistündiger Morgensteifigkeit; klinischer Nutzen dieser laufenden Therapie nicht eindeutig beurteilt. Vom früheren Blinatumomab habe der Patient nicht profitiert. Additive Einleitung von Leflunomid 20 mg täglich und Prednisolonreduktion auf 7,5 mg täglich empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "der sich am 14.03.2024 ambulant vorstellte."
+          }
+        ],
+        "TJC": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "TJC: 3 SJC:0, Arthritis (-),Enthesitis (-), Daktylitis (-)"
+          }
+        ],
+        "SJC": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "TJC: 3 SJC:0, Arthritis (-),Enthesitis (-), Daktylitis (-)"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 6,0 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 6,0 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 6,0 mg/l (-<5,4 mg/l)"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "BSG: 16mm/h"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Es erfolgte eine Verlaufskontrolle bei therapierefraktärer rheumatoider Arthritis unter der Therapie mit Abatacept 125 mg/Wo und Prednisolon 12,5 mg/tg."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Abatacept 125mg s.c./Woche (seit November/2023)"
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Er beschwerde über Gelenkschmerzen an den Schultergelenken, Handgelenken und Fußgelenken."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "MS:2 Stunde"
+          }
+        ],
+        "Gelenkbefund": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Arthritis an beiden Handgelenken, Schulterbewegungen sind schmerzhaft bds."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "TJC: 3 SJC:0, Arthritis (-),Enthesitis (-), Daktylitis (-)"
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Er beschwerde über Gelenkschmerzen an den Schultergelenken, Handgelenken und Fußgelenken."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Es erfolgte eine Verlaufskontrolle bei therapierefraktärer rheumatoider Arthritis unter der Therapie mit Abatacept 125 mg/Wo und Prednisolon 12,5 mg/tg."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Klinisch zeigte sich weiterhin eine aktive Grunderkrankung."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Er beschwerde über Gelenkschmerzen an den Schultergelenken, Handgelenken und Fußgelenken."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "MS:2 Stunde"
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Im September 2023 wurde er als IHV mit Blinatumumab behaldent, jedoch habe davon nicht profitiert."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Es wurde der Beginn einer additiven Therapie mit Leflunomid 20 mg besprochen."
+          },
+          {
+            "Datei": "20_FollowUp.docx",
+            "Zitat": "Darüber hinaus empfehlen wir die Steroid-Dosis auf 7,5 mg Prednisolon/d zu reduzieren und mit dem Rauchen aufzuhören."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BSG nicht angegeben.",
+        "Zählbereich von TJC und SJC nicht angegeben. Widerspruch zwischen dokumentierter Arthritis beider Handgelenke und „Arthritis (-)“ bleibt erhalten.",
+        "Leflunomid widersprüchlich dokumentiert: Diagnoseliste „Leflunomide 20 mg 1-0-0 ab 02/2024“, aktuelle Beurteilung „Es wurde der Beginn einer additiven Therapie mit Leflunomid 20 mg besprochen.“ (20_FollowUp.docx). Daher als empfohlene Einleitung, nicht als sicher laufende Therapie erfasst.",
+        "Ansprechen unter aktuell beurteiltem Abatacept/Prednisolon nicht eindeutig belegt; fortbestehende Aktivität allein ergibt kein Nein. Das ausdrücklich fehlende Profitieren bezieht sich auf die frühere Blinatumomab-Therapie."
+      ]
+    }
+  ]
+}

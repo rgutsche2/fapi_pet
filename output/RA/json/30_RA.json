@@ -1,0 +1,225 @@
+{
+  "Patient": {
+    "Patient": 30,
+    "Erkrankung": "RA",
+    "Scans": {
+      "Baseline": "2020-10-02",
+      "Follow-up": "2021-03-19"
+    }
+  },
+  "fingerprint": "476356faaf3f4037e523654865bc2adb7ef3d2a3607add6f8f734a8415d2e89b",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-06-04",
+        "DAS28": null,
+        "DAS28-Variante": null,
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": null,
+        "CRP-Vergleichszeichen": null,
+        "CRP-Einheit": null,
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Arcoxia 60 mg bei Bedarf; Abatacept und Methotrexat seit 06/2020 wegen Leberwerterhöhung pausiert.",
+        "Klinische Hauptmanifestation": "Seit mehreren Wochen zunehmende Gelenkschmerzen und Schwellungen, insbesondere an Handgelenken, rechtem Knie und MCP IV.",
+        "Gelenkbefund": "Polyarthritis mit Arthritiden mehrerer Gelenke; kein detaillierter klinischer Gelenkstatus dokumentiert.",
+        "Weitere Gelenke": null,
+        "Verlauf": "Akute Schubsymptomatik nach Pausieren der Basistherapie. Therapieumstellung und Studienteilnahme empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "die sich am 04.06.2020 ambulant vorstellte."
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Arcoxia 60mg b.B"
+            },
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Therapie: Abatacept s.c. + MTX  pausiert seit 06/2020 wegen Leberwerterhöhung"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Die Patientin hat seit mehreren Wochen progrediente Gelenkschmerzen und Schwellungen insb. Handgelenke, Knie rechts und MCP 4."
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Aktuell besteht bei Frau Söllner seit Pausieren der Basistherapie eine akute Schubsymptomatik mit Polyarthritis."
+            },
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Die Patientin hat Arthritiden in mehreren Gelenken."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Aktuell besteht bei Frau Söllner seit Pausieren der Basistherapie eine akute Schubsymptomatik mit Polyarthritis."
+            },
+            {
+              "Datei": "30_Baseline.docx",
+              "Zitat": "Wir besprachen mit Ihr die Notwendigkeit einer Therapieumstellung und empfahlen Ihr die Teilnahme an einer Studie."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Einziger eindeutig belegter Besuchstag ist der 04.06.2020. Der Brief enthält zugleich Angaben aus August 2020; Beschwerden und Gelenkbefunde sind dem Referenztermin nicht eindeutig zuzuordnen. Der 28.08. ist nur als geplanter Besuch genannt.",
+          "Zwei zeitlich nicht zuordenbare CRP-Werte; deshalb keine eindeutige Auswahl: 30_Baseline.docx: „C-reaktives Protein 36,2 mg/l (-<5,2 mg/l)“ und „C-Reaktives Protein 25,4 mg/l (-<5 mg/l)“. Labordaten nicht angegeben.",
+          "Späterer MTX-Wiederbeginn ist dokumentiert, jedoch keine laufende Therapie am Referenztermin belegt: 30_Baseline.docx: „MTX 12,5 mg 1x Wo (Pause seir 06/2020, Wiederbeginn 12.08.2020 bisher 2 Spritzen)“.",
+          "Die Diagnosenergänzung für August nennt weitere Präzisierung und eine Therapieumstellung, deren Durchführung im Baseline-Brief nicht eindeutig belegt ist: 30_Baseline.docx: „08/2020: Schubsymptomatik mit Arthritis Knie rechts, Handg. bds., MCP 3&4 -> Therapieumstellung auf JAK-Inhibitor und Einschluss in Bare-Bone“."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2021-09-09",
+        "DAS28": 2.13,
+        "DAS28-Variante": "nicht angegeben",
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 0.9,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 21,
+        "Aktuelle Therapie": "Baricitinib 4 mg täglich und Methotrexat 12,5 mg pro Woche; Folsäure 5 mg pro Woche.",
+        "Klinische Hauptmanifestation": "Keine Gelenkschmerzen, Schwellungen oder Morgensteifigkeit. Regelmäßiger Sport möglich; sehr zufrieden mit Zustand und Therapie.",
+        "Gelenkbefund": "Im 28-Gelenkstatus keine druckschmerzhaften oder geschwollenen Gelenke. Beide Handgelenke nach Operation partiell versteift.",
+        "Weitere Gelenke": null,
+        "Verlauf": "Unter Baricitinib und Methotrexat klinisch beschwerdefrei und ärztlich als in Remission beurteilt. Partielle Versteifung beider Handgelenke nach Operation besteht fort; Fortführung der Therapie empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "die sich am 09.09.2021 ambulant vorstellte."
+            }
+          ],
+          "DAS28": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "DAS28: 2,13 (Remission)"
+            }
+          ],
+          "DAS28-Variante": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "DAS28: 2,13 (Remission)"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 0,9 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 0,9 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 0,9 mg/l (-<5 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "BSG: 21 mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Baricitinib 4mg 1-0-0"
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "MTX 12,5 mg/ Woche"
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Folsäure 5mg/ Woche"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Aktuell berichtet die Patientin über stabiles Allgemeinbefinden, keine Haut- oder Schleimhautveränderungen, keine Gelenkschmerzen, Schwellungen oder MS."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Sie könne regelmäßig Sport treiben und sei sehr zufrieden mit Status quo und Therapie."
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine DS/  geschwollenne Gelenke in 28 - Gelenkstatus."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Beide HG partiell versteift bei Z.n. OP"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Es erfolgte eine ambulante WV bei RA unter Baricitinib und MTX Therapie seit August 2020."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Aktuell berichtet die Patientin über stabiles Allgemeinbefinden, keine Haut- oder Schleimhautveränderungen, keine Gelenkschmerzen, Schwellungen oder MS."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung in Remission."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Beide HG partiell versteift bei Z.n. OP"
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Wir empfahlen die Fortführung der Therapie und eine Wiedervorstellung routinemäßig in 3 Monaten."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Es erfolgte eine ambulante WV bei RA unter Baricitinib und MTX Therapie seit August 2020."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Aktuell berichtet die Patientin über stabiles Allgemeinbefinden, keine Haut- oder Schleimhautveränderungen, keine Gelenkschmerzen, Schwellungen oder MS."
+            },
+            {
+              "Datei": "30_FollowUp.docx",
+              "Zitat": "Sie könne regelmäßig Sport treiben und sei sehr zufrieden mit Status quo und Therapie."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben; auch BSG und DAS28 sind nicht eigenständig datiert.",
+          "28-Gelenkstatus dokumentiert, jedoch keine ausdrücklichen numerischen TJC-/SJC-Werte; deshalb beide null."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "Patient": {
+    "Patient": 41,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2020-04-20",
+      "Follow-up": "2020-10-31"
+    }
+  },
+  "fingerprint": "3cbcbd3e2110c49b310a2d97be0ae16f0ee8058f433e3a16566da7bebbc69331",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-04-20",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": 8,
+        "SJC": 8,
+        "LEI": null,
+        "PASI": 12.2,
+        "HAQ": null,
+        "CRP-Wert": 40.9,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 34,
+        "Aktuelle Therapie": "MTX 25 mg s.c. wöchentlich, Folsäure 5 mg am Folgetag, Prednisolon 5 mg täglich und Naproxen 500 mg abends. Abatacept am 02.04.2020 begonnen; Fortbestehen am Referenztermin nicht eindeutig belegt.",
+        "Klinische Hauptmanifestation": "Ausgeprägte Gelenkschmerzen und Schwellungen an Händen, Knien und Füßen mit Morgensteifigkeit über zwei Stunden sowie generalisierte Haut- und ausgeprägte Nagelpsoriasis; bis Juni deutliche Besserung.",
+        "Periphere Gelenkbeschwerden": "Anfangs ausgeprägte Schmerzen und Schwellungen an Händen, Knien und Füßen, Morgensteifigkeit über zwei Stunden. Am 02.04.2020 acht druckschmerzhafte und acht geschwollene Gelenke; am 22.06.2020 zwei druckschmerzhafte und keine geschwollenen Gelenke.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": "Am 02.04.2020 und 22.06.2020 ausdrücklich keine Enthesitis.",
+        "Daktylitis": "Am 02.04.2020 und 22.06.2020 ausdrücklich keine Daktylitis.",
+        "Hautbeteiligung": "Anfangs generalisierte Psoriasisplaques, unter Abatacept verschlechtert mit Juckreiz, Brennen und offenen Stellen. Am 22.06.2020 regrediente Plaques mit generalisiertem residualem Erythem.",
+        "Nagelbeteiligung": "Ausgeprägte Nagelpsoriasis an Händen und Füßen am 02.04.2020 und 22.06.2020.",
+        "Verlauf": "Nach Absetzen von Ixekizumab wegen Wirkungsverlust Verschlechterung von Haut und Gelenken. Unter Abatacept deutliche Gelenkbesserung bei Hautverschlechterung; anschließend Tofacitinib ohne klinisches Ansprechen nach vier Wochen. Nach erneutem Ixekizumab-Beginn bis 22.06.2020 regrediente Hautläsionen und gut kontrollierter Gelenkstatus.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "der sich am 02.04.2020, am 20.04.2020 26.05.2020 und am 22.06.2020 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 8DS/ 8 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 8DS/ 8 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            }
+          ],
+          "PASI": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "PASI: 12,2"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "C-reaktives Protein 40,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "C-reaktives Protein 40,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "C-reaktives Protein 40,9 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "BSG: 34 mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "MTX 25mg s.c./ Woche, Folsäure 5mg am Folgetag"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Prednisolon 5mg 1-0-0, Naproxen 500 mg 0-01"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Im Sinne einer shared decision entschieden wir uns am 02.04.2020 für den Therapiebeginn mit dem CTLA-4 Inhibitor Abatacept 125mg sc./ Woche"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Aktuell berichtet der Patient über eine deutliche Verschlechterung des Allgemeinbefindens, Psoriasis Plaques generalisiert, ausgeprägte Gelenkschmerzen und Schwellungen an den Händen, Knien und Füßen."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "MS über 2 Stunden."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Haut: generalisierte Psoriasis Plaques, ausgeprägte Nagelpsoriasis (Hände und Füße)"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Bei der letzten Vorstellung am 22.06.2020 zeigten sich die Psoriasisläsionen deutlich regredierend, der Gelenkstatus zeigte sich im Verlauf erfreulicherweise gut kontrolliert."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Aktuell berichtet der Patient über eine deutliche Verschlechterung des Allgemeinbefindens, Psoriasis Plaques generalisiert, ausgeprägte Gelenkschmerzen und Schwellungen an den Händen, Knien und Füßen."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "MS über 2 Stunden."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 8DS/ 8 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 2DS/ 0 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 8DS/ 8 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 2DS/ 0 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 8DS/ 8 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Gelenkstatus: 2DS/ 0 geschwollene Gelenke, keine Daktylitis, keine Enthesitis"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Haut: generalisierte Psoriasis Plaques, ausgeprägte Nagelpsoriasis (Hände und Füße)"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "nach 2 Applikationen präsentierte Herr Greiner eine deutliche Verschlechterung der Psoriasis Plaques, mit Juckreiz, Brennen und offenen Stellen, jedoch mit einer signifikanten Besserung der Gelenkbeschwerden."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Haut: Psoriasis Plaques regredierend, generalisiertes residuales Erythema, ausgeprägte Nagelpsoriasis (Hände und Füße)"
+            }
+          ],
+          "Nagelbeteiligung": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Haut: generalisierte Psoriasis Plaques, ausgeprägte Nagelpsoriasis (Hände und Füße)"
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Haut: Psoriasis Plaques regredierend, generalisiertes residuales Erythema, ausgeprägte Nagelpsoriasis (Hände und Füße)"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Wegen Wirkungsverlust sei Ixekizumab seit Februar 2020 abgesetzt worden."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Aktuell berichtet der Patient über eine deutliche Verschlechterung des Allgemeinbefindens, Psoriasis Plaques generalisiert, ausgeprägte Gelenkschmerzen und Schwellungen an den Händen, Knien und Füßen."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "nach 2 Applikationen präsentierte Herr Greiner eine deutliche Verschlechterung der Psoriasis Plaques, mit Juckreiz, Brennen und offenen Stellen, jedoch mit einer signifikanten Besserung der Gelenkbeschwerden."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Hier wurde nach dem Absetzten von Abatacept, eine probatorische Therapie mit dem JAK Inhibitor Tofacitinib initiiert, nach 4 Wochen und beim fehlenden klinischen Ansprechen entschieden wir uns für einen erneuten Therapieversuch mit Ixekizumab mit Induktionsschema, denn damit sei der Patient seitens der Haut für ca. 1 Jahr gut eigestellt gewesen."
+            },
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Bei der letzten Vorstellung am 22.06.2020 zeigten sich die Psoriasisläsionen deutlich regredierend, der Gelenkstatus zeigte sich im Verlauf erfreulicherweise gut kontrolliert."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Referenzbesuch 20.04.2020; TJC/SJC, PASI, CRP und BSG stammen vom 02.04.2020 als jeweils nächste eigenständig datierte Messungen zum Scan. TJC/SJC-Zählbereich nicht angegeben; DS als druckschmerzhafte Gelenke erfasst.",
+          "Weitere Werte: 26.05.2020 BSG 7 mm/h, PASI 5 und CRP 5,8 mg/l; 22.06.2020 TJC 2, SJC 0 und CRP 6,3 mg/l. Diese späteren Befunde gehören zur Baseline-Episode.",
+          "Weitere Scores: 02.04.2020 „DAS28: 5,82“; 26.05.2020 „DAS28: 1,46“ (41_Baseline.docx).",
+          "Therapieumstellungen innerhalb der Episode; Absetzdatum von Abatacept und Beginn von Tofacitinib bzw. erneutem Ixekizumab im Baseline-Brief nicht eindeutig datiert. Ixekizumab daher nicht als laufende Therapie am 20.04.2020 erfasst.",
+          "Widersprüchliche Anamnese: Neben ausgeprägten Gelenkschmerzen steht „Keine Schleimhautveränderungen, keine Gelenkschmerzen, kein Raynaud, keine kardiopulmonalen oder gastrointestinalen Beschwerden, kein schäumender Urin, keine B-Symptomatik, VA: opB.“ (41_Baseline.docx). Konkrete Beschwerden und Untersuchungsbefunde wurden bevorzugt."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-11-24",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": 2,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 8.3,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Ixekizumab 80 mg s.c. alle vier Wochen, MTX 25 mg s.c. wöchentlich, Folsäure 5 mg am Folgetag, Prednisolon 4 mg täglich und Naproxen 500 mg abends.",
+        "Klinische Hauptmanifestation": "Unter Ixekizumab erneut zunehmende Arthralgien und Gelenkschwellungen mit Morgensteifigkeit von etwa 90 Minuten; gleichzeitig deutlich rückläufige Psoriasis.",
+        "Periphere Gelenkbeschwerden": "Zunehmende Arthralgien seit Umstellung von Abatacept auf Ixekizumab; leichte MCP4-Schwellung nach Verletzung. Mehrere druckschmerzhafte Gelenke und zwei geschwollene Gelenke, MCP4 rechts und PIP3 mit unklarer Seite; Morgensteifigkeit etwa 90 Minuten.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": null,
+        "Daktylitis": null,
+        "Hautbeteiligung": "Aktuell wenige Plaques an Steiß und Rücken. Generalisierte Psoriasisläsionen regredient, mit Rhagaden, Schuppung und generalisierter Hyperpigmentation; unter Ixekizumab sehr gutes Abheilen.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Gegenüber der im Baseline-Brief zuletzt beschriebenen Gelenkkontrolle erneut vermehrte Arthralgien und Gelenkschwellungen unter Ixekizumab, während die Psoriasisläsionen sehr gut abheilen. Aktuelle Therapie zunächst beibehalten; weitere Umstellung nach geplanter MRT-Kontrolle zu diskutieren.",
+        "Ansprechen (Ja/Nein)": "Nein",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "der sich am 24.11.2020 ambulant vorstellte."
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Gelenkstatus: mehrere DS/ 2 geschwollene Gelenke mCP 4 re und PIP 3"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Ixekizumab 80mg sc./ 4 Wochen erneut seit 05/2020"
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "MTX 25mg s.c. mittwochs, Folsäure 5mg donnerstags"
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Prednisolon 4mg 1-0-0, Naproxen 500 mg 0-0-1"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Hierunter wieder sehr gutes Abheilen der Psoriasisläsionen mit jedoch vermehrt Arthralgien und erneut Gelenkschwellungen."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Bzgl der Arthralgien aktuell wieder Verschlechterung seit Umstellung von Abatacept auf Ixekizumab; leichte Schwellungen MCP4 nach Verletzung, MS ca. 90 Minuten."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Bzgl der Arthralgien aktuell wieder Verschlechterung seit Umstellung von Abatacept auf Ixekizumab; leichte Schwellungen MCP4 nach Verletzung, MS ca. 90 Minuten."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Gelenkstatus: mehrere DS/ 2 geschwollene Gelenke mCP 4 re und PIP 3"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Aktuell wenig Psoriasis Plaques am Steiß/Rücken."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Haut: regrediente generalisierte Psoriasisläsionen, Rhagaden und Schuppung, generalisierte Hyperpigmentation"
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Hierunter wieder sehr gutes Abheilen der Psoriasisläsionen mit jedoch vermehrt Arthralgien und erneut Gelenkschwellungen."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "41_Baseline.docx",
+              "Zitat": "Bei der letzten Vorstellung am 22.06.2020 zeigten sich die Psoriasisläsionen deutlich regredierend, der Gelenkstatus zeigte sich im Verlauf erfreulicherweise gut kontrolliert."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Hierunter wieder sehr gutes Abheilen der Psoriasisläsionen mit jedoch vermehrt Arthralgien und erneut Gelenkschwellungen."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Bei fehlenden therapeutischen Optionen wurde mit dem Patienten primär ein Beibehalten der jetzigen Therapie bis zur Wiedervorstellung vereinbart."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "In 8 Wochen sollte dann eine MRT-Verlaufskontrolle der rechten Hand erfolgen."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "In Abhängigkeit des Befundes sollte dann eine erneute Therapieumstellung (gegebenenfalls Off-Label-Kombination Tofacitinib und Ixekizumab) diskutiert werden."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Bzgl der Arthralgien aktuell wieder Verschlechterung seit Umstellung von Abatacept auf Ixekizumab; leichte Schwellungen MCP4 nach Verletzung, MS ca. 90 Minuten."
+            },
+            {
+              "Datei": "41_FollowUp.docx",
+              "Zitat": "Hierunter wieder sehr gutes Abheilen der Psoriasisläsionen mit jedoch vermehrt Arthralgien und erneut Gelenkschwellungen."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "TJC nicht numerisch angegeben („mehrere DS“); SJC-Zählbereich nicht angegeben. Seite von PIP3 nicht eindeutig.",
+          "MCP4-Schwellung anamnestisch nach Verletzung; entzündlicher Anteil nicht eindeutig abgrenzbar.",
+          "Weiterer Befund: „MDA nicht erreicht“ (41_FollowUp.docx).",
+          "Ansprechen bezieht sich auf die muskuloskelettale PsA; die ausdrücklich gute Hautentwicklung ist separat erhalten."
+        ]
+      }
+    ]
+  }
+}

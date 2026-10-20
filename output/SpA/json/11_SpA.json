@@ -1,0 +1,262 @@
+{
+  "Patient": {
+    "Patient": 11,
+    "Erkrankung": "SpA",
+    "Scans": {
+      "Baseline": "2019-11-18",
+      "Follow-up": "2020-08-31"
+    }
+  },
+  "fingerprint": "5702bc3892964597b902e9ac72f7bc7bafa0d156feeee8da16655f22093d852e",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2019-09-09",
+        "ASDAS-CRP": null,
+        "BASDAI": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": null,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Etoricoxib und Ibuprofen über mehrere Wochen; Dosen nicht angegeben.",
+        "Klinische Hauptmanifestation": "Entzündliche LWS-Beschwerden sowie Schmerzen beider Knie und des rechten Handgelenks ohne Schwellungen. Morgensteifigkeit bis 30 Minuten.",
+        "Axiale Beschwerden / ISG": "Tiefsitzende LWS-Schmerzen mit Besserung durch Bewegung und nächtlichem Erwachen; aktuell morgens und abends am stärksten.",
+        "Weitere Gelenke": "Schmerzen beider Knie und des rechten Handgelenks ohne Schwellungen.",
+        "Verlauf": "Persistierende axiale und periphere Beschwerden trotz mehrwöchiger Einnahme von Etoricoxib und Ibuprofen. Einleitung von Adalimumab 40 mg subkutan alle zwei Wochen nach FAPI-PET/CT empfohlen.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "der sich am 09.09.2019 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Beschwerden seien persistierend unter Arcoxia und Ibuprofen trotz mehrwöchiger Einnahme."
+            },
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "bisherige Therapie: Ibuprofen und Etoricoxib kontinuierlich über mehrere Wochen ohne ausreichende Wirkung"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Gelenkschmerzen Knie bds, HG rechts/ Keine Schwellung,  Morgensteifigkeit 30 min, nächtl. Rückenschmerz ja"
+            },
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Der Pat. berichtet seit ca. dem 20. Lbj. immer wieder LWS-Beschwerden zu haben, diese seien von typisch-entzündlichem Charakter: tief-sitzend, Bewegung würde die Beschwerden verbessern, nachts wache er auf, Ibuprofen helfe."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Der Pat. berichtet seit ca. dem 20. Lbj. immer wieder LWS-Beschwerden zu haben, diese seien von typisch-entzündlichem Charakter: tief-sitzend, Bewegung würde die Beschwerden verbessern, nachts wache er auf, Ibuprofen helfe."
+            },
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Aktuell seien morgens und abends die Schmerzen am schlimmsten."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Gelenkschmerzen Knie bds, HG rechts/ Keine Schwellung"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Beschwerden seien persistierend unter Arcoxia und Ibuprofen trotz mehrwöchiger Einnahme."
+            },
+            {
+              "Datei": "11_Baseline.docx",
+              "Zitat": "Nach FAPI PET/CT Einleitung einer Therapie mit Adalimumab 40mg s.c. alle 2 Wochen unter Kontrolle nach Maßgabe der DGRh."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben.",
+          "Adalimumab ist in dieser Briefgruppe nur zur Einleitung empfohlen, nicht als laufende Therapie dokumentiert."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2020-08-05",
+        "ASDAS-CRP": null,
+        "BASDAI": 1.3,
+        "TJC": 0,
+        "SJC": 0,
+        "LEI": null,
+        "MASES": null,
+        "HAQ": 0,
+        "CRP-Wert": 5.2,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 1,
+        "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen; nach Therapiepause von Februar bis Mai 2020 wieder regelmäßig. Ibuprofen bei Bedarf.",
+        "Klinische Hauptmanifestation": "Aktuell keine Gelenkbeschwerden, TJC und SJC jeweils 0, keine Morgensteifigkeit. Weiterhin Abgeschlagenheit und teilweise Nervosität bei Alltagsstress.",
+        "Axiale Beschwerden / ISG": "Patrick-Zeichen beidseits negativ; keine gesonderte aktuelle Rückenschmerzanamnese dokumentiert.",
+        "Weitere Gelenke": "Aktuell keine Gelenkbeschwerden; keine schmerzhaften oder geschwollenen Gelenke im dokumentierten Gelenkstatus.",
+        "Verlauf": "Unter Adalimumab aktuell keine Gelenkbeschwerden und klinisch kein Anhalt für erhöhte entzündliche Krankheitsaktivität. Abgeschlagenheit und teilweise stressbezogene Nervosität bestehen fort.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "der sich am 05.08.2020 ambulant vorstellte."
+            }
+          ],
+          "BASDAI": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "HAQ 0; BAS-G 1,5, BASFI 0,2; BASDAI 1,3"
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0 TJC 0, Patrick-Zeichen bds. negativ, BASMI 0"
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0 TJC 0, Patrick-Zeichen bds. negativ, BASMI 0"
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "HAQ 0; BAS-G 1,5, BASFI 0,2; BASDAI 1,3"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "BKS: 1/2 mm"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Adalimumab 40 mg/ 2 Wochen"
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "aktuell: Adalimumab seit 09/19, Therapiepause 02/20-05/20, seither regelmäßige Einnahme"
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Ibuprofen bei Bed."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Aktuell bestünden keine Gelenkbeschwerden, aber noch Abgeschlagenheit, tlw. auch Nervosität bei vermehrtem Stress im Alltag."
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0 TJC 0, Patrick-Zeichen bds. negativ, BASMI 0"
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "MS 0 min."
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0 TJC 0, Patrick-Zeichen bds. negativ, BASMI 0"
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Aktuell bestünden keine Gelenkbeschwerden, aber noch Abgeschlagenheit, tlw. auch Nervosität bei vermehrtem Stress im Alltag."
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJC 0 TJC 0, Patrick-Zeichen bds. negativ, BASMI 0"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Die WV des Pat. erfolgte bei bekannter axialer SpA unter Imraldi."
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Anamnestisch, klinisch und laborchemisch bot sich bei dieser Vorstellung kein Anhalt für erhöhte entzündliche Aktivität der Grunderkrankung."
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Aktuell bestünden keine Gelenkbeschwerden, aber noch Abgeschlagenheit, tlw. auch Nervosität bei vermehrtem Stress im Alltag."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "VK bei SpA unter Imraldi."
+            },
+            {
+              "Datei": "11_FollowUp.docx",
+              "Zitat": "Aktuell bestünden keine Gelenkbeschwerden, aber noch Abgeschlagenheit, tlw. auch Nervosität bei vermehrtem Stress im Alltag."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum für CRP und BKS nicht angegeben; BKS 1/2 mm gemäß Studienkonvention als 1 mm nach einer Stunde übernommen.",
+          "Der dokumentierte Adalimumab-Beginn 09/19 steht im Widerspruch zur Baseline-Empfehlung einer Einleitung erst nach dem FAPI-PET/CT.",
+          "Abweichende PET-Datierung innerhalb des Briefes: Diagnoseliste 21.08.2020, Untersuchungsbefund 31.08.2020. Kein zusätzlicher rheumatologischer Besuchstag daraus abgeleitet."
+        ]
+      }
+    ]
+  }
+}

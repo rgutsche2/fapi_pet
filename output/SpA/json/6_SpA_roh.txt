@@ -1,0 +1,242 @@
+{
+  "Zeilen": [
+    {
+      "Zeitpunkt": "Baseline",
+      "Klinisches Datum": "2020-05-18",
+      "ASDAS-CRP": null,
+      "BASDAI": null,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": null,
+      "HAQ": null,
+      "CRP-Wert": null,
+      "CRP-Vergleichszeichen": null,
+      "CRP-Einheit": null,
+      "BSG (mm nach 1 h)": null,
+      "Aktuelle Therapie": "Bestehende NSAR-Therapie; aktuelles Präparat und Dosis nicht eindeutig angegeben.",
+      "Klinische Hauptmanifestation": "Aktiver entzündlicher Rückenschmerz mit Morgensteifigkeit von 60–90 Minuten und eingeschränkter Wirbelsäulenrotation. Schwellung der vierten linken Zehe mit klinischem Verdacht auf Daktylitis.",
+      "Axiale Beschwerden / ISG": "Seit 2015 entzündlicher Rückenschmerz mit nächtlichem oder frühmorgendlichem Erwachen; seit Jahresbeginn zunehmende Morgensteifigkeit und deutliche Rotationseinschränkung.",
+      "Weitere Gelenke": "Rezidivierende Beschwerden der PIP-Gelenke mit eingeschränkter Fingerflexion. Abgesehen von der vierten linken Zehe aktuell kein Druckschmerz oder synovitische Schwellung; kein Druckschmerz der Plantaraponeurosen und kein sonstiger Enthesitishinweis.",
+      "Verlauf": "Zunehmende axiale Beschwerden seit Jahresbeginn; bisherige NSAR ohne ausreichende Wirkung. Einleitung von MTX 15 mg wöchentlich mit Folsäure und ein Prednisolonstoß zur Behandlung der Daktylitis empfohlen.",
+      "Ansprechen (Ja/Nein)": null,
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 6, der sich am 18.05.2020 ambulant vorstellte."
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Sollten sich im MRT der LWS/ISG persistierende Entzündungszeichen unter der bestehenden NSAR-Therapie zeigen wäre die Indikation zur Umstellung auf Biologikum gegeben."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Er berichtet über entzündlichen Rückenschmerz, mit nächtlichem oder frühmorgendlichem Erwachen seit 2015, zusätzlich bestünde vor allem seit Anfang des Jahres eine zunehmende Morgensteifigkeit von 60-90 Minuten und eine deutliche Einschränkung der Rotation der Wirbelsäule."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aktuell bestünde seit Anfang des Jahres eine Schwellung im Bereich des linken vierten Zehs."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Gelenke: 4. Zehe links V. a. Daktylitis, ansonsten kein Druckschmerz, keine synovitische Schwellung."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Er berichtet über entzündlichen Rückenschmerz, mit nächtlichem oder frühmorgendlichem Erwachen seit 2015, zusätzlich bestünde vor allem seit Anfang des Jahres eine zunehmende Morgensteifigkeit von 60-90 Minuten und eine deutliche Einschränkung der Rotation der Wirbelsäule."
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Zusätzlich habe er seit Anfang des Jahres auch rezidivierend Gelenkbeschwerden im Bereich der PIP-Gelenke, auch mit Einschränkung der Flexion bemerkt, die an einzelnen Fingern über wenige Tage anhielten."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Gelenke: 4. Zehe links V. a. Daktylitis, ansonsten kein Druckschmerz, keine synovitische Schwellung."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aktuell kein Druckschmerz über der Plantaraponeurose beidseits, ansonsten kein Hinweis auf Enthesitis."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Er berichtet über entzündlichen Rückenschmerz, mit nächtlichem oder frühmorgendlichem Erwachen seit 2015, zusätzlich bestünde vor allem seit Anfang des Jahres eine zunehmende Morgensteifigkeit von 60-90 Minuten und eine deutliche Einschränkung der Rotation der Wirbelsäule."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Etoricoxib 90 mg von 03/2020-05/2020 (keine ausreichende Wirkung)"
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Ibuprofen 600 mg 1-1-1 für mehr als sechs Wochen (ohne ausreichende Wirkung)"
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aufgrund der rez. periph. Gelenkaffektion empfehlen wir den Beginn einer immunsuppressiven Basistherapie mittels MTX 15mg 1x/pro Woche + Folsäure 5mg am Folgetag."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Zusätzlich empfehlen wir zur akuten Therapie der Daktylitis einen Prednisolonstoß, beginnend mit 20mg 1-0-0 für eine Woche, dann wochenweise Reduktion um 2,5mg bis zum vollständigen Ausschleichen."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Das aktuell eingenommene NSAR ist nicht eindeutig benannt; MTX und Prednisolon wurden erst empfohlen."
+      ]
+    },
+    {
+      "Zeitpunkt": "Follow-up",
+      "Klinisches Datum": "2021-07-21",
+      "ASDAS-CRP": null,
+      "BASDAI": 0.8,
+      "TJC": null,
+      "SJC": null,
+      "LEI": null,
+      "MASES": 0,
+      "HAQ": null,
+      "CRP-Wert": 5.1,
+      "CRP-Vergleichszeichen": "<",
+      "CRP-Einheit": "mg/l",
+      "BSG (mm nach 1 h)": 4,
+      "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen seit August 2020. MTX bereits selbstständig abgesetzt; Pausierung bei der Vorstellung gemeinsam beschlossen.",
+      "Klinische Hauptmanifestation": "Keine peripheren Beschwerden mehr; keine Druckschmerzen oder Gelenkschwellungen. Teilweise weiterhin rezidivierende Schmerzen im BWS-Bereich.",
+      "Axiale Beschwerden / ISG": "Teilweise rezidivierende BWS-Schmerzen; ISG klinisch nicht schmerzhaft.",
+      "Weitere Gelenke": "Keine peripheren Beschwerden, keine Druckschmerzen und keine Schwellungen.",
+      "Verlauf": "Periphere Beschwerdefreiheit im Verlauf unter Therapie; rezidivierende BWS-Schmerzen bestehen teilweise fort. MTX wurde bereits selbstständig abgesetzt und soll weiter pausieren.",
+      "Ansprechen (Ja/Nein)": "Ja",
+      "Belege": {
+        "Klinisches Datum": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 6, der sich am 21.07.2021 ambulant vorstellte."
+          }
+        ],
+        "BASDAI": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "BASMI 0, MASES 0, BASDAI 0,8"
+          }
+        ],
+        "MASES": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "BASMI 0, MASES 0, BASDAI 0,8"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+          }
+        ],
+        "BSG (mm nach 1 h)": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "BKS: 4"
+          }
+        ],
+        "Aktuelle Therapie": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Adalimumab 40mg alle 2 Wo. seit 8/20"
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gemeinsam wurde mit dem Patienten entschieden MTX zu pausieren."
+          }
+        ],
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
+          }
+        ],
+        "Weitere Gelenke": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gemeinsam wurde mit dem Patienten entschieden MTX zu pausieren."
+          }
+        ],
+        "Ansprechen (Ja/Nein)": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
+          }
+        ]
+      },
+      "Hinweise": [
+        "Labordatum für CRP und BKS nicht angegeben.",
+        "BASDAI und MASES ohne gesondertes Untersuchungsdatum dokumentiert.",
+        "Die Diagnoseliste führt MTX weiterhin als aktuell; aktuelle Anamnese und Beurteilung dokumentieren dagegen Absetzen beziehungsweise Pausierung.",
+        "Therapiehistorie nennt MTX-Absetzen Anfang Juni 2020; die aktuelle Anamnese nennt Anfang Juni ohne Jahresangabe. Das genaue Absetzdatum bleibt unklar.",
+        "Ja bezeichnet die klinische Kontrolle der peripheren Beschwerden; BWS-Restbeschwerden bestehen fort. Ein ursächlicher Effekt eines einzelnen Medikaments ist nicht belegt."
+      ]
+    }
+  ]
+}

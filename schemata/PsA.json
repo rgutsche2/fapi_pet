@@ -1,0 +1,44 @@
+{
+  "indikation": "PsA",
+  "scores": [
+    {
+      "name": "DAPSA",
+      "typ": "Zahl"
+    },
+    {
+      "name": "cDAPSA",
+      "typ": "Zahl"
+    },
+    {
+      "name": "TJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "SJC",
+      "typ": "Zahl"
+    },
+    {
+      "name": "LEI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "PASI",
+      "typ": "Zahl"
+    },
+    {
+      "name": "HAQ",
+      "typ": "Zahl"
+    }
+  ],
+  "klinische_spalten": [
+    "Klinische Hauptmanifestation",
+    "Periphere Gelenkbeschwerden",
+    "Axiale Beschwerden / ISG",
+    "Enthesitis",
+    "Daktylitis",
+    "Hautbeteiligung",
+    "Nagelbeteiligung"
+  ],
+  "auswahlwerte": {},
+  "gekoppelte_felder": []
+}

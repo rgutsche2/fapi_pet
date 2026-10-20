@@ -1,0 +1,336 @@
+{
+  "Patient": {
+    "Patient": 36,
+    "Erkrankung": "PsA",
+    "Scans": {
+      "Baseline": "2020-12-14",
+      "Follow-up": "2021-05-31"
+    }
+  },
+  "fingerprint": "96773f98121cafa7ae382d32932f71a0ee9abd0c1ce935035e45227ec33c1d80",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2020-12-01",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": 1,
+        "SJC": 1,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": 0.25,
+        "CRP-Wert": 5.1,
+        "CRP-Vergleichszeichen": "<",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 6,
+        "Aktuelle Therapie": "Methotrexat seit 2016; Dosis nicht angegeben.",
+        "Klinische Hauptmanifestation": "Gelenk- und Sehnenschmerzen mit beidseits druckschmerzhaften Ellenbogenansätzen unter unzureichender Kontrolle durch Methotrexat. Bewegungsabhängige Schmerzen erforderten zuletzt eine Schiene.",
+        "Periphere Gelenkbeschwerden": "Gelenkschmerzen, ein geschwollenes und ein druckschmerzhaftes Gelenk ohne Ortsangabe; Morgensteifigkeit ohne dokumentierte Dauer.",
+        "Axiale Beschwerden / ISG": null,
+        "Enthesitis": "Druckschmerzhafte Sehnenansätze an beiden Ellenbogen.",
+        "Daktylitis": null,
+        "Hautbeteiligung": "Gegenüber initial 80 % Körperoberfläche etwas gebessert, weiterhin ausgeprägte Psoriasis-Plaques beider Beine und diskrete Rötung am Haaransatz.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Unter Methotrexat etwas gebesserte Haut, jedoch weiterhin Gelenk- und Sehnenbeschwerden und insgesamt klar unzureichende PsA-Kontrolle. Therapieerweiterung durch ein Biologikum empfohlen, bevorzugt IL-17-Hemmung.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "der sich am 01.12.2020 ambulant vorstellte."
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "1 geschwollenes Gelenk, 1 druckschmerzhaftes Gelenk."
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "1 geschwollenes Gelenk, 1 druckschmerzhaftes Gelenk."
+            }
+          ],
+          "HAQ": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "HAQ: 0,25"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "BKS: 6 mm 1h n.W."
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "MTX seit 2016"
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Anhand der Anamnese, klinischer und bildgebender Untersuchung zeigt sich die Erkrankung (PsA) unter MTX klar unzureichend therapiert."
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Hinsichtlich der Arthritis habe er Schmerzen der Gelenke sowie im Bereich der Sehnen."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Druckschmerzhafte Sehnenansätze Ellenbogen bds., 1 geschwollenes Gelenk, 1 druckschmerzhaftes Gelenk."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Hier musste er zuletzt auch einen Schiene tragen, da unter Bewegung die Schmerzen verstärkt waren."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Anhand der Anamnese, klinischer und bildgebender Untersuchung zeigt sich die Erkrankung (PsA) unter MTX klar unzureichend therapiert."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Hinsichtlich der Arthritis habe er Schmerzen der Gelenke sowie im Bereich der Sehnen."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "1 geschwollenes Gelenk, 1 druckschmerzhaftes Gelenk."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Psoriasis Arthritis ED 1978 mit aktuell Enthesitis, Arthralgien, Arthritis, Morgensteifigkeit, aktive Haut unter MTX"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Druckschmerzhafte Sehnenansätze Ellenbogen bds."
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Aktuell sei die Haut zwar von intial 80% der Körperoberfläche etwas gebessert, er würde aber dennoch keine kurzen Hosen anziehen."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Diskrete Rötung Haaransatz, sowie ausgeprägte Pso Plaques an den Beinen bds."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Aktuell sei die Haut zwar von intial 80% der Körperoberfläche etwas gebessert, er würde aber dennoch keine kurzen Hosen anziehen."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Hinsichtlich der Arthritis habe er Schmerzen der Gelenke sowie im Bereich der Sehnen."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Anhand der Anamnese, klinischer und bildgebender Untersuchung zeigt sich die Erkrankung (PsA) unter MTX klar unzureichend therapiert."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Die Indikation einer Therapieerweiterung mittels Biologika ist klar gegeben."
+            },
+            {
+              "Datei": "36_Baseline.docx",
+              "Zitat": "Aufgrund der Enthesitis ist hier der IL-17 Inhibition aktuell, aufgrund der Datenlage, klar den Vorzug vor TNF-Alpha Inhibition zu geben."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Labordatum nicht angegeben; auch HAQ und Gelenkzählung ohne gesondertes Erhebungsdatum.",
+          "Zählbereich von TJC und SJC nicht angegeben.",
+          "Nagelbeteiligung nur in der Diagnosehistorie genannt; aktueller Nagelstatus unklar.",
+          "Weitere Scores in 36_Baseline.docx, jeweils ohne gesondertes Datum: „FACIT: 12“, „BASFI: 0,2“, „BASDI: 3,65“, „SPARCC: 2“, „DAS28: 2,95“. Bezeichnung BASDI unverändert übernommen."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2021-05-31",
+        "DAPSA": null,
+        "cDAPSA": null,
+        "TJC": null,
+        "SJC": null,
+        "LEI": null,
+        "PASI": null,
+        "HAQ": null,
+        "CRP-Wert": 1.3,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Secukinumab 300 mg monatlich und Methotrexat 10 mg subkutan wöchentlich; Folsäure 5 mg am Folgetag. Topisch Enstilar-Schaum und Silkis.",
+        "Klinische Hauptmanifestation": "Sehr gute klinische Krankheitskontrolle unter Secukinumab und Methotrexat bei gelegentlichen Beschwerden am rechten Ellenbogen ohne erforderliche NSAR-Einnahme.",
+        "Periphere Gelenkbeschwerden": "Gelegentliche Beschwerden am rechten Ellenbogen; keine druckschmerzhaften oder geschwollenen Gelenke im klinischen Status.",
+        "Axiale Beschwerden / ISG": "Nächtliche Rückenschmerzen verneint.",
+        "Enthesitis": "Klinisch kein Hinweis auf Enthesitis.",
+        "Daktylitis": "Keine Daktylitis.",
+        "Hautbeteiligung": "Deutlich gebessert, anamnestisch keine Psoriasis-Plaques mehr; geringe Schuppung und Rötung vor allem an den Unterschenkeln. Im Hautstatus Rötungen an Stamm, Kopfhaut und beiden Unterschenkeln.",
+        "Nagelbeteiligung": null,
+        "Verlauf": "Sehr gute klinische Krankheitskontrolle unter Secukinumab und Methotrexat, bei gelegentlichen rechten Ellenbogenbeschwerden und klinisch fehlenden druckschmerzhaften oder geschwollenen Gelenken, Enthesitiszeichen und Daktylitis. Haut deutlich gebessert mit verbleibenden Rötungen und geringer Schuppung. Sonographisch am 31.05.2021 weiterhin aktive Enthesitis am rechten Ellenbogen; MDA nicht erreicht.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "der sich am 31.05.2021 und 09.07.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,3 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,3 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 1,3 mg/l (-<5 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Vorstellung zur VK bei PsA unter Therapie mit Cosentyx 300 mg/Monat und Mtx 10 mg/Woche s.c.."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "STUDY DRUG: Secukinumab"
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Folsäure 5 mg am Folgetag von MTx"
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Enstilar Schaum + Silkis"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bei nunmehr sehr guter Krankheitskontrolle unter der jetzigen Therapie empfehlen wir ein Fortführen der Therapie wie bisher."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bzgl. der Gelenke werden nächtl. RS verneint, gel. habe er Beschwerden im rechten Ellbogen, allerdings sei die Einnahmen von NSAR nicht notwendig gewesen."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bzgl. der Gelenke werden nächtl. RS verneint, gel. habe er Beschwerden im rechten Ellbogen, allerdings sei die Einnahmen von NSAR nicht notwendig gewesen."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine druckschmerzhaften oder geschwollenen Gelenke, kein Hinweis auf Enthesitis, keine Daktylitis"
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bzgl. der Gelenke werden nächtl. RS verneint"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine druckschmerzhaften oder geschwollenen Gelenke, kein Hinweis auf Enthesitis, keine Daktylitis"
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine druckschmerzhaften oder geschwollenen Gelenke, kein Hinweis auf Enthesitis, keine Daktylitis"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Herr Tiedemann ist weiterhin sehr zufrieden mit der Therapie, die Haut sei seither dtl. besser, er habe keinerlei Pso-Plaques mehr, ,nur noch wenig Schuppungen und Rötungen, vor allem im Bereich der US."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Hautstatus: ncoh Rötungen nach Pso an Stamm, gering an der Kopfhaut, Rötungen US bds., Plaques mehr"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Vorstellung zur VK bei PsA unter Therapie mit Cosentyx 300 mg/Monat und Mtx 10 mg/Woche s.c.."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bei nunmehr sehr guter Krankheitskontrolle unter der jetzigen Therapie empfehlen wir ein Fortführen der Therapie wie bisher."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bzgl. der Gelenke werden nächtl. RS verneint, gel. habe er Beschwerden im rechten Ellbogen, allerdings sei die Einnahmen von NSAR nicht notwendig gewesen."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine druckschmerzhaften oder geschwollenen Gelenke, kein Hinweis auf Enthesitis, keine Daktylitis"
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Herr Tiedemann ist weiterhin sehr zufrieden mit der Therapie, die Haut sei seither dtl. besser, er habe keinerlei Pso-Plaques mehr, ,nur noch wenig Schuppungen und Rötungen, vor allem im Bereich der US."
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "weiterhin aktive Enthesitis i.R. der GE"
+            },
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "MDA nicht erreicht VAS >20/100,"
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "36_FollowUp.docx",
+              "Zitat": "Bei nunmehr sehr guter Krankheitskontrolle unter der jetzigen Therapie empfehlen wir ein Fortführen der Therapie wie bisher."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Referenztermin 31.05.2021 ist der scan-nächste belegte Besuch; zusätzlich Besuch am 09.07.2021. Anamnese, klinischer Status und Therapiebeurteilung im zusammenfassenden Brief keinem einzelnen Besuch eindeutig zugeordnet.",
+          "Labordatum nicht angegeben.",
+          "Klinisch kein Hinweis auf Enthesitis; abweichend sonographisch am 31.05.2021 weiterhin aktive Enthesitis rechts: „Ellbogen rechts: Epic. Humeri lat.: Osteoproliferation und Erosionen“, „PD Grad 3“, „weiterhin aktive Enthesitis i.R. der GE“ (36_FollowUp.docx).",
+          "Hautstatus enthält die unvollständige Formulierung „Plaques mehr“; anamnestisch ausdrücklich keine Plaques mehr.",
+          "Weitere Aktivitätsangabe in 36_FollowUp.docx ohne eindeutiges Einzeldatum: „MDA nicht erreicht VAS >20/100,“. VAS-Domäne nicht angegeben."
+        ]
+      }
+    ]
+  }
+}

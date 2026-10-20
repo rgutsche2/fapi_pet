@@ -1,0 +1,282 @@
+{
+  "Patient": {
+    "Patient": 27,
+    "Erkrankung": "RA",
+    "Scans": {
+      "Baseline": "2021-04-30",
+      "Follow-up": "2021-09-13"
+    }
+  },
+  "fingerprint": "6238d5834f65c8696b40aa84c7c4561f996c0d2216fb9ed00992387057d387c9",
+  "Ergebnis": {
+    "Zeilen": [
+      {
+        "Zeitpunkt": "Baseline",
+        "Klinisches Datum": "2021-03-29",
+        "DAS28": 3.07,
+        "DAS28-Variante": "nicht angegeben",
+        "TJC": null,
+        "SJC": null,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 6.2,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": null,
+        "Aktuelle Therapie": "Rituximab, erste Gabe 1000 mg am 29.03.2021; Etoricoxib 60 mg abends.",
+        "Klinische Hauptmanifestation": "Mehrere schmerzhafte und geschwollene Gelenke ohne nähere Lokalisation. Aktuell keine Morgensteifigkeit bei abendlicher Einnahme von Etoricoxib.",
+        "Gelenkbefund": null,
+        "Weitere Gelenke": null,
+        "Verlauf": "Unzureichende Krankheitskontrolle unter Sulfasalazin und Hydroxychloroquin; beide am 18.03.2021 wegen fehlenden Ansprechens abgesetzt. Rituximab im Studienrahmen am 29.03.2021 begonnen und komplikationslos verabreicht.",
+        "Ansprechen (Ja/Nein)": null,
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "die sich am 18.03.2021 und 29.03.2021 ambulant vorstellte."
+            }
+          ],
+          "DAS28": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "DAS 28: 3,07"
+            }
+          ],
+          "DAS28-Variante": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "DAS 28: 3,07"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "nach 2 Gaben Rituximab 1000mg werden die Probanden 50/50 randomisiert und erhalten entweder Abatacept oder eine Beobachtung."
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Die erste Gabe von Rtx erfolgte komplikationslos am 29.03.2021."
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Etoricoxib 60 mg 0-0-1"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Vorstellung erstmalig in Studienambulanz bei sero-pos. RA und inadäquater Krankheitskontrolle unter SSZ und Hydroxychloroquin."
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Hydroxychloroquin und Sulfasalazin (11/2020-18.03.2021, abgesetzt bei fehlendem Therapieansprechen)"
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Die erste Gabe von Rtx erfolgte komplikationslos am 29.03.2021."
+            }
+          ]
+        },
+        "Hinweise": [
+          "29.03.2021 ist der belegte Besuch mit dem geringsten Abstand zum Baseline-Scan am 30.04.2021.",
+          "Labordatum nicht angegeben; DAS28 und Beschwerden keinem der beiden Besuche eindeutig zugeordnet.",
+          "Gelenkstatus enthält unausgefüllte Angaben zu Druckschmerz und Schwellung; keine verwertbaren Untersuchungsbefunde oder Gelenkzahlen.",
+          "Sulfasalazin und Hydroxychloroquin stehen noch unter Dauermedikation, sind laut Diagnoseangaben jedoch seit 18.03.2021 abgesetzt. Abatacept ist lediglich als mögliche spätere Studientherapie beschrieben."
+        ]
+      },
+      {
+        "Zeitpunkt": "Follow-up",
+        "Klinisches Datum": "2022-04-04",
+        "DAS28": 4.3,
+        "DAS28-Variante": "nicht angegeben",
+        "TJC": 6,
+        "SJC": 2,
+        "SDAI": null,
+        "CDAI": null,
+        "HAQ": null,
+        "CRP-Wert": 12.6,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
+        "BSG (mm nach 1 h)": 24,
+        "Aktuelle Therapie": "Rituximab, am Vorstellungstag erneut verabreicht; Prednisolon 5 mg täglich; Etoricoxib 60 mg bei Bedarf.",
+        "Klinische Hauptmanifestation": "Gelenkschmerzen an Händen und Füßen, teilweise mit Schwellungen; zusätzlich Knie, Ellenbogen und beide Schultern betroffen. Morgensteifigkeit etwa 60 Minuten.",
+        "Gelenkbefund": "Sechs druckschmerzhafte und zwei geschwollene Gelenke mit Synovitis; postarthritische Veränderungen der MCP-Gelenke rechts.",
+        "Weitere Gelenke": "Zusätzlich Schmerzen an Knien, Ellenbogen und beiden Schultern.",
+        "Verlauf": "Unter Rituximab ausdrücklich sehr gute Krankheitskontrolle und gute Wirksamkeit beschrieben. Dennoch aktuell polyartikuläre Schmerzen, teilweise Schwellungen, Morgensteifigkeit und klinische Synovitis; die Grunderkrankung wird als aktiv beurteilt. Erneute Rituximabgabe und Fortführung empfohlen.",
+        "Ansprechen (Ja/Nein)": "Ja",
+        "Belege": {
+          "Klinisches Datum": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "die sich am 04.04.2022 ambulant vorstellte."
+            }
+          ],
+          "DAS28": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "DAS28: 4,3"
+            }
+          ],
+          "DAS28-Variante": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "DAS28: 4,3"
+            }
+          ],
+          "TJC": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 6DS/ 2 Geschwollenen Gelenke."
+            }
+          ],
+          "SJC": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 6DS/ 2 Geschwollenen Gelenke."
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            }
+          ],
+          "CRP-Einheit": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            }
+          ],
+          "BSG (mm nach 1 h)": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "BSG: 24 mm/h"
+            }
+          ],
+          "Aktuelle Therapie": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Rituximab ; initial im Rahmen einer Studie"
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Nach klinischem Infektausschluss konnte RTX komplikationslos appliziert werden."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Predisolondosis stabil bei 5mg/d."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Etoricoxib 60 mg bei Bedarf"
+            }
+          ],
+          "Klinische Hauptmanifestation": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "MS ca. 60 Minuten."
+            }
+          ],
+          "Gelenkbefund": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Gelenkstatus: 6DS/ 2 Geschwollenen Gelenke. postarthrit. Veränderungen MCPs rechts"
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "In der klinischen Untersuchung zeigte sich der o.g. Befund, mit synovitischen Gelenken."
+            }
+          ],
+          "Weitere Gelenke": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Unter RTX sehr gute Krankheitskontrolle."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "MS ca. 60 Minuten."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "In der klinischen Untersuchung zeigte sich der o.g. Befund, mit synovitischen Gelenken."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung aktiv."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Nach klinischem Infektausschluss konnte RTX komplikationslos appliziert werden."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
+            }
+          ],
+          "Ansprechen (Ja/Nein)": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Unter RTX sehr gute Krankheitskontrolle."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
+            }
+          ]
+        },
+        "Hinweise": [
+          "Einziger belegter Besuch dieser Briefgruppe ist der 04.04.2022, nach dem Follow-up-Scan vom 13.09.2021; Labor ausdrücklich vom 04.04.2022.",
+          "Zählbereich von TJC und SJC nicht angegeben.",
+          "Rituximabdosis und aktuelles Intervall nicht angegeben.",
+          "Sehr gute Krankheitskontrolle und gute Wirksamkeit werden trotz fortbestehender klinisch aktiver Erkrankung dokumentiert; Ja bezeichnet den belegten klinischen Nutzen, keine Remission.",
+          "Zeitliche Abweichung beim Therapiebeginn: Follow-up nennt zwei Rituximabgaben im April 2021, Baseline dokumentiert die erste Gabe am 29.03.2021."
+        ]
+      }
+    ]
+  }
+}
