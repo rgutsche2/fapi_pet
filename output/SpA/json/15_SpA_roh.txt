@@ -10,16 +10,81 @@
       "LEI": null,
       "MASES": 0,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 28,
-      "Aktuelle Therapie": null,
-      "Klinische Hauptmanifestation": "Entzündlicher Rückenschmerz mit unzureichender Kontrolle durch NSAR und ausgeprägter Einschränkung der Wirbelsäulenbeweglichkeit.",
-      "Axiale Beschwerden / ISG": "Entzündlicher Rückenschmerz mit Linderung durch NSAR, jedoch ohne ausreichende Erkrankungskontrolle; Finger-Boden-Abstand 40 cm, Kinn-Jugulum-Abstand >5 cm und Hinterhaupt-Wand-Abstand >10 cm.",
-      "Weitere Gelenke": "Bisher keine periphere Gelenkbeteiligung; aktuell keine synovitischen Schwellungen oder Druckschmerzen an peripheren Gelenken.",
-      "Verlauf": "Persistierende Krankheitsaktivität nach jahrelanger unzureichend wirksamer NSAR-Therapie; Umstellung auf ein Biologikum beziehungsweise Einleitung von Secukinumab vorgesehen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Entzündlicher Rückenschmerz mit ausgeprägter Einschränkung der Wirbelsäulenbeweglichkeit und unzureichender Kontrolle unter NSAR.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "verneint",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Wirbelsäule.",
+      "Klinischer Befund (Details)": "Finger-Boden-Abstand 40 cm, Kinn-Jugulum-Abstand >5 cm, Hinterhaupt-Wand-Abstand >10 cm. Periphere Gelenke ohne Druckschmerz oder synovitische Schwellung; untersuchte Enthesen ohne Druckschmerz.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Langjährige NSAR-Therapie mit Schmerzlinderung, aber unzureichender Erkrankungskontrolle und fortschreitender axialer Entzündung; Einleitung von Secukinumab vorgesehen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "15_Baseline.docx",
+              "Zitat": "aktuelle Therapie: Einleitung Secukinumab"
+            }
+          ],
+          "Hinweise": [
+            "Einleitung genannt; tatsächlicher Behandlungsbeginn in dieser Briefgruppe nicht belegt."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "15_Baseline.docx",
+              "Zitat": "bisherige Therapie: Ibuprofen, Diclofenac Retard (jeweils über mehrere Monate ohne ausreichende Wirkung)"
+            }
+          ],
+          "Hinweise": [
+            "Als bisherige Therapie aufgeführt; genauer Absetzzeitpunkt nicht genannt."
+          ]
+        },
+        {
+          "Wirkstoff": "Diclofenac",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Diclofenac Retard",
+          "Belege": [
+            {
+              "Datei": "15_Baseline.docx",
+              "Zitat": "bisherige Therapie: Ibuprofen, Diclofenac Retard (jeweils über mehrere Monate ohne ausreichende Wirkung)"
+            }
+          ],
+          "Hinweise": [
+            "Als bisherige Therapie aufgeführt; genauer Absetzzeitpunkt nicht genannt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -43,6 +108,12 @@
           {
             "Datei": "15_Baseline.docx",
             "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Wert": [
@@ -83,45 +154,70 @@
           {
             "Datei": "15_Baseline.docx",
             "Zitat": "entzündlicher Rückenschmerz mit Linderung auf NSAR, allerdings ohne ausreichende Erkrankungskontrolle"
-          },
-          {
-            "Datei": "15_Baseline.docx",
-            "Zitat": "Wirbelsäule: FBA 40cm, Kinn-Jugulum Abstand >5cm, Hinterhaupt-Wnad-Abstand: >10cm, BASMI elektronisch verfügbar"
           }
         ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
           {
             "Datei": "15_Baseline.docx",
             "Zitat": "Keine periphere Gelenkbeteiligung bisher auffällig, einmalig Uveitis, kein Hinweis auf CED."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "15_Baseline.docx",
             "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS, TJC = 0 (68 Gelenke), SJC = 0 (66 Gelenke)"
           }
         ],
-        "Verlauf": [
+        "Enthesitis": [
           {
             "Datei": "15_Baseline.docx",
-            "Zitat": "In der Zusammenschau der Befund persistierende Aktivität der rheumatologischen Grunderkrankung."
+            "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "Wirbelsäule: FBA 40cm, Kinn-Jugulum Abstand >5cm, Hinterhaupt-Wnad-Abstand: >10cm, BASMI elektronisch verfügbar"
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "Wirbelsäule: FBA 40cm, Kinn-Jugulum Abstand >5cm, Hinterhaupt-Wnad-Abstand: >10cm, BASMI elektronisch verfügbar"
           },
           {
             "Datei": "15_Baseline.docx",
-            "Zitat": "bisherige Therapie: Ibuprofen, Diclofenac Retard (jeweils über mehrere Monate ohne ausreichende Wirkung)"
+            "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS, TJC = 0 (68 Gelenke), SJC = 0 (66 Gelenke)"
+          },
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "In der Zusammenschau der Befund persistierende Aktivität der rheumatologischen Grunderkrankung."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "entzündlicher Rückenschmerz mit Linderung auf NSAR, allerdings ohne ausreichende Erkrankungskontrolle"
+          },
+          {
+            "Datei": "15_Baseline.docx",
+            "Zitat": "Nach jahrelanger NSAR-Therapie mit unterschiedlichen Präparaten, fortschreitender Entzündung am Achsenskelett ist eine Umstellung auf ein Biologikum indiziert."
           },
           {
             "Datei": "15_Baseline.docx",
             "Zitat": "aktuelle Therapie: Einleitung Secukinumab"
-          },
-          {
-            "Datei": "15_Baseline.docx",
-            "Zitat": "Quantiferon-Test ist noch ausstehend."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben.",
-        "BKS 28/49: nach Studienkonvention erster Wert 28 als BSG nach einer Stunde übernommen.",
-        "Secukinumab-Einleitung genannt, aber laufende Anwendung am Referenztermin nicht belegt; konkretes aktuell eingenommenes NSAR und Dosierung nicht angegeben."
+        "Laborwerte einschließlich CRP und BKS ohne eigenes Messdatum; kein Messdatum aus dem klinischen Referenztermin abgeleitet.",
+        "BKS 28/49 gemäß Studienkonvention als BSG nach einer Stunde mit 28 mm übernommen."
       ]
     },
     {
@@ -134,16 +230,47 @@
       "LEI": null,
       "MASES": 0,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Secukinumab seit Dezember 2018; bisherige Dosis und Intervall nicht angegeben.",
-      "Klinische Hauptmanifestation": "Trotz deutlicher Besserung weiterhin schlafraubende axiale Schmerzen und erhebliche Bewegungseinschränkung mit Tagesmüdigkeit und verminderter Leistungsfähigkeit. Sensibilitätsdefizit am linken Oberschenkel und Kribbelparästhesien beider Kleinfinger.",
-      "Axiale Beschwerden / ISG": "Axiale Schmerzen deutlich gebessert, jedoch weiterhin Beschwerden beim Liegen und HWS-Brennen nach zehn Minuten Fahrrad- oder Motorradfahren. Kopfhebung und Überkopfarbeiten eingeschränkt; Schmerzen bei längerem Sitzen oder Stehen.",
-      "Weitere Gelenke": "Periphere Arthralgien deutlich gebessert; aktuell keine synovitischen Gelenkschwellungen oder Druckschmerzen.",
-      "Verlauf": "Klinische Teilbesserung der peripheren Arthralgien und axialen Schmerzen unter Secukinumab, jedoch weiterhin erhebliche axiale Beschwerden und klinisch persistierende Aktivität. Dosissteigerung auf 300 mg alle vier Wochen und kontinuierliche Physiotherapie empfohlen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Trotz Besserung weiterhin schlafraubende axiale Schmerzen und ausgeprägte Bewegungs- und Leistungseinschränkungen. Zusätzlich sensible Beschwerden am linken Oberschenkel und an beiden Kleinfingern.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "unklar",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Wirbelsäule, insbesondere HWS; sensible Beschwerden am linken Oberschenkel und an beiden Kleinfingern.",
+      "Klinischer Befund (Details)": "Axiale Schmerzen beim Liegen mit Schlafstörung und Tagesmüdigkeit; Überkopfarbeiten nicht möglich, Kopfhebung und manuelle Fähigkeiten eingeschränkt. HWS-Brennen nach zehn Minuten Fahrrad- oder Motorradfahren; Schmerzen bei Sitzen oder Stehen über 30 Minuten. Finger-Boden-Abstand 40 cm, Kinn-Jugulum-Abstand >5 cm, Hinterhaupt-Wand-Abstand >10 cm. Keine peripheren Druckschmerzen oder synovitischen Schwellungen; untersuchte Enthesen ohne Druckschmerz. Periphere Arthralgien gebessert, aktueller Restumfang unklar.",
+      "Beurteilte Therapie": "Secukinumab",
+      "Ansprechen": "Partiell",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter Secukinumab seit Dezember 2018 deutliche Besserung axialer Schmerzen und peripherer Arthralgien, jedoch weiterhin relevante axiale Beschwerden und klinische Aktivität. Deshalb Fortführung mit empfohlener Dosissteigerung auf 300 mg alle vier Wochen; zusätzliche Bewegungseinschränkungen durch Verknöcherungen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Steigerung der Dosis auf 300mg alle 4 Wochen",
+          "Belege": [
+            {
+              "Datei": "15_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab seit 12/18;"
+            },
+            {
+              "Datei": "15_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher die Fortführung der Therapie mit Secukinumab allerdings mit Steigerung der Dosis auf 300mg alle 4 Wochen."
+            }
+          ],
+          "Hinweise": [
+            "Laufende Dosis und bisheriges Intervall nicht angegeben. 300 mg alle vier Wochen sind als empfohlene Dosissteigerung dokumentiert; Umsetzung nicht belegt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -169,6 +296,12 @@
             "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "15_FollowUp.docx",
@@ -187,17 +320,7 @@
             "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "15_FollowUp.docx",
-            "Zitat": "aktuelle Therapie: Secukinumab seit 12/18;"
-          }
-        ],
         "Klinische Hauptmanifestation": [
-          {
-            "Datei": "15_FollowUp.docx",
-            "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
-          },
           {
             "Datei": "15_FollowUp.docx",
             "Zitat": "Weiterhin axiale Beschwerden beim Liegen, schlafraubend, daher Tagesmüdigkeit, deutliche Einschränkung der Leistungsfähigkeit."
@@ -214,32 +337,102 @@
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "15_FollowUp.docx",
+            "Zitat": "Weiterhin axiale Beschwerden beim Liegen, schlafraubend, daher Tagesmüdigkeit, deutliche Einschränkung der Leistungsfähigkeit."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "15_FollowUp.docx",
             "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
           },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "bisher keine Beteiligung der peripheren Gelenke"
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS, TJC = 0 (68 Gelenke), SJC = 0 (66 Gelenke)"
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
+          }
+        ],
+        "Betroffene Regionen": [
           {
             "Datei": "15_FollowUp.docx",
             "Zitat": "Weiterhin axiale Beschwerden beim Liegen, schlafraubend, daher Tagesmüdigkeit, deutliche Einschränkung der Leistungsfähigkeit."
           },
           {
             "Datei": "15_FollowUp.docx",
-            "Zitat": "Überkopfarbeiten nicht möglich. Kopfhebung eingeschränkt. Brennen in HWS nach 10min Fahrradfahren/Motorradfahren."
+            "Zitat": "Brennen in HWS nach 10min Fahrradfahren/Motorradfahren."
           },
           {
             "Datei": "15_FollowUp.docx",
-            "Zitat": "Schmerzen und Konzentrationsschwierigkeiten bei längerem Sitzen/Stehen (> 30 Minuten)."
+            "Zitat": "Weiterhin Sensibilitätsdefizit Oberschenkel links, Kribbelparästhesien Kleinfinger bds."
           }
         ],
-        "Weitere Gelenke": [
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Weiterhin axiale Beschwerden beim Liegen, schlafraubend, daher Tagesmüdigkeit, deutliche Einschränkung der Leistungsfähigkeit."
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Überkopfarbeiten nicht möglich. Kopfhebung eingeschränkt. Brennen in HWS nach 10min Fahrradfahren/Motorradfahren. Einschränkung der manuellen Fähigkeiten. Schmerzen und Konzentrationsschwierigkeiten bei längerem Sitzen/Stehen (> 30 Minuten)."
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Wirbelsäule: FBA 40cm, Kinn-Jugulum Abstand >5cm, Hinterhaupt-Wnad-Abstand: >10cm, BASMI elektronisch verfügbar"
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS, TJC = 0 (68 Gelenke), SJC = 0 (66 Gelenke)"
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Enthesen: kein DS costochondral, Spina iliaca ant sup, Spina iliaca psot sup, 5. LWK Proc spinosus, Achllessehne, Schweregrad 0, MASES 0"
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "Wiedervorstellung zur Verlaufskontrolle nach Beginn Secukinumab bei fortgeschrittenem Krankheitsstadium einer axSPA."
+          },
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "In der Zusammenschau der Befund zwar deutliche Befundbesserung unter begonnener Therapie mit Secukinumab, allerdings klinisch und bildmorphologisch weiterhin Hinweise der persistierenden Aktivität."
+          }
+        ],
+        "Ansprechen": [
           {
             "Datei": "15_FollowUp.docx",
             "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
           },
           {
             "Datei": "15_FollowUp.docx",
-            "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS, TJC = 0 (68 Gelenke), SJC = 0 (66 Gelenke)"
+            "Zitat": "In der Zusammenschau der Befund zwar deutliche Befundbesserung unter begonnener Therapie mit Secukinumab, allerdings klinisch und bildmorphologisch weiterhin Hinweise der persistierenden Aktivität."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "In der Zusammenschau der Befund zwar deutliche Befundbesserung unter begonnener Therapie mit Secukinumab, allerdings klinisch und bildmorphologisch weiterhin Hinweise der persistierenden Aktivität."
           }
         ],
         "Verlauf": [
+          {
+            "Datei": "15_FollowUp.docx",
+            "Zitat": "aktuelle Therapie: Secukinumab seit 12/18;"
+          },
           {
             "Datei": "15_FollowUp.docx",
             "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
@@ -256,18 +449,13 @@
             "Datei": "15_FollowUp.docx",
             "Zitat": "Zusätzlich ist auf eine kontinuierliche physiotherapeutische Beübung zu achten, da bei dem Pat. bereits durch die rezidivierenden Entzündungsherde Verknöcherungen und eine deutliche Einschränkung der Beweglichkeit eingetreten sind."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "15_FollowUp.docx",
-            "Zitat": "Pat. berichtet von deutlicher Besserung der peripheren Arthralgien, axialen Schmerzen."
-          }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
-        "300 mg alle vier Wochen ist eine empfohlene Dosissteigerung, keine belegte bereits laufende Dosierung.",
-        "Die fortgeführte Diagnoseangabe einer bisher fehlenden peripheren Beteiligung steht neben aktuell berichteten gebesserten peripheren Arthralgien; der aktuelle Untersuchungsbefund zeigt keine Schwellungen oder Druckschmerzen."
+        "CRP ohne eigenes Messdatum; kein Messdatum aus dem klinischen Referenztermin abgeleitet.",
+        "Periphere Arthralgien anamnestisch deutlich gebessert, aber aktuelle Restbeschwerden nicht eindeutig beschrieben; zugleich Diagnoseangabe ohne bisherige periphere Gelenkbeteiligung.",
+        "Partielles Ansprechen wegen klinischer Besserung bei verbleibenden relevanten axialen Beschwerden und ausdrücklich persistierender klinischer Aktivität.",
+        "Bildgebende Ansatzsehnenveränderungen ohne klinischen Enthesitisnachweis nicht als klinische Enthesitis übernommen."
       ]
     }
   ]

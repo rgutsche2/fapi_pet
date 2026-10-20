@@ -10,20 +10,105 @@
       "LEI": 2,
       "PASI": 3.2,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Apremilast 30 mg zweimal täglich; Enstilar-Schaum bei Bedarf.",
-      "Klinische Hauptmanifestation": "Arthralgien der Hände, Ellenbogen und Füße bei Verdacht auf PsA, ohne sicheren klinischen Arthritisnachweis. Keine Bewegungseinschränkung.",
-      "Periphere Gelenkbeschwerden": "Arthralgien der Hände, Ellenbogen und Füße, Schmerzstärke 3–4/10, in Ruhe und unter Belastung, morgens am stärksten; anamnestisch MCP-Schwellungen. Klinisch 12 druckschmerzhafte und keine geschwollenen Gelenke, Druckschmerz der lateralen Epicondylen beidseits, keine Bewegungseinschränkung.",
-      "Axiale Beschwerden / ISG": null,
-      "Enthesitis": "Druckschmerz der lateralen Epicondylen beidseits; rechts Befund vereinbar mit Epicondylitis, differenzialdiagnostisch Enthesitis.",
-      "Daktylitis": null,
-      "Hautbeteiligung": "Großfleckige floride Psoriasis-Plaques an den Streckseiten beider Ellenbogen und Knie; Verschlechterung unter Apremilast.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Weiterhin diffuse Arthralgien ohne sicheren klinischen oder arthrosonographischen Arthritisnachweis. Frühere Prednisolontherapie und Schnappfingeroperation rechts ohne Besserung. Zunehmender Wirkverlust von Apremilast mit Verschlechterung der Psoriasis; Arcoxia-Einleitung empfohlen und mögliche Therapieumstellung nach weiterer Abklärung erwogen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Diffuse Arthralgien der Hände, Ellenbogen und Füße ohne Bewegungseinschränkung; floride Plaque-Psoriasis.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "unklar",
+      "Enthesitis": "unklar",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Hände einschließlich MCP-Gelenken, Ellenbogen und Füße; Haut an Ellenbogen- und Kniestreckseiten beidseits.",
+      "Klinischer Befund (Details)": "Arthralgien VAS 3–4/10 in Ruhe und unter Belastung, morgens am stärksten. MCP-Schwellungen anamnestisch berichtet, aktuell 0 geschwollene Gelenke und kein sicherer klinischer Arthritisnachweis. Beidseitiger Druckschmerz am lateralen Epicondylus; rechts Epicondylitis, differenzialdiagnostisch Enthesitis. Keine Bewegungseinschränkung. Großflächige floride Psoriasis-Plaques beidseits an Ellenbogen und Knien.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Unklar",
+      "Verlauf": "Anhaltende Arthralgien ohne sicheren klinischen Arthritisnachweis. Prednisolon im vergangenen Sommer ohne Besserung ausgeschlichen. Zunehmender kutaner Wirkverlust unter Apremilast; Etoricoxib und weitere MRT-Abklärung empfohlen, Therapieumstellung abhängig vom Verlauf erwogen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Apremilast",
+          "Dosis": 30,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Apremilast 30 mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "33_Baseline.docx",
+              "Zitat": "Apremilast 30 mg 1-0-1"
+            },
+            {
+              "Datei": "33_Baseline.docx",
+              "Zitat": "Aktuelle Therapie: Apremilast seit 05/2021"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Enstilar",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Enstilar Schaum b.B",
+          "Belege": [
+            {
+              "Datei": "33_Baseline.docx",
+              "Zitat": "Enstilar Schaum b.B"
+            }
+          ],
+          "Hinweise": [
+            "Handelsname erhalten; Einzelwirkstoffe im Brief nicht angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "33_Baseline.docx",
+              "Zitat": "Die Prednisolon-Therapie sei letzten Sommer eingenommen und wie besprochen ausgeschlichen worden, diese habe jedoch keine Besserung erbracht."
+            }
+          ],
+          "Hinweise": [
+            "Abgeschlossene Behandlung ohne berichteten Nutzen."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 60,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "geplant",
+          "Dosierung (Original)": "Arcoxia 60 mg 1-0-1 über 2 Wochen, dann 1-0-0 über 2 Wochen und dann bei Bedarf bis max. 2x/täglich.",
+          "Belege": [
+            {
+              "Datei": "33_Baseline.docx",
+              "Zitat": "Wir empfahlen des Weiteren eine Therapie mit Arcoxia 60 mg 1-0-1 über 2 Wochen, dann 1-0-0 über 2 Wochen und dann bei Bedarf bis max. 2x/täglich."
+            }
+          ],
+          "Hinweise": [
+            "Zunächst regelmäßige Einnahme nach Stufenschema, anschließend bei Bedarf; kein einheitliches Intervall."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -55,6 +140,12 @@
             "Zitat": "PASI: 3.2"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "33_Baseline.docx",
@@ -73,16 +164,6 @@
             "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "33_Baseline.docx",
-            "Zitat": "Apremilast 30 mg 1-0-1"
-          },
-          {
-            "Datei": "33_Baseline.docx",
-            "Zitat": "Enstilar Schaum b.B"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "33_Baseline.docx",
@@ -90,14 +171,60 @@
           },
           {
             "Datei": "33_Baseline.docx",
-            "Zitat": "Die Patientin berichtet weiterhin über diffuse Arthralgien, klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis, arthrosonographisch zeigt sich ein Befund vereinbar mit Epicondylitis rechts, differenzialdiagnostisch auch mit einer Enthesitis vereinbar."
+            "Zitat": "Gelenkstatus: 12 TJ 0 SJ, DS der Epicondylus lat. bds. keine Bewegungseinschränkung"
+          },
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Sie berichtet über Arthralgien (VAS 3-4/10) der Hände, Ellenbogen und Füße."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Es sei zu Schwellungen der MCP-Gelenke gekommen."
           },
           {
             "Datei": "33_Baseline.docx",
             "Zitat": "Gelenkstatus: 12 TJ 0 SJ, DS der Epicondylus lat. bds. keine Bewegungseinschränkung"
           }
         ],
-        "Periphere Gelenkbeschwerden": [
+        "Enthesitis": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Die Patientin berichtet weiterhin über diffuse Arthralgien, klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis, arthrosonographisch zeigt sich ein Befund vereinbar mit Epicondylitis rechts, differenzialdiagnostisch auch mit einer Enthesitis vereinbar."
+          },
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "LEI: 2"
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Sie berichtet über Arthralgien (VAS 3-4/10) der Hände, Ellenbogen und Füße."
+          },
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Es sei zu Schwellungen der MCP-Gelenke gekommen."
+          },
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds."
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "33_Baseline.docx",
             "Zitat": "Sie berichtet über Arthralgien (VAS 3-4/10) der Hände, Ellenbogen und Füße."
@@ -113,26 +240,20 @@
           {
             "Datei": "33_Baseline.docx",
             "Zitat": "Gelenkstatus: 12 TJ 0 SJ, DS der Epicondylus lat. bds. keine Bewegungseinschränkung"
-          }
-        ],
-        "Enthesitis": [
-          {
-            "Datei": "33_Baseline.docx",
-            "Zitat": "Gelenkstatus: 12 TJ 0 SJ, DS der Epicondylus lat. bds. keine Bewegungseinschränkung"
           },
           {
             "Datei": "33_Baseline.docx",
             "Zitat": "Die Patientin berichtet weiterhin über diffuse Arthralgien, klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis, arthrosonographisch zeigt sich ein Befund vereinbar mit Epicondylitis rechts, differenzialdiagnostisch auch mit einer Enthesitis vereinbar."
-          }
-        ],
-        "Hautbeteiligung": [
-          {
-            "Datei": "33_Baseline.docx",
-            "Zitat": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds."
           },
           {
             "Datei": "33_Baseline.docx",
-            "Zitat": "Seitens der Psoriasis ist es zu einer Verschlechterung unter Apremilast-Therapie gekommen."
+            "Zitat": "Haut: großfleckige floride Pso-Plaques Ellenbogen und Kniegelenke-Streckseite bds."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Die Patientin berichtet weiterhin über diffuse Arthralgien, klinisch und arthrosonographisch findet sich weiterhin kein sicherer Hinweis für eine Arthritis, arthrosonographisch zeigt sich ein Befund vereinbar mit Epicondylitis rechts, differenzialdiagnostisch auch mit einer Enthesitis vereinbar."
           }
         ],
         "Verlauf": [
@@ -146,15 +267,15 @@
           },
           {
             "Datei": "33_Baseline.docx",
-            "Zitat": "Sie habe eine Operation bei Schnappfinger (Ringfinger rechts) im 11/2023 erhalten, es sei darunter zu keiner Besserung gekommen."
+            "Zitat": "Seitens der Psoriasis ist es zu einer Verschlechterung unter Apremilast-Therapie gekommen."
+          },
+          {
+            "Datei": "33_Baseline.docx",
+            "Zitat": "Zur weiteren Abklärung initiierten wir heute eine Hand- und Fuß-MRT rechts."
           },
           {
             "Datei": "33_Baseline.docx",
             "Zitat": "Wir empfahlen des Weiteren eine Therapie mit Arcoxia 60 mg 1-0-1 über 2 Wochen, dann 1-0-0 über 2 Wochen und dann bei Bedarf bis max. 2x/täglich."
-          },
-          {
-            "Datei": "33_Baseline.docx",
-            "Zitat": "Seitens der Psoriasis ist es zu einer Verschlechterung unter Apremilast-Therapie gekommen."
           },
           {
             "Datei": "33_Baseline.docx",
@@ -163,10 +284,12 @@
         ]
       },
       "Hinweise": [
-        "Klinischer Referenztermin gemäß Baseline-Briefgruppe am 11.01.2024, nach dem Baseline-Scan vom 20.10.2023.",
-        "Labordatum nicht angegeben. PASI und LEI ohne ausdrücklich genanntes Messdatum; TJC-/SJC-Zählbereich nicht angegeben.",
-        "Weitere Scores aus 33_Baseline.docx ohne ausdrücklich genanntes Messdatum: „BASDAI: 2.8“ und „MASES: 0“.",
-        "PsA im klinischen Baseline-Befund weiterhin Verdachtsdiagnose; Bildgebungsbefunde nicht als klinische Arthritis oder Enthesitis übernommen."
+        "Einziger belegter rheumatologischer Besuch dieser Briefgruppe am 11.01.2024, nach dem Baseline-Scan.",
+        "Labordatum und separate Erhebungstage von LEI und PASI nicht angegeben; Zählbereich von TJC/SJC nicht dokumentiert.",
+        "Anamnestische MCP-Schwellungen bei aktuell SJC 0; Zeitpunkt der berichteten Schwellungen unklar.",
+        "Enthesitis nur differenzialdiagnostisch beschrieben, trotz dokumentiertem LEI 2.",
+        "Muskuloskelettale entzündliche Aktivität nicht sicher bestätigt; kutane Psoriasis ausdrücklich aktiv.",
+        "Weitere Scores: BASDAI 2.8, Originalzitat: „BASDAI: 2.8“; MASES 0, Originalzitat: „MASES: 0“; jeweils 33_Baseline.docx."
       ]
     },
     {
@@ -179,20 +302,88 @@
       "LEI": null,
       "PASI": 0,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Bimekizumab 160 mg subkutan alle 28 Tage seit 08/2024, aktuell wegen wiederholter Infekte und Mukositis pausiert; letzte Gabe am 28.01.",
-      "Klinische Hauptmanifestation": "Seit der Therapiepause vermehrte Gelenkbeschwerden vor allem an Händen und Knien. Keine Bewegungseinschränkung.",
-      "Periphere Gelenkbeschwerden": "Vermehrte Beschwerden an Händen und Knien seit der Bimekizumab-Pause; Schwellungen verneint, Morgensteifigkeit unter 15 Minuten. Klinisch 12 druckschmerzhafte und keine geschwollenen Gelenke, keine Bewegungseinschränkung.",
-      "Axiale Beschwerden / ISG": null,
-      "Enthesitis": "Kein Druckschmerz der Enthesen.",
-      "Daktylitis": null,
-      "Hautbeteiligung": "Aktueller Hautbefund unauffällig.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Unter Bimekizumab zuvor guter klinischer Nutzen; seit der Pause vermehrte Gelenkbeschwerden. Mukositis nach Pausierung rückläufig, aktueller Hautbefund unauffällig. Einmalige erneute Bimekizumab-Gabe empfohlen; bei erneuter Mukositis Umstellung auf Guselkumab erwogen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Vermehrte Gelenkbeschwerden insbesondere an Händen und Knien während der Bimekizumab-Pause, ohne Schwellungen oder Bewegungseinschränkung.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "verneint",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Hände und Kniegelenke.",
+      "Klinischer Befund (Details)": "12 druckschmerzhafte und 0 geschwollene Gelenke. Morgensteifigkeit unter 15 Minuten. Kein Enthesendruckschmerz, keine Bewegungseinschränkung; Haut unauffällig.",
+      "Beurteilte Therapie": "Bimekizumab",
+      "Ansprechen": "Deutlich",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Bisher guter klinischer Nutzen von Bimekizumab; während der Pause vermehrte Gelenkbeschwerden bei unauffälliger Haut. Pause wegen wiederholter Infekte und Mukositis, letztere darunter rückläufig. Einmalige erneute Gabe empfohlen; bei erneut auftretender Mukositis Umstellung auf Guselkumab erwogen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Bimekizumab",
+          "Dosis": 160,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 28,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "pausiert",
+          "Dosierung (Original)": "Bimekizumab 160mg s.c. alle 28 d seit 08/2024, aktuell pausiert bei rez. Infekten und Mukositis",
+          "Belege": [
+            {
+              "Datei": "33_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Bimekizumab 160mg s.c. alle 28 d seit 08/2024, aktuell pausiert bei rez. Infekten und Mukositis"
+            },
+            {
+              "Datei": "33_FollowUp.docx",
+              "Zitat": "Da die Patientin bisher von Bimekizumab gut profitiert hat, empfahlen wir einmalig noch das Medikament zu verabreichen und eine Beobachtung hinsichtlich de Mukositis."
+            }
+          ],
+          "Hinweise": [
+            "Zuletzt am 28.01. appliziert; einmalige erneute Gabe empfohlen, Durchführung nicht belegt."
+          ]
+        },
+        {
+          "Wirkstoff": "Guselkumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "33_FollowUp.docx",
+              "Zitat": "Sollte die Mukositis wieder auftreten, planen wir die Umstellung der bDMARD-Therapie, in erster Linie steht eine anti-IL23 -Therapie wie Guselkumab in Raum."
+            }
+          ],
+          "Hinweise": [
+            "Bedingte Planung bei erneutem Auftreten der Mukositis."
+          ]
+        },
+        {
+          "Wirkstoff": "Apremilast",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "33_FollowUp.docx",
+              "Zitat": "bisherige Therapie: Apremilast seit 05/2021 bis 06.24"
+            }
+          ],
+          "Hinweise": [
+            "Im Juni 2024 beendet; keine Dosisangabe in dieser Briefgruppe."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -218,6 +409,12 @@
             "Zitat": "PASI: 0"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "33_FollowUp.docx",
@@ -236,16 +433,6 @@
             "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "33_FollowUp.docx",
-            "Zitat": "Aktuelle Therapie: Bimekizumab 160mg s.c. alle 28 d seit 08/2024, aktuell pausiert bei rez. Infekten und Mukositis"
-          },
-          {
-            "Datei": "33_FollowUp.docx",
-            "Zitat": "Das Medikament sei zuletzt am 28.01. appliziert worden, danach habe die Patientin die Medikation pausiert, da sie unter einen grippalen Infekt und Otitis über mehrere Wochen gelitten habe, sie habe bis vor 3 Wochen noch Antibiotika eingenommen, nun seien die Beschwerden zurückgegangen."
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "33_FollowUp.docx",
@@ -260,14 +447,12 @@
           {
             "Datei": "33_FollowUp.docx",
             "Zitat": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "33_FollowUp.docx",
             "Zitat": "Schwellungen werden verneint."
-          },
-          {
-            "Datei": "33_FollowUp.docx",
-            "Zitat": "Die Morgensteifigkeit sei nur kurz < 15 Minute."
           },
           {
             "Datei": "33_FollowUp.docx",
@@ -286,6 +471,52 @@
             "Zitat": "Haut: opB"
           }
         ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Gelenkstatus: 12 TJ 0 SJ , keine DS der Enthesen, keine Bewegungseinschränkung"
+          },
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Die Morgensteifigkeit sei nur kurz < 15 Minute."
+          },
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Haut: opB"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Da die Patientin bisher von Bimekizumab gut profitiert hat, empfahlen wir einmalig noch das Medikament zu verabreichen und eine Beobachtung hinsichtlich de Mukositis."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Da die Patientin bisher von Bimekizumab gut profitiert hat, empfahlen wir einmalig noch das Medikament zu verabreichen und eine Beobachtung hinsichtlich de Mukositis."
+          },
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke."
+          },
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "MDA nicht erreicht"
+          }
+        ],
         "Verlauf": [
           {
             "Datei": "33_FollowUp.docx",
@@ -297,33 +528,27 @@
           },
           {
             "Datei": "33_FollowUp.docx",
-            "Zitat": "Seitdem Bimekizumab pausiert sei , sei die Mukositis auch zurückgegangen."
+            "Zitat": "Haut: opB"
           },
           {
             "Datei": "33_FollowUp.docx",
-            "Zitat": "Haut: opB"
+            "Zitat": "Aktuelle Therapie: Bimekizumab 160mg s.c. alle 28 d seit 08/2024, aktuell pausiert bei rez. Infekten und Mukositis"
+          },
+          {
+            "Datei": "33_FollowUp.docx",
+            "Zitat": "Seitdem Bimekizumab pausiert sei , sei die Mukositis auch zurückgegangen."
           },
           {
             "Datei": "33_FollowUp.docx",
             "Zitat": "Sollte die Mukositis wieder auftreten, planen wir die Umstellung der bDMARD-Therapie, in erster Linie steht eine anti-IL23 -Therapie wie Guselkumab in Raum."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "33_FollowUp.docx",
-            "Zitat": "Da die Patientin bisher von Bimekizumab gut profitiert hat, empfahlen wir einmalig noch das Medikament zu verabreichen und eine Beobachtung hinsichtlich de Mukositis."
-          },
-          {
-            "Datei": "33_FollowUp.docx",
-            "Zitat": "Seit der Pause der Medikation spüre sie vermehrt Gelenkbeschwerden, insbesondere der Hände und Kniegelenke."
-          }
         ]
       },
       "Hinweise": [
-        "CRP vom 21.03.2025. PASI ohne ausdrücklich genanntes Messdatum; TJC-/SJC-Zählbereich nicht angegeben.",
-        "Mehrdeutige gemeinsame Scoreangabe aus 33_FollowUp.docx: „MASES/LEI 0“; LEI deshalb null.",
-        "Weitere Angabe aus 33_FollowUp.docx: „MDA nicht erreicht“.",
-        "Ansprechen bezieht sich auf den dokumentierten bisherigen Nutzen von Bimekizumab; zum Referenztermin war die Therapie pausiert und die Gelenkbeschwerden hatten zugenommen. Die empfohlene erneute Gabe und Guselkumab sind keine bereits laufenden Behandlungen."
+        "CRP-Labordatum: 21.03.2025.",
+        "Zählbereich von TJC/SJC nicht dokumentiert.",
+        "LEI bleibt null wegen gemeinsamer, nicht eindeutig zuordenbarer Angabe „MASES/LEI 0“ in 33_FollowUp.docx.",
+        "Ansprechen beschreibt den ausdrücklich berichteten bisherigen guten Nutzen von Bimekizumab; aktuell vermehrte Beschwerden während der Therapiepause."
       ]
     }
   ]

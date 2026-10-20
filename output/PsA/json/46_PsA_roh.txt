@@ -10,20 +10,161 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Methotrexat 15 mg freitags, Naproxen 500 mg zweimal täglich und Ibuprofen bei Bedarf.",
-      "Klinische Hauptmanifestation": "Aktive PsA mit führenden Enthesenbeschwerden und Daktylitis rechts; Synovitis der kleinen Fingergelenke nach Prednisolonstoß rückläufig.",
-      "Periphere Gelenkbeschwerden": "Rückläufige Synovitis der kleinen Fingergelenke; Druckschmerz und Schwellung am PIP IV rechts. Beschwerden an beiden Ellenbogen und Schultergelenken.",
-      "Axiale Beschwerden / ISG": "Kostovertebrale Beschwerden; Wirbelsäule frei beweglich.",
-      "Enthesitis": "Klinisch alle Enthesen betroffen; Beschwerden insbesondere an beiden Achillessehnen und Plantarfaszien.",
-      "Daktylitis": "Daktylitis am rechten Finger IV.",
-      "Hautbeteiligung": "Keine aktuelle Psoriasis der Haut.",
-      "Nagelbeteiligung": "Nagelpsoriasis an allen Nägeln.",
-      "Verlauf": "Nach Prednisolonstoß deutlicher Rückgang der Fingergelenksynovitis, jedoch persistierende PsA-Aktivität mit führenden Enthesenbeschwerden unter Methotrexat. Erweiterung um Tofacitinib 5 mg zweimal täglich empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Aktive PsA mit führender Enthesitis, Daktylitis rechts IV und verbliebener schmerzhafter Gelenkschwellung am PIP IV rechts.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "vorhanden",
+      "Daktylitis": "vorhanden",
+      "Hautbeteiligung": "verneint",
+      "Nagelbeteiligung": "vorhanden",
+      "Betroffene Regionen": "PIP IV und Finger IV rechts; Finger, Ellenbogen, Schultern, Achillessehnen und Plantarfaszien beidseits; kostovertebraler Bereich; sämtliche Nägel.",
+      "Klinischer Befund (Details)": "Synovitis kleiner Fingergelenke nach Prednisolonstoß deutlich rückläufig; weiterhin ausgeprägte Sehnenbeschwerden. Klinisch Enthesitis sämtlicher Enthesen, Daktylitis IV rechts und Druckschmerz mit Schwellung am PIP IV rechts. Kostovertebrale Beschwerden bei frei beweglicher Wirbelsäule; FBA, Hinterhauptwandabstand und WTA jeweils 0 cm. Keine Hautpsoriasis, Nagelpsoriasis sämtlicher Nägel.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter MTX persistierende PsA-Aktivität mit führender Enthesitis. Nach Prednisolonstoß deutliche Rückbildung der Fingersynovitis, jedoch weiterhin relevante Sehnenbeschwerden und Daktylitis. Erweiterung um Tofacitinib empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Lantarel 15mg freitags",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Lantarel 15mg freitags"
+            },
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "In der Zusammenschau der Befunde sehen wir unter der bestehenden Basistherapie mit MTX eine persistierende Aktivität der PsA mit führender Enthesiopathien."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Tofacitinib",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Tofacitinib 5mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Wir empfehlen daher eine Erweiterung der Basistherapie um Tofacitinib 5mg 1-0-1 unter regelm. Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Hinweise": [
+            "Zweimal tägliche Gabe dokumentiert; kein konkreter Stundenabstand angegeben.",
+            "Die Diagnoseübersicht nennt bereits den Beginn; die konkrete Beurteilung formuliert die Erweiterung als Empfehlung."
+          ]
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "unklar",
+          "Dosierung (Original)": "Prednisolonstoßtherapie",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Sie berichtet über deutliche rückläufige Synovitis im Bereich der kleinen Fingergelenke nach zuletzt begonnen Prednisolonstoßtherapie."
+            }
+          ],
+          "Hinweise": [
+            "Zuletzt begonnene Stoßtherapie; Dosis, Schema und Fortführung oder Abschluss nicht dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen b. Bed.",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Ibuprofen b. Bed."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Naproxen",
+          "Dosis": 500,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Naproxen 500mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Naproxen 500mg 1-0-1"
+            }
+          ],
+          "Hinweise": [
+            "Zweimal tägliche Gabe dokumentiert; kein konkreter Stundenabstand angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Oxycodon",
+          "Dosis": 10,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Targin 10/5mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Targin 10/5mg 1-0-1"
+            }
+          ],
+          "Hinweise": [
+            "Kombinationspräparat mit Naloxon; zweimal tägliche Gabe ohne konkreten Stundenabstand."
+          ]
+        },
+        {
+          "Wirkstoff": "Naloxon",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Targin 10/5mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "46_Baseline.docx",
+              "Zitat": "Targin 10/5mg 1-0-1"
+            }
+          ],
+          "Hinweise": [
+            "Bestandteil des Kombinationspräparats mit Oxycodon; zweimal tägliche Gabe ohne konkreten Stundenabstand."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -41,6 +182,12 @@
           {
             "Datei": "46_Baseline.docx",
             "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
@@ -61,16 +208,6 @@
             "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "46_Baseline.docx",
-            "Zitat": "Ibuprofen b. Bed., Lantarel 15mg freitags"
-          },
-          {
-            "Datei": "46_Baseline.docx",
-            "Zitat": "Naproxen 500mg 1-0-1"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "46_Baseline.docx",
@@ -82,41 +219,31 @@
           },
           {
             "Datei": "46_Baseline.docx",
-            "Zitat": "Sie berichtet über deutliche rückläufige Synovitis im Bereich der kleinen Fingergelenke nach zuletzt begonnen Prednisolonstoßtherapie."
+            "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
           }
         ],
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "46_Baseline.docx",
-            "Zitat": "Sie berichtet über deutliche rückläufige Synovitis im Bereich der kleinen Fingergelenke nach zuletzt begonnen Prednisolonstoßtherapie."
-          },
-          {
-            "Datei": "46_Baseline.docx",
             "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
-          },
-          {
-            "Datei": "46_Baseline.docx",
-            "Zitat": "Sowohl im Bereich der Finger im Sinne einer Daktylitis aber auch im Bereich beider Ellenbogen costo-vertebral im Bereich bd. Schultergelenke, im Bereich beider Achillessehnen und Plantarfaszien."
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "46_Baseline.docx",
             "Zitat": "Sowohl im Bereich der Finger im Sinne einer Daktylitis aber auch im Bereich beider Ellenbogen costo-vertebral im Bereich bd. Schultergelenke, im Bereich beider Achillessehnen und Plantarfaszien."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "46_Baseline.docx",
-            "Zitat": "WS frei beweglich"
+            "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
           }
         ],
         "Enthesitis": [
           {
             "Datei": "46_Baseline.docx",
             "Zitat": "Enthesitis, alle Enthesen betroffen"
-          },
-          {
-            "Datei": "46_Baseline.docx",
-            "Zitat": "Sowohl im Bereich der Finger im Sinne einer Daktylitis aber auch im Bereich beider Ellenbogen costo-vertebral im Bereich bd. Schultergelenke, im Bereich beider Achillessehnen und Plantarfaszien."
           }
         ],
         "Daktylitis": [
@@ -137,14 +264,76 @@
             "Zitat": "Nagelpsoriasis, alle Nägel betroffen"
           }
         ],
-        "Verlauf": [
+        "Betroffene Regionen": [
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Sowohl im Bereich der Finger im Sinne einer Daktylitis aber auch im Bereich beider Ellenbogen costo-vertebral im Bereich bd. Schultergelenke, im Bereich beider Achillessehnen und Plantarfaszien."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Nagelpsoriasis, alle Nägel betroffen"
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "46_Baseline.docx",
             "Zitat": "Sie berichtet über deutliche rückläufige Synovitis im Bereich der kleinen Fingergelenke nach zuletzt begonnen Prednisolonstoßtherapie."
           },
           {
             "Datei": "46_Baseline.docx",
+            "Zitat": "Allerdings weiterhin deutliche Beschwerden im Bereich der Sehnen."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Sowohl im Bereich der Finger im Sinne einer Daktylitis aber auch im Bereich beider Ellenbogen costo-vertebral im Bereich bd. Schultergelenke, im Bereich beider Achillessehnen und Plantarfaszien."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Enthesitis, alle Enthesen betroffen"
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Daktylitis D IV re."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Gelenke: TJC 1 (PIP IV re.), SJC 1 (PIP Iv re.)"
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "WS frei beweglich\nFBA 0 cm\nHinterhauptwandabstand 0 cm\nWTA 0 cm"
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Haut: keine Psoriasis\nNagelpsoriasis, alle Nägel betroffen"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "46_Baseline.docx",
             "Zitat": "In der Zusammenschau der Befunde sehen wir unter der bestehenden Basistherapie mit MTX eine persistierende Aktivität der PsA mit führender Enthesiopathien."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "In der Zusammenschau der Befunde sehen wir unter der bestehenden Basistherapie mit MTX eine persistierende Aktivität der PsA mit führender Enthesiopathien."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Sie berichtet über deutliche rückläufige Synovitis im Bereich der kleinen Fingergelenke nach zuletzt begonnen Prednisolonstoßtherapie."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Allerdings weiterhin deutliche Beschwerden im Bereich der Sehnen."
+          },
+          {
+            "Datei": "46_Baseline.docx",
+            "Zitat": "Daktylitis D IV re."
           },
           {
             "Datei": "46_Baseline.docx",
@@ -153,10 +342,10 @@
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
+        "CRP-Labordatum nicht separat angegeben.",
         "Zählbereich von TJC und SJC nicht angegeben.",
-        "Diagnoseliste nennt „aktuelle Therapie: MTX + Beginn Tofacitinib“; die aktuelle Beurteilung empfiehlt erst die Erweiterung. Tofacitinib daher nicht als bereits laufend erfasst.",
-        "Prednisolonstoß zuletzt erfolgt; fortbestehende Einnahme und Dosis nicht dokumentiert."
+        "Kostovertebrale Beschwerden sind klinisch dokumentiert; eine entzündliche axiale Beteiligung ist damit nicht gesichert.",
+        "Keine konkrete Funktionseinschränkung dokumentiert."
       ]
     },
     {
@@ -169,25 +358,164 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 26,
-      "Aktuelle Therapie": "Aktuell keine laufende Basistherapie: Methotrexat und Etanercept seit 14 Tagen pausiert.",
-      "Klinische Hauptmanifestation": "Persistierende Schmerzen an Händen, Füßen und ISG sowie Morgensteifigkeit von etwa einer Stunde bei pausierter Basistherapie.",
-      "Periphere Gelenkbeschwerden": "Schmerzen an Händen und Füßen mit gelegentlichen Schwellungen, Morgensteifigkeit etwa eine Stunde. Leichte Schwellung des linken Knies und Schmerzen sowie Druckschmerz der rechten Schulter; im Gelenkstatus zugleich allgemein keine Druckschmerzen angegeben.",
-      "Axiale Beschwerden / ISG": "ISG-Schmerzen rechts stärker als links; rechts Druckschmerz und positiver Patrick-Test.",
-      "Enthesitis": null,
-      "Daktylitis": null,
-      "Hautbeteiligung": "Aktuelle Psoriasis verneint.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Unter inzwischen seit 14 Tagen pausiertem Methotrexat und Etanercept persistierende periphere und ISG-Schmerzen. Weitere Therapiepause bis zur Wundheilung empfohlen; überbrückend Etoricoxib 60 mg täglich empfohlen. Ein klinischer Nutzen der zuvor laufenden Therapie ist nicht beurteilbar dokumentiert.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Persistierende periphere und rechtsbetonte ISG-Schmerzen mit etwa einstündiger Morgensteifigkeit und leichter Schwellung des linken Knies bei pausierter Basistherapie.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "nicht erwähnt",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "verneint",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Hände und Füße; linkes Knie, rechte Schulter; ISG rechts stärker als links.",
+      "Klinischer Befund (Details)": "Schmerzen an Händen und Füßen mit gelegentlichen Schwellungen, Morgensteifigkeit etwa 1 Stunde. Klinisch leichte Schwellung am linken Knie, Schmerzen und Druckschmerz an der rechten Schulter sowie rechtsseitiger ISG-Befund mit positivem Patrick-Test. Der Gelenkstatus nennt zugleich allgemein keine Druckschmerzen. Aktuelle Psoriasis verneint; Enthesitis, Daktylitis und Nagelbeteiligung nur in der Diagnosehistorie genannt.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Tofacitinib bis Dezember 2019 wegen rezidivierender Infekte beendet; seit Februar 2020 Etanercept zusätzlich zu MTX. Beide seit 14 Tagen wegen Infektionen und Kieferwundheilungsstörung pausiert, ebenso weitere Pause der Osteoporosetherapie empfohlen. Aktuell Schmerzen, Morgensteifigkeit und Gelenkschwellung ohne erhöhte systemische Entzündungsparameter. Überbrückend Etoricoxib empfohlen. Eine klinische Veränderung unter MTX/Etanercept ist nicht dokumentiert; die PET-Rückbildung begründet kein klinisches Ansprechen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "pausiert",
+          "Dosierung (Original)": "MTX 20 mg s.c. pro Woche",
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "MTX 20 mg s.c. pro Woche"
+            },
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Seit 14 Tagen wurde MTX und Etanercept pausiert."
+            }
+          ],
+          "Hinweise": [
+            "Subkutane Gabe; weitere Pause bis zur Wundheilung empfohlen."
+          ]
+        },
+        {
+          "Wirkstoff": "Etanercept",
+          "Dosis": 50,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "pausiert",
+          "Dosierung (Original)": "Etanercept 50 mg 1x pro Woche",
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Etanercept 50 mg 1x pro Woche"
+            },
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Seit 14 Tagen wurde MTX und Etanercept pausiert."
+            }
+          ],
+          "Hinweise": [
+            "Weitere Pause bis zur Wundheilung empfohlen."
+          ]
+        },
+        {
+          "Wirkstoff": "Tofacitinib",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Methotrexat 20 mg s.c. + Tofacitinib bis 12/19 (rez. Infekte)"
+            }
+          ],
+          "Hinweise": [
+            "Bis Dezember 2019; rezidivierende Infekte als Absetzgrund. Keine Dosis aus der Baseline übernommen."
+          ]
+        },
+        {
+          "Wirkstoff": "Denosumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "pausiert",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Aktuell besteht der V. a. Osteolyse der Kiefer, DD Osteonekrosen der Kiefer unter Denosumab."
+            },
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Daher bitten wir weiter die immunsuppressive Therapie, sowie die Anti-Osteoporose-Therapie weiter zu pausieren bis zur Wundheilung."
+            }
+          ],
+          "Hinweise": [
+            "Wegen Kieferwundheilungsstörung und Verdacht auf Osteolyse beziehungsweise Osteonekrose relevant; Dosis und Intervall in dieser Briefgruppe fehlen."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 60,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Etoricoxib 60 mg 1x täglich",
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Bis zum wieder Therapiebeginn empfehlen wir eine Therapie mit Etoricoxib 60 mg 1x täglich und bei Bedarf Pantoprazol 40 mg."
+            }
+          ],
+          "Hinweise": [
+            "Als Überbrückung bis zum Wiederbeginn der Basistherapie empfohlen."
+          ]
+        },
+        {
+          "Wirkstoff": "Pantoprazol",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "geplant",
+          "Dosierung (Original)": "bei Bedarf Pantoprazol 40 mg",
+          "Belege": [
+            {
+              "Datei": "46_FollowUp.docx",
+              "Zitat": "Bis zum wieder Therapiebeginn empfehlen wir eine Therapie mit Etoricoxib 60 mg 1x täglich und bei Bedarf Pantoprazol 40 mg."
+            }
+          ],
+          "Hinweise": [
+            "Begleitmedikation zur empfohlenen NSAR-Therapie."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "46_FollowUp.docx",
             "Zitat": "die sich am 23.09.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
@@ -214,16 +542,6 @@
             "Zitat": "BSG: 26/44 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "46_FollowUp.docx",
-            "Zitat": "Seit 14 Tagen wurde MTX und Etanercept pausiert."
-          },
-          {
-            "Datei": "46_FollowUp.docx",
-            "Zitat": "Aktuell von rheumatologischer Seite persistierende Schmerzen ohne Erhöhung der systemischen Entzündungsparameter ohne Basistherapie."
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "46_FollowUp.docx",
@@ -231,7 +549,15 @@
           },
           {
             "Datei": "46_FollowUp.docx",
-            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen. Morgensteifigkeit ca. 1 h."
+            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit ca. 1 h."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
           },
           {
             "Datei": "46_FollowUp.docx",
@@ -241,18 +567,16 @@
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "46_FollowUp.docx",
-            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen. Morgensteifigkeit ca. 1 h."
-          },
-          {
-            "Datei": "46_FollowUp.docx",
-            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
+            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen."
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "46_FollowUp.docx",
             "Zitat": "Aktuell berichtet sie über Schmerzen im Bereich ISG re. mehr als links."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "46_FollowUp.docx",
             "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
@@ -264,10 +588,10 @@
             "Zitat": "Sie verneint: Uveitis, Psoriasis."
           }
         ],
-        "Verlauf": [
+        "Betroffene Regionen": [
           {
             "Datei": "46_FollowUp.docx",
-            "Zitat": "Seit 14 Tagen wurde MTX und Etanercept pausiert."
+            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen."
           },
           {
             "Datei": "46_FollowUp.docx",
@@ -275,7 +599,53 @@
           },
           {
             "Datei": "46_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Sie erwähnt Schmerzen an den Händen und Füßen mit glg. Schwellungen."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit ca. 1 h."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Sie verneint: Uveitis, Psoriasis."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "rezidivierende Enthesitiden \nNagelbeteiligung \nrezidivierende Daktylitis"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
             "Zitat": "Aktuell von rheumatologischer Seite persistierende Schmerzen ohne Erhöhung der systemischen Entzündungsparameter ohne Basistherapie."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Methotrexat 20 mg s.c. + Tofacitinib bis 12/19 (rez. Infekte)"
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Beginn Etanercept 50 mg 02/20, MTX 20 mg s.c. weiter"
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Seit 14 Tagen wurde MTX und Etanercept pausiert."
           },
           {
             "Datei": "46_FollowUp.docx",
@@ -283,16 +653,38 @@
           },
           {
             "Datei": "46_FollowUp.docx",
+            "Zitat": "Bei persistierend häufigen Blasenentzündungen bitten wir um Abklärung."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Aktuell von rheumatologischer Seite persistierende Schmerzen ohne Erhöhung der systemischen Entzündungsparameter ohne Basistherapie."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit ca. 1 h."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine DS, leichte Schwellungen Knie li. Schmerzen Schultern re. DS, ISG re., Patrick Test pos."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
             "Zitat": "Bis zum wieder Therapiebeginn empfehlen wir eine Therapie mit Etoricoxib 60 mg 1x täglich und bei Bedarf Pantoprazol 40 mg."
+          },
+          {
+            "Datei": "46_FollowUp.docx",
+            "Zitat": "Beurteilung: Deutlich rückläufiger Nukliduptake in den Kniegelenken bds.."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BSG nicht angegeben.",
-        "BSG-Originalangabe „26/44 mm/h“: gemäß Studienkonvention erster Wert als BSG nach einer Stunde übernommen.",
-        "Gelenkstatus nennt allgemein „keine DS“, zugleich aber rechtsseitigen Schulterdruckschmerz; beide Angaben erhalten.",
-        "Ansprechen nicht beurteilbar: persistierende Beschwerden bei Therapiepause, keine ausdrückliche klinische Nutzenbewertung; PET-Rückgang nicht als klinisches Ansprechen gewertet.",
-        "Nagelbeteiligung, rezidivierende Enthesitiden und Daktylitis stehen nur in der Diagnoseliste; aktueller klinischer Status dieser Domänen nicht beschrieben."
+        "Kein klinischer Veränderungsnachweis unter einer eindeutig beurteilten Therapie; daher Ansprechen Nicht beurteilbar und Beurteilte Therapie null. PET-Rückbildung allein genügt nicht.",
+        "Aktiver klinischer Zustand anhand aktueller Schmerzen, Morgensteifigkeit und Gelenkschwellung eingeordnet; entzündliche Ursache der einzelnen Schmerzregionen nicht durchgehend gesichert.",
+        "CRP und BSG ohne separat angegebenen Messtag; keine automatische Zuordnung zum klinischen Referenztermin.",
+        "BSG gemäß Studienkonvention aus dem ersten Wert der Angabe 26/44 mm/h übernommen.",
+        "Keine laufende Basistherapie zum Besuch: MTX und Etanercept seit 14 Tagen pausiert.",
+        "Allgemeine Angabe keine DS bei zugleich dokumentiertem Druckschmerz der rechten Schulter; kein standardisierter TJC oder SJC angegeben.",
+        "Historische Diagnoseangaben zu Enthesitis, Daktylitis und Nagelbeteiligung belegen keinen aktuellen Befund dieser Domänen."
       ]
     }
   ]

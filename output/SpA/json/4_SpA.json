@@ -7,7 +7,7 @@
       "Follow-up": "2021-02-12"
     }
   },
-  "fingerprint": "e80b560ad7a52bbaa01d72e288ba0a7a9679e04c489ed6c8fae7f28f8c7883ae",
+  "fingerprint": "25fc913dd5ef8d497c7de40691ebad923507fb525c5da1e01d5e817ec6e2fb72",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,16 +20,60 @@
         "LEI": null,
         "MASES": null,
         "HAQ": 0.38,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 11,
-        "Aktuelle Therapie": "Diclofenac 75 mg zweimal täglich; Krankengymnastik.",
-        "Klinische Hauptmanifestation": "Schmerzen an HWS, BWS und LWS sowie an beiden Daumeninterphalangealgelenken und der rechten Schulter. Druckschmerz der rechten Schulter und leichter Druckschmerz der Wirbelsäule, keine Schwellungen.",
-        "Axiale Beschwerden / ISG": "Anhaltende Schmerzen an HWS, BWS und LWS mit leichtem Druckschmerz; Patrick-Zeichen beidseits negativ.",
-        "Weitere Gelenke": "Schmerzen an beiden Daumeninterphalangealgelenken und der rechten Schulter; rechte Schulter druckschmerzhaft.",
-        "Verlauf": "Unter regelmäßigem Diclofenac unzureichende Beschwerdekontrolle mit fortbestehenden axialen und peripheren Schmerzen. Biologikabeginn nach erweiterter Bildgebung empfohlen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Persistierende axiale Schmerzen an HWS, BWS und LWS sowie Beschwerden beider Daumen und der rechten Schulter unter Diclofenac. Morgensteifigkeit 20 Minuten.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "HWS, BWS, LWS, Daumen-IP beidseits, rechte Schulter.",
+        "Klinischer Befund (Details)": "Druckschmerz der rechten Schulter und leichter Druckschmerz an HWS/BWS/LWS; keine Gelenkschwellungen, Patrick beidseits negativ. Morgensteifigkeit 20 Minuten. Finger-Boden-Abstand 26 cm, HWS-Beweglichkeit 30°, Schober 3 cm.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter regelmäßigem Diclofenac unzureichende Beschwerdekontrolle mit axialer entzündlicher Aktivität und Verdacht auf periphere Entzündung. Erweiterte Bildgebung vor geplanter Biologikatherapie.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Diclofenac",
+            "Dosis": 75,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Diclofenac 75 mg 1-0-1",
+            "Belege": [
+              {
+                "Datei": "4_Baseline.docx",
+                "Zitat": "Diclofenac 75 mg 1-0-1"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "geplant",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "4_Baseline.docx",
+                "Zitat": "Zügiger Beginn eines Biologikums (vorzugsweise anti-TNF oder Secukinumab) nach erweiterter Bildgebung mittels FAPI-PET/CT"
+              }
+            ],
+            "Hinweise": [
+              "Secukinumab ist eine genannte Option neben einer nicht näher bestimmten Anti-TNF-Therapie; keine endgültige Wirkstoffentscheidung dokumentiert."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
@@ -47,6 +91,12 @@
             {
               "Datei": "4_Baseline.docx",
               "Zitat": "HAQ 0,38"
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "4_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -73,44 +123,58 @@
               "Zitat": "BKS 11/22  mm/h"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "4_Baseline.docx",
-              "Zitat": "Diclofenac 75 mg 1-0-1"
-            },
-            {
-              "Datei": "4_Baseline.docx",
-              "Zitat": "Zwischenzeitlich sei KG begonnen worden."
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "4_Baseline.docx",
-              "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter."
+              "Zitat": "Seit letzter Vorstellung nehme er Diclofenac 2x tgl. mit unzureichendem Ansprechen der Beschwerden."
             },
             {
               "Datei": "4_Baseline.docx",
-              "Zitat": "Gelenke: DS rechte Schulter, keine Schwellungen, leichter DS HWS/BWS/LWS, Patrick negativ bds."
+              "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter. MS 20 min."
             }
           ],
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "4_Baseline.docx",
               "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter."
-            },
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "4_Baseline.docx",
+              "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "4_Baseline.docx",
               "Zitat": "Gelenke: DS rechte Schulter, keine Schwellungen, leichter DS HWS/BWS/LWS, Patrick negativ bds."
             }
           ],
-          "Weitere Gelenke": [
+          "Betroffene Regionen": [
             {
               "Datei": "4_Baseline.docx",
               "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter."
-            },
+            }
+          ],
+          "Klinischer Befund (Details)": [
             {
               "Datei": "4_Baseline.docx",
               "Zitat": "Gelenke: DS rechte Schulter, keine Schwellungen, leichter DS HWS/BWS/LWS, Patrick negativ bds."
+            },
+            {
+              "Datei": "4_Baseline.docx",
+              "Zitat": "MS 20 min."
+            },
+            {
+              "Datei": "4_Baseline.docx",
+              "Zitat": "Funktionsmaße: Wand-Tragus: 11 cm, Finger-Boden 26 cm, Seitneigung > 10 cm, HWS-Beweglichkeit 30°, Schober 3 cm"
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "4_Baseline.docx",
+              "Zitat": "Klinisch zeigte sich eine erhöhte entzündliche Aktivität axial und der V.a. periph. Entzündung."
             }
           ],
           "Verlauf": [
@@ -120,18 +184,18 @@
             },
             {
               "Datei": "4_Baseline.docx",
-              "Zitat": "Weiterhin bestünden Schmerzen axial Höhe HWS/BWS/LWS und peripher an den IP Dig.1 bds. und der rechten Schulter."
+              "Zitat": "Klinisch zeigte sich eine erhöhte entzündliche Aktivität axial und der V.a. periph. Entzündung."
             },
             {
               "Datei": "4_Baseline.docx",
-              "Zitat": "Zügiger Beginn eines Biologikums (vorzugsweise anti-TNF oder Secukinumab) nach erweiterter Bildgebung mittels FAPI-PET/CT"
+              "Zitat": "Wir vereinbarten mit dem Pat. eine erweiterte Bildgebung zur Bestandsaufnahme der axialen und periph. entzündlichen Veränderungen vor Einleitung einer Biologika-Therapie."
             }
           ]
         },
         "Hinweise": [
-          "Labordatum für CRP und BKS nicht angegeben.",
-          "BKS 11/22 mm/h: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
-          "BASDAI und HAQ ohne gesondertes Messdatum im Untersuchungsbefund dokumentiert."
+          "Für Laborwerte und Scores ist kein gesondertes Messdatum angegeben.",
+          "BSG gemäß Studienkonvention: erster Wert aus BKS 11/22.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -144,21 +208,54 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.1,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 4,
-        "Aktuelle Therapie": "Ixezikumab (Talz) 80 mg subkutan alle vier Wochen, seit 10/2020.",
-        "Klinische Hauptmanifestation": "Weiterhin belastungsabhängige Schmerzen und leichter Druckschmerz am rechten Daumengrundgelenk und linken Daumeninterphalangealgelenk. Keine synovitischen Schwellungen, Daktylitis oder Enthesitis-Zeichen.",
-        "Axiale Beschwerden / ISG": "Kein entzündlicher Rückenschmerz; Morgensteifigkeit der gesamten Wirbelsäule etwa 15 Minuten. ISG nicht druckdolent, kein Klopfschmerz der Wirbelsäule, gute LWS-Beweglichkeit und uneingeschränkte HWS-Rotation.",
-        "Weitere Gelenke": "Belastungsabhängige Arthralgien und leichter Druckschmerz am rechten Daumengrundgelenk und linken Daumeninterphalangealgelenk.",
-        "Verlauf": "Unter Ixezikumab als stabil beschrieben; kein entzündlicher Rückenschmerz, jedoch weiterhin belastungsabhängige Daumenarthralgien. Lokale Rötung und Schwellung nach Injektionen für etwa drei Tage, durch Kühlung geringere Rötung.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Morgensteifigkeit der gesamten Wirbelsäule für etwa 15 Minuten bei verneintem entzündlichem Rückenschmerz. Weiterhin belastungsabhängige Arthralgien an beiden Daumen.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "verneint",
+        "Betroffene Regionen": "Gesamte Wirbelsäule, MCP 1 rechts und Daumen-Interphalangealgelenk links.",
+        "Klinischer Befund (Details)": "Leichter Druckschmerz an MCP 1 rechts und Daumen-IP links; keine synovitischen Schwellungen, Daktylitis oder Enthesitis-Zeichen. ISG nicht druckdolent, kein Wirbelsäulenklopfschmerz, gute LWS-Beweglichkeit und freie HWS-Rotation. Belastungsabhängige Daumenarthralgien ohne gesicherte aktuelle entzündliche Ursache.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": "Nicht beurteilbar",
+        "Krankheitszustand": "Unklar",
+        "Verlauf": "Unter seit Oktober 2020 dokumentierter IL-17-Therapie aktuell stabiles Befinden ohne entzündlichen Rückenschmerz; kurze Morgensteifigkeit und belastungsabhängige Daumenarthralgien bleiben bestehen. Lokale Rötung und Schwellung nach Injektionen für etwa drei Tage, durch Kühlung vermindert. Unveränderte Fortführung empfohlen; ein eigenständig belegtes klinisches Veränderungsausmaß fehlt.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Ixekizumab",
+            "Dosis": 80,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 4,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Ixezikumab (Talz) 80 mg s.c. alle 4 Wo. (seit 10/2020)",
+            "Belege": [
+              {
+                "Datei": "4_FollowUp.docx",
+                "Zitat": "Ixezikumab (Talz) 80 mg s.c. alle 4 Wo. (seit 10/2020)"
+              }
+            ],
+            "Hinweise": [
+              "Wirkstoffschreibweise zu Ixekizumab normalisiert; im Brief „Ixezikumab (Talz)“."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "der sich am 19.04.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -185,31 +282,7 @@
               "Zitat": "BKS: 4 mm/h"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "4_FollowUp.docx",
-              "Zitat": "Ixezikumab (Talz) 80 mg s.c. alle 4 Wo. (seit 10/2020)"
-            }
-          ],
           "Klinische Hauptmanifestation": [
-            {
-              "Datei": "4_FollowUp.docx",
-              "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
-            },
-            {
-              "Datei": "4_FollowUp.docx",
-              "Zitat": "Gelenk-Status: Leichter Druckschmerz im MCP-Gelenk 1 re. und Interphalangealgelenk 1 links."
-            },
-            {
-              "Datei": "4_FollowUp.docx",
-              "Zitat": "Keine synovitischen Schwellungen."
-            },
-            {
-              "Datei": "4_FollowUp.docx",
-              "Zitat": "Keine Daktylitis, keine Enthesitis-Zeichen, ISG nicht druckdolent, kein Klopfschmerz über der WS, Lasegue und Patrick-Zeichen neg. bds., gute Beweglichkeit der LWS, keine Einschränkung der Rotation in der HWS."
-            }
-          ],
-          "Axiale Beschwerden / ISG": [
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "Aktuell stabiles Befinden, kein entzündl. Rückenschmerz, Uveitis, Psoriasis oder CED-Symptomatik."
@@ -217,13 +290,33 @@
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
-            },
+            }
+          ],
+          "Axiale Beschwerden / ISG": [
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Keine synovitischen Schwellungen."
+            }
+          ],
+          "Enthesitis": [
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "Keine Daktylitis, keine Enthesitis-Zeichen, ISG nicht druckdolent, kein Klopfschmerz über der WS, Lasegue und Patrick-Zeichen neg. bds., gute Beweglichkeit der LWS, keine Einschränkung der Rotation in der HWS."
             }
           ],
-          "Weitere Gelenke": [
+          "Betroffene Regionen": [
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
@@ -233,10 +326,24 @@
               "Zitat": "Gelenk-Status: Leichter Druckschmerz im MCP-Gelenk 1 re. und Interphalangealgelenk 1 links."
             }
           ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Gelenk-Status: Leichter Druckschmerz im MCP-Gelenk 1 re. und Interphalangealgelenk 1 links. Keine synovitischen Schwellungen."
+            },
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Keine Daktylitis, keine Enthesitis-Zeichen, ISG nicht druckdolent, kein Klopfschmerz über der WS, Lasegue und Patrick-Zeichen neg. bds., gute Beweglichkeit der LWS, keine Einschränkung der Rotation in der HWS."
+            },
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit der gesamten Wirbelsäule ca. 15 Minuten, weiterhin belastungsabhängige Arthralgien im MCP 1 re. und PIP 1 li."
+            }
+          ],
           "Verlauf": [
             {
               "Datei": "4_FollowUp.docx",
-              "Zitat": "Aktuell zeigt sich die Grunderkrankung stabil."
+              "Zitat": "Ixezikumab (Talz) 80 mg s.c. alle 4 Wo. (seit 10/2020)"
             },
             {
               "Datei": "4_FollowUp.docx",
@@ -253,13 +360,19 @@
             {
               "Datei": "4_FollowUp.docx",
               "Zitat": "Zuletzt hat der Pat. Kühlpads auf die Injektionsstellen gelegt, hierunter Rötung weniger ausgeprägt."
+            },
+            {
+              "Datei": "4_FollowUp.docx",
+              "Zitat": "Aktuell zeigt sich die Grunderkrankung stabil. Wir empfehlen die Therapie unverändert fortzuführen."
             }
           ]
         },
         "Hinweise": [
-          "Labordatum für CRP und BKS nicht angegeben.",
-          "Ansprechen bleibt null: klinisch nur Stabilität dokumentiert; das ausdrücklich gute Therapieansprechen steht im PET-Befund und belegt keine eigenständige klinische Nutzenbeurteilung.",
-          "Linker Daumen in der Anamnese als PIP 1, im Untersuchungsbefund als Interphalangealgelenk 1 bezeichnet."
+          "Für Laborwerte ist kein gesondertes Messdatum angegeben.",
+          "Ansprechen nicht beurteilbar: Das gute Therapieansprechen wird im PET-Befund beschrieben; ein unabhängig davon belegtes klinisches Veränderungsausmaß fehlt.",
+          "Krankheitszustand unklar: „stabil“ belegt weder Remission noch ausdrücklich gute klinische Kontrolle; die verbliebenen Beschwerden werden nicht eindeutig als entzündlich eingeordnet.",
+          "Axiale Beschwerden wegen aktueller Morgensteifigkeit vorhanden; entzündlicher Rückenschmerz wird ausdrücklich verneint.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

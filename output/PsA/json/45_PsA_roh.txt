@@ -10,25 +10,125 @@
       "LEI": null,
       "PASI": 8.1,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 26,
-      "Aktuelle Therapie": "Arcoxia 90 mg für weitere vier Wochen eingeleitet; bisher Lokal- und Lichttherapie der Haut. Keine bisherige immunsuppressive Basistherapie.",
-      "Klinische Hauptmanifestation": "Axiale und periphere Beschwerden mit entzündlichem nächtlichem Rückenschmerz und Ruhearthralgien beider Knie. Morgendliche Achillessehnenschmerzen beidseits erschweren das Treppensteigen.",
-      "Periphere Gelenkbeschwerden": "Ruhearthralgien beider Kniegelenke; dokumentierter TJC 0 und SJC 0.",
-      "Axiale Beschwerden / ISG": "Entzündlicher Rückenschmerz mit nächtlichem Erwachen seit Ende 2018; Wirbelsäule frei beweglich.",
-      "Enthesitis": "Morgendliche Schmerzen beider Achillessehnen mit erschwertem Treppensteigen bei dokumentierter rezidivierender Enthesitis; aktuell im Untersuchungsbefund keine Enthesitis.",
-      "Daktylitis": "Keine Daktylitis dokumentiert.",
-      "Hautbeteiligung": "Psoriasiforme Plaques an Ober- und Unterarmen beidseits, Ober- und Unterschenkeln beidseits, Rücken und Gesäß.",
-      "Nagelbeteiligung": "Keine Nagelpsoriasis.",
-      "Verlauf": "Langjährige Hautmanifestation, seit Ende 2018 entzündlicher Rückenschmerz; NSAR und Ibuprofen ohne durchschlagenden Effekt. Arcoxia eingeleitet; Einleitung von MTX 15 mg wöchentlich mit Folsäure 5 mg am Folgetag empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Axiale und periphere Beschwerden mit nächtlichem Rückenschmerz, Kniearthralgien und morgendlichen Achillessehnenschmerzen mit erschwertem Treppensteigen; ausgedehnte Hautpsoriasis.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "unklar",
+      "Daktylitis": "verneint",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "verneint",
+      "Betroffene Regionen": "Beide Knie, Rücken und beide Achillessehnen; Haut an Armen, Beinen, Rücken und Gesäß.",
+      "Klinischer Befund (Details)": "Ruhearthralgien beider Knie; entzündlicher Rückenschmerz mit nächtlichem Erwachen seit Ende 2018. Morgendliche Schmerzen beider Achillessehnen erschweren das Treppensteigen. TJC und SJC jeweils 0, Wirbelsäule frei beweglich. Enthesitis in der Diagnose als bestehend, im Untersuchungsbefund aktuell verneint. Psoriasiforme Plaques ohne Nagelpsoriasis; keine Daktylitis.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Erstvorstellung mit axialen und peripheren Beschwerden sowie Hautpsoriasis. Vorherige NSAR einschließlich Ibuprofen ohne durchschlagenden Effekt. Etoricoxib eingeleitet, Methotrexat empfohlen; Secukinumab bei im MRT persistierender florider Sakroiliitis unter mehrfacher NSAR-Therapie erwogen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "unklar",
+          "Dosierung (Original)": "NSAR und Ibuprofen über mehrere Wochen ohne durchschlagenden Effekt",
+          "Belege": [
+            {
+              "Datei": "45_Baseline.docx",
+              "Zitat": "bisherige Therapien: NSAR und Ibuprofen über mehrere Wochen ohne durchschlagenden Effekt, sonst Lichttherapie und topische Therapie."
+            }
+          ],
+          "Hinweise": [
+            "Vorausgegangener Therapieversuch; Absetzzeitpunkt nicht dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "laufend",
+          "Dosierung (Original)": "Arcoxia 90mg für weitere 4 Wochen",
+          "Belege": [
+            {
+              "Datei": "45_Baseline.docx",
+              "Zitat": "Zunächst wurde Arcoxia 90mg für weitere 4 Wochen eingeleitet."
+            }
+          ],
+          "Hinweise": [
+            "Behandlungsdauer vier Wochen; Einnahmeintervall nicht angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "MTX 15mg einmal pro Woche",
+          "Belege": [
+            {
+              "Datei": "45_Baseline.docx",
+              "Zitat": "Aufgrund der nun vorliegenden Befunde empfehlen wir die Einleitung einer immunsuppressiven Basistherapie mit MTX 15mg einmal pro Woche und Folsäure 5mg am Folgetag."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Folsäure",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Folsäure 5mg am Folgetag",
+          "Belege": [
+            {
+              "Datei": "45_Baseline.docx",
+              "Zitat": "Aufgrund der nun vorliegenden Befunde empfehlen wir die Einleitung einer immunsuppressiven Basistherapie mit MTX 15mg einmal pro Woche und Folsäure 5mg am Folgetag."
+            }
+          ],
+          "Hinweise": [
+            "Jeweils am Tag nach der wöchentlichen Methotrexatgabe."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "45_Baseline.docx",
+              "Zitat": "Sollte sich zusätzlich im noch ausstehenden MRT der Wirbelsäule/ISGs eine persistierende floride Sakroiliitis unter mehrfacher NSAR-Therapie zeigen, sollte eine Umstellung auf Biologikum (Secukinumab) erfolgen."
+            }
+          ],
+          "Hinweise": [
+            "Nur bedingte Therapieoption bei entsprechendem MRT-Befund."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "wir berichten über unsere gemeinsame Patientin, 45, die sich am 16.04.2019 ambulant vorstellte."
+            "Zitat": "die sich am 16.04.2019 ambulant vorstellte."
           }
         ],
         "TJC": [
@@ -49,42 +149,34 @@
             "Zitat": "Hautstatus: psoriasiforme Plaques (PASI 8,1), keine Nagelpsoriasis, Enthesitis aktuell keine."
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "45_Baseline.docx",
             "Zitat": "BKS 26/47"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Zunächst wurde Arcoxia 90mg für weitere 4 Wochen eingeleitet."
-          },
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Bisher sei keine immunsuppressive Basistherapie erfolgt."
-          },
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Aufgrund der Hautläsionen bisher Lokaltherapie und UV- bzw. Lichttherapie."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -99,23 +191,25 @@
           {
             "Datei": "45_Baseline.docx",
             "Zitat": "Beim morgendlichen Aufstehen habe sie Schmerzen im Bereich beider Achillessehnen, die das Treppensteigen erschweren."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Sie berichtet über langjährige psoriasiforme Plaques, aktuell an Ober- und Unterarmen bds., Ober- und Unterschenkeln bds., Rücken und im Gesäßbereich."
           }
         ],
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "45_Baseline.docx",
             "Zitat": "Zusätzlich berichtet sie über Arthralgien, vor allem in Ruhe im Bereich beider Kniegelenke."
-          },
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Gelenke: TJC 0, SJC 0, Wirbelsäule frei beweglich, Finger-Boden-Abstand 0cm, Hinterhaupt-Wand-Abstand 0cm, WTA 0, BASMI wird ergänzt"
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "45_Baseline.docx",
             "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "45_Baseline.docx",
             "Zitat": "Gelenke: TJC 0, SJC 0, Wirbelsäule frei beweglich, Finger-Boden-Abstand 0cm, Hinterhaupt-Wand-Abstand 0cm, WTA 0, BASMI wird ergänzt"
@@ -124,11 +218,7 @@
         "Enthesitis": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "rezidivierende Enthesitiden"
-          },
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Beim morgendlichen Aufstehen habe sie Schmerzen im Bereich beider Achillessehnen, die das Treppensteigen erschweren."
+            "Zitat": "Enthesitis: bestehende Enthesitis"
           },
           {
             "Datei": "45_Baseline.docx",
@@ -144,23 +234,73 @@
         "Hautbeteiligung": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "Sie berichtet über langjährige psoriasiforme Plaques, aktuell an Ober- und Unterarmen bds., Ober- und Unterschenkeln bds., Rücken und im Gesäßbereich."
+            "Zitat": "Hautstatus: psoriasiforme Plaques (PASI 8,1), keine Nagelpsoriasis, Enthesitis aktuell keine."
           }
         ],
         "Nagelbeteiligung": [
           {
             "Datei": "45_Baseline.docx",
+            "Zitat": "Nägel: kein Befall"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet sie über Arthralgien, vor allem in Ruhe im Bereich beider Kniegelenke."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Beim morgendlichen Aufstehen habe sie Schmerzen im Bereich beider Achillessehnen, die das Treppensteigen erschweren."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Sie berichtet über langjährige psoriasiforme Plaques, aktuell an Ober- und Unterarmen bds., Ober- und Unterschenkeln bds., Rücken und im Gesäßbereich."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet sie über Arthralgien, vor allem in Ruhe im Bereich beider Kniegelenke."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Beim morgendlichen Aufstehen habe sie Schmerzen im Bereich beider Achillessehnen, die das Treppensteigen erschweren."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Gelenke: TJC 0, SJC 0, Wirbelsäule frei beweglich, Finger-Boden-Abstand 0cm, Hinterhaupt-Wand-Abstand 0cm, WTA 0, BASMI wird ergänzt"
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Enthesitis: bestehende Enthesitis"
+          },
+          {
+            "Datei": "45_Baseline.docx",
             "Zitat": "Hautstatus: psoriasiforme Plaques (PASI 8,1), keine Nagelpsoriasis, Enthesitis aktuell keine."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Daktylitis: kein Befall"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
           }
         ],
         "Verlauf": [
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "Sie berichtet über langjährige psoriasiforme Plaques, aktuell an Ober- und Unterarmen bds., Ober- und Unterschenkeln bds., Rücken und im Gesäßbereich."
-          },
-          {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
+            "Zitat": "Patientin stellt sich erstmalig rheumatologisch vor."
           },
           {
             "Datei": "45_Baseline.docx",
@@ -172,16 +312,19 @@
           },
           {
             "Datei": "45_Baseline.docx",
-            "Zitat": "Aufgrund der nun vorliegenden Befunde empfehlen wir die Einleitung einer immunsuppressiven Basistherapie mit MTX 15mg einmal pro Woche und Folsäure 5mg am Folgetag."
+            "Zitat": "Aufgrund der nun vorliegenden Befunde empfehlen wir die Einleitung einer immunsuppressiven Basistherapie mit MTX 15mg einmal pro Woche und Folsäure 5mg am Folgetag."
+          },
+          {
+            "Datei": "45_Baseline.docx",
+            "Zitat": "Sollte sich zusätzlich im noch ausstehenden MRT der Wirbelsäule/ISGs eine persistierende floride Sakroiliitis unter mehrfacher NSAR-Therapie zeigen, sollte eine Umstellung auf Biologikum (Secukinumab) erfolgen."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben; Untersuchungsdatum von TJC, SJC und PASI nicht gesondert angegeben.",
-        "TJC-/SJC-Zählbereich nicht angegeben.",
-        "BKS 26/47: erster Wert 26 gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
-        "Enthesitis widersprüchlich dokumentiert: Diagnoseliste „Enthesitis: bestehende Enthesitis“, Untersuchungsbefund „Enthesitis aktuell keine.“; Achillessehnenschmerzen anamnestisch vorhanden, genaue Enthesenlokalisation nicht genannt.",
-        "Beginn von Arcoxia innerhalb der Episode nicht gesondert datiert; MTX lediglich empfohlen."
+        "Enthesitis widersprüchlich dokumentiert: Diagnose nennt bestehende Enthesitis, körperliche Untersuchung verneint aktuelle Enthesitis; zusätzlich morgendliche Achillessehnenschmerzen.",
+        "TJC-/SJC-Zählbereich nicht angegeben. Für Scores und Laborwerte fehlen eigenständige Erhebungsdaten; das klinische Datum wird nicht als Messdatum vorausgesetzt.",
+        "BKS 26/47 gemäß Studienkonvention als BSG nach einer Stunde mit 26 mm übernommen.",
+        "Vor Einleitung der empfohlenen Basistherapie ausdrücklich keine bisherige immunsuppressive Basistherapie: „Bisher sei keine immunsuppressive Basistherapie erfolgt.“"
       ]
     },
     {
@@ -194,55 +337,85 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 16,
-      "Aktuelle Therapie": "Secukinumab 150 mg seit August 2019; Dosierungsintervall nicht angegeben.",
-      "Klinische Hauptmanifestation": "Zufriedenstellende Krankheitskontrolle unter Secukinumab bei gelegentlichen Rückenschmerzen und bewegungsabhängigen Arthralgien.",
-      "Periphere Gelenkbeschwerden": "Gelegentliche bewegungsabhängige Arthralgien, keine Schwellungen; klinisch keine druckschmerzhaften oder geschwollenen Gelenke. Morgensteifigkeit wenige Minuten.",
-      "Axiale Beschwerden / ISG": "Gelegentliche Rückenschmerzen ohne nächtliches Erwachen; Wirbelsäule und ISG ohne Druckschmerz.",
-      "Enthesitis": "Enthesitiden in letzter Zeit verneint.",
-      "Daktylitis": "Daktylitis in letzter Zeit verneint.",
-      "Hautbeteiligung": "Psoriasis aktuell gut kontrolliert; kleine rötliche Reststellen an den Beinen ohne Schuppung.",
-      "Nagelbeteiligung": "Keine Nagelbeteiligung laut Diagnoseliste.",
-      "Verlauf": "Unter Secukinumab zufriedenstellende Krankheitskontrolle. Gegenüber Baseline kein nächtliches Erwachen mehr bei verbleibenden gelegentlichen Rückenschmerzen und bewegungsabhängigen Arthralgien; keine aktuellen Schwellungen, Enthesitiden oder Daktylitis. Haut gut kontrolliert mit kleinen Reststellen an den Beinen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Zufriedenstellend kontrollierte PsA mit gelegentlichen Rückenschmerzen und bewegungsabhängigen Arthralgien; kleine Hautreststellen an den Beinen.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Daktylitis": "verneint",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "verneint",
+      "Betroffene Regionen": "Rücken; periphere Gelenke ohne nähere Lokalisation; Haut an den Beinen.",
+      "Klinischer Befund (Details)": "Gelegentliche Rückenschmerzen, Schmerz-VAS maximal 4, ohne nächtliches Erwachen; manchmal bewegungsabhängige Arthralgien, Morgensteifigkeit wenige Minuten. Keine Gelenkschwellungen oder Druckschmerzen, kein Druckschmerz an Wirbelsäule/ISG. Enthesitiden und Daktylitis verneint. Kleine rötliche, alte Hautstellen an den Beinen ohne Schuppung; keine Nagelbeteiligung dokumentiert.",
+      "Beurteilte Therapie": "Secukinumab",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Unter Secukinumab seit August 2019 aktuell zufriedenstellende Krankheitskontrolle; Fortführung empfohlen. Gelegentliche Rücken- und bewegungsabhängige Gelenkschmerzen bleiben ohne klinische Schwellungen. Haut gut kontrolliert mit kleinen Reststellen. Ein ausdrücklicher klinischer Veränderungsnachweis unter Secukinumab fehlt. Frühere NSAR-/Lokaltherapie hatte die Krankheitsaktivität unzureichend kontrolliert und war mit erhöhten Blutdruckwerten verbunden.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 150,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Secukinumab 150 mg seit 08.2019",
+          "Belege": [
+            {
+              "Datei": "45_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab 150 mg seit 08.2019"
+            },
+            {
+              "Datei": "45_FollowUp.docx",
+              "Zitat": "Daher empfehlen wir die Weiterführung der Therapie wie bisher nach Maßgabe der DGRh."
+            }
+          ],
+          "Hinweise": [
+            "Einnahme- beziehungsweise Applikationsintervall nicht dokumentiert."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "wir berichten über unsere gemeinsame Patientin, 45, die sich am 30.09.2020 ambulant vorstellte."
+            "Zitat": "die sich am 30.09.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "BSG 16/29 mm"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "45_FollowUp.docx",
-            "Zitat": "aktuelle Therapie: Secukinumab 150 mg seit 08.2019"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -257,30 +430,28 @@
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "Keine Schwellungen, manchmal bewegungsabhängige Arthralgien."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Psoriasis aktuell gut kontrolliert, es bestünden allerdings kleine Stellen an den Beinen, ohne Schuppen."
           }
         ],
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "Keine Schwellungen, manchmal bewegungsabhängige Arthralgien."
-          },
-          {
-            "Datei": "45_FollowUp.docx",
-            "Zitat": "Morgensteifigkeit ca. ein paar Minuten."
-          },
-          {
-            "Datei": "45_FollowUp.docx",
-            "Zitat": "Gelenke keine DS/ geschwollen"
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "Aktuell stabiler Zustand, ggl. Rückenschmerzen, VAS max. 4, ohne nächtliches Erwachen."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "WS/ISG kein DS, BASMI 0 MASES 0"
+            "Zitat": "Gelenke keine DS/ geschwollen"
           }
         ],
         "Enthesitis": [
@@ -299,10 +470,6 @@
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "Psoriasis aktuell gut kontrolliert, es bestünden allerdings kleine Stellen an den Beinen, ohne Schuppen."
-          },
-          {
-            "Datei": "45_FollowUp.docx",
-            "Zitat": "Haut röte Stelle an der Beine < 20% keine Schuppen, alte Stelle"
           }
         ],
         "Nagelbeteiligung": [
@@ -311,14 +478,84 @@
             "Zitat": "keine Nagelbeteiligung"
           }
         ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Aktuell stabiler Zustand, ggl. Rückenschmerzen, VAS max. 4, ohne nächtliches Erwachen."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Keine Schwellungen, manchmal bewegungsabhängige Arthralgien."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Psoriasis aktuell gut kontrolliert, es bestünden allerdings kleine Stellen an den Beinen, ohne Schuppen."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Aktuell stabiler Zustand, ggl. Rückenschmerzen, VAS max. 4, ohne nächtliches Erwachen."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Keine Schwellungen, manchmal bewegungsabhängige Arthralgien."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit ca. ein paar Minuten."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Gelenke keine DS/ geschwollen"
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "WS/ISG kein DS, BASMI 0 MASES 0"
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Die Pat. verneint Enthesitiden, Daktylitis oder Uveitis in letzter Zeit."
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Haut röte Stelle an der Beine < 20% keine Schuppen, alte Stelle"
+          },
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "keine Nagelbeteiligung"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde sehen wir aktuell eine zufriedenstellende Krankheitskontrolle unter der Secukinumab-Therapie."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde sehen wir aktuell eine zufriedenstellende Krankheitskontrolle unter der Secukinumab-Therapie."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde sehen wir aktuell eine zufriedenstellende Krankheitskontrolle unter der Secukinumab-Therapie."
+          }
+        ],
         "Verlauf": [
+          {
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "aktuelle Therapie: Secukinumab 150 mg seit 08.2019"
+          },
           {
             "Datei": "45_FollowUp.docx",
             "Zitat": "In Zusammenschau der Befunde sehen wir aktuell eine zufriedenstellende Krankheitskontrolle unter der Secukinumab-Therapie."
           },
           {
-            "Datei": "45_Baseline.docx",
-            "Zitat": "Zusätzlich berichtet sie über einen entzündlichen Rückenschmerz mit nächtlichem Erwachen seit Ende 2018."
+            "Datei": "45_FollowUp.docx",
+            "Zitat": "Daher empfehlen wir die Weiterführung der Therapie wie bisher nach Maßgabe der DGRh."
           },
           {
             "Datei": "45_FollowUp.docx",
@@ -330,26 +567,21 @@
           },
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "Die Pat. verneint Enthesitiden, Daktylitis oder Uveitis in letzter Zeit."
+            "Zitat": "Psoriasis aktuell gut kontrolliert, es bestünden allerdings kleine Stellen an den Beinen, ohne Schuppen."
           },
           {
             "Datei": "45_FollowUp.docx",
-            "Zitat": "Psoriasis aktuell gut kontrolliert, es bestünden allerdings kleine Stellen an den Beinen, ohne Schuppen."
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "45_FollowUp.docx",
-            "Zitat": "In Zusammenschau der Befunde sehen wir aktuell eine zufriedenstellende Krankheitskontrolle unter der Secukinumab-Therapie."
+            "Zitat": "Z. n. NSAR-Therapie und Lokal-Therapie, darunter unzureichende Kontrolle der Krankheitsaktivität und erhöhte Blutdruckwerte."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BSG nicht angegeben.",
-        "BSG 16/29 mm: erster Wert 16 gemäß Studienkonvention übernommen.",
-        "Weitere dokumentierte Angaben: BASMI 0 und MASES 0; Originalbeleg aus 45_FollowUp.docx: „WS/ISG kein DS, BASMI 0 MASES 0“. Nicht als LEI übernommen.",
-        "Schmerzangabe ohne näher bezeichnete VAS-Skala aus 45_FollowUp.docx: „Aktuell stabiler Zustand, ggl. Rückenschmerzen, VAS max. 4, ohne nächtliches Erwachen.“",
-        "Nagelbefund nur in der Diagnoseliste dokumentiert."
+        "Ansprechen auf Secukinumab nicht beurteilbar: dokumentiert ist die aktuelle zufriedenstellende Kontrolle, kein ausdrücklicher klinischer Veränderungsnachweis. Die frühere unzureichende NSAR-/Lokaltherapie wird getrennt im Verlauf erhalten.",
+        "Rücken- und bewegungsabhängige Gelenkschmerzen sind dokumentiert; eine aktuelle entzündliche Ursache wird nicht eindeutig zugeordnet.",
+        "Keine standardisierten TJC-/SJC-Zahlen dokumentiert; aus dem unauffälligen Untersuchungsbefund keine Nullen abgeleitet.",
+        "Weitere Scores: BASMI 0 und MASES 0; Originalbeleg aus 45_FollowUp.docx: „WS/ISG kein DS, BASMI 0 MASES 0“. MASES nicht als LEI übernommen.",
+        "BSG 16/29 mm gemäß Studienkonvention mit dem ersten Wert 16 mm nach einer Stunde übernommen.",
+        "Eigenständige Labordaten fehlen; das klinische Datum wird nicht als Labordatum vorausgesetzt."
       ]
     }
   ]

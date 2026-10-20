@@ -10,21 +10,156 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 9.7,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Golimumab; Prednisolon 40 mg täglich als Stoßtherapie; Ibuprofen 800 mg morgens und abends. Umstellung auf Upadacitinib empfohlen.",
-      "Klinische Hauptmanifestation": "Handschmerzen mit erschwertem Greifen, außerdem Schulter- und Knieschmerzen. Morgensteifigkeit 30–60 Minuten, zunehmende Schmerzen zum Abend.",
-      "Gelenkbefund": "10 druckschmerzhafte Gelenke ohne Schwellungen; betroffene Einzelgelenke nicht angegeben.",
-      "Weitere Gelenke": "Schultern und Knie schmerzhaft; Seiten nicht angegeben.",
-      "Verlauf": "Unter Golimumab subjektiv deutlich verschlechtert, weiterhin aktive Erkrankung trotz Prednisolon-Stoßtherapie. Umstellung auf Upadacitinib 15 mg täglich und schrittweise Prednisolonreduktion empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Zunehmende Schmerzen an Händen, Schultern und Knien mit erschwertem Greifen und 30–60 Minuten Morgensteifigkeit. Zehn druckschmerzhafte Gelenke ohne Schwellungen.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "Hände, Schultern, Knie",
+      "Klinischer Befund (Details)": "Zehn druckschmerzhafte Gelenke ohne Schwellungen; Greifen erschwert, Schmerzen zum Abend zunehmend, Morgensteifigkeit 30–60 Minuten.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter Golimumab subjektive Verschlechterung und weiterhin aktive RA trotz Prednisolonstoß und Ibuprofen. Umstellung auf Upadacitinib empfohlen; Prednisolon soll schrittweise reduziert und Ibuprofen nicht täglich genommen werden.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Golimumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Z.n. Golimumab 02/2021-07/2021"
+            },
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Verlaufskontrolle der rheumatoiden Arthritis unter Golimumab."
+            }
+          ],
+          "Hinweise": [
+            "Beendigung im Rahmen der aktuellen Umstellung; genauer letzter Anwendungstag nicht angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Upadacitinib",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Upadacitinib 15 mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Wir empfehlen daher eine Umstellung der medikamentösen Therapie auf Upadacitinib 15 mg 1-0-0."
+            }
+          ],
+          "Hinweise": [
+            "Bereits als Dauermedikation aufgeführt, im Beurteilungstext jedoch als empfohlene Umstellung; tatsächlicher Beginn nicht eindeutig belegt."
+          ]
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Prednisolon 40 mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Prednisolon 40 mg 1-0-0"
+            },
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Prednisolon sollte schrittweise reduziert werden."
+            }
+          ],
+          "Hinweise": [
+            "Stoßtherapie; Reduktionsschema nicht angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 800,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen 800 mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Ibuprofen 800 mg 1-0-1"
+            },
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Wir weisen daraufhin, Ibuprofen nicht täglich einzunehmen und nur in Verbindung mit einem Magenschutz."
+            }
+          ],
+          "Hinweise": [
+            "Aktuell morgens und abends; künftig keine tägliche Einnahme empfohlen, ohne konkretes neues Intervall."
+          ]
+        },
+        {
+          "Wirkstoff": "Pantoprazol",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Pantoprazol 20mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Pantoprazol 20mg 1-0-0"
+            },
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Wir weisen daraufhin, Ibuprofen nicht täglich einzunehmen und nur in Verbindung mit einem Magenschutz."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": 500,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": "Novalgin 500 mg max. 4-6 x tgl.",
+          "Belege": [
+            {
+              "Datei": "26_Baseline.docx",
+              "Zitat": "Alternativ kann die Therapie mit Novalgin 500 mg max. 4-6 x tgl. kombiniert werden."
+            }
+          ],
+          "Hinweise": [
+            "Optionale analgetische Ergänzung; tatsächliche Einnahme nicht belegt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "der sich am 22.07.2021 ambulant vorstellte."
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 26, der sich am 22.07.2021 ambulant vorstellte."
           }
         ],
         "DAS28": [
@@ -42,65 +177,81 @@
         "TJC": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
+            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "C-reaktives Protein 9,7 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "C-reaktives Protein 9,7 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 9,7 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "C-reaktives Protein 9,7 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 9,7 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "C-reaktives Protein 9,7 mg/l (-<5,2 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Verlaufskontrolle der rheumatoiden Arthritis unter Golimumab."
-          },
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Seit Montag nehme er 40 mg Prednisolon ein und nehme zusätzlich Ibuprofen morgens und abends."
-          },
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Ibuprofen 800 mg 1-0-1"
-          },
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Wir empfehlen daher eine Umstellung der medikamentösen Therapie auf Upadacitinib 15 mg 1-0-0."
+            "Zitat": "C-reaktives Protein 9,7 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "Schmerzen bestehen an den Händen, Schultern, Knien. MS 30-60 Minuten."
+            "Zitat": "Schmerzen bestehen an den Händen, Schultern, Knien. MS 30-60 Minuten. Zunehmende Schmerzen zum Abend hin. Greifen der Hände ist nur schwierig."
           },
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "Zunehmende Schmerzen zum Abend hin. Greifen der Hände ist nur schwierig."
+            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
           }
         ],
-        "Gelenkbefund": [
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
-          }
-        ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
           {
             "Datei": "26_Baseline.docx",
             "Zitat": "Schmerzen bestehen an den Händen, Schultern, Knien."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "MS 30-60 Minuten."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "Schmerzen bestehen an den Händen, Schultern, Knien."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
+          },
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "MS 30-60 Minuten. Zunehmende Schmerzen zum Abend hin. Greifen der Hände ist nur schwierig."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "In der Zusammenschau der Befunde ist die Grunderkrankung weiterhin aktiv."
           }
         ],
         "Verlauf": [
@@ -110,7 +261,7 @@
           },
           {
             "Datei": "26_Baseline.docx",
-            "Zitat": "Serologisch zeigten sich keine Auffälligkeiten bis auf leicht erhöhte Entzündungswerten, die zwar fallend zu den Vorwerten waren, aber aktuell auch unter einer Stoßtherapie mit 40 mg Prednisolon auftraten."
+            "Zitat": "Seit Montag nehme er 40 mg Prednisolon ein und nehme zusätzlich Ibuprofen morgens und abends."
           },
           {
             "Datei": "26_Baseline.docx",
@@ -123,13 +274,16 @@
           {
             "Datei": "26_Baseline.docx",
             "Zitat": "Prednisolon sollte schrittweise reduziert werden."
+          },
+          {
+            "Datei": "26_Baseline.docx",
+            "Zitat": "Wir weisen daraufhin, Ibuprofen nicht täglich einzunehmen und nur in Verbindung mit einem Magenschutz."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben; auch DAS28 und TJC sind nicht eigenständig datiert.",
-        "Zählbereich des TJC nicht angegeben. Keine Schwellungen dokumentiert, aber kein ausdrücklicher numerischer SJC.",
-        "Upadacitinib steht bereits in der Dauermedikation; Anamnese und Beurteilung beschreiben jedoch die Kontrolle unter Golimumab und empfehlen erst die Umstellung. Beginn von Upadacitinib am Referenztermin nicht eindeutig belegt."
+        "Zählbereich des TJC nicht angegeben; aus fehlenden Schwellungen wurde kein standardisierter SJC abgeleitet.",
+        "CRP und DAS28 ohne gesondertes Messdatum dokumentiert."
       ]
     },
     {
@@ -142,21 +296,83 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 7,
-      "Aktuelle Therapie": "Upadacitinib 15 mg täglich seit Juli 2021; Ibuprofen 800 mg morgens und abends.",
-      "Klinische Hauptmanifestation": "Belastungsabhängige Schmerzen der Finger- und Handgelenke bei der Arbeit als Hausmeister. Keine Morgensteifigkeit.",
-      "Gelenkbefund": "Ein druckschmerzhaftes Gelenk, keine geschwollenen Gelenke; Lokalisation nicht angegeben.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Unter Upadacitinib berichtete Besserung der Gelenkschwellungen und klinisch gute Krankheitskontrolle. Belastungsschmerzen der Finger- und Handgelenke bestehen fort; keine Morgensteifigkeit. Druckschmerzhafte Gelenke gegenüber Baseline von 10 auf 1 rückläufig.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Belastungsabhängige Schmerzen der Finger- und Handgelenke bei gebesserten Gelenkschwellungen. Ein druckschmerzhaftes Gelenk, keine geschwollenen Gelenke und keine Morgensteifigkeit.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Morgensteifigkeit": "verneint",
+      "Betroffene Regionen": "Fingergelenke und Handgelenke",
+      "Klinischer Befund (Details)": "Ein druckschmerzhaftes Gelenk ohne nähere Lokalisation; keine geschwollenen Gelenke. Schmerzen an Finger- und Handgelenken bei beruflicher Belastung, keine Morgensteifigkeit.",
+      "Beurteilte Therapie": "Upadacitinib",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Remission",
+      "Verlauf": "Unter Upadacitinib seit Juli 2021 berichtete Besserung der Gelenkschwellungen ohne näher bezeichnetes Ausmaß. Aktuell ärztlich als gut kontrolliert beziehungsweise Remission dokumentiert; belastungsabhängige Finger- und Handgelenkschmerzen verbleiben. Fortführung der Medikation empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Upadacitinib",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Upadacitinib 15 mg 1-0-0 seit Juli 2021",
+          "Belege": [
+            {
+              "Datei": "26_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Upadacitinib 15 mg 1-0-0 seit Juli 2021"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 800,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen 800 mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "26_FollowUp.docx",
+              "Zitat": "Ibuprofen 800 mg 1-0-1"
+            }
+          ],
+          "Hinweise": [
+            "Morgens und abends laut Dauermedikation."
+          ]
+        },
+        {
+          "Wirkstoff": "Pantoprazol",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Pantoprazol 20mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "26_FollowUp.docx",
+              "Zitat": "Pantoprazol 20mg 1-0-0"
+            }
+          ],
+          "Hinweise": [
+            "Begleitmedikation bei gleichzeitig dokumentierter Ibuprofeneinnahme und anamnestischer Gastritis."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "26_FollowUp.docx",
-            "Zitat": "der sich am 02.11.2021 ambulant vorstellte."
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 26, der sich am 02.11.2021 ambulant vorstellte."
           }
         ],
         "DAS28": [
@@ -177,22 +393,28 @@
             "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "26_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "26_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "26_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -201,65 +423,109 @@
             "Zitat": "BSG: 7 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Upadacitinib 15 mg 1-0-0 seit Juli 2021"
-          },
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Ibuprofen 800 mg 1-0-1"
-          }
-        ],
         "Klinische Hauptmanifestation": [
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
-          }
-        ],
-        "Gelenkbefund": [
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
-          }
-        ],
-        "Verlauf": [
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Verlaufskontrolle bei rheumatoider Arthritis unter Upadicitinib Therapie. Aktuell berichtet der Patient über eine Besserung der Gelenkschwellungen."
-          },
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung unter der jetzigen Therapie gut kontrolliert."
-          },
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
-          },
-          {
-            "Datei": "26_Baseline.docx",
-            "Zitat": "Gelenkstatus: 10 druckschmerzhafte Gelenke, keine Schwellungen"
-          },
-          {
-            "Datei": "26_FollowUp.docx",
-            "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
           {
             "Datei": "26_FollowUp.docx",
             "Zitat": "Aktuell berichtet der Patient über eine Besserung der Gelenkschwellungen."
           },
           {
             "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Gelenkstatus: 1 DS/ keine geschwollenen Gelenke"
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Verlaufskontrolle bei rheumatoider Arthritis unter Upadicitinib Therapie. Aktuell berichtet der Patient über eine Besserung der Gelenkschwellungen."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Aktuell berichtet der Patient über eine Besserung der Gelenkschwellungen."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "DAS28: 2,40 (Remission)"
+          },
+          {
+            "Datei": "26_FollowUp.docx",
             "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung unter der jetzigen Therapie gut kontrolliert."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Aktuelle Therapie: Upadacitinib 15 mg 1-0-0 seit Juli 2021"
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Aktuell berichtet der Patient über eine Besserung der Gelenkschwellungen."
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Schmerzen der Fingergelenke und HG bei Belastung (arbeite als Hausmeister), keine MS."
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "DAS28: 2,40 (Remission)"
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung unter der jetzigen Therapie gut kontrolliert."
+          },
+          {
+            "Datei": "26_FollowUp.docx",
+            "Zitat": "Wir empfahlen Die Fortführung der Medikation und eine Wiedervorstellung in 3 Monaten."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben; auch BSG, DAS28 und TJC sind nicht eigenständig datiert.",
-        "Zählbereich des TJC nicht angegeben; Vergleich mit Baseline daher eingeschränkt. Keine geschwollenen Gelenke dokumentiert, aber kein ausdrücklicher numerischer SJC.",
-        "Berichtete Besserung der Gelenkschwellungen ohne datierten Ausgangsbefund; im Baseline-Brief waren keine Schwellungen dokumentiert."
+        "Ansprechen nicht beurteilbar: Besserung ohne einordenbares Ausmaß; verbleibende Belastungsschmerzen nicht ausdrücklich als entzündlich eingeordnet. Gute Kontrolle und dokumentierte Remission belegen allein keine bestimmte Veränderungskategorie.",
+        "Remission ausdrücklich beim DAS28 dokumentiert; keine eigenständige Anwendung einer Remissionsschwelle.",
+        "DS als druckschmerzhaft interpretiert; Zählbereich des TJC nicht angegeben. Kein standardisierter SJC dokumentiert.",
+        "CRP, BSG und DAS28 ohne gesondertes Messdatum dokumentiert.",
+        "Prednisolon in dieser Briefgruppe nicht genannt; ein Absetzdatum ist nicht belegt."
       ]
     }
   ]

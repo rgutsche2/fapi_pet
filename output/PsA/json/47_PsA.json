@@ -7,7 +7,7 @@
       "Follow-up": "2020-10-09"
     }
   },
-  "fingerprint": "ec0880044a324a9fae8944eaa28b77865c4761c0c2ae22f66fffdab773025faa",
+  "fingerprint": "0bc0b13547842382dfc628daf55ff26ea29a2e191935ac445f7566f35c7d5256",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,21 +20,100 @@
         "LEI": null,
         "PASI": 5.1,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 9.0,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Diclofenac 50 mg 1-0-1 und topische Therapie; Secukinumab wegen unzureichender Wirkung pausiert.",
-        "Klinische Hauptmanifestation": "Anamnestisch rezidivierende Gelenkschwellungen einschließlich DIP-Gelenken sowie Beschwerden an Sehnen und Sehnenansätzen. Aktuell keine druckschmerzhaften oder geschwollenen Gelenke im dokumentierten Gelenkstatus.",
-        "Axiale Beschwerden / ISG": "Wirbelsäule frei beweglich; Finger-Boden-Abstand 0 cm. Axiale Schmerzen nicht beschrieben.",
-        "Weitere Manifestationen": "Enthesen: leichter Druckschmerz beidseits costochondral an der 1. und 7. Rippe, an den Spinae iliacae anteriores superiores beidseits und an der linken Achillessehne. Daktylitis: keine. Haut: Plaques an beiden Ellenbogen, beiden Leisten und am gesamten Capillitium, 10 % Körperoberfläche. Nägel: kein Befall.",
-        "Verlauf": "Rezidivierende Gelenkschwellungen und Sehnenansatzbeschwerden bei unzureichender Wirkung mehrerer NSAR und von Secukinumab; aktuell entheseale Druckschmerzen bei TJC und SJC jeweils 0. Einleitung von Tofacitinib 5 mg zweimal täglich empfohlen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Enthesitis bei dominant peripherer PsA mit oligoartikulärem und DIP-Befallstyp; aktuell keine druckschmerzhaften oder geschwollenen Gelenke.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "vorhanden",
+        "Daktylitis": "verneint",
+        "Hautbeteiligung": "vorhanden",
+        "Nagelbeteiligung": "verneint",
+        "Betroffene Regionen": "Enthesen beidseits costochondral an der 1. und 7. Rippe, beidseits Spina iliaca anterior superior und linke Achillessehne; Haut an beiden Ellenbogen, beiden Leisten und gesamtem Capillitium.",
+        "Klinischer Befund (Details)": "Anamnestisch rezidivierende Schwellungen kleiner Fingergelenke einschließlich DIP sowie Sehnenbeschwerden an Achillessehne, Hüfte und Ellenbogen; aktuell TJC 0 und SJC 0. Leichter enthesealer Druckschmerz an den genannten Lokalisationen. Psoriasiforme Plaques auf 10 % der Körperoberfläche. Wirbelsäule frei beweglich; keine klinische Aussage zu axialen Schmerzen.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Persistierende PsA-Aktivität mit klinischer Enthesitis und Hautbeteiligung. NSAR und zuletzt Secukinumab ohne ausreichende Wirkung; Secukinumab pausiert. Umstellung auf Tofacitinib empfohlen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Diclofenac",
+            "Dosis": 50,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Diclofenac 50mg 1-0-1",
+            "Belege": [
+              {
+                "Datei": "47_Baseline.docx",
+                "Zitat": "Med.: Metformin 1000 1-0-1, Diclofenac 50mg 1-0-1, topische Therapie, Secukinumab aktuell pausiert bei unzureichender Wirkung"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "pausiert",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "47_Baseline.docx",
+                "Zitat": "Med.: Metformin 1000 1-0-1, Diclofenac 50mg 1-0-1, topische Therapie, Secukinumab aktuell pausiert bei unzureichender Wirkung"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Tofacitinib",
+            "Dosis": 5,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Tofacitinib 5mg 1-0-1",
+            "Belege": [
+              {
+                "Datei": "47_Baseline.docx",
+                "Zitat": "Wir empfehlen daher eine Umstellung der immunsuppressiven Basistherapie auf Tofacitinib 5mg 1-0-1 unter regelm. Kontrollen nach Maßgabe der DGRh."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 90,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Etoricoxib 90mg über mehrere Wochen",
+            "Belege": [
+              {
+                "Datei": "47_Baseline.docx",
+                "Zitat": "bisherige Therapie: Etoricoxib 90mg über mehrere Wochen, Diclofenac 50mg 1-0-1 über mehrere Wochen, ohne ausreichende Wirkung, Z.n. Secukinumab ohne ausreichende Wirkung"
+              }
+            ],
+            "Hinweise": []
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "wir berichten über unsere gemeinsame Patientin, 47, die sich am 26.11.2018 ambulant vorstellte."
+              "Zitat": "die sich am 26.11.2018 ambulant vorstellte."
             }
           ],
           "TJC": [
@@ -55,31 +134,91 @@
               "Zitat": "10% der Körperoberfläche; PASI 5,1"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "C-reaktives Protein 9,0 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
+              "Zitat": "C-reaktives Protein 9,0 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
+              "Zitat": "C-reaktives Protein 9,0 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "C-reaktives Protein 9,0 mg/l (-<5,1 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "47_Baseline.docx",
-              "Zitat": "Med.: Metformin 1000 1-0-1, Diclofenac 50mg 1-0-1, topische Therapie, Secukinumab aktuell pausiert bei unzureichender Wirkung"
+              "Zitat": "C-reaktives Protein 9,0 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Befallstyp: dominant periph. (Oligoarthritis), DIP-Arthritis, Sehnen-/Sehnenansätze"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Sie berichtet über rez. synovitische Gelenkschwellungen aber auch Tendinopathien und Enthesiopathien im Bereich der Achillessehne, aber auch im Bereich der Hüfte und Ellenbogen sowie kleinen Fingergelenken."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "keine Daktylitis"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Haut: psoriasiforme Plaques an bd. Ellenbogen, im Bereich bd. Leisten, am gesamten Capillitium."
+            }
+          ],
+          "Nagelbeteiligung": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Nägel: kein Befall"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Haut: psoriasiforme Plaques an bd. Ellenbogen, im Bereich bd. Leisten, am gesamten Capillitium."
+            }
+          ],
+          "Klinischer Befund (Details)": [
             {
               "Datei": "47_Baseline.docx",
               "Zitat": "Sie berichtet über rez. synovitische Gelenkschwellungen aber auch Tendinopathien und Enthesiopathien im Bereich der Achillessehne, aber auch im Bereich der Hüfte und Ellenbogen sowie kleinen Fingergelenken."
@@ -91,48 +230,42 @@
             {
               "Datei": "47_Baseline.docx",
               "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "10% der Körperoberfläche; PASI 5,1"
             }
           ],
-          "Axiale Beschwerden / ISG": [
+          "Krankheitszustand": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
-            }
-          ],
-          "Weitere Manifestationen": [
-            {
-              "Datei": "47_Baseline.docx",
-              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
-            },
-            {
-              "Datei": "47_Baseline.docx",
-              "Zitat": "keine Daktylitis"
-            },
-            {
-              "Datei": "47_Baseline.docx",
-              "Zitat": "Haut: psoriasiforme Plaques an bd. Ellenbogen, im Bereich bd. Leisten, am gesamten Capillitium. 10% der Körperoberfläche; PASI 5,1"
-            },
-            {
-              "Datei": "47_Baseline.docx",
-              "Zitat": "Nägel: kein Befall"
+              "Zitat": "In der Zusammenschau der Befunde zeigt sich eine persistierende Aktivität der PsA in der erweiterten Bildgebung alsu auch laborchemsich."
             }
           ],
           "Verlauf": [
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "Sie berichtet über rez. synovitische Gelenkschwellungen aber auch Tendinopathien und Enthesiopathien im Bereich der Achillessehne, aber auch im Bereich der Hüfte und Ellenbogen sowie kleinen Fingergelenken."
+              "Zitat": "In der Zusammenschau der Befunde zeigt sich eine persistierende Aktivität der PsA in der erweiterten Bildgebung alsu auch laborchemsich."
             },
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "In der Vorgeschichte wurde bereits NSAR mehrere Präp. versucht ohne ausreichende Wirkung. Zuletzt erfolgte eine Therapie mit Secukinumab, ebenfalls ohne ausreichende Wirkung."
+              "Zitat": "Enthesitis aktuell bestehend"
             },
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7"
+              "Zitat": "Haut: aktuell bestehende Psoriasis"
             },
             {
               "Datei": "47_Baseline.docx",
-              "Zitat": "Gelenke: TJC 0, SJC 0, WS frei beweglich, FBA 0 cm, Hinterhauptwandabstand 0 cm, Wandtragusabstand 0 cm"
+              "Zitat": "bisherige Therapie: Etoricoxib 90mg über mehrere Wochen, Diclofenac 50mg 1-0-1 über mehrere Wochen, ohne ausreichende Wirkung, Z.n. Secukinumab ohne ausreichende Wirkung"
+            },
+            {
+              "Datei": "47_Baseline.docx",
+              "Zitat": "Secukinumab aktuell pausiert bei unzureichender Wirkung"
             },
             {
               "Datei": "47_Baseline.docx",
@@ -141,9 +274,12 @@
           ]
         },
         "Hinweise": [
-          "Zählbereich von TJC und SJC nicht angegeben.",
-          "MASES 7; Originalbeleg: „Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7“ (47_Baseline.docx).",
-          "Labor im Brief ohne eigenes Messdatum; genaue zeitliche Zuordnung zum Untersuchungstag nicht ausdrücklich dokumentiert."
+          "CRP: erster Messwert nach Reihenfolge; kein eigenes Labordatum angegeben.",
+          "TJC, SJC und PASI ohne separates Untersuchungsdatum; Zählbereich von TJC und SJC nicht angegeben.",
+          "Anamnestisch rezidivierende Gelenkschwellungen, im aktuellen Gelenkstatus SJC 0.",
+          "MASES 7; Beleg 47_Baseline.docx: „Enthesaler Druckschmerz bds. costochondral 1. und 7. Rippe, Spina iliaca anterior superior bds., Achillessehne li., Schweregrad gesamt leicht; MASES 7“. Kein LEI dokumentiert.",
+          "Topische Therapie laufend, Wirkstoff und Dosierung nicht genannt; Beleg 47_Baseline.docx: „aktuelle Therapie: topische Therapie, geplante Umstellung auf Tofacitinib“.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -156,66 +292,179 @@
         "LEI": null,
         "PASI": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 6.4,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Certolizumab 200 mg subkutan alle 14 Tage; bei gelegentlichen Hautplaques topische Therapie.",
-        "Klinische Hauptmanifestation": "Gelegentliche Handgelenkschmerzen mit dezentem radialem Druckschmerz beidseits; keine geschwollenen Gelenke. Fußschmerzen vollständig verschwunden. Keine Morgensteifigkeit.",
-        "Axiale Beschwerden / ISG": null,
-        "Weitere Manifestationen": "Haut: aktuell keine erythrosquamösen Plaques; gelegentlich noch psoriasiformer Plaque in der Rima ani, topisch gut kontrollierbar.",
-        "Verlauf": "Unter Certolizumab gute klinische Kontrolle: Fußschmerzen vollständig verschwunden, gelegentliche Handgelenkschmerzen und dezenter Druckschmerz bleiben. Keine Gelenkschwellungen; ärztlich aktuell kein klinischer Anhalt für Krankheitsaktivität. Haut deutlich gebessert, gelegentliche Plaques in der Rima ani topisch kontrollierbar.",
-        "Ansprechen (Ja/Nein)": "Ja",
+        "Klinische Hauptmanifestation": "Gut kontrollierte PsA mit gelegentlichen Handgelenkschmerzen und dezentem radialem Druckschmerz beidseits, ohne klinische Gelenkschwellung.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "unklar",
+        "Daktylitis": "verneint",
+        "Hautbeteiligung": "verneint",
+        "Nagelbeteiligung": "verneint",
+        "Betroffene Regionen": "Handgelenke radial beidseits; gelegentliche Hauterscheinungen in der Rima ani, aktuell keine Plaques.",
+        "Klinischer Befund (Details)": "Gelegentliche Handgelenkschmerzen und dezenter radialer Druckschmerz beidseits bei fehlenden geschwollenen Gelenken. Fußschmerzen vollständig verschwunden. Keine Morgensteifigkeit. Aktuell keine erythrosquamösen Plaques; gelegentliche psoriasiforme Plaques in der Rima ani topisch gut kontrollierbar. Enthesitis nur in der Diagnosenliste ohne aktuellen Lokalbefund genannt.",
+        "Beurteilte Therapie": "Tofacitinib",
+        "Ansprechen": "Keines",
+        "Krankheitszustand": "Gut kontrolliert",
+        "Verlauf": "Tofacitinib wurde 05/2019 wegen Leberwerterhöhung und unzureichenden Therapieansprechens beendet. Unter aktuellem Certolizumab klinisch gute Kontrolle ohne Aktivitätszeichen; gelegentliche Handgelenksbeschwerden verbleiben, Fußschmerzen sind verschwunden. Haut aktuell ohne Plaques, gelegentliche Läsionen topisch kontrollierbar. Fortführung von Certolizumab empfohlen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Certolizumab",
+            "Dosis": 200,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 14,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Cimzia 200 mg s.c. alle 14 Tage",
+            "Belege": [
+              {
+                "Datei": "47_FollowUp.docx",
+                "Zitat": "aktuelle Therapie: Certolizumab 200mg seit 11/2019"
+              },
+              {
+                "Datei": "47_FollowUp.docx",
+                "Zitat": "Wir empfehlen die unveränderte Fortführung der Therapie mit Cimzia 200 mg s.c. alle 14 Tage und erbitten regelm. laborchemische Untersuchungen gemäß der Richtlinien der DGRh."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Tofacitinib",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "47_FollowUp.docx",
+                "Zitat": "Tofacitinib 01/2019-05/2019: abgesetzt bei Leberwerterhöhung, zusätzlich kein ausreichendes Therapieansprechen"
+              }
+            ],
+            "Hinweise": [
+              "Abgeschlossene Therapie; Grundlage der klassifizierten Ansprechaussage."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "wir berichten über unsere gemeinsame Patientin, 47, die sich am 18.12.2020 ambulant vorstellte."
+              "Zitat": "die sich am 18.12.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 6,4 mg/l"
             }
           ],
           "CRP-Wert": [
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 6,4 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 6,4 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 6,4 mg/l (-<5,2 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "47_FollowUp.docx",
-              "Zitat": "Cimzia 200 mg alle 14 Tage s.c."
-            },
-            {
-              "Datei": "47_FollowUp.docx",
-              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+              "Zitat": "C-reaktives Protein 6,4 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen. Die Schmerzen im Fuß seien vollständig verschwunden."
+              "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
             },
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "Gelenkstatus: keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus:  keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus:  keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus:  keine geschwollenen Gelenke."
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Nägel: kein Befall, Haut: Psoriasis vulgaris, keine Daktylitis, Enthesitis"
+            }
+          ],
+          "Daktylitis": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Nägel: kein Befall, Haut: Psoriasis vulgaris, keine Daktylitis, Enthesitis"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Haut: aktuell keine erythrosquamösen Plaques."
+            }
+          ],
+          "Nagelbeteiligung": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Nägel: kein Befall, Haut: Psoriasis vulgaris, keine Daktylitis, Enthesitis"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "dezenter druckschmerz Handgelenk radial beidseits."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Haut: aktuell keine erythrosquamösen Plaques."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Gelenkstatus:  keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Die Schmerzen im Fuß seien vollständig verschwunden."
             },
             {
               "Datei": "47_FollowUp.docx",
               "Zitat": "Keine Morgensteifigkeit."
-            }
-          ],
-          "Weitere Manifestationen": [
+            },
             {
               "Datei": "47_FollowUp.docx",
               "Zitat": "Haut: aktuell keine erythrosquamösen Plaques."
@@ -223,20 +472,42 @@
             {
               "Datei": "47_FollowUp.docx",
               "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Nägel: kein Befall, Haut: Psoriasis vulgaris, keine Daktylitis, Enthesitis"
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Tofacitinib 01/2019-05/2019: abgesetzt bei Leberwerterhöhung, zusätzlich kein ausreichendes Therapieansprechen"
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Tofacitinib 01/2019-05/2019: abgesetzt bei Leberwerterhöhung, zusätzlich kein ausreichendes Therapieansprechen"
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Klinisch aktuell kein Anhalt für Aktivität der Grunderkrankung."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
             }
           ],
           "Verlauf": [
             {
               "Datei": "47_FollowUp.docx",
+              "Zitat": "Tofacitinib 01/2019-05/2019: abgesetzt bei Leberwerterhöhung, zusätzlich kein ausreichendes Therapieansprechen"
+            },
+            {
+              "Datei": "47_FollowUp.docx",
               "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
-            },
-            {
-              "Datei": "47_FollowUp.docx",
-              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen. Die Schmerzen im Fuß seien vollständig verschwunden."
-            },
-            {
-              "Datei": "47_FollowUp.docx",
-              "Zitat": "Gelenkstatus: keine geschwollenen Gelenke. dezenter druckschmerz Handgelenk radial beidseits."
             },
             {
               "Datei": "47_FollowUp.docx",
@@ -244,29 +515,34 @@
             },
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "Keine psoriasistypischen Plaques mehr."
+              "Zitat": "berichtet von noch immer glg. in den Handgelenken auftretenden Schmerzen."
             },
-            {
-              "Datei": "47_FollowUp.docx",
-              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
             {
               "Datei": "47_FollowUp.docx",
               "Zitat": "Die Schmerzen im Fuß seien vollständig verschwunden."
             },
             {
               "Datei": "47_FollowUp.docx",
-              "Zitat": "In Zusammenschau der Befunde gute Kontrolle unter Therapie mit Cimzia."
+              "Zitat": "Haut: aktuell keine erythrosquamösen Plaques."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Insb. in der Rima ani sei allerdings glg. noch ein psoriasiformer Plaque aufgetreten. Dies würde durch topische Therapie gut zu kontrollieren sein."
+            },
+            {
+              "Datei": "47_FollowUp.docx",
+              "Zitat": "Wir empfehlen die unveränderte Fortführung der Therapie mit Cimzia 200 mg s.c. alle 14 Tage und erbitten regelm. laborchemische Untersuchungen gemäß der Richtlinien der DGRh."
             }
           ]
         },
         "Hinweise": [
-          "Widersprüchliche Anamnese: pauschal „Keine Gelenkschmerzen“, zugleich konkret gelegentliche Handgelenkschmerzen und beidseitiger Druckschmerz; konkrete Angaben haben Vorrang.",
-          "Ansprechen als muskuloskelettale Teilbesserung bei verschwundenen Fußschmerzen und dokumentierter guter Kontrolle unter Cimzia; keine vollständige Beschwerdefreiheit.",
-          "Enthesitis, fehlende Daktylitis und fehlender Nagelbefall stehen nur in der fortgeführten Diagnoseliste; aktueller Befund hierzu nicht eindeutig belegt.",
-          "Labor im Brief ohne eigenes Messdatum; genaue zeitliche Zuordnung zum Untersuchungstag nicht ausdrücklich dokumentiert."
+          "CRP: erster Messwert nach Reihenfolge; kein eigenes Labordatum angegeben.",
+          "Ansprechen Keines bezieht sich auf das ausdrücklich dokumentierte Versagen von Tofacitinib, nicht auf das aktuell laufende Certolizumab. Für Certolizumab ist gute aktuelle Kontrolle dokumentiert; das Ausmaß einer muskuloskelettalen Veränderung bleibt unzureichend zuordenbar.",
+          "Widersprüchliche Schmerzanamnese: 47_FollowUp.docx: „Keine Gelenkschmerzen, Keine Gelenkschwellungen, Keine Morgensteifigkeit.“ Gleichzeitig gelegentliche Handgelenkschmerzen und objektiver Druckschmerz; daher periphere Gelenkbeschwerden vorhanden.",
+          "Enthesitis steht nur in der Diagnosenliste; aktuelle klinische Aktivität und Lokalisation bleiben unklar.",
+          "Haut aktuell im Untersuchungsbefund ohne Plaques; episodische Läsionen in der Rima ani bleiben im Verlauf erhalten.",
+          "Topische Therapie zur Hautkontrolle, Wirkstoff und Dosierung nicht genannt; Beleg 47_FollowUp.docx: „Dies würde durch topische Therapie gut zu kontrollieren sein.“",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

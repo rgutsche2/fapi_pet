@@ -10,25 +10,125 @@
       "LEI": null,
       "PASI": 3.0,
       "HAQ": 1.75,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.6,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 9,
-      "Aktuelle Therapie": "Cosentyx 300 mg s.c. alle vier Wochen; Prednisolon 5 mg täglich; topische Therapie mit Flucidine seit 09/2020.",
-      "Klinische Hauptmanifestation": "Führende Hautbeschwerden bei geringen Gelenkbeschwerden; Schwellung am PIP 3 rechts ohne Druckschmerz.",
-      "Periphere Gelenkbeschwerden": "Wenig Gelenkbeschwerden; kein Druckschmerz, Schwellung am PIP 3 rechts.",
-      "Axiale Beschwerden / ISG": null,
-      "Enthesitis": null,
-      "Daktylitis": null,
-      "Hautbeteiligung": "Psoriasis an beiden Unterschenkeln und einem Ellenbogen; Seitenangabe des Ellenbogens widersprüchlich. Zunächst zunehmend, unter Flucidine gebessert.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Hautbeschwerden zunächst zunehmend, dann gutes Ansprechen auf die begonnene topische Therapie mit Flucidine. Gelenkbeschwerden gering.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Führende Hautpsoriasis bei geringen Gelenkbeschwerden und Schwellung am PIP III rechts.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "nicht erwähnt",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "PIP III rechts; Unterschenkel beidseits und Ellenbogen.",
+      "Klinischer Befund (Details)": "Kein Gelenkdruckschmerz, Schwellung am PIP III rechts. Psoriasisplaques an beiden Unterschenkeln; Ellenbogenseite widersprüchlich dokumentiert.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Geringe Gelenkbeschwerden unter Secukinumab bei verbleibender Gelenkschwellung. Führende Hautbeschwerden sprechen auf die neu begonnene topische Therapie an; bisherige Therapie wird fortgeführt.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Cosentyx-Spritze 300mg (2x150mg) alle 4 Wochen s.c.,",
+          "Belege": [
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Cosentyx-Spritze 300mg (2x150mg) alle 4 Wochen s.c.,"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Prednisolon 5 mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Prednisolon 5 mg 1-0-0"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": 500,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novalgin 500mg b.B",
+          "Belege": [
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Novalgin 500mg b.B"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Pregabalin",
+          "Dosis": 100,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Pregabalin 100mg 0-0-1-1,",
+          "Belege": [
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Pregabalin 100mg 0-0-1-1,"
+            }
+          ],
+          "Hinweise": [
+            "Indikation nicht ausdrücklich genannt; als mögliche schmerzbezogene Begleitmedikation erfasst."
+          ]
+        },
+        {
+          "Wirkstoff": "Flucidine",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "laufend",
+          "Dosierung (Original)": "Insgesamt solle er die topische Therapie für 6 Wochen durchführen.",
+          "Belege": [
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Die Hautbeschwerden hätten zunächst weiter zugenommen, die begonnene topische Therapie mit Flucidine helfe aber."
+            },
+            {
+              "Datei": "48_Baseline.docx",
+              "Zitat": "Insgesamt solle er die topische Therapie für 6 Wochen durchführen."
+            }
+          ],
+          "Hinweise": [
+            "Originalbezeichnung übernommen; Wirkstoff nicht eindeutig identifiziert."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "der sich am 01.10.2020 ambulant vorstellte."
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 48, der sich am 01.10.2020 ambulant vorstellte."
           }
         ],
         "PASI": [
@@ -43,42 +143,34 @@
             "Zitat": "HAQ 1,75; BAS-G 6"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "C-reaktives Protein 5,6 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,6 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 5,6 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,6 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 5,6 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,6 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 5,6 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "48_Baseline.docx",
             "Zitat": "BKS: 9/16 mm"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "48_Baseline.docx",
-            "Zitat": "aktuelle Therapie: Cosentyx 300 mg s. c. alle vier Wochen, seit 12/2015"
-          },
-          {
-            "Datei": "48_Baseline.docx",
-            "Zitat": "Prednisolon 5 mg 1-0-0"
-          },
-          {
-            "Datei": "48_Baseline.docx",
-            "Zitat": "aktuell: Psoriasis an Unterschenkel bds. und Ellenbogen links, topische Therapie mit Flucidine begonnen 09/2020"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -99,7 +191,9 @@
           {
             "Datei": "48_Baseline.docx",
             "Zitat": "Hinsichtlich der Gelenke bestünden wenig Beschwerden."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "48_Baseline.docx",
             "Zitat": "Gelenkstatus kein DS, Schwellung PIP 3 rechts."
@@ -108,7 +202,23 @@
         "Hautbeteiligung": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "aktuell: Psoriasis an Unterschenkel bds. und Ellenbogen links, topische Therapie mit Flucidine begonnen 09/2020"
+            "Zitat": "Plaques an Ellenbogen rechts und Unterschenkel bds. PASI 3,0"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Gelenkstatus kein DS, Schwellung PIP 3 rechts."
+          },
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Plaques an Ellenbogen rechts und Unterschenkel bds. PASI 3,0"
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Gelenkstatus kein DS, Schwellung PIP 3 rechts."
           },
           {
             "Datei": "48_Baseline.docx",
@@ -116,13 +226,31 @@
           },
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "Die Hautbeschwerden hätten zunächst weiter zugenommen, die begonnene topische Therapie mit Flucidine helfe aber."
+            "Zitat": "aktuell: Psoriasis an Unterschenkel bds. und Ellenbogen links, topische Therapie mit Flucidine begonnen 09/2020"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Gelenkstatus kein DS, Schwellung PIP 3 rechts."
+          },
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Plaques an Ellenbogen rechts und Unterschenkel bds. PASI 3,0"
           }
         ],
         "Verlauf": [
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "Die Hautbeschwerden hätten zunächst weiter zugenommen, die begonnene topische Therapie mit Flucidine helfe aber."
+            "Zitat": "aktuelle Therapie: Cosentyx 300 mg s. c. alle vier Wochen, seit 12/2015"
+          },
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Hinsichtlich der Gelenke bestünden wenig Beschwerden."
+          },
+          {
+            "Datei": "48_Baseline.docx",
+            "Zitat": "Gelenkstatus kein DS, Schwellung PIP 3 rechts."
           },
           {
             "Datei": "48_Baseline.docx",
@@ -130,14 +258,15 @@
           },
           {
             "Datei": "48_Baseline.docx",
-            "Zitat": "Hinsichtlich der Gelenke bestünden wenig Beschwerden."
+            "Zitat": "Wir empfehlen Fortführung der Therapie wie bisher, unter regelmäßigen klinischen und laborchemischen Kontrollen nach Maßgabe der DGRh."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben.",
-        "Ellenbogenbefall: Diagnosen links, Untersuchungsbefund rechts.",
-        "Weiterer Score: BAS-G 6; Originalbeleg: 48_Baseline.docx: „HAQ 1,75; BAS-G 6“."
+        "Laborwerte und Scores ohne eigenständiges Messdatum im Brief; keine gesonderte Datierung auf den Referenztermin vorgenommen.",
+        "Ellenbogenbefall links in den Diagnosen, rechts im Untersuchungsbefund.",
+        "Zusätzlicher Score BAS-G 6; Originalbeleg: „HAQ 1,75; BAS-G 6“ (48_Baseline.docx).",
+        "Psoriasis unguium nur als Diagnose genannt; kein aktueller Nagelbefund beschrieben."
       ]
     },
     {
@@ -150,43 +279,184 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 7,
-      "Aktuelle Therapie": "Guselkumab seit 06/2021, seit etwa 14 Wochen angewendet; Dosis und Intervall nicht angegeben. Prednisolon 5 mg und 2,5 mg im täglichen Wechsel; topische Therapie mit Flucidine.",
-      "Klinische Hauptmanifestation": "Ausreichend kontrollierte Gelenkbeschwerden bei kurzzeitigen Schmerzen und fünf Minuten Morgensteifigkeit; unklare Kiefergelenkbeschwerden in Abklärung. Weiterhin ausgeprägt aktive Hautplaques trotz berichteter Besserung.",
-      "Periphere Gelenkbeschwerden": "Minimale subjektive Besserung, Schmerzen nur kurzzeitig und Morgensteifigkeit fünf Minuten. Keine Schwellung und kein Druckschmerz im Gelenkstatus; unklare Kiefersperre in kieferorthopädischer Abklärung.",
-      "Axiale Beschwerden / ISG": null,
-      "Enthesitis": null,
-      "Daktylitis": null,
-      "Hautbeteiligung": "Unter Guselkumab deutlich gebesserte, anamnestisch abheilende und weniger floride Psoriasisläsionen. Im Untersuchungsbefund weiterhin ausgeprägt aktive Plaques an beiden Beinen, Unterschenkeln und Füßen; keine offenen Wunden.",
-      "Nagelbeteiligung": "Keine Nagelveränderungen.",
-      "Verlauf": "Nach etwa 14 Wochen Guselkumab minimale subjektive Gelenkbesserung und ausreichend kontrollierter Gelenkstatus ohne Schwellung oder Druckschmerz. Kurzzeitige Schmerzen, fünf Minuten Morgensteifigkeit und unklare Kiefergelenkbeschwerden verbleiben. Haut deutlich gebessert, jedoch weiterhin aktive Plaques; keine Nagelveränderungen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Ausreichend kontrollierter Gelenkstatus mit kurzzeitigen Schmerzen und unklaren Kiefergelenkbeschwerden; weiterhin ausgeprägte Hautpsoriasis.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "nicht erwähnt",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "verneint",
+      "Betroffene Regionen": "Kiefergelenk ohne Seitenangabe; Haut an Beinen, Unterschenkeln und Füßen beidseits.",
+      "Klinischer Befund (Details)": "Kurzzeitige Gelenkschmerzen, Morgensteifigkeit 5 Minuten. Kein Gelenkdruckschmerz und keine Schwellung. Unklare Kiefersperre in kieferorthopädischer Abklärung. Ausgeprägt aktive Plaques an Beinen und Füßen beidseits, anamnestisch abheilend; keine Nagelveränderungen.",
+      "Beurteilte Therapie": "Guselkumab",
+      "Ansprechen": "Partiell",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Nach Wechsel wegen unzureichender Hautkontrolle unter Secukinumab auf Guselkumab seit etwa 14 Wochen nur minimale Gelenkbesserung, aber ausreichend kontrollierter Gelenkstatus. Haut deutlich gebessert, klinisch weiterhin ausgeprägte Plaques. Unklare Kiefergelenkbeschwerden werden abgeklärt; Guselkumab wird fortgeführt.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Guselkumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "laufend",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Guselkumab seit 06/21 bei unzur. Kontrolle der Psoriasis"
+            },
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "Das Guselkumab sollte unverändert fortgeführt werden."
+            }
+          ],
+          "Hinweise": [
+            "Dosis und Verabreichungsintervall fehlen."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "unklar",
+          "Dosierung (Original)": "Cosentyx-Spritze 300mg (2x150mg) alle 4 Wochen s.c.,",
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "bisherige Therapie: Z. n. MTX 2013-2015, abgesetzt bei fehlender Wirkung, Cosentyx 300 mg s. c. alle vier Wochen, seit 12/2015"
+            },
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "Cosentyx-Spritze 300mg (2x150mg) alle 4 Wochen s.c.,"
+            },
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Guselkumab seit 06/21 bei unzur. Kontrolle der Psoriasis"
+            }
+          ],
+          "Hinweise": [
+            "Als bisherige Therapie bezeichnet, aber weiterhin in der häuslichen Medikamentenliste aufgeführt; Beendigung beziehungsweise parallele Einnahme nicht eindeutig."
+          ]
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": null,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Prednisolon 5mg und 2,5mg jeden 2. Tag",
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "Prednisolon 5mg und 2,5mg jeden 2. Tag"
+            },
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "aktuell Sauerstofftherapie mit 4 Liter und Prednisolontherapie"
+            }
+          ],
+          "Hinweise": [
+            "Komplexes Dosierungsschema unverändert erhalten; keine einheitliche Einzeldosis abgeleitet. Im Zusammenhang mit der Lungenfibrose dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": 500,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novalgin 500mg b.B",
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "Novalgin 500mg b.B"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Pregabalin",
+          "Dosis": 100,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Pregabalin 100mg 0-0-1-1,",
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "Pregabalin 100mg 0-0-1-1,"
+            }
+          ],
+          "Hinweise": [
+            "Indikation nicht ausdrücklich genannt; als mögliche schmerzbezogene Begleitmedikation erfasst."
+          ]
+        },
+        {
+          "Wirkstoff": "Flucidine",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "unklar",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "48_FollowUp.docx",
+              "Zitat": "aktuell: Psoriasis an Beine und Füße bds., topische Therapie mit Flucidine begonnen 09/2020"
+            }
+          ],
+          "Hinweise": [
+            "Originalbezeichnung übernommen; Wirkstoff nicht eindeutig identifiziert. Fortführung zum Follow-up nicht ausdrücklich bestätigt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "der sich am 23.09.2021 ambulant vorstellte."
+            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 48, der sich am 23.09.2021 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -195,7 +465,99 @@
             "Zitat": "BKS: 7/17 mm"
           }
         ],
-        "Aktuelle Therapie": [
+        "Klinische Hauptmanifestation": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Gelenkstatus keine Schwellung, kein DS"
+          }
+        ],
+        "Hautbeteiligung": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv."
+          }
+        ],
+        "Nagelbeteiligung": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "keine Nagelveränderungen"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Gelenkstatus keine Schwellung, kein DS"
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Die Psoriasisläsionen seien nun abheilend, weniger floride."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "keine Nagelveränderungen"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Unter Guselkumab Anwendung seit 14 Wochen, merke der Pat. eine deutliche Besserung der Haut."
+          },
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "48_FollowUp.docx",
+            "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
+          }
+        ],
+        "Verlauf": [
           {
             "Datei": "48_FollowUp.docx",
             "Zitat": "aktuelle Therapie: Guselkumab seit 06/21 bei unzur. Kontrolle der Psoriasis"
@@ -206,21 +568,11 @@
           },
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "Prednisolon 5mg und 2,5mg jeden 2. Tag"
+            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
           },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "aktuell: Psoriasis an Beine und Füße bds., topische Therapie mit Flucidine begonnen 09/2020"
-          }
-        ],
-        "Klinische Hauptmanifestation": [
           {
             "Datei": "48_FollowUp.docx",
             "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
           },
           {
             "Datei": "48_FollowUp.docx",
@@ -228,89 +580,16 @@
           },
           {
             "Datei": "48_FollowUp.docx",
-            "Zitat": "Unter der vor 14 Wochen begonnenen Therapie mit Guselkumab zeigte sich ein deutlich verbesserter Hautbefund."
-          }
-        ],
-        "Periphere Gelenkbeschwerden": [
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Gelenkstatus keine Schwellung, kein DS"
-          }
-        ],
-        "Hautbeteiligung": [
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Unter Guselkumab Anwendung seit 14 Wochen, merke der Pat. eine deutliche Besserung der Haut."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Die Psoriasisläsionen seien nun abheilend, weniger floride."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv. keine offenen Wunde"
-          }
-        ],
-        "Nagelbeteiligung": [
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "keine Nagelveränderungen"
-          }
-        ],
-        "Verlauf": [
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Unter der vor 14 Wochen begonnenen Therapie mit Guselkumab zeigte sich ein deutlich verbesserter Hautbefund."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Gelenkstatus keine Schwellung, kein DS"
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Morgensteifigkeit 5 Min., die Schmerzen seien insgesamt nur kurzzeitig auftretend, zuletzt sei eine unklare Kiefersperre aufgetreten, die aktuell kieferorthopädisch abgeklärt werde, hier sei eine MRT-Untersuchung für in 3 Wochen geplant."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Plaques Beine und Unterschenkel bds. und Füße bds. ausgeprägt aktiv."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "keine Nagelveränderungen"
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Bei den Gelenken bemerke er nur eine min. Besserung."
-          },
-          {
-            "Datei": "48_FollowUp.docx",
-            "Zitat": "Der Gelenkstatus fand ausreichend kontrolliert, unklare Kiefergelenkbeschwerden aktuell unter Abklärung."
+            "Zitat": "Das Guselkumab sollte unverändert fortgeführt werden."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben.",
-        "Cosentyx steht noch in der häuslichen Medikation; aktuelle Anamnese und Beurteilung bestätigen Guselkumab als laufende Therapie.",
-        "Prednisolon wird im Zusammenhang mit der Lungenfibrose genannt; eine rheumatologische Indikation ist nicht eindeutig belegt.",
-        "Anamnestisch gebesserte Haut bei weiterhin ausgeprägt aktivem Hautbefund in der Untersuchung."
+        "Laborwerte ohne eigenständiges Messdatum im Brief; keine gesonderte Datierung auf den Referenztermin vorgenommen.",
+        "Partielles muskuloskelettales Ansprechen aufgrund ausdrücklich minimaler Gelenkbesserung; deutliche Hautbesserung getrennt bewertet.",
+        "Gut kontrolliert bezieht sich auf den ärztlich beurteilten Gelenkstatus; die Haut bleibt aktiv.",
+        "Kiefergelenkbeschwerden unklarer Ursache, keine gesicherte entzündliche Zuordnung.",
+        "Keine standardisierten Gelenkzählwerte dokumentiert; aus fehlender Schwellung und fehlendem Druckschmerz keine Nullwerte abgeleitet."
       ]
     }
   ]

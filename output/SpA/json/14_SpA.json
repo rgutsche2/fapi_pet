@@ -7,7 +7,7 @@
       "Follow-up": "2020-08-17"
     }
   },
-  "fingerprint": "5d608abb17f5fe16f93f9358a0d386fd0dfdad7b937d7ffb4a0244c269eb4d32",
+  "fingerprint": "f494f4fa52eee8bf6bd76e10b0a03dad1fe203da0ad3e21d8022a09f316f3359",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,21 +20,85 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 10.5,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Humira seit Oktober abgesetzt; keine laufende rheumatologische Medikation dokumentiert.",
-        "Klinische Hauptmanifestation": "Vermehrte axiale Schmerzen und massive Bewegungseinschränkung: HWS-Rotation beidseits 10°, Finger-Boden-Abstand >30 cm.",
-        "Axiale Beschwerden / ISG": "Nach Absetzen von Humira wieder vermehrte axiale Schmerzen und Bewegungseinschränkungen.",
-        "Weitere Gelenke": "Peripher keine synovitischen Gelenkschwellungen und kein Druckschmerz.",
-        "Verlauf": "Humira wegen Transaminasenanstiegs abgesetzt, danach erneute Zunahme axialer Beschwerden. Einleitung von Secukinumab nach erneuter Transaminasenkontrolle und dokumentiertem Rückgang empfohlen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Vermehrte axiale Schmerzen und ausgeprägte Bewegungseinschränkungen nach Absetzen von Adalimumab.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "verneint",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "Wirbelsäule, insbesondere HWS.",
+        "Klinischer Befund (Details)": "Schmerzskala 8/10. HWS-Rotation beidseits 10°, Finger-Boden-Abstand >30 cm. Peripher keine synovitischen Schwellungen und kein Druckschmerz.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Adalimumab seit Oktober wegen Transaminasenanstiegs abgesetzt; anschließend wieder vermehrte axiale Beschwerden und aggravierte Akne. Bei aktueller klinischer Aktivität Umstellung auf Secukinumab nach erneuter Transaminasenkontrolle und dokumentiertem Rückgang geplant.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Adalimumab",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 2,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "Adalimumb 40 mg alle zwei Wochen (06/18)",
+            "Belege": [
+              {
+                "Datei": "14_Baseline.docx",
+                "Zitat": "Einleitung einer Therapie mit Adalimumb 40 mg alle zwei Wochen (06/18)"
+              },
+              {
+                "Datei": "14_Baseline.docx",
+                "Zitat": "Zuletzt begonnene Therapie mit Humira wurde abgesetzt aufgrund Transaminasenanstieg."
+              },
+              {
+                "Datei": "14_Baseline.docx",
+                "Zitat": "Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
+              }
+            ],
+            "Hinweise": [
+              "Die Dauermedikationsliste nennt weiterhin Humira; der ausdrückliche Absetzbericht ist für den aktuellen Status maßgeblich."
+            ]
+          },
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 4,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Sekucinumab 150mg s.c. in Woche 0, 1, 2, 3, 4, dann weitere Gaben im 4-Wochen-Abstand",
+            "Belege": [
+              {
+                "Datei": "14_Baseline.docx",
+                "Zitat": "Aufgrund des Transaminasenanstiegs unter Adalimumab erfolgt nun die Umstellung auf Sekucinumab 150mg s.c. in Woche 0, 1, 2, 3, 4, dann weitere Gaben im 4-Wochen-Abstand."
+              },
+              {
+                "Datei": "14_Baseline.docx",
+                "Zitat": "Aktuell wurde dem Pat. empfohlen, die Transaminasen vor Beginn der neuen immunsuppressiven Therapie erneut zu kontrollieren und bei dokumentiertem Rückgang der erhöhten Werte mit der neuen Therapie zu beginnen."
+              }
+            ],
+            "Hinweise": [
+              "Das strukturierte Intervall beschreibt die geplante Erhaltungstherapie; die Aufsättigung steht in der Originaldosierung."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "14_Baseline.docx",
               "Zitat": "wir berichten über unseren gemeinsamen Patienten, 14, der sich am 08.01.2019 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "C-reaktives Protein 10,5 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -55,20 +119,10 @@
               "Zitat": "C-reaktives Protein 10,5 mg/l"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "14_Baseline.docx",
-              "Zitat": "Zuletzt begonnene Therapie mit Humira wurde abgesetzt aufgrund Transaminasenanstieg. Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "14_Baseline.docx",
               "Zitat": "Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
-            },
-            {
-              "Datei": "14_Baseline.docx",
-              "Zitat": "Wirbelsäule: massive Bewegungseinschränkung hinsichtlich Rotation HWS 10° bds., FBA >30cm"
             }
           ],
           "Axiale Beschwerden / ISG": [
@@ -77,30 +131,68 @@
               "Zitat": "Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
             }
           ],
-          "Weitere Gelenke": [
+          "Periphere Gelenkbeschwerden": [
             {
               "Datei": "14_Baseline.docx",
               "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS"
             }
           ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Wirbelsäule: massive Bewegungseinschränkung hinsichtlich Rotation HWS 10° bds., FBA >30cm"
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Schmerzskala: 8 (0-10)"
+            },
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Wirbelsäule: massive Bewegungseinschränkung hinsichtlich Rotation HWS 10° bds., FBA >30cm"
+            },
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "periphere Gelenke: keine synovitische Gelenkschwellung, kein DS"
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Aktuell klinisch und bildmorphologische Aktivität."
+            }
+          ],
           "Verlauf": [
             {
               "Datei": "14_Baseline.docx",
-              "Zitat": "Zuletzt begonnene Therapie mit Humira wurde abgesetzt aufgrund Transaminasenanstieg. Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
+              "Zitat": "Zuletzt begonnene Therapie mit Humira wurde abgesetzt aufgrund Transaminasenanstieg."
+            },
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Therapie seit Oktober abgesetzt, nun wieder vermehrt axiale Schmerzen und Bewegungseinschränkungen."
+            },
+            {
+              "Datei": "14_Baseline.docx",
+              "Zitat": "Akne ebenfalls wieder aggraviert."
             },
             {
               "Datei": "14_Baseline.docx",
               "Zitat": "Aktuell wurde dem Pat. empfohlen, die Transaminasen vor Beginn der neuen immunsuppressiven Therapie erneut zu kontrollieren und bei dokumentiertem Rückgang der erhöhten Werte mit der neuen Therapie zu beginnen."
-            },
-            {
-              "Datei": "14_Baseline.docx",
-              "Zitat": "Aufgrund des Transaminasenanstiegs unter Adalimumab erfolgt nun die Umstellung auf Sekucinumab 150mg s.c. in Woche 0, 1, 2, 3, 4, dann weitere Gaben im 4-Wochen-Abstand."
             }
           ]
         },
         "Hinweise": [
-          "Labordatum nicht angegeben.",
-          "Humira steht noch in der Dauermedikation; die aktuelle Anamnese dokumentiert das Absetzen seit Oktober."
+          "Keine laufende rheumatologische Therapie nach Absetzen von Adalimumab und vor geplantem Secukinumab-Beginn dokumentiert; die Dauermedikationsliste ist insoweit widersprüchlich.",
+          "Das CRP-Labordatum ist nicht gesondert angegeben.",
+          "Die Verneinung peripherer Gelenkbeschwerden bezieht sich auf den dokumentierten fehlenden Druckschmerz; eine gesonderte subjektive Beschwerdeangabe fehlt.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -113,21 +205,67 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Secukinumab 150 mg alle vier Wochen.",
-        "Klinische Hauptmanifestation": "Persistierende tiefsitzende Rückenschmerzen, rechtsbetont; diskreter Druckschmerz an LWS und rechtem ISG.",
-        "Axiale Beschwerden / ISG": "Weiterhin tiefsitzende, rechtsbetonte Rückenschmerzen mit Druckschmerz an LWS und rechtem ISG.",
-        "Weitere Gelenke": "Peripher ohne Einschränkungen, keine druckschmerzhaften oder geschwollenen Gelenke; keine Enthesitis.",
-        "Verlauf": "Unter Secukinumab 150 mg monatlich weiterhin aktive Erkrankung mit persistierenden axialen Beschwerden. Dosissteigerung auf 300 mg monatlich empfohlen; klinischer Nutzen nicht eindeutig beurteilt.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Persistierende tiefsitzende Rückenschmerzen, rechtsbetont; peripher keine Einschränkungen.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "verneint",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "verneint",
+        "Betroffene Regionen": "Tiefer Rücken, LWS und rechtes ISG.",
+        "Klinischer Befund (Details)": "Diskreter Druckschmerz an LWS und rechtem ISG. Periphere Gelenke ohne Druckschmerz oder Schwellung; keine Enthesitis.",
+        "Beurteilte Therapie": "Secukinumab 150 mg pro Monat",
+        "Ansprechen": "Nicht beurteilbar",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Secukinumab 150 mg pro Monat weiterhin klinisch aktive Grunderkrankung mit rechtsbetonten axialen Beschwerden, peripher ohne Einschränkungen. Dosissteigerung auf 300 mg pro Monat empfohlen; in der Diagnosenliste ab Dezember 2020 angegeben. Ein klinisches Besserungsausmaß oder ausdrückliches Therapieversagen ist nicht dokumentiert.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Monate",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "150mg Secukinumab pro Monat; Dosissteigerung auf 300mg/Monat",
+            "Belege": [
+              {
+                "Datei": "14_FollowUp.docx",
+                "Zitat": "Unter 150mg Secukinumab pro Monat erscheint die rheumatologische Grunderkrankung weiterhin aktiv."
+              },
+              {
+                "Datei": "14_FollowUp.docx",
+                "Zitat": "Wir empfehlen daher eine Dosissteigerung auf 300mg/Monat unter weiterhin klinischen und serologischen Kontrollen nach Maßgabe der DGRH."
+              },
+              {
+                "Datei": "14_FollowUp.docx",
+                "Zitat": "Secukinumab seit 2/19, Dosissteigerung auf 300mg/Monat ab 12/20"
+              },
+              {
+                "Datei": "14_FollowUp.docx",
+                "Zitat": "Cosentyx alle 4 Wochen"
+              }
+            ],
+            "Hinweise": [
+              "150 mg pro Monat als aktuelle Dosierung übernommen; Erhöhung auf 300 mg pro Monat empfohlen und ab Dezember 2020 angegeben.",
+              "Abweichende Intervallangaben: Dauermedikationsliste alle 4 Wochen, Beurteilung pro Monat. Die Angaben wurden nicht gleichgesetzt."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "14_FollowUp.docx",
               "Zitat": "wir berichten über unseren gemeinsamen Patienten, 14, der sich am 05.10.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "14_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -148,41 +286,43 @@
               "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "14_FollowUp.docx",
-              "Zitat": "Unter 150mg Secukinumab pro Monat erscheint die rheumatologische Grunderkrankung weiterhin aktiv."
-            },
-            {
-              "Datei": "14_FollowUp.docx",
-              "Zitat": "Cosentyx alle 4 Wochen"
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "14_FollowUp.docx",
               "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
-            },
-            {
-              "Datei": "14_FollowUp.docx",
-              "Zitat": "Gelenkstatus: keine DS oder geschwollenen Gelenke, diskreter DS im Bereich LWS und ISG re."
             }
           ],
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "14_FollowUp.docx",
               "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
-            },
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "14_FollowUp.docx",
+              "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "14_FollowUp.docx",
               "Zitat": "Gelenkstatus: keine DS oder geschwollenen Gelenke, diskreter DS im Bereich LWS und ISG re."
             }
           ],
-          "Weitere Gelenke": [
+          "Enthesitis": [
             {
               "Datei": "14_FollowUp.docx",
-              "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
-            },
+              "Zitat": "keine Enthesitis, keine Hautauffälligkeiten"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "14_FollowUp.docx",
+              "Zitat": "Gelenkstatus: keine DS oder geschwollenen Gelenke, diskreter DS im Bereich LWS und ISG re."
+            }
+          ],
+          "Klinischer Befund (Details)": [
             {
               "Datei": "14_FollowUp.docx",
               "Zitat": "Gelenkstatus: keine DS oder geschwollenen Gelenke, diskreter DS im Bereich LWS und ISG re."
@@ -192,6 +332,18 @@
               "Zitat": "keine Enthesitis, keine Hautauffälligkeiten"
             }
           ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "14_FollowUp.docx",
+              "Zitat": "Unter 150mg Secukinumab pro Monat erscheint die rheumatologische Grunderkrankung weiterhin aktiv."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "14_FollowUp.docx",
+              "Zitat": "Unter 150mg Secukinumab pro Monat erscheint die rheumatologische Grunderkrankung weiterhin aktiv."
+            }
+          ],
           "Verlauf": [
             {
               "Datei": "14_FollowUp.docx",
@@ -199,18 +351,23 @@
             },
             {
               "Datei": "14_FollowUp.docx",
+              "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
+            },
+            {
+              "Datei": "14_FollowUp.docx",
               "Zitat": "Wir empfehlen daher eine Dosissteigerung auf 300mg/Monat unter weiterhin klinischen und serologischen Kontrollen nach Maßgabe der DGRH."
             },
             {
               "Datei": "14_FollowUp.docx",
-              "Zitat": "Pat. klagt über persistierende Beschwerden im Bereich des tief-sitzenden Rückens, rechts-betont, ansonsten periph. Status sei ohne Einschränkungen."
+              "Zitat": "Secukinumab seit 2/19, Dosissteigerung auf 300mg/Monat ab 12/20"
             }
           ]
         },
         "Hinweise": [
-          "Labordatum nicht angegeben.",
-          "Die in der Diagnoseliste genannte Dosissteigerung ab Dezember 2020 war am Referenztermin noch keine laufende Therapie.",
-          "Persistierende Beschwerden und weiterhin aktive Erkrankung belegen allein kein ausdrücklich fehlendes klinisches Ansprechen; Ansprechen bleibt null."
+          "Ansprechen nicht beurteilbar: Persistierende Aktivität und die empfohlene Dosissteigerung belegen kein bestimmtes klinisches Veränderungsausmaß und kein ausdrücklich dokumentiertes Therapieversagen.",
+          "Das CRP-Labordatum ist nicht gesondert angegeben.",
+          "Die Dosissteigerung ab Dezember 2020 ist vom Referenzbesuch am 05.10.2020 zeitlich zu unterscheiden.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

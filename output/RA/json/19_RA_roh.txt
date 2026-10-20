@@ -10,16 +10,103 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 7.9,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 8,
-      "Aktuelle Therapie": "Baricitinib, bei Vorstellung Reduktion auf 2 mg täglich; Rituximab 1000 mg i.v., laut Diagnoseliste letzte Gabe Mai 2023, vorerst keine weiteren Gaben. Ibuprofen 600 mg und Novaminsulfon bei Bedarf.",
-      "Klinische Hauptmanifestation": "Schmerzen im Nacken, an den Sternoklavikulargelenken und PIP-Gelenken. Morgensteifigkeit etwa 30–60 Minuten.",
-      "Gelenkbefund": "8 druckschmerzhafte und 1 geschwollenes Gelenk; ausgeprägte postarthritische Gelenkdestruktion.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Weitestgehend akzeptable Krankheitskontrolle unter Baricitinib und Rituximab bei fortbestehenden Gelenkschmerzen. Wegen Gewichtszunahme und ausgeprägter Abgeschlagenheit Reduktion von Baricitinib; Rituximab laut Patientin ohne Wirksamkeit, lediglich dreitägige Verbesserung nach Infusion, von ihr der Steroidgabe zugeschrieben. Vorerst keine weiteren Rituximabgaben bei rezidivierenden Infekten und zunehmendem IgG-Mangel.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Schmerzen an Nacken, Sternoklavikulargelenken und PIP-Gelenken mit 30–60 Minuten Morgensteifigkeit. Druckschmerzhafte und geschwollene Gelenke bei ausgeprägter postarthritischer Gelenkdestruktion.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "Nacken, Sternoklavikulargelenke und PIP-Gelenke.",
+      "Klinischer Befund (Details)": "Druckschmerz an 8 und Schwellung an 1 Gelenk, Zählbereich nicht angegeben. Ausgeprägte postarthritische Gelenkdestruktion; Morgensteifigkeit etwa 30–60 Minuten.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Ärztlich weitestgehend akzeptable Kontrolle unter Baricitinib und Rituximab bei verbleibenden Gelenkbeschwerden. Baricitinib wegen Gewichtszunahme und ausgeprägter Abgeschlagenheit auf 2 mg täglich reduziert. Laut Patientin kein Nutzen durch Rituximab; vorerst keine weiteren Gaben wegen fehlender Wirksamkeit, rezidivierender Infekte und zunehmenden IgG-Mangels.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Baricitinib",
+          "Dosis": 2,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Dosisreduktion von Baricitinib auf 2mg pro Tag",
+          "Belege": [
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Bei Gewichtszunahme und schlechter Verträglichkeit (ausgeprägte Abgeschlagenheit) auf Wunsch der Pat. Dosisreduktion von Baricitinib auf 2mg pro Tag."
+            },
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Olumiant 4 mg 1-0-0"
+            }
+          ],
+          "Hinweise": [
+            "Dauermedikationsliste nennt noch 4 mg täglich; die ausdrücklich beschlossene Dosisreduktion auf 2 mg täglich wurde übernommen."
+          ]
+        },
+        {
+          "Wirkstoff": "Rituximab",
+          "Dosis": 1000,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "pausiert",
+          "Dosierung (Original)": "Rituximab 1000 mg i.v. (letzte Gabe im Mai 23)",
+          "Belege": [
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Rituximab 1000 mg i.v. (letzte Gabe im Mai 23)"
+            },
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Vorerst keine weiteren Rituximab, bei auch rez. Infekten und zunehmendem IgG-Mangel."
+            }
+          ],
+          "Hinweise": [
+            "Letzte Gabe laut Diagnosen im Mai 2023; die Anamnese nennt abweichend November 2022. Keine regelmäßige weitere Infusionsgabe dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": 40,
+          "Dosiseinheit": "Tropfen",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novaminsulfon Tropfen 40 bei Bedarf (wenn sie arbeiten müssen)",
+          "Belege": [
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Novaminsulfon Tropfen 40 bei Bedarf (wenn sie arbeiten müssen)"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 600,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen 600mg nach Bedarf",
+          "Belege": [
+            {
+              "Datei": "19_Baseline.docx",
+              "Zitat": "Ibuprofen 600mg nach Bedarf"
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -51,22 +138,28 @@
             "Zitat": "Gelenke: Druckschmerz 8; Schwellung 1;ausgeprägte postarthrit. Gelenkdestruktion"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "C-reaktives Protein 7,9 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "19_Baseline.docx",
-            "Zitat": "C-reaktives Protein 7,9 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 7,9 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "19_Baseline.docx",
-            "Zitat": "C-reaktives Protein 7,9 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 7,9 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "19_Baseline.docx",
-            "Zitat": "C-reaktives Protein 7,9 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 7,9 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -75,34 +168,54 @@
             "Zitat": "BSG: 8 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "19_Baseline.docx",
-            "Zitat": "Aktuelle Therapie: Rituximab 1000 mg i.v. (letzte Gabe im Mai 23) und Baricitinib Dosisreduktion 2 mg 1-0-0"
-          },
-          {
-            "Datei": "19_Baseline.docx",
-            "Zitat": "Vorerst keine weiteren Rituximab, bei auch rez. Infekten und zunehmendem IgG-Mangel."
-          },
-          {
-            "Datei": "19_Baseline.docx",
-            "Zitat": "Novaminsulfon Tropfen 40 bei Bedarf (wenn sie arbeiten müssen)"
-          },
-          {
-            "Datei": "19_Baseline.docx",
-            "Zitat": "Ibuprofen 600mg nach Bedarf"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "19_Baseline.docx",
             "Zitat": "Seitens der Gelenke bestehen Schmerzen im Bereich Nacken und Sternoclavikulargelenke sowie PIP Gelenke. MS ca. 30-60 Min."
-          }
-        ],
-        "Gelenkbefund": [
+          },
           {
             "Datei": "19_Baseline.docx",
             "Zitat": "Gelenke: Druckschmerz 8; Schwellung 1;ausgeprägte postarthrit. Gelenkdestruktion"
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "Seitens der Gelenke bestehen Schmerzen im Bereich Nacken und Sternoclavikulargelenke sowie PIP Gelenke."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "Gelenke: Druckschmerz 8; Schwellung 1;ausgeprägte postarthrit. Gelenkdestruktion"
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "MS ca. 30-60 Min."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "Seitens der Gelenke bestehen Schmerzen im Bereich Nacken und Sternoclavikulargelenke sowie PIP Gelenke."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "Gelenke: Druckschmerz 8; Schwellung 1;ausgeprägte postarthrit. Gelenkdestruktion"
+          },
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "MS ca. 30-60 Min."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "19_Baseline.docx",
+            "Zitat": "Aktuell weitestgehend akzeptable Kontrolle der Grunderkrankung, unter Baricitinib und Rituximab."
           }
         ],
         "Verlauf": [
@@ -112,15 +225,11 @@
           },
           {
             "Datei": "19_Baseline.docx",
-            "Zitat": "Seitens der Gelenke bestehen Schmerzen im Bereich Nacken und Sternoclavikulargelenke sowie PIP Gelenke."
-          },
-          {
-            "Datei": "19_Baseline.docx",
             "Zitat": "Bei Gewichtszunahme und schlechter Verträglichkeit (ausgeprägte Abgeschlagenheit) auf Wunsch der Pat. Dosisreduktion von Baricitinib auf 2mg pro Tag."
           },
           {
             "Datei": "19_Baseline.docx",
-            "Zitat": "Rituximab laut Pat. ebenfalls ohne Wirksamkeit. Nur die ersten 3 Tage nach Infusion würde sie eine Verbesserung, durch Steroidapplikation verspüren."
+            "Zitat": "Rituximab laut Pat. ebenfalls ohne Wirksamkeit."
           },
           {
             "Datei": "19_Baseline.docx",
@@ -129,10 +238,10 @@
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben; auch DAS28, BSG und Gelenkzählung ohne gesondertes Erhebungsdatum.",
-        "Zählbereich von TJC und SJC nicht angegeben; DAS28-Variante nicht angegeben.",
-        "Baricitinib in der Dauermedikation mit 4 mg täglich aufgeführt; bei Vorstellung ausdrücklich Reduktion auf 2 mg täglich beschlossen.",
-        "Letzte Rituximabgabe widersprüchlich: Diagnoseliste nennt Mai 2023, Anamnese November 2022."
+        "Der geplante Wiedervorstellungstermin am 13.11.2023 ist kein belegter Besuch.",
+        "Laborwerte, DAS28, BSG und Gelenkzählwerte haben kein gesondertes Messdatum; das klinische Referenzdatum wurde nicht als Messdatum vorausgesetzt.",
+        "TJC und SJC ohne dokumentierten Zählbereich.",
+        "Krankheitszustand gemäß ausdrücklich weitestgehend akzeptabler Kontrolle trotz dokumentierter Restbeschwerden und Gelenkschwellung."
       ]
     },
     {
@@ -145,16 +254,84 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 12.4,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Baricitinib 2 mg täglich, wegen Atemwegsinfekt kurzfristig pausiert; Fortsetzung besprochen. Ibuprofen 600 mg und Novaminsulfon 40 Tropfen bei Bedarf.",
-      "Klinische Hauptmanifestation": "Zunehmende Polyarthralgien vor allem der MCP- und PIP-Gelenke beidseits während kurzfristiger Baricitinibpause bei Atemwegsinfekt. Morgensteifigkeit etwa 20 Minuten.",
-      "Gelenkbefund": "Schwellungen MCP II beidseits und MCP IV–V rechts; Druckschmerz MCP II–V und PIP II–V beidseits sowie rechter Ellenbogen.",
-      "Weitere Gelenke": "Rechter Ellenbogen druckschmerzhaft.",
-      "Verlauf": "Zunehmende Polyarthralgien bei kurzfristiger Baricitinibpause wegen Atemwegsinfekt; aktuell residuelle Arthritis. Fortsetzung von Baricitinib besprochen. Ein klinischer Nutzen der laufenden Therapie wird nicht eindeutig beurteilt.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Zunehmende Polyarthralgien vor allem an MCP- und PIP-Gelenken beidseits nach infektbedingter Baricitinib-Pause. Residuelle Arthritis mit Gelenkschwellungen und etwa 20 Minuten Morgensteifigkeit.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "MCP- und PIP-Gelenke beidseits, rechter Ellenbogen.",
+      "Klinischer Befund (Details)": "Schwellung MCP II beidseits sowie MCP IV–V rechts; Druckschmerz MCP II–V und PIP II–V beidseits sowie am rechten Ellenbogen. Morgensteifigkeit circa 20 Minuten.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Nach kurzfristiger infektbedingter Baricitinib-Pause zunehmende Polyarthralgien und aktuell residuelle Arthritis. Fortsetzung von Baricitinib besprochen; kein ausreichend bestimmter klinischer Veränderungsnachweis zur Einordnung des Therapieansprechens. CRP-Erhöhung ärztlich am ehesten dem Atemwegsinfekt zugeschrieben.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Baricitinib",
+          "Dosis": 2,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "pausiert",
+          "Dosierung (Original)": "Baricitinib 2 mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "19_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Baricitinib 2 mg 1-0-0"
+            },
+            {
+              "Datei": "19_FollowUp.docx",
+              "Zitat": "Anamnestisch kurzfristige Pausierung der Baricitinib Therapie bei Infektion des oberen respiratorischen Trakts."
+            },
+            {
+              "Datei": "19_FollowUp.docx",
+              "Zitat": "Die Fortsetzung der Baricitinib Therapie wurde besprochen."
+            }
+          ],
+          "Hinweise": [
+            "Kurzfristige infektbedingte Pause; Fortsetzung besprochen, tatsächlicher Wiederbeginn nicht dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": 40,
+          "Dosiseinheit": "Tropfen",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novaminsulfon 40 gtts bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "19_FollowUp.docx",
+              "Zitat": "Novaminsulfon 40 gtts bei Bedarf"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 600,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen 600mg nach Bedarf",
+          "Belege": [
+            {
+              "Datei": "19_FollowUp.docx",
+              "Zitat": "Ibuprofen 600mg nach Bedarf"
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -162,62 +339,82 @@
             "Zitat": "die sich am 25.02.2025 ambulant vorstellte."
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "19_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,4 mg/l)"
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "19_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,4 mg/l)"
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "19_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,4 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "19_FollowUp.docx",
-            "Zitat": "Aktuelle Therapie: Baricitinib 2 mg 1-0-0"
-          },
-          {
-            "Datei": "19_FollowUp.docx",
-            "Zitat": "Anamnestisch kurzfristige Pausierung der Baricitinib Therapie bei Infektion des oberen respiratorischen Trakts."
-          },
-          {
-            "Datei": "19_FollowUp.docx",
-            "Zitat": "Die Fortsetzung der Baricitinib Therapie wurde besprochen."
-          },
-          {
-            "Datei": "19_FollowUp.docx",
-            "Zitat": "Novaminsulfon 40 gtts bei Bedarf"
-          },
-          {
-            "Datei": "19_FollowUp.docx",
-            "Zitat": "Ibuprofen 600mg nach Bedarf"
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "19_FollowUp.docx",
-            "Zitat": "Infekt des oberen respiratorischen Trakts letzte Woche, daher Pausierung der Baricitinib Therapie und zunehmende Polyarthralgien vor allem MCP und PIP beidseits. Morgensteifigkeit von circa 20 min."
+            "Zitat": "Infekt des oberen respiratorischen Trakts letzte Woche, daher Pausierung der Baricitinib Therapie und zunehmende Polyarthralgien vor allem MCP und PIP beidseits."
+          },
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit von circa 20 min."
+          },
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Klinisch zum Vorstellungszeitpunkt residuelle Arthritis."
           }
         ],
-        "Gelenkbefund": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Infekt des oberen respiratorischen Trakts letzte Woche, daher Pausierung der Baricitinib Therapie und zunehmende Polyarthralgien vor allem MCP und PIP beidseits."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "19_FollowUp.docx",
             "Zitat": "Gelenke: SJ MCP II bds., IV-V rechts, TJ MCP II-V bds., PIP II-V bds., Ellenbogen rechts"
           }
         ],
-        "Weitere Gelenke": [
+        "Morgensteifigkeit": [
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit von circa 20 min."
+          }
+        ],
+        "Betroffene Regionen": [
           {
             "Datei": "19_FollowUp.docx",
             "Zitat": "Gelenke: SJ MCP II bds., IV-V rechts, TJ MCP II-V bds., PIP II-V bds., Ellenbogen rechts"
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Gelenke: SJ MCP II bds., IV-V rechts, TJ MCP II-V bds., PIP II-V bds., Ellenbogen rechts"
+          },
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Morgensteifigkeit von circa 20 min."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "Klinisch zum Vorstellungszeitpunkt residuelle Arthritis."
           }
         ],
         "Verlauf": [
@@ -232,13 +429,17 @@
           {
             "Datei": "19_FollowUp.docx",
             "Zitat": "Die Fortsetzung der Baricitinib Therapie wurde besprochen."
+          },
+          {
+            "Datei": "19_FollowUp.docx",
+            "Zitat": "CRP 12,4 mg/l am ehesten auf dem Boden einer Infektion des oberen respiratorischen Trakts."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
-        "Keine ausdrücklichen numerischen TJC- oder SJC-Gesamtwerte; keine Zählung aus den genannten Gelenken vorgenommen.",
-        "Ansprechen nicht beurteilbar: Beschwerden nehmen während einer Therapiepause zu; eine ausdrückliche klinische Nutzenbewertung unter laufender Therapie fehlt."
+        "Ansprechen nicht beurteilbar: Zunahme der Beschwerden während einer Therapiepause, aber keine ausreichend bestimmte klinische Besserungs- oder Versagensaussage zu Baricitinib.",
+        "CRP: erster Messwert nach Reihenfolge übernommen; spätere Nennung desselben Werts in der Beurteilung. Kein gesondertes Labordatum dokumentiert.",
+        "Keine numerischen TJC-/SJC-Gesamtwerte dokumentiert; Gelenke aus dem Freitext nicht gezählt."
       ]
     }
   ]

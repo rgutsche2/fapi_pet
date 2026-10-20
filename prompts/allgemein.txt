@@ -27,7 +27,8 @@ Unter Hinweise das tatsächliche Datum des betroffenen Feldes oder die unklare
 Zuordnung festhalten. Das gewählte Klinische Datum gilt NICHT automatisch als
 Mess-/Untersuchungsdatum aller übrigen Angaben; keine solche Zuordnung erfinden.
 
-Bei mehreren Werten desselben numerischen Feldes innerhalb derselben Episode:
+Bei mehreren Werten desselben numerischen Feldes innerhalb derselben Episode
+(AUSNAHME CRP: dort immer erster Messwert gemäß gesonderter Regel unten):
 - Eindeutig dem Referenztermin zugeordnete Werte bevorzugen. Fehlen solche,
   aus eigenständig datierten Messungen den zeitlich nächsten Wert zum Scan
   wählen; bei gleichem Abstand den früheren. Das Feld-Datum unter Hinweise nennen.
@@ -40,56 +41,123 @@ Historische Werte aus früheren, nicht zur betrachteten Episode gehörenden
 Therapiephasen nicht als aktuellen Status übernehmen. Aktuelle gegenüber früheren
 Beschwerden unterscheiden; nachvollziehbare Entwicklungen im Verlauf beschreiben.
 
-Aktuelle Therapie: relevante zum klinischen Zeitpunkt tatsächlich laufende
-rheumatologische Medikamente, nach Möglichkeit mit Dosis/Intervall. Frühere oder
-nur geplante Therapie nicht als laufend ausgeben. Wenn sinnvoll im Verlauf
-'Einleitung empfohlen' benennen. Später ergänzte Diagnoseeinträge mit
-Therapiebeginn nach dem Untersuchungstag sind keine damalige laufende Therapie.
+THERAPIE ALS STRUKTURIERTE MEDIKAMENTLISTE:
+Pro Zeitpunkt ein Array Medikamente ausgeben. Für jeden relevanten Wirkstoff ein
+Objekt im vorgegebenen Aufbau. Kombinationsbehandlungen in einzelne Wirkstoffe
+aufteilen. Laufende rheumatologische Therapie und relevante Begleitmedikation
+(NSAR, systemische Steroide) erfassen; andere Begleitmittel nur bei Bedeutung für
+die Symptomkontrolle. Geplante, pausierte und bereits beendete Therapien erfassen,
+wenn sie in der betrachteten Episode oder für die Ansprechenbeurteilung relevant
+sind. Nicht die gesamte jahrzehntelange Therapiehistorie kopieren.
+Status ist laufend/geplant/pausiert/beendet/unklar. Eine bereits abgeschlossene
+Infusionsbehandlung nicht als dauerhaft laufende Medikation ausgeben. Medikament
+und klassifiziertes Ansprechen dürfen sich auf verschiedene Therapien beziehen,
+wenn z.B. das Versagen einer früheren Therapie im Follow-up ausdrücklich genannt
+ist. Dies muss in Beurteilte Therapie und im Verlauf klar werden.
+Wirkstoff: möglichst generischer Name, aber keine unbekannten Marken oder
+unverständlichen Originalbezeichnungen erraten. Unsicherheiten unter Hinweise.
+Dosis und Dosiseinheit getrennt, nur dokumentierte Angaben. Intervallzahl und
+Intervalleinheit gemeinsam angeben, z.B. 2/Wochen oder 1/Monate. 'Monatlich' nicht
+in 'alle vier Wochen' oder 28 Tage umdeuten. Bedarf=Ja bei ausdrücklich bei Bedarf,
+Nein bei klar regelmäßiger Einnahme, sonst Unklar. Fehlende Dosis/Intervalle null.
+Dosierung (Original) bewahrt komplexe Angaben wie Ausschleichschema, kumulative
+Infusionsdosis oder Infusionsrate. Daraus keine Einzeldosis oder regelmäßige
+Dauermedikation errechnen. Pro Medikament mindestens ein wortgetreuer Originalbeleg
+aus der passenden Briefgruppe, der die übernommenen Angaben stützt. Bei mehreren
+Angaben mehrere Belege. Medikament-Hinweise ist eine Textliste, sonst [].
+Kein Medikament genannt: Medikamente=[]. Eine explizit fehlende laufende Therapie
+unter Hinweise benennen. Laufende Wirkstoffe wird vom Skript aus dieser Liste
+erzeugt und gehört NICHT als zusätzliches Feld in die Modellantwort.
 
-Ansprechen (Ja/Nein): qualitative klinische Einordnung unter der im Follow-up
-beurteilten Therapie. Dieses Feld bleibt für Baseline immer null. Im Follow-up:
-- "Ja": ausdrücklich dokumentierte klinische Besserung, auch teilweise, ODER
-  ausdrücklich gute/ausreichende Beschwerde- oder klinische Krankheitskontrolle
-  unter der laufenden Therapie. Auch anhaltende Beschwerdefreiheit unter Therapie
-  oder ein ausdrücklich gutes klinisches Ansprechen zählt als Ja.
-  Ein ausdrücklicher Vorher-nachher-Vergleich und das Wort 'Besserung' sind dafür
-  NICHT erforderlich. Fehlende/zeitlich unklare Baseline-Einzelbefunde verhindern
-  kein Ja, wenn die klinische Kontrolle unter Therapie im Follow-up klar belegt ist.
-- "Nein": ausdrücklich fehlendes klinisches Ansprechen oder zunehmende
-  entzündliche Beschwerden unter der beurteilten Therapie, ohne gleichzeitig
-  belegten klinischen Nutzen. Fortbestehende Beschwerden allein beweisen kein Nein.
-- null: keine beurteilbare Aussage zum klinischen Nutzen, unaufgelöster Widerspruch
-  oder ausschließlich Labor-/Bildgebungsangaben. 'Stabil', 'Therapie unverändert'
-  oder 'gut vertragen' allein belegt kein Ansprechen. Eine Therapiefortführung,
-  ein Therapiewechsel oder ein einzelner niedriger Score allein genügt ebenfalls
-  nicht. Ausdrücklich gute klinische Kontrolle unter Therapie aber NICHT mit einer
-  bloßen Stabilitätsangabe gleichsetzen: Erstere ergibt Ja.
-Bei gemischtem Verlauf zählt eindeutig dokumentierte klinische Teilbesserung
-oder gute Kontrolle der entzündlichen Gelenkbeschwerden als Ja; Restbeschwerden,
-andere Beschwerden und Verschlechterungen im Verlauf konkret benennen. Das Ja
-bedeutet keine vollständige Remission. Aktuelle Angaben haben Vorrang vor
-kopierter Therapiehistorie. Keine Einordnung allein aus CRP, BSG, MRT oder PET.
-Beispiel: 'Wiedervorstellung unter Adalimumab und Methotrexat. Gute Kontrolle der
-Beschwerden an Händen und Zehen.' -> Ja, auch ohne ausdrücklichen Baseline-
-Vergleich. Zusätzlich beschriebene Müdigkeit oder Fersenspornbeschwerden heben
-klar dokumentierte Gelenkbeschwerdekontrolle nicht automatisch auf; beides im
-Verlauf erhalten. Einen ursächlichen Therapieeffekt nicht über den Brief hinaus
-behaupten. Diese qualitative Studienkategorie ist kein berechneter Ansprechscore.
-Jedes Ja/Nein benötigt einen passenden wortgetreuen Originalbeleg.
+ANSPRECHEN UND KRANKHEITSZUSTAND GETRENNT KLASSIFIZIEREN:
+Beurteilte Therapie: Medikament/Regime, auf das sich die konkrete Ansprechaussage
+bezieht. Nicht automatisch die zuletzt laufende Medikation wählen. Bei mehreren
+Therapien die eindeutig beurteilte Therapie nennen und andere Einschätzungen im
+Verlauf erhalten. Bei nicht auflösbarer Zuordnung keine Entscheidung erzwingen.
+Ansprechen beschreibt die klinische VERÄNDERUNG unter dieser Therapie, mit genau:
+- Deutlich: eindeutig deutliche/gute klinische Besserung oder klar beschriebene
+  Rückbildung bis zur Beschwerdefreiheit unter der beurteilten Therapie.
+- Partiell: ausdrücklich teilweise/leichte/mäßige Besserung oder dokumentierte
+  Besserung bei gleichzeitig verbleibenden relevanten entzündlichen Beschwerden.
+  Nicht jede mechanische Restbeschwerde oder Fatigue bedeutet nur Teilansprechen.
+- Keines: ausdrücklich kein Nutzen, kein Profitieren, unzureichende Wirkung bzw.
+  klinisches Therapieversagen der beurteilten Therapie. Persistierende Aktivität
+  allein genügt dafür nicht. Eine eindeutig als partieller Nutzen beschriebene
+  Besserung nicht gleichzeitig als Keines codieren; unzureichende Gesamtwirkung
+  im Verlauf erhalten. Bei widersprüchlichen Aussagen Nicht beurteilbar.
+- Nicht beurteilbar: kein klinischer Veränderungsnachweis, Wirkung noch abzuwarten,
+  unklare Zuordnung zur Therapie oder unaufgelöste Widersprüche. Ebenfalls, wenn
+  nur 'gebessert' ohne einordenbares Ausmaß oder nur gute aktuelle Kontrolle,
+  Remission, 'stabil', Verträglichkeit oder PET-/MRT-/Laborverbesserung genannt
+  wird. Grund unter Hinweise nennen; keine erzwungene Zuordnung zu Ja/Nein.
+Baseline: Ansprechen und Beurteilte Therapie immer null. Follow-up: Ansprechen
+immer eine der vier Kategorien; für Deutlich/Partiell/Keines muss auch Beurteilte
+Therapie belegt sein. Eine abgeschlossene Therapie kann im Follow-up explizit
+als wirksam oder unwirksam bewertet werden.
+Beispiel: 'Von Blinatumomab nicht profitiert; aktuell Abatacept' -> Ansprechen
+Keines, Beurteilte Therapie Blinatumomab; keine Aussage zum Abatacept-Nutzen erfinden.
+Beispiel: 'Weiterhin aktiv, Wirkung soll noch abgewartet werden' -> Nicht beurteilbar,
+Krankheitszustand Aktiv. Nicht erwähntes Ansprechen ist kein Therapieversagen.
 
-CRP: tatsächlichen Messwert mit Vergleichszeichen (=, <, <=, >, >=) und Einheit
-übernehmen. Kein Referenzbereich, kein hsCRP als Ersatz. CRP <5,2 ist Wert 5.2
-mit Zeichen '<'. Für Labor gelten die obigen Regeln zur eigenständigen Auswahl:
-ein vom Klinischen Datum abweichendes Labordatum ist KEIN Ausschlussgrund.
-Ein einzelner dokumentierter Wert aus der passenden Episode wird übernommen,
-auch wenn ein anderes Besuchsdatum gewählt wurde. Beispiel: Referenzbesuch
-11.11., einziges dokumentiertes CRP 5,9 mg/l vom 10.09. im Baseline-Brief ->
-CRP-Wert=5.9, CRP-Vergleichszeichen='=', CRP-Einheit='mg/l'; unter Hinweise
-'CRP vom 10.09.; abweichend vom klinischen Referenztermin'. Den 11.11. nicht als
-Labordatum ausgeben. Kein eigenes Labordatum erfinden. Fehlt das Labordatum,
-Wert trotzdem übernehmen und unter Hinweise 'Labordatum nicht angegeben'.
-Nur bei nicht auflösbaren konkurrierenden Messwerten das betroffene Feld
-null lassen und die Originalwerte unter Hinweise erhalten; nicht mitteln.
+Krankheitszustand beschreibt den AKTUELLEN klinischen Zustand, bei Baseline und FU:
+- Remission: ausdrücklich ärztlich dokumentierte klinische Remission.
+- Gut kontrolliert: ausdrücklich gute/ausreichende klinische Kontrolle unter
+  Therapie oder ausdrücklich keine aktuellen krankheitsbezogenen Beschwerden/
+  Aktivitätszeichen. Daraus keine formale Remission oder Verbesserung berechnen.
+- Aktiv: ausdrücklich persistierende/aktuelle entzündliche Krankheitsaktivität,
+  aktive Grunderkrankung oder Schub. Aktiv bedeutet nicht automatisch Keines.
+- Unklar: nicht beurteilbar oder widersprüchlich. Bloß 'stabil' ohne Aussage zur
+  Aktivität kann auch stabil aktive Erkrankung bedeuten und reicht allein nicht.
+Dokumentierte Remission unter Therapie kann mit Ansprechen Nicht beurteilbar
+zusammen auftreten, wenn kein klinischer Veränderungsnachweis vorliegt.
+Unsere bisherigen Ja/Nein-Angaben werden nicht einfach in diese Kategorien umcodiert.
+Verlauf: Therapieeffekte, aktuellen Zustand, Restbeschwerden und Gründe für
+Therapieänderungen kurz zusammenführen. Bei gemischtem Verlauf die Domänen trennen.
+Für Baseline Verlauf bis zur Vorstellung, sonst 'Ausgangsbefund'.
+Diese Kategorien sind qualitative Studienangaben aus den Briefen; keine selbst
+berechneten ASAS-/EULAR-/ACR-Response- oder Remissionskriterien anwenden.
+
+KATEGORIEN FÜR KLINISCHE BEFUNDE:
+Für die vorgegebenen Statusspalten exakt vorhanden/verneint/unklar/nicht erwähnt:
+- vorhanden: aktuelles Symptom oder Befund ausdrücklich dokumentiert.
+- verneint: ausdrücklich verneint bzw. entsprechender Untersuchungsbefund unauffällig.
+- unklar: inhaltlich mehrdeutige oder widersprüchliche Angabe, mit Beleg und Hinweis.
+- nicht erwähnt: keine Angabe zur Domäne; kein Beleg der Abwesenheit erforderlich.
+Schmerz und Schwellung nicht gleichsetzen. Aus 'keine Schwellung' folgt nicht
+'keine Gelenkbeschwerden'. Klinische Synovitis nicht allein aus PET/MRT ableiten.
+Betroffene Regionen: aktuelle relevante Regionen/Seiten kurz nennen, ohne eine
+vollständige Gelenkliste zu erzwingen. Nur historische Beteiligung als 'früher'
+im Detailfeld erhalten. Klinischer Befund (Details) bewahrt genaue Lokalisation,
+Seiten, Morgensteifigkeitsdauer, unklare Ursachen und klinische Besonderheiten.
+Rein mechanische oder degenerative Schmerzen nicht als gesicherte entzündliche
+Aktivität umdeuten; Ursache im Detailfeld kenntlich machen.
+
+CRP – VERBINDLICHE AUSWAHLKONVENTION FÜR BASELINE UND FOLLOW-UP:
+CRP dokumentiert=Ja, sobald ein patientenbezogener CRP-Messwert oder ein qualitatives
+CRP-Ergebnis wie 'unauffällig' vorliegt. Fehlt jede Ergebnisangabe: Nein. Ein bloßer
+Referenzbereich, die Erwähnung einer geplanten Kontrolle oder die Scorebezeichnung
+DAS28-CRP ohne Laborergebnis bedeutet nicht CRP dokumentiert=Ja. hsCRP ist kein Ersatz.
+Bei mehreren CRP-Messwerten IMMER den ERSTEN dokumentierten Messwert übernehmen.
+Bei Tabellen '1. Wert; letzter Wert [Minimum; Maximum]' ist das der 1. Wert.
+Kein Mittelwert, kein Maximum/Minimum, kein letzter Wert und keine Auswahl nach
+Nähe zum Scan oder klinischen Referenztermin. Diese CRP-Sonderregel hat Vorrang
+vor der allgemeinen Zahlen-/Datumsregel. Das gilt auch bei mehreren unbenannten
+Messungen ohne Einzeldatum: erste Nennung im Text. Mehrere Briefe in einer Gruppe
+in der übergebenen Reihenfolge lesen; erste Messung im ersten entsprechenden Brief.
+Diese Reihenfolge ist keine Behauptung über den chronologisch frühesten Messtag.
+Referenzbereiche und mit Min/Max bezeichnete Zusammenfassungen sind KEINE eigenen
+Messungen. Beispiel '13,0; 6,1 (<5) [Min 6,1; Max 13,0]' -> 13.0; '0,5; 1,5
+[Max 76,3]' -> 0.5. Zwei getrennte CRP-Angaben 36,2 und 25,4 ohne Datum -> 36.2.
+Messwert, Vergleichszeichen (=, <, <=, >, >=) und tatsächliche Einheit getrennt
+übernehmen. '<5,2 mg/l' bleibt Wert 5.2 mit '<'; daraus keinen exakten Messwert
+oder Null ableiten. Referenzzeichen nicht auf den Messwert übertragen.
+Dezimalkomma -> JSON-Zahl. Fehlende Einheit null, keine Einheit erfinden und nicht
+aus einem späteren Messwert ergänzen. Qualitative Angabe ohne Zahl: Dokumentiert=Ja,
+CRP-Wert/Zeichen/Einheit=null; qualitativen Inhalt unter Hinweise erhalten.
+Abweichendes/fehlendes Labordatum ist KEIN Ausschlussgrund. Vorhandenes Datum des
+ausgewählten Werts unter Hinweise; kein Datum erfinden. Bei mehreren Messungen
+Auswahl 'erster Messwert nach Reihenfolge' unter Hinweise kenntlich machen.
+Vom Skript separat vorgegebene erkannte CRP-Messungen verbindlich übernehmen.
 
 BSG/BKS/ESR wird nach unserer festgelegten Studienkonvention als BSG nach einer
 Stunde in mm behandelt. Es gibt nur ein BSG-Feld. Bei '11/22' den ersten Wert
@@ -107,7 +175,9 @@ wortgetreues Originalzitat aus dem passenden Brief. Keine Paraphrasen oder
 zusammengezogenen Zitate. Quellenname jeweils exakt wie unten angegeben.
 Form: Belege[Feldname] = [{"Datei": "Dateiname.docx", "Zitat": "Originalsatz"}].
 Für mehrere Aussagen mehrere Belege angeben. Bei leeren Feldern keine Belege
-nötig. Für 'Ausgangsbefund' ist kein Originalzitat erforderlich.
+nötig. Für 'Ausgangsbefund', CRP dokumentiert=Nein sowie die Kategorien
+'Nicht beurteilbar', Krankheitszustand='Unklar' und 'nicht erwähnt' ist bei bloß fehlender Angabe
+kein Beleg erforderlich; bei inhaltlichen Widersprüchen Originalbelege erhalten.
 Hinweise: kurze Liste verbleibender Unklarheiten, sonst [].
 
 Die krankheitsspezifischen Spalten und Regeln folgen unten. Verwende genau die

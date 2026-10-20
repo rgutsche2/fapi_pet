@@ -7,7 +7,7 @@
       "Follow-up": "2023-10-16"
     }
   },
-  "fingerprint": "9a8cb26e1d2e98f10b1f2e4e2b77a4c6e86eb4e3b45ddffdb27feb94eda39b4a",
+  "fingerprint": "dc73511e33217b6a18ea27df6c281d65ab8fbb30c2d7e82f66e2ba1058ec4db5",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,16 +20,184 @@
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
-        "CRP-Wert": null,
-        "CRP-Vergleichszeichen": null,
-        "CRP-Einheit": null,
+        "CRP dokumentiert": "Ja",
+        "CRP-Wert": 24.7,
+        "CRP-Vergleichszeichen": "=",
+        "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Bei Aufnahme Adalimumab 40 mg s.c. alle zwei Wochen, zuletzt 15.06.2023; MTX 10 mg oral wöchentlich, am 26.06. nicht eingenommen; Prednisolon 10 mg täglich, Folsäure 5 mg am Folgetag der MTX-Einnahme und Diclofenac retard 75 mg bei Bedarf.",
-        "Klinische Hauptmanifestation": "Schmerzen oder Schwellungen der Handgelenke sowie MCP- und PIP-Gelenke beider Hände und teilweise beider Füße. Morgensteifigkeit etwa 30–60 Minuten.",
-        "Gelenkbefund": "Druckdolenz und Schwellung der Handgelenke sowie MCP- und PIP-Gelenke beider Hände mit Ulnardeviation; Schwellung der im Brief als MCP und PIP bezeichneten Gelenke beider Füße.",
-        "Weitere Gelenke": "Stark eingeschränkte HWS-Beweglichkeit nach operativer Versteifung.",
-        "Verlauf": "Therapierefraktärer Verlauf mit nur unzureichender Besserung unter zuletzt Adalimumab. Im stationären Verlauf erste intravenöse Blinatumomab-Gabe über fünf Tage; ein späterer pathologischer Befund verweist auf eine klinische Besserung.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Schmerzhafte und geschwollene Hand- und Fingergelenke beidseits sowie Gelenkschwellungen an beiden Füßen; Morgensteifigkeit von 30–60 Minuten.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Morgensteifigkeit": "vorhanden",
+        "Betroffene Regionen": "Handgelenke, MCP- und PIP-Gelenke der Hände und Füße beidseits.",
+        "Klinischer Befund (Details)": "Druckdolenz und Schwellung der Handgelenke sowie MCP- und PIP-Gelenke beider Hände mit Ulnardeviation; Schwellung der im Brief als MCP und PIP bezeichneten Fußgelenke beidseits. Morgensteifigkeit 30–60 Minuten. Stark eingeschränkte HWS-Beweglichkeit nach operativer Versteifung.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Therapierefraktäre RA mit unzureichender Besserung unter Adalimumab und multiplen geschwollenen, druckdolenten Gelenken bei Aufnahme. Erstgabe von Blinatumomab über fünf Tage; Zweitgabe geplant. Ein späterer Pathologiebefund erwähnt einen klinisch verbesserten Befund ohne näher bezeichnetes Ausmaß.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Adalimumab",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 2,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "Humira 40mg s.c. alle 2 Wochen (zuletzt 15.06.2023)",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Humira 40mg s.c. alle 2 Wochen (zuletzt 15.06.2023)"
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Z.n. Prednisolon, MTX und Adalimumab (von 03/2023 bis 06/2023)"
+              }
+            ],
+            "Hinweise": [
+              "Bei Aufnahme noch aufgeführt, in der Diagnoseübersicht als abgeschlossene Therapiephase bis Juni 2023 bezeichnet."
+            ]
+          },
+          {
+            "Wirkstoff": "Methotrexat",
+            "Dosis": 10,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "MTX 10mg p.o. 1x Woche (Montag, 26.06.2023 nicht eingenommen)",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "MTX 10mg p.o. 1x Woche (Montag, 26.06.2023 nicht eingenommen)"
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Methotrexat (dinatrium) | Metex 10 mg | Tbl. | 0-0-1-0 (jeden 7. Tag) | oral | Einnahme nüchtern"
+              }
+            ],
+            "Hinweise": [
+              "Am 26.06.2023 nicht eingenommen; bei Entlassung weiterhin verordnet."
+            ]
+          },
+          {
+            "Wirkstoff": "Prednisolon",
+            "Dosis": 10,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Prednisolon 10 mg 1-0-0",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Prednisolon 10 mg 1-0-0"
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Prednisolon | Prednisolon | Tbl. | 5mg um 07:00 | oral | Einnahme mit den Mahlzeiten"
+              }
+            ],
+            "Hinweise": [
+              "Dosis am Referenztermin bei Aufnahme: 10 mg täglich; bei Entlassung 5 mg morgens."
+            ]
+          },
+          {
+            "Wirkstoff": "Diclofenac",
+            "Dosis": 75,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Voltaren res. 75mg nach Bedarf",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Voltaren res. 75mg nach Bedarf"
+              }
+            ],
+            "Hinweise": [
+              "Bedarfsmedikation bei Aufnahme; bei Entlassung nicht mehr aufgeführt."
+            ]
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 60,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "0-0-1-0",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Etoricoxib | Etoricoxib 60mg | Filmtbl. | 0-0-1-0 | oral |"
+              }
+            ],
+            "Hinweise": [
+              "Verordnung bei Entlassung, nicht als Medikation am Referenztermin belegt."
+            ]
+          },
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "intravenöse Gabe von Bilantumomab über 5 Tage",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Aktuell: individueller Heilversuch mit Blinatumomab, erste Gabe"
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Anschließend erfolgte komplikationslos die intravenöse Gabe von Bilantumomab über 5 Tage."
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Stationäre Aufnahme zur Zweitgabe von Blinatumomab auf Station Schönlein B2.2. der Medizinischen Klinik 3 am 10.07.2023 um 9 Uhr wie bereits vereinbart."
+              }
+            ],
+            "Hinweise": [
+              "Erste fünftägige Infusionsbehandlung abgeschlossen; Zweitgabe für den 10.07.2023 geplant. Keine Dosis oder regelmäßiges Dauerintervall dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Triamcinolon",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Am Ende des Eingriffs wurden 40mg Triamcinolon injiziert.",
+            "Belege": [
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Nach ausführlichem Aufklärungsgespräch über mögliche Risiken wurde komplikationslos eine Synovialbiopsie am linken Handgelenk unter Ultraschallkontrolle durchgeführt."
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Am Ende des Eingriffs wurden 40mg Triamcinolon injiziert."
+              },
+              {
+                "Datei": "22_Baseline.docx",
+                "Zitat": "Synovialbiopsie vom 27.06.2023:"
+              }
+            ],
+            "Hinweise": [
+              "Einmalige lokale Gabe am linken Handgelenk im Rahmen der Biopsie vom 27.06.2023."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
@@ -37,44 +205,86 @@
               "Zitat": "Körperlicher  Untersuchungsbefund vom 26.06.2023:"
             }
           ],
-          "Aktuelle Therapie": [
+          "CRP dokumentiert": [
             {
               "Datei": "22_Baseline.docx",
-              "Zitat": "Humira 40mg s.c. alle 2 Wochen (zuletzt 15.06.2023)"
-            },
+              "Zitat": "C-Reaktives Protein 24,7 mg/l"
+            }
+          ],
+          "CRP-Wert": [
             {
               "Datei": "22_Baseline.docx",
-              "Zitat": "MTX 10mg p.o. 1x Woche (Montag, 26.06.2023 nicht eingenommen)"
-            },
+              "Zitat": "C-Reaktives Protein 24,7 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
             {
               "Datei": "22_Baseline.docx",
-              "Zitat": "Prednisolon 10 mg 1-0-0"
-            },
+              "Zitat": "C-Reaktives Protein 24,7 mg/l"
+            }
+          ],
+          "CRP-Einheit": [
             {
               "Datei": "22_Baseline.docx",
-              "Zitat": "Folsäure 5 mg am Tag nach der MTX-Einnahme"
-            },
-            {
-              "Datei": "22_Baseline.docx",
-              "Zitat": "Voltaren res. 75mg nach Bedarf"
+              "Zitat": "C-Reaktives Protein 24,7 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "22_Baseline.docx",
-              "Zitat": "RA: Gelenkschmerzen oder -Schwellungen der Handgelenke, MCPs und PIPs der Hände beidseits und der z.T der MCPs und PIPs der Füße beidseits, Morgensteifigkeit ca. 30-60min, keine Myalgien, keine nächtlichen Rückenschmerzen, keine Hauteffloreszenzen oder Ulzerationen, keine oralen Aphten, keine Augenentzündungen, keine Raynaud-Symptomatik, keine Sicca-Symptomatik, keine vermehrte Abgeschlagenheit, keine vermehrte Infektneigung, keine Zeckenbisse."
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung der Handgelenke, MCPs und PIPs der Hände beidseits mit Ulnardeviation und Schwellung der MCPs und PIPs an den Füßen beidseits."
+            },
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Morgensteifigkeit ca. 30-60min"
             }
           ],
-          "Gelenkbefund": [
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke."
+            }
+          ],
+          "Morgensteifigkeit": [
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Morgensteifigkeit ca. 30-60min"
+            }
+          ],
+          "Betroffene Regionen": [
             {
               "Datei": "22_Baseline.docx",
               "Zitat": "Gelenkstatus: Druckdolenz und Schwellung der Handgelenke, MCPs und PIPs der Hände beidseits mit Ulnardeviation und Schwellung der MCPs und PIPs an den Füßen beidseits."
             }
           ],
-          "Weitere Gelenke": [
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung der Handgelenke, MCPs und PIPs der Hände beidseits mit Ulnardeviation und Schwellung der MCPs und PIPs an den Füßen beidseits."
+            },
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Morgensteifigkeit ca. 30-60min"
+            },
             {
               "Datei": "22_Baseline.docx",
               "Zitat": "Wirbelsäule: stark eingeschränkte Beweglichkeit der Halswirbelsäule bei Z.n. operativer Versteifung"
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Zudem erhöhtes CRP passend zu der hohen Krankheitsaktivität."
+            },
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke."
             }
           ],
           "Verlauf": [
@@ -84,7 +294,15 @@
             },
             {
               "Datei": "22_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke."
+            },
+            {
+              "Datei": "22_Baseline.docx",
               "Zitat": "Anschließend erfolgte komplikationslos die intravenöse Gabe von Bilantumomab über 5 Tage."
+            },
+            {
+              "Datei": "22_Baseline.docx",
+              "Zitat": "Wir entlassen die Patientin am 30.06.2023 in stabilem Allgemeinzustand und vereinbarten wir eine erneute stationäre Aufnahme zur Zweitgabe von Blinatumomab."
             },
             {
               "Datei": "22_Baseline.docx",
@@ -93,10 +311,10 @@
           ]
         },
         "Hinweise": [
-          "CRP zeitlich nicht eindeutig zuordenbar: erster Wert 24,7 mg/l, letzter Wert 8,1 mg/l während des Aufenthalts; einzelne Messtage fehlen. Originalbelege aus 22_Baseline.docx: „Laborwerte während des Aufenthalts: (1. Wert; letzter Wert [Minimum; Maximum])“ und „C-Reaktives Protein 24,7 mg/l;  8,1 mg/l (<5 mg/l) [Min: 8,1 mg/l; Max: 24,7 mg/l]“. Daher kein einzelner CRP-Wert ausgewählt.",
-          "Aktuelle Therapie bezeichnet die Aufnahmemedikation am Referenztermin. Blinatumomab wurde anschließend während des Aufenthalts gegeben; das genaue Startdatum fehlt.",
-          "Der Hinweis auf klinische Besserung stammt aus dem Hauptbefund vom 06.07.2023; der zugrunde liegende klinische Untersuchungstag ist nicht angegeben.",
-          "Die Bezeichnung MCP für Fußgelenke wurde aus dem Original übernommen."
+          "CRP: erster Messwert nach Reihenfolge, 24,7 mg/l; später 8,1 mg/l. Einzelnes Labordatum innerhalb des Aufenthalts vom 26.06.–01.07.2023 nicht angegeben.",
+          "Die Fußgelenke werden im Original als MCP und PIP bezeichnet; keine anatomische Umdeutung vorgenommen.",
+          "Der Pathologiebefund vom 06.07.2023 erwähnt einen klinisch verbesserten Befund ohne eindeutigen klinischen Untersuchungstag oder einordenbares Besserungsausmaß.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -109,21 +327,93 @@
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 11.5,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Im zusammenfassenden Brief laufend Orencia seit elf Wochen und MTX 20 mg wöchentlich sowie Folsan; Zuordnung zum Referenztermin unklar.",
-        "Klinische Hauptmanifestation": null,
-        "Gelenkbefund": "Sechs geschwollene und vier druckschmerzhafte Gelenke; Regionen und Seiten nicht angegeben.",
-        "Weitere Gelenke": null,
-        "Verlauf": "Mäßiggradige Krankheitsaktivität nach Blinatumomab unter derzeit MTX und Orencia; Fortführung empfohlen. Klinischer Nutzen der laufenden Therapie nicht ausdrücklich beurteilt.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Vier druckschmerzhafte und sechs geschwollene Gelenke bei mäßiggradiger Aktivität der therapierefraktären RA.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Morgensteifigkeit": "nicht erwähnt",
+        "Betroffene Regionen": null,
+        "Klinischer Befund (Details)": "Sechs geschwollene und vier druckschmerzhafte Gelenke; Lokalisation und Zählbereich nicht angegeben.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": "Nicht beurteilbar",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Nach abgeschlossener Blinatumomab-Therapie weiterhin mäßiggradige Krankheitsaktivität. Laufende Therapie mit Abatacept und Methotrexat soll fortgeführt werden; eine konkrete klinische Veränderung unter einer der Therapien wird nicht beschrieben.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Abatacept",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "22_FollowUp.docx",
+                "Zitat": "Laufend  Orencia-Therapie, welches seit 11 Wochen eingenommen wird, des Weiteren 20mg MTX/Wo., sowie Folsan und Dekristol."
+              },
+              {
+                "Datei": "22_FollowUp.docx",
+                "Zitat": "Diese Therapie sollte vorerst fortgeführt werden."
+              }
+            ],
+            "Hinweise": [
+              "Seit elf Wochen laufend; welchem der zusammengefassten Besuche diese Dauer zuzuordnen ist, bleibt unklar."
+            ]
+          },
+          {
+            "Wirkstoff": "Methotrexat",
+            "Dosis": 20,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "20mg MTX/Wo.",
+            "Belege": [
+              {
+                "Datei": "22_FollowUp.docx",
+                "Zitat": "Laufend  Orencia-Therapie, welches seit 11 Wochen eingenommen wird, des Weiteren 20mg MTX/Wo., sowie Folsan und Dekristol."
+              },
+              {
+                "Datei": "22_FollowUp.docx",
+                "Zitat": "Diese Therapie sollte vorerst fortgeführt werden."
+              }
+            ],
+            "Hinweise": [
+              "Zuordnung der Medikationsangabe zu einem einzelnen Besuch nicht eindeutig."
+            ]
+          },
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "22_FollowUp.docx",
+                "Zitat": "Zusammenfassend mäßiggradige Krankheitsaktivität bei therapierefraktärer RA, bei Status post. Blinatumomab-Therapie, und derzeit Therapie mit MTX und Orencia."
+              }
+            ],
+            "Hinweise": [
+              "Abgeschlossene Therapie; keine ausdrückliche Bewertung ihres klinischen Nutzens."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "22_FollowUp.docx",
-              "Zitat": "die sich am 31.10./ 14.12.2023 sowie 22.1.2024 ambulant vorstellte."
+              "Zitat": "wir berichten über unsere gemeinsame Patientin, 22, die sich am 31.10./ 14.12.2023 sowie 22.1.2024 ambulant vorstellte."
             }
           ],
           "TJC": [
@@ -136,6 +426,12 @@
             {
               "Datei": "22_FollowUp.docx",
               "Zitat": "Bei Vorstellung sechs geschwollene und vier druckschmerzhafte Gelenke."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "In der immunologischen Diagnostik normale Immunglobuline, ein erhöhtes CRP bei 11,5 mg/l."
             }
           ],
           "CRP-Wert": [
@@ -156,16 +452,38 @@
               "Zitat": "In der immunologischen Diagnostik normale Immunglobuline, ein erhöhtes CRP bei 11,5 mg/l."
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "22_FollowUp.docx",
-              "Zitat": "Laufend  Orencia-Therapie, welches seit 11 Wochen eingenommen wird, des Weiteren 20mg MTX/Wo., sowie Folsan und Dekristol."
-            }
-          ],
-          "Gelenkbefund": [
+          "Klinische Hauptmanifestation": [
             {
               "Datei": "22_FollowUp.docx",
               "Zitat": "Bei Vorstellung sechs geschwollene und vier druckschmerzhafte Gelenke."
+            },
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "Zusammenfassend mäßiggradige Krankheitsaktivität bei therapierefraktärer RA, bei Status post. Blinatumomab-Therapie, und derzeit Therapie mit MTX und Orencia."
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "Bei Vorstellung sechs geschwollene und vier druckschmerzhafte Gelenke."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "Bei Vorstellung sechs geschwollene und vier druckschmerzhafte Gelenke."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "Bei Vorstellung sechs geschwollene und vier druckschmerzhafte Gelenke."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "22_FollowUp.docx",
+              "Zitat": "Zusammenfassend mäßiggradige Krankheitsaktivität bei therapierefraktärer RA, bei Status post. Blinatumomab-Therapie, und derzeit Therapie mit MTX und Orencia."
             }
           ],
           "Verlauf": [
@@ -180,11 +498,10 @@
           ]
         },
         "Hinweise": [
-          "31.10.2023 ist der belegte Besuch mit dem geringsten Abstand zum Follow-up-Scan.",
-          "Der Brief fasst Vorstellungen vom 31.10.2023, 14.12.2023 und 22.01.2024 zusammen. Gelenkzahlen und laufende Therapie sind keinem einzelnen Besuch eindeutig zugeordnet.",
-          "TJC und SJC: Zählbereich nicht angegeben.",
-          "Labordatum nicht angegeben.",
-          "Orencia-Beginn und tatsächliche Einnahme am 31.10.2023 sind aus der Angabe „seit 11 Wochen“ ohne eindeutigen Bezugsbesuch nicht bestimmbar."
+          "Von den belegten Besuchen am 31.10.2023, 14.12.2023 und 22.01.2024 liegt der 31.10.2023 dem Scan am 16.10.2023 am nächsten.",
+          "TJC 4 und SJC 6 sind ausdrücklich dokumentierte Einzelwerte; Zuordnung zu einem der drei Besuche unklar. Zählbereich nicht angegeben, insbesondere kein belegter TJC28/SJC28.",
+          "CRP: erster Messwert nach Reihenfolge, 11,5 mg/l im Fließtext; später im Laborabschnitt erneut 11,5 mg/l. Messdatum nicht angegeben.",
+          "Ansprechen nicht beurteilbar: keine konkrete klinische Veränderung oder ausdrückliche Nutzenbewertung für Blinatumomab beziehungsweise Abatacept und Methotrexat dokumentiert."
         ]
       }
     ]

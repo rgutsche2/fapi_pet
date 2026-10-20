@@ -1,4 +1,4 @@
-# FAPI PET – gemeinsame Arztbrief-Auswertung
+# FAPI PET – gemeinsame Arztbrief-Auswertung, Version 2
 
 Die Dateien aus diesem Ordner in den bestehenden Projektordner `fapi_pet` kopieren.
 Die vorhandenen Ordner `data` und `output` bleiben dort. Anschließend in PyCharm
@@ -39,11 +39,15 @@ filtert anhand der Studiengruppe; die Patientenzahlen sind nicht fest codiert.
 - JSON mit Originalbelegen: `output/<Indikation>/json/<Patient>_<Indikation>.json`.
 - Ungeprüfte Modellantworten: daneben als `<Patient>_<Indikation>_roh.txt`.
 
-Die Excel wird nach jedem Patienten gespeichert. Die Spaltennamen, Reihenfolge,
+Die Excel wird nach jedem Patienten gespeichert. Das Hauptblatt behält genau
+zwei Zeilen pro Patient. Im zusätzlichen Blatt `Therapie` steht je Medikament
+und Zeitpunkt eine Zeile mit Wirkstoff, Dosis, Einheit, Intervall, Bedarf, Status
+und Originalbelegen. Das Hauptblatt zeigt die laufenden Wirkstoffe kompakt an. Die Spaltennamen, Reihenfolge,
 Gruppen, Filter und Formeln werden aus dem Schema erzeugt. Eine separate
 Excel-Vorlage wird dazu nicht benötigt. Die Ergebnisdatei der jeweiligen
-Indikation wird beim Lauf aktualisiert; vorhandene JSON-Dateien bleiben bis zu
-einem erfolgreichen neuen Ergebnis erhalten.
+Indikation wird beim Lauf aktualisiert. Nach der Prüfung wird auch das jeweilige
+JSON aktualisiert; unvollständige Ergebnisse sind ausdrücklich als TeilErgebnis
+gekennzeichnet. Frühere Ergebnisse daher bei Bedarf vor dem Lauf separat sichern.
 
 ## Prompts und Spalten ändern
 
@@ -66,40 +70,104 @@ neuen Promptstruktur einmal neu angefordert. Bei einem Codex-Verbindungs- oder
 Anmeldefehler stoppt der gesamte Lauf, einschließlich weiterer Indikationen.
 Nach Behebung des Fehlers `codex_master.py` erneut starten.
 
-## PsA-Symptomatik
+## Neue Spalten und Klassifikation
 
-PsA erhält getrennte Spalten für:
+Die Spalten werden aus den Schemata erzeugt; es gibt keine feste Excel-Spaltenzahl.
+Die bisherige Spalte `Ansprechen (Ja/Nein)` wird durch folgende Angaben ersetzt:
 
-1. Klinische Hauptmanifestation.
-2. Periphere Gelenkbeschwerden einschließlich Untersuchungsbefund und weiterer Gelenke.
-3. Axiale Beschwerden / ISG.
-4. Enthesitis mit Lokalisation und Seite.
-5. Daktylitis mit betroffenem Finger bzw. betroffener Zehe.
-6. Hautbeteiligung.
-7. Nagelbeteiligung.
+| Feld | Inhalt |
+| --- | --- |
+| Beurteilte Therapie | Wirkstoff/Regime, auf das sich die Ansprechaussage bezieht |
+| Ansprechen | Deutlich / Partiell / Keines / Nicht beurteilbar |
+| Krankheitszustand | Remission / Gut kontrolliert / Aktiv / Unklar |
 
-Verlauf, Ansprechen und Hinweise folgen anschließend. Nicht erwähnte Symptome
-bleiben leer. Ausdrücklich verneinte Symptome werden als Text erhalten. Die
-PsA-Scorefelder sind DAPSA, cDAPSA, TJC, SJC, LEI, PASI und HAQ; Werte werden nur
-übernommen, wenn sie im Brief dokumentiert sind.
+Baseline: Ansprechen und beurteilte Therapie bleiben leer. Der Krankheitszustand
+wird bei beiden Zeitpunkten dokumentiert. Unklares Follow-up-Ansprechen steht
+explizit als `Nicht beurteilbar` in der Tabelle.
 
-## Vereinbarte Regeln
+Ansprechen beschreibt die klinische Veränderung. Aktive Erkrankung bedeutet
+nicht automatisch fehlendes Ansprechen; eine Teilbesserung bei verbleibender
+Aktivität ist möglich. Umgekehrt beweist gute aktuelle Kontrolle oder Remission
+allein noch keine Veränderung gegenüber Baseline. Damit ist z.B. Remission bei
+Ansprechen Nicht beurteilbar möglich. Dies ist eine bewusste Verfeinerung der
+bisherigen Ja/Nein-Regel; alte Ja-Angaben werden nicht automatisch umcodiert.
 
-- Ein abweichendes Labor- oder Untersuchungsdatum allein führt nicht zum
-  Ausschluss eines dokumentierten Werts aus der passenden Briefgruppe.
-- Das klinische Datum ist ein Referenztermin. Abweichende Einzeldaten und
-  Unsicherheiten stehen in der sichtbaren Excel-Spalte `Hinweise` und im JSON.
-- `Ansprechen (Ja/Nein)`: Im Follow-up zählen dokumentierte klinische Besserung,
-  Teilbesserung oder ausdrücklich gute/ausreichende klinische Kontrolle unter
-  Therapie als `Ja`. Ein ausdrücklicher Baseline-Vergleich ist nicht erforderlich.
-  Eindeutig fehlender Nutzen zählt als `Nein`; unklare Fälle bleiben leer.
-  Baseline bleibt in dieser Spalte leer. Bei PsA zählt das muskuloskelettale
-  Ansprechen; eine reine Hautbesserung reicht nicht aus.
-- Keine Ansprechen-Klassifikation allein aus Labor oder PET/MRT, keine
-  selbst berechneten Scores. Jedes ausgefüllte Extraktionsfeld benötigt Belege.
-- BSG: ein Feld, nach der vereinbarten Studienkonvention in mm nach einer Stunde;
-  bei zwei Werten wie `11/22` wird der erste übernommen.
+Die beurteilte Therapie ist nicht zwingend die gerade laufende Medikation.
+Beispiel: `Von Blinatumomab nicht profitiert; aktuell Abatacept` ergibt Keines für
+Blinatumomab, während Abatacept als laufende Therapie im Medikamentblatt steht.
+Wenn die Wirkung laut Brief noch abgewartet werden soll: Nicht beurteilbar,
+auch bei aktuell dokumentierter Krankheitsaktivität. Klinische Angaben werden
+nicht durch PET-/MRT- oder Laborverbesserungen ersetzt.
 
-Technisch mit simulierten Codex-Antworten geprüft. Die echte Extraktionsqualität
-wird durch Sichtprüfung der Arztbriefe und der gespeicherten Originalbelege
-beurteilt; sie wurde durch die technischen Tests nicht nachgewiesen.
+Die klinischen Statusspalten verwenden `vorhanden`, `verneint`, `unklar` und
+`nicht erwähnt`. Nicht erwähnt wird niemals als verneint oder als Null gewertet.
+Genaue Regionen, Seiten und klinische Besonderheiten stehen unter `Betroffene
+Regionen` und `Klinischer Befund (Details)`; die Hauptmanifestation bleibt kurz.
+
+- SpA: axiale Beschwerden/ISG, periphere Gelenkbeschwerden, Synovitis/Schwellung,
+  Enthesitis.
+- RA: periphere Gelenkbeschwerden, Synovitis/Schwellung, Morgensteifigkeit.
+- PsA: periphere Gelenkbeschwerden, axiale Beschwerden/ISG, Synovitis/Schwellung,
+  Enthesitis, Daktylitis, Haut- und Nagelbeteiligung.
+
+Bei PsA bezieht sich Ansprechen auf die muskuloskelettale Erkrankung; eine reine
+Hautbesserung genügt nicht. Unterschiedliche Haut- und Gelenkentwicklung bleibt
+im Verlauf sichtbar. Scores werden nur bei ausdrücklicher Dokumentation übernommen.
+
+## CRP: immer den ersten Messwert übernehmen
+
+Diese Auswahlkonvention gilt für Baseline und Follow-up:
+
+- Bei `1. Wert; letzter Wert [Minimum; Maximum]` wird immer der erste Wert erfasst.
+- Bei mehreren Einzelangaben wird die erste Messwertnennung im Text verwendet.
+- Bei mehreren Briefen entscheidet die übergebene, nach Dateipfad sortierte
+  Briefreihenfolge. Das ist keine Behauptung über den chronologisch frühesten
+  Messwert; kein Messdatum wird aus der Position erfunden.
+- Referenzbereiche und Min-/Max-Angaben werden nicht als eigene Messungen gezählt.
+- Beispiel `13,0; 6,1 (<5) [Min 6,1; Max 13,0]`: Auswahl 13,0 mg/l.
+- Beispiel `0,5; 1,5 [Max 76,3]`: Auswahl 0,5 mg/l, nicht 76,3 mg/l.
+- Zwei undatierte CRP-Angaben 36,2 und 25,4: Auswahl 36,2.
+- `<5,2 mg/l` bleibt Messwert 5,2 mit Vergleichszeichen `<`; kein exakter Wert 5,2.
+- Fehlende Einzeldaten führen nicht zum Ausschluss. Abweichende Daten und die
+  Auswahlregel stehen in `Hinweise`.
+
+`CRP dokumentiert` wird separat mit Ja/Nein erfasst. Bei rein qualitativer Angabe
+wie `CRP unauffällig` ist Dokumentiert=Ja möglich, während der Zahlenwert leer
+bleibt. Ein Referenzbereich oder die Scorebezeichnung DAS28-CRP allein genügt nicht.
+
+Das Master-Skript erkennt einfache, klar beschriftete CRP-Zahlen zusätzlich per
+Textregel und legt den ersten Wert vor und nach der LLM-Auswertung verbindlich
+fest. Der genaue Originalbeleg wird erhalten. Die Regel überspringt hsCRP,
+Scorebezeichnungen und klar als Referenz/Min/Max markierte Angaben. Bei einem
+früheren unbekannten Schreibformat wird nicht einfach auf einen späteren Wert
+ausgewichen: dann bleibt die Auswahl beim LLM nach derselben Erstwert-Regel.
+Komplexe Formate werden daher weiterhin an den Originalbelegen geprüft.
+
+BSG bleibt ein Feld in mm nach einer Stunde gemäß Studienkonvention; bei `11/22`
+wird weiterhin der erste Wert übernommen.
+
+## Zitatprüfung und Wiederaufnahme
+
+Jeder inhaltlich ausgefüllte Extraktionswert benötigt einen wortgetreuen Beleg.
+Reine Fehlend-Kategorien benötigen keinen künstlichen Beleg. Nach einem
+Prüffehler bekommt Codex einmal die vollständigen Originaltexte, die Antwort
+und den konkreten Fehler zur Korrektur. Schreibfehler im Original müssen auch
+im Zitat wortgetreu bleiben. Unscharfe Zitate werden nicht ungeprüft akzeptiert.
+Die Korrekturantwort wird als `<Patient>_<Indikation>_korrektur_roh.txt` gespeichert.
+
+Scheitert die Prüfung weiterhin, werden Baseline und Follow-up getrennt geprüft.
+Eine gültige Phase bleibt erhalten; nur die tatsächlich fehlerhafte Phase erhält
+in Excel einen Prüfhinweis. Das JSON enthält dann `TeilErgebnis` und `Prueffehler`
+anstelle eines vollständigen `Ergebnis`. Solche Patienten werden beim nächsten
+Lauf erneut angefordert. Die Abschlusszahl zählt nur vollständig gültige Patienten.
+
+Alle geänderten Prompts, Schemata und die neue Verarbeitungsversion lösen eine
+Neuauswertung bisheriger Ergebnisse aus. `NEU_AUSWERTEN=False` kann stehen bleiben.
+Danach werden unveränderte vollständige Ergebnisse wiederverwendet. Die bisherigen
+Ergebnis-Exceldateien werden beim Lauf aktualisiert; manuelle Korrekturen sollten
+vorher in einer separaten Kopie aufbewahrt werden.
+
+Technisch mit simulierten Codex-Antworten geprüft; die CRP-Textregel zusätzlich
+an den verfügbaren Originalbeispielen. Diese Tests belegen keine allgemeine
+klinische Extraktionsgüte des LLM. Originaltexte und Belege bleiben die Grundlage
+der inhaltlichen Prüfung.

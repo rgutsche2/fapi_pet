@@ -10,27 +10,118 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Nein",
       "CRP-Wert": null,
       "CRP-Vergleichszeichen": null,
       "CRP-Einheit": null,
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Bestehende NSAR-Therapie; aktuelles Präparat und Dosis nicht eindeutig angegeben.",
-      "Klinische Hauptmanifestation": "Aktiver entzündlicher Rückenschmerz mit Morgensteifigkeit von 60–90 Minuten und eingeschränkter Wirbelsäulenrotation. Schwellung der vierten linken Zehe mit klinischem Verdacht auf Daktylitis.",
-      "Axiale Beschwerden / ISG": "Seit 2015 entzündlicher Rückenschmerz mit nächtlichem oder frühmorgendlichem Erwachen; seit Jahresbeginn zunehmende Morgensteifigkeit und deutliche Rotationseinschränkung.",
-      "Weitere Gelenke": "Rezidivierende Beschwerden der PIP-Gelenke mit eingeschränkter Fingerflexion. Abgesehen von der vierten linken Zehe aktuell kein Druckschmerz oder synovitische Schwellung; kein Druckschmerz der Plantaraponeurosen und kein sonstiger Enthesitishinweis.",
-      "Verlauf": "Zunehmende axiale Beschwerden seit Jahresbeginn; bisherige NSAR ohne ausreichende Wirkung. Einleitung von MTX 15 mg wöchentlich mit Folsäure und ein Prednisolonstoß zur Behandlung der Daktylitis empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Aktiver entzündlicher Rückenschmerz mit Morgensteifigkeit von 60–90 Minuten und eingeschränkter Wirbelsäulenrotation. Rezidivierende PIP-Beschwerden und aktuelle Schwellung der vierten linken Zehe bei Verdacht auf Daktylitis.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Wirbelsäule, insbesondere BWS/LWS; PIP-Gelenke der Hände; vierte linke Zehe.",
+      "Klinischer Befund (Details)": "Nächtlicher beziehungsweise frühmorgendlicher Rückenschmerz, Morgensteifigkeit 60–90 Minuten und eingeschränkte Rotation. Verdacht auf Daktylitis der vierten linken Zehe; ansonsten kein Druckschmerz und keine synovitische Schwellung. Plantaraponeurose beidseits aktuell nicht druckschmerzhaft, kein klinischer Hinweis auf Enthesitis.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Seit 2015 entzündlicher Rückenschmerz, seit Jahresbeginn zunehmende Steifigkeit und periphere Beschwerden. Etoricoxib und Ibuprofen ohne ausreichende Wirkung; Beginn von Methotrexat und ein Prednisolonstoß werden empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Etoricoxib 90 mg von 03/2020-05/2020 (keine ausreichende Wirkung)",
+          "Belege": [
+            {
+              "Datei": "6_Baseline.docx",
+              "Zitat": "Etoricoxib 90 mg von 03/2020-05/2020 (keine ausreichende Wirkung)"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 600,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "unklar",
+          "Dosierung (Original)": "Ibuprofen 600 mg 1-1-1 für mehr als sechs Wochen (ohne ausreichende Wirkung)",
+          "Belege": [
+            {
+              "Datei": "6_Baseline.docx",
+              "Zitat": "Ibuprofen 600 mg 1-1-1 für mehr als sechs Wochen (ohne ausreichende Wirkung)"
+            }
+          ],
+          "Hinweise": [
+            "Unter bisheriger Therapie aufgeführt; Fortführung zum Besuch nicht eindeutig dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "MTX 15mg 1x/pro Woche",
+          "Belege": [
+            {
+              "Datei": "6_Baseline.docx",
+              "Zitat": "Aufgrund der rez. periph. Gelenkaffektion empfehlen wir den Beginn einer immunsuppressiven Basistherapie mittels MTX 15mg 1x/pro Woche + Folsäure 5mg am Folgetag."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Folsäure",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Folsäure 5mg am Folgetag",
+          "Belege": [
+            {
+              "Datei": "6_Baseline.docx",
+              "Zitat": "Aufgrund der rez. periph. Gelenkaffektion empfehlen wir den Beginn einer immunsuppressiven Basistherapie mittels MTX 15mg 1x/pro Woche + Folsäure 5mg am Folgetag."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "beginnend mit 20mg 1-0-0 für eine Woche, dann wochenweise Reduktion um 2,5mg bis zum vollständigen Ausschleichen",
+          "Belege": [
+            {
+              "Datei": "6_Baseline.docx",
+              "Zitat": "Zusätzlich empfehlen wir zur akuten Therapie der Daktylitis einen Prednisolonstoß, beginnend mit 20mg 1-0-0 für eine Woche, dann wochenweise Reduktion um 2,5mg bis zum vollständigen Ausschleichen."
+            }
+          ],
+          "Hinweise": [
+            "Ausschleichschema; keine konstante Dauerdosis."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "6_Baseline.docx",
             "Zitat": "wir berichten über unseren gemeinsamen Patienten, 6, der sich am 18.05.2020 ambulant vorstellte."
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "6_Baseline.docx",
-            "Zitat": "Sollten sich im MRT der LWS/ISG persistierende Entzündungszeichen unter der bestehenden NSAR-Therapie zeigen wäre die Indikation zur Umstellung auf Biologikum gegeben."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -40,23 +131,55 @@
           },
           {
             "Datei": "6_Baseline.docx",
-            "Zitat": "Aktuell bestünde seit Anfang des Jahres eine Schwellung im Bereich des linken vierten Zehs."
+            "Zitat": "Zusätzlich habe er seit Anfang des Jahres auch rezidivierend Gelenkbeschwerden im Bereich der PIP-Gelenke, auch mit Einschränkung der Flexion bemerkt, die an einzelnen Fingern über wenige Tage anhielten."
           },
           {
             "Datei": "6_Baseline.docx",
-            "Zitat": "Gelenke: 4. Zehe links V. a. Daktylitis, ansonsten kein Druckschmerz, keine synovitische Schwellung."
+            "Zitat": "Aktuell bestünde seit Anfang des Jahres eine Schwellung im Bereich des linken vierten Zehs."
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "6_Baseline.docx",
-            "Zitat": "Er berichtet über entzündlichen Rückenschmerz, mit nächtlichem oder frühmorgendlichem Erwachen seit 2015, zusätzlich bestünde vor allem seit Anfang des Jahres eine zunehmende Morgensteifigkeit von 60-90 Minuten und eine deutliche Einschränkung der Rotation der Wirbelsäule."
+            "Zitat": "entzündliche Rückenschmerzen seit 2015, aktuell aktiv"
           }
         ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
           {
             "Datei": "6_Baseline.docx",
             "Zitat": "Zusätzlich habe er seit Anfang des Jahres auch rezidivierend Gelenkbeschwerden im Bereich der PIP-Gelenke, auch mit Einschränkung der Flexion bemerkt, die an einzelnen Fingern über wenige Tage anhielten."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aktuell bestünde seit Anfang des Jahres eine Schwellung im Bereich des linken vierten Zehs."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aktuell kein Druckschmerz über der Plantaraponeurose beidseits, ansonsten kein Hinweis auf Enthesitis."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "eingeschränkte Beweglichkeit im Bereich der BWS und LWS"
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Zusätzlich habe er seit Anfang des Jahres auch rezidivierend Gelenkbeschwerden im Bereich der PIP-Gelenke, auch mit Einschränkung der Flexion bemerkt, die an einzelnen Fingern über wenige Tage anhielten."
+          },
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Aktuell bestünde seit Anfang des Jahres eine Schwellung im Bereich des linken vierten Zehs."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "Er berichtet über entzündlichen Rückenschmerz, mit nächtlichem oder frühmorgendlichem Erwachen seit 2015, zusätzlich bestünde vor allem seit Anfang des Jahres eine zunehmende Morgensteifigkeit von 60-90 Minuten und eine deutliche Einschränkung der Rotation der Wirbelsäule."
           },
           {
             "Datei": "6_Baseline.docx",
@@ -65,6 +188,12 @@
           {
             "Datei": "6_Baseline.docx",
             "Zitat": "Aktuell kein Druckschmerz über der Plantaraponeurose beidseits, ansonsten kein Hinweis auf Enthesitis."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "6_Baseline.docx",
+            "Zitat": "entzündliche Rückenschmerzen seit 2015, aktuell aktiv"
           }
         ],
         "Verlauf": [
@@ -91,7 +220,8 @@
         ]
       },
       "Hinweise": [
-        "Das aktuell eingenommene NSAR ist nicht eindeutig benannt; MTX und Prednisolon wurden erst empfohlen."
+        "Der vereinbarte PET-Termin und die geplante Wiedervorstellung belegen keinen weiteren tatsächlichen rheumatologischen Besuch.",
+        "Schwellung der vierten linken Zehe bei Verdacht auf Daktylitis; ansonsten klinisch keine synovitische Schwellung."
       ]
     },
     {
@@ -104,16 +234,88 @@
       "LEI": null,
       "MASES": 0,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 4,
-      "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen seit August 2020. MTX bereits selbstständig abgesetzt; Pausierung bei der Vorstellung gemeinsam beschlossen.",
-      "Klinische Hauptmanifestation": "Keine peripheren Beschwerden mehr; keine Druckschmerzen oder Gelenkschwellungen. Teilweise weiterhin rezidivierende Schmerzen im BWS-Bereich.",
-      "Axiale Beschwerden / ISG": "Teilweise rezidivierende BWS-Schmerzen; ISG klinisch nicht schmerzhaft.",
-      "Weitere Gelenke": "Keine peripheren Beschwerden, keine Druckschmerzen und keine Schwellungen.",
-      "Verlauf": "Periphere Beschwerdefreiheit im Verlauf unter Therapie; rezidivierende BWS-Schmerzen bestehen teilweise fort. MTX wurde bereits selbstständig abgesetzt und soll weiter pausieren.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Teilweise rezidivierende Schmerzen im BWS-Bereich bei fehlenden peripheren Beschwerden.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "verneint",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "BWS.",
+      "Klinischer Befund (Details)": "Rezidivierende BWS-Schmerzen unklarer Ursache. Kein Gelenkdruckschmerz, keine Schwellungen und ISG nicht schmerzhaft; MASES 0. Frühere Daktylitis der vierten linken Zehe.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Unklar",
+      "Verlauf": "Unter laufendem Adalimumab keine peripheren Beschwerden, jedoch teilweise rezidivierende BWS-Schmerzen. Methotrexat wurde selbstständig abgesetzt und anschließend gemeinsam pausiert. Ein klinischer Therapieeffekt mit eindeutigem Ausmaß und eindeutiger Therapiezuordnung ist nicht dokumentiert.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 2,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Adalimumab 40mg alle 2 Wo. seit 8/20",
+          "Belege": [
+            {
+              "Datei": "6_FollowUp.docx",
+              "Zitat": "Adalimumab 40mg alle 2 Wo. seit 8/20"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "pausiert",
+          "Dosierung (Original)": "Methotrexat 15 mg pro woche (seit 05/2020)",
+          "Belege": [
+            {
+              "Datei": "6_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Methotrexat 15 mg pro woche (seit 05/2020); Folsäure 5 mg am folgen Tag; Adalimumab 40mg alle 2 Wochen (seit 08/20)"
+            },
+            {
+              "Datei": "6_FollowUp.docx",
+              "Zitat": "Methotrexat 15 mg bis ca. Anfang Juni 2020 (selbstständig abgesetzt)"
+            },
+            {
+              "Datei": "6_FollowUp.docx",
+              "Zitat": "Gemeinsam wurde mit dem Patienten entschieden MTX zu pausieren."
+            }
+          ],
+          "Hinweise": [
+            "Die Auflistung als aktuelle Therapie widerspricht der ausdrücklich dokumentierten Einnahmepause; maßgeblich ist die abschließende Entscheidung zur Pause.",
+            "Therapiehistorie nennt Anfang Juni 2020; die Anamnese nennt Anfang Juni ohne Jahresangabe. Absetzjahr nicht eindeutig."
+          ]
+        },
+        {
+          "Wirkstoff": "Folsäure",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "unklar",
+          "Dosierung (Original)": "Folsäure 5 mg am folgen Tag",
+          "Belege": [
+            {
+              "Datei": "6_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Methotrexat 15 mg pro woche (seit 05/2020); Folsäure 5 mg am folgen Tag; Adalimumab 40mg alle 2 Wochen (seit 08/20)"
+            }
+          ],
+          "Hinweise": [
+            "Als Begleitmedikation zu wöchentlichem Methotrexat aufgeführt; Fortführung nach Methotrexat-Pause nicht geklärt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -133,42 +335,34 @@
             "Zitat": "BASMI 0, MASES 0, BASDAI 0,8"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "6_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "6_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "6_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,1 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "BKS: 4"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "Adalimumab 40mg alle 2 Wo. seit 8/20"
-          },
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
-          },
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "Gemeinsam wurde mit dem Patienten entschieden MTX zu pausieren."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -179,13 +373,39 @@
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
-          },
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
           }
         ],
-        "Axiale Beschwerden / ISG": [
+        "Enthesitis": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "BASMI 0, MASES 0, BASDAI 0,8"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "Teilweise noch rez. Schmerzen im BWS Bereich."
@@ -193,19 +413,21 @@
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
-          }
-        ],
-        "Weitere Gelenke": [
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
           },
           {
             "Datei": "6_FollowUp.docx",
-            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
+            "Zitat": "BASMI 0, MASES 0, BASDAI 0,8"
+          },
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Z.n. Daktylitis D4 links Zehe"
           }
         ],
         "Verlauf": [
+          {
+            "Datei": "6_FollowUp.docx",
+            "Zitat": "Adalimumab 40mg alle 2 Wo. seit 8/20"
+          },
           {
             "Datei": "6_FollowUp.docx",
             "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
@@ -218,24 +440,14 @@
             "Datei": "6_FollowUp.docx",
             "Zitat": "Gemeinsam wurde mit dem Patienten entschieden MTX zu pausieren."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "MTX wurde seit Anfang Juni nicht mehr genommen, da keine peripheren Beschwerden bestanden."
-          },
-          {
-            "Datei": "6_FollowUp.docx",
-            "Zitat": "Gelenkstatus: keine DS, keine Schwellungen, ISG nicht schmerzhaft."
-          }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben.",
-        "BASDAI und MASES ohne gesondertes Untersuchungsdatum dokumentiert.",
-        "Die Diagnoseliste führt MTX weiterhin als aktuell; aktuelle Anamnese und Beurteilung dokumentieren dagegen Absetzen beziehungsweise Pausierung.",
-        "Therapiehistorie nennt MTX-Absetzen Anfang Juni 2020; die aktuelle Anamnese nennt Anfang Juni ohne Jahresangabe. Das genaue Absetzdatum bleibt unklar.",
-        "Ja bezeichnet die klinische Kontrolle der peripheren Beschwerden; BWS-Restbeschwerden bestehen fort. Ein ursächlicher Effekt eines einzelnen Medikaments ist nicht belegt."
+        "Einziger belegter rheumatologischer Besuch dieser Briefgruppe ist der 21.07.2021, nach dem Follow-up-Scan.",
+        "Laborwerte und BKS ohne eigenes Messdatum; kein Messdatum aus dem Besuchsdatum abgeleitet.",
+        "Kein ausreichend belegter klinischer Veränderungsnachweis mit Therapiezuordnung; Ansprechen daher nicht beurteilbar. Fehlende FAPI-Aktivität ist kein klinischer Ansprechnachweis.",
+        "Entzündliche oder degenerative Ursache der aktuellen BWS-Schmerzen nicht eindeutig dokumentiert; gesamter klinischer Krankheitszustand daher unklar.",
+        "Frühere unzureichende NSAR-Wirkung wird nur als Therapiehistorie wiederholt und nicht als aktuelles Follow-up-Ansprechen gewertet."
       ]
     }
   ]

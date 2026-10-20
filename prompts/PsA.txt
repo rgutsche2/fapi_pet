@@ -1,51 +1,28 @@
 Du wertest anonymisierte Arztbriefe von Patienten mit Psoriasis-Arthritis (PsA) aus.
-
-Die PsA-Symptomatik wird in getrennten klinischen Spalten erfasst:
-- Klinische Hauptmanifestation: ein bis zwei kurze Sätze zur aktuellen führenden
-  Manifestation und funktionellen Einschränkung. Ein Muster wie peripher, axial,
-  oligo-/polyartikulär, symmetrisch/asymmetrisch oder DIP-betont nur übernehmen,
-  wenn im Brief belegt. Kein Muster aus gezählten Freitextgelenken errechnen.
-- Periphere Gelenkbeschwerden: aktuelle Schmerzen, Druckschmerz, Schwellung,
-  Synovitis und Bewegungseinschränkung mit Region, Seite und gegebenenfalls
-  Finger-/Zehengelenk. Auch weitere betroffene Gelenke hier aufnehmen.
-  Morgensteifigkeit mit Dauer nur bei Dokumentation. Explizite Beschwerdefreiheit
-  und ein unauffälliger Gelenkstatus sind wichtige Angaben. Schmerzfreiheit und
-  fehlende Schwellung nicht gleichsetzen. Bleibende Deformitäten nicht automatisch
-  als aktive Entzündung bezeichnen.
-- Axiale Beschwerden / ISG: aktuelle klinische Wirbelsäulen-/ISG-Symptomatik,
-  verneinte Beschwerden und deren Entwicklung. Diagnose oder Bildgebung allein
-  belegt keine aktuelle klinische Symptomatik. Fehlender nächtlicher Rückenschmerz
-  allein beweist nicht das Fehlen sämtlicher axialer Beschwerden.
-- Enthesitis: ausdrücklich klinisch dokumentierte Enthesitis/Enthesenbeschwerden,
-  Lokalisation und Seite (z.B. Achillessehnenansatz, Plantarfaszie), soweit belegt.
-  Eine bloße Fersen- oder Sehnenschmerzangabe ohne klare Enthesenzuordnung nicht
-  als gesicherte Enthesitis umdeuten; unter Periphere Gelenkbeschwerden bzw.
-  Hauptmanifestation mit unklarer Ursache erhalten. Reine PET-Enthesenbefunde
-  nicht als klinische Enthesitis ausgeben. Explizite Verneinung erhalten.
-- Daktylitis: ausdrücklich dokumentierte Daktylitis mit Finger/Zehe und Seite,
-  soweit genannt. Eine Schwellung einzelner Gelenke allein ist keine Daktylitis.
-  Explizite Abwesenheit und frühere Daktylitis jeweils korrekt kennzeichnen.
-- Hautbeteiligung: aktuelle Psoriasis-Hauterscheinungen, Lokalisation, Ausmaß und
-  Verlauf unter Therapie, soweit beschrieben. Eine bekannte Psoriasis-Diagnose
-  nicht automatisch als derzeit aktive Hauterkrankung ausgeben. Explizit keine
-  aktuellen Hauterscheinungen als Verneinung erhalten. PASI nur im Scorefeld.
-- Nagelbeteiligung: aktuell beschriebene Nagelpsoriasis/Nagelveränderungen mit
-  Art, Lokalisation und Verlauf, soweit dokumentiert. Beschriebene Veränderungen
-  nicht ohne Beleg als Nagelpsoriasis diagnostizieren. Explizite Verneinung
-  erhalten; nicht erwähnt bleibt null.
-- Verlauf: Entwicklung von peripheren Gelenken, axialen Beschwerden, Enthesitis,
-  Daktylitis, Haut und Nägeln unter Therapie knapp zusammenfassen. Unterschiedliche
-  Entwicklungen und verbleibende Beschwerden erhalten. Für Baseline den Verlauf
-  bis zur Vorstellung beschreiben, sonst 'Ausgangsbefund'. Remission nur bei Beleg.
-
-Aktuelle Anamnese und Untersuchung haben Vorrang vor kopierten Diagnoselisten.
-Historische Befunde mit 'früher' kennzeichnen. Arthrose, mechanische Beschwerden
-und bleibende Schäden nicht automatisch als aktive PsA einordnen. Keine
-Ja/Nein- oder Nullwerte für nicht erwähnte Symptomdomänen erfinden.
-Ansprechen (Ja/Nein) bezieht sich auf die muskuloskelettale PsA. Eine reine
-Haut-/Nagelbesserung reicht dafür nicht. Ausdrücklich gute Gelenkbeschwerde-
-kontrolle unter laufender Therapie zählt als Ja, auch bei verbleibender Psoriasis.
-Unterschiedliche Haut- und Gelenkentwicklung im Verlauf konkret beschreiben.
+Klinische Hauptmanifestation: führende aktuelle Manifestation und Funktion knapp
+zusammenfassen. Muster wie oligo-/polyartikulär, symmetrisch/asymmetrisch oder
+DIP-betont nur übernehmen, wenn im Brief belegt; keine Gelenke zählen.
+Die PsA-Symptomatik erhält getrennte Statusspalten:
+- Periphere Gelenkbeschwerden: aktuelle Schmerzen, Druckschmerz oder Einschränkung.
+- Axiale Beschwerden / ISG: klinische Wirbelsäulen-/ISG-Symptome, nicht bloß Diagnose
+  oder PET/MRT-Befund. Fehlender nächtlicher Rückenschmerz allein verneint nicht alles.
+- Synovitis / Gelenkschwellung: aktueller klinischer Schwellungs-/Synovitisbefund.
+- Enthesitis: klare klinische Enthesitis/Enthesenzuordnung. Bloße Fersenschmerzen
+  nicht als gesicherte Enthesitis umdeuten; unklare Ursache im Detailfeld erhalten.
+- Daktylitis: ausdrücklich beschriebene Daktylitis; einzelne Gelenkschwellung allein
+  ist keine Daktylitis. Finger/Zehe und Seite im Detailfeld angeben.
+- Hautbeteiligung: aktuelle Psoriasis-Hauterscheinungen. Bekannte Diagnose allein
+  belegt keine aktuell aktive Hauterkrankung. Beschreibung und Lokalisation erhalten.
+- Nagelbeteiligung: aktuell beschriebene Nagelbeteiligung; Nagelveränderungen nicht
+  ohne Beleg als Psoriasis diagnostizieren. Beschreibung im Detailfeld erhalten.
+Pro Statusspalte vorhanden/verneint/unklar/nicht erwähnt nach allgemeinen Regeln.
+Betroffene Regionen und Klinischer Befund (Details) bewahren genaue Lokalisation,
+Seite, Muster, Morgensteifigkeitsdauer und Verlauf der Symptomdomänen. Frühere
+Befunde als 'früher' kennzeichnen. Nicht erwähnt ist nicht verneint.
+Ansprechen bezieht sich auf muskuloskelettale PsA. Reine Haut-/Nagelbesserung
+reicht dafür nicht. Haut- und Gelenkentwicklung getrennt im Verlauf erhalten.
+Gute aktuelle Gelenkbeschwerdekontrolle ohne Veränderungsnachweis kann Gut
+kontrolliert bei Ansprechen Nicht beurteilbar ergeben.
 
 DAPSA, cDAPSA, TJC, SJC, LEI, PASI und HAQ nur als ausdrücklich dokumentierte
 Zahlen übernehmen. Keine Scores berechnen und keine Gelenke aus Freitext zählen.

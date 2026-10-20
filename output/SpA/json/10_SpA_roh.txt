@@ -10,39 +10,131 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 6,
-      "Aktuelle Therapie": "Certolizumab; Diclofenac bei Bedarf. Wegen linksseitiger Uveitis lokale Steroidtherapie und Prednisolon 20 mg/Tag.",
-      "Klinische Hauptmanifestation": "Persistierende Schmerzen im rechten oberen Sprunggelenk bei zusätzlicher posttraumatischer Arthrose und beidseitige Handgelenkarthralgien; Morgensteifigkeit etwa 1,5 Stunden. Keine Enthesitis; neu linksseitige Uveitis.",
-      "Axiale Beschwerden / ISG": "Aktuell tiefsitzender Rückenschmerz bei früherer Sakroiliitis sowie bekannter LWK-Fraktur und Versteifung.",
-      "Weitere Gelenke": "Arthralgien beider Handgelenke.",
-      "Verlauf": "Nach Umstellung auf Certolizumab persistierende Sprunggelenkbeschwerden, Handgelenkarthralgien und tiefsitzender Rückenschmerz; zusätzlich neu aufgetretene Uveitis. Wegen anhaltender Erkrankungsaktivität Umstellung auf Secukinumab empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Tiefsitzender Rückenschmerz und beidseitige Handgelenkarthralgien mit etwa 1,5 Stunden Morgensteifigkeit. Persistierende Schmerzen am rechten Sprunggelenk bei zusätzlicher posttraumatischer OSG-Arthrose.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "nicht erwähnt",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Tiefer Rücken, Handgelenke beidseits, rechtes oberes Sprunggelenk; zusätzlich linkes Auge.",
+      "Klinischer Befund (Details)": "Schmerzen am rechten OSG bei bekannter posttraumatischer Arthrose; Handgelenkarthralgien beidseits und Morgensteifigkeit etwa 1,5 Stunden. Tiefsitzender Rückenschmerz bei zusätzlicher früherer LWK-Fraktur und Versteifung. Keine Enthesitis. Seit einer Woche Uveitis links; aktuell keine Psoriasisplaques.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter Certolizumab persistierende axiale und periphere Beschwerden sowie neu aufgetretene Uveitis. Wegen deutlicher Erkrankungsaktivität und Wirkungslosigkeit zweier TNF-Inhibitoren Umstellung auf Secukinumab empfohlen; im fortgeschriebenen Diagnoseabschnitt bereits seit Mai 2020 als aktuelle Therapie geführt.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Certolizumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "10_Baseline.docx",
+              "Zitat": "Certolizumab (9/19-05/20, Wirkversagen)"
+            }
+          ],
+          "Hinweise": [
+            "Bei der beschriebenen Vorstellung noch behandelt; laut fortgeschriebener Therapiehistorie im Mai 2020 wegen Wirkversagens beendet."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Secukinumab wird eindosierend verabreicht, zunächst in Woche 0, Woche 1, Woche 2 und Woche 3 jeweils 300mg (2 Spritzen, ab Woche 4 dann Intervallverlängerung mit 300mg alle 4 Wochen.",
+          "Belege": [
+            {
+              "Datei": "10_Baseline.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab seit 05/20"
+            },
+            {
+              "Datei": "10_Baseline.docx",
+              "Zitat": "Secukinumab wird eindosierend verabreicht, zunächst in Woche 0, Woche 1, Woche 2 und Woche 3 jeweils 300mg (2 Spritzen, ab Woche 4 dann Intervallverlängerung mit 300mg alle 4 Wochen."
+            }
+          ],
+          "Hinweise": [
+            "Intervallangabe betrifft die Erhaltungstherapie nach Eindosierung. Beginn laut Diagnoseabschnitt im Mai 2020, nach dem klinischen Referenztermin."
+          ]
+        },
+        {
+          "Wirkstoff": "Diclofenac",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Diclofenac bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "10_Baseline.docx",
+              "Zitat": "Dauermedikation:\nDiclofenac bei Bedarf"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "20mg/Tag",
+          "Belege": [
+            {
+              "Datei": "10_Baseline.docx",
+              "Zitat": "Augenarzt hat lokale Steroidtherapie + systemische Prednisolontherapie mit 20mg/Tag begonnen."
+            }
+          ],
+          "Hinweise": [
+            "Zur Behandlung der neu aufgetretenen Uveitis begonnen; weitere Therapiedauer nicht angegeben."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 10, der sich am 24.02.2020 ambulant vorstellte."
+            "Zitat": "der sich am 24.02.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -51,24 +143,56 @@
             "Zitat": "BKS: 6/18 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "10_Baseline.docx",
-            "Zitat": "Unter Therapie mit Certolizumab zeigt isch eine persistierende Entzündungsaktivität im Bereich der Radioulnargelenke bds."
-          },
-          {
-            "Datei": "10_Baseline.docx",
-            "Zitat": "Diclofenac bei Bedarf"
-          },
-          {
-            "Datei": "10_Baseline.docx",
-            "Zitat": "Augenarzt hat lokale Steroidtherapie + systemische Prednisolontherapie mit 20mg/Tag begonnen."
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "10_Baseline.docx",
             "Zitat": "Der Patient berichtet über persistierende Beschwerden im re. Sprunggelenk bei jedoch auch OSG-Arthrose nach Therapieumstellung auf Certolizumab, Morgensteifigkeit ca. 1,5 Std., ansonsten Arthralgien im Bereich der Handgelenke bds."
+          },
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Zusätzlich tiefsitzender Rückenschmerz, 2007 Sakroiliitis, auch LWK Fraktur und Versteifung bekannt."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Zusätzlich tiefsitzender Rückenschmerz, 2007 Sakroiliitis, auch LWK Fraktur und Versteifung bekannt."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Der Patient berichtet über persistierende Beschwerden im re. Sprunggelenk bei jedoch auch OSG-Arthrose nach Therapieumstellung auf Certolizumab, Morgensteifigkeit ca. 1,5 Std., ansonsten Arthralgien im Bereich der Handgelenke bds."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Gelenkstatus: Schmerzen OSG rechts, keine Enthesitis"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Der Patient berichtet über persistierende Beschwerden im re. Sprunggelenk bei jedoch auch OSG-Arthrose nach Therapieumstellung auf Certolizumab, Morgensteifigkeit ca. 1,5 Std., ansonsten Arthralgien im Bereich der Handgelenke bds."
+          },
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Zusätzlich tiefsitzender Rückenschmerz, 2007 Sakroiliitis, auch LWK Fraktur und Versteifung bekannt."
+          },
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Seit einer Woche neu Uveitis links."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Der Patient berichtet über persistierende Beschwerden im re. Sprunggelenk bei jedoch auch OSG-Arthrose nach Therapieumstellung auf Certolizumab, Morgensteifigkeit ca. 1,5 Std., ansonsten Arthralgien im Bereich der Handgelenke bds."
+          },
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "Zusätzlich tiefsitzender Rückenschmerz, 2007 Sakroiliitis, auch LWK Fraktur und Versteifung bekannt."
           },
           {
             "Datei": "10_Baseline.docx",
@@ -80,19 +204,13 @@
           },
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "Posttraumatische OSG-Arthrose rechts"
+            "Zitat": "Psoriasisplaques aktuell nicht vorhanden."
           }
         ],
-        "Axiale Beschwerden / ISG": [
+        "Krankheitszustand": [
           {
             "Datei": "10_Baseline.docx",
-            "Zitat": "Zusätzlich tiefsitzender Rückenschmerz, 2007 Sakroiliitis, auch LWK Fraktur und Versteifung bekannt."
-          }
-        ],
-        "Weitere Gelenke": [
-          {
-            "Datei": "10_Baseline.docx",
-            "Zitat": "Der Patient berichtet über persistierende Beschwerden im re. Sprunggelenk bei jedoch auch OSG-Arthrose nach Therapieumstellung auf Certolizumab, Morgensteifigkeit ca. 1,5 Std., ansonsten Arthralgien im Bereich der Handgelenke bds."
+            "Zitat": "In der Zusammenschau der Befunde besteht eine deutliche Erkrankungsaktivität und damit die Indikation zur Therapieumstellung."
           }
         ],
         "Verlauf": [
@@ -110,15 +228,23 @@
           },
           {
             "Datei": "10_Baseline.docx",
+            "Zitat": "In der Zusammenschau der Befunde besteht eine deutliche Erkrankungsaktivität und damit die Indikation zur Therapieumstellung."
+          },
+          {
+            "Datei": "10_Baseline.docx",
             "Zitat": "Aufgrund der persistierenden axialen Komponente und Wirkungslosigkeit von 2 TNF-Inhibitoren empfehlen wir die Umstellung auf Secukinumab, auch wenn aufgrund der Uveitis eigentlich einem TNF-Inhibitor Vorzug gegeben werden sollte."
+          },
+          {
+            "Datei": "10_Baseline.docx",
+            "Zitat": "aktuelle Therapie: Secukinumab seit 05/20"
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben.",
-        "BKS 6/18 mm/h: erster Wert gemäß Studienkonvention als BSG nach einer Stunde übernommen.",
-        "Der Brief enthält spätere Ergänzungen einschließlich MRT vom 08.04.2020 und Secukinumab-Beginn 05/2020. Secukinumab war am Referenztermin 24.02.2020 noch keine laufende Therapie; die spätere Umstellungsempfehlung ist im Verlauf erhalten.",
-        "Certolizumab-Dosis und -Intervall nicht angegeben."
+        "Der Baseline-Brief verbindet die Vorstellung vom 24.02.2020 mit späteren Befunden und Therapieangaben bis Mai 2020; deren Zuordnung zum Referenztermin ist nicht durchgehend möglich.",
+        "CRP und BKS ohne eigenes Messdatum; keine automatische Zuordnung zum klinischen Referenztermin.",
+        "BKS 6/18 gemäß Studienkonvention als BSG nach einer Stunde mit 6 mm übernommen.",
+        "Lokale Steroidtherapie der Uveitis erwähnt, Wirkstoff und Dosierung nicht benannt."
       ]
     },
     {
@@ -131,49 +257,74 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Secukinumab 300 mg alle vier Wochen, zuletzt Dosiserhöhung.",
-      "Klinische Hauptmanifestation": "Deutliche Besserung der axialen und peripheren entzündlichen Gelenkbeschwerden. Keine synovitische Gelenkschwellung, keine Enthesitis und kein Druckschmerz; keine Uveitis oder psoriasiformen Plaques.",
-      "Axiale Beschwerden / ISG": "Axiale entzündliche Gelenkbeschwerden unter Secukinumab deutlich gebessert.",
-      "Weitere Gelenke": "Periphere entzündliche Gelenkbeschwerden deutlich gebessert; keine einzelnen Gelenkregionen benannt.",
-      "Verlauf": "Unter Secukinumab nach zuletzt erfolgter Dosiserhöhung deutliche axiale und periphere Beschwerdebesserung sowie aktuell ausreichende klinische Erkrankungskontrolle. Fortführung von 300 mg alle vier Wochen empfohlen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Deutliche Besserung axialer und peripherer entzündlicher Gelenkbeschwerden unter Secukinumab nach Dosiserhöhung; aktuell ausreichende klinische Erkrankungskontrolle.",
+      "Axiale Beschwerden / ISG": "unklar",
+      "Periphere Gelenkbeschwerden": "unklar",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Axiale und periphere Gelenkregionen, ohne nähere Lokalisation.",
+      "Klinischer Befund (Details)": "Keine synovitische Gelenkschwellung, keine Enthesitis und kein Druckschmerz. Keine Uveitis und keine psoriasiformen Plaques. Ob nach deutlicher Besserung noch axiale oder periphere Restbeschwerden bestehen, bleibt offen.",
+      "Beurteilte Therapie": "Secukinumab nach Dosiserhöhung",
+      "Ansprechen": "Deutlich",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Nach Dosiserhöhung von Secukinumab deutliche klinische Besserung sowohl axial als auch peripher. Bei ausreichender Erkrankungskontrolle Fortführung von 300 mg alle vier Wochen und physiotherapeutischer Beübung empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "300 mg Secukinumab alle vier Wochen",
+          "Belege": [
+            {
+              "Datei": "10_FollowUp.docx",
+              "Zitat": "Klinisch und serologisch zeigt sich aktuell eine ausreichende Erkrankungskontrolle unter 300 mg Secukinumab alle vier Wochen."
+            },
+            {
+              "Datei": "10_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher eine Fortführung dieser pharmakologischen Therapie in Kombination mit physiotherapeutischer Beübung."
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "10_FollowUp.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 10, der sich am 02.11.2020 ambulant vorstellte."
+            "Zitat": "der sich am 02.11.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "10_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "10_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "10_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "10_FollowUp.docx",
-            "Zitat": "Klinisch und serologisch zeigt sich aktuell eine ausreichende Erkrankungskontrolle unter 300 mg Secukinumab alle vier Wochen."
-          },
-          {
-            "Datei": "10_FollowUp.docx",
-            "Zitat": "Es erfolgte die Wiedervorstellung bei bekannter Psoriasisarthritis unter Secukinumab, zuletzt Dosiserhöhung."
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -183,11 +334,7 @@
           },
           {
             "Datei": "10_FollowUp.docx",
-            "Zitat": "Gelenkstatus: keine synovitische Gelenkschwellung, keine Enthesitis, kein DS."
-          },
-          {
-            "Datei": "10_FollowUp.docx",
-            "Zitat": "Keine Uveitis, keine psoriasiformen Plaques."
+            "Zitat": "Klinisch und serologisch zeigt sich aktuell eine ausreichende Erkrankungskontrolle unter 300 mg Secukinumab alle vier Wochen."
           }
         ],
         "Axiale Beschwerden / ISG": [
@@ -196,10 +343,64 @@
             "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
           }
         ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
           {
             "Datei": "10_FollowUp.docx",
             "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine synovitische Gelenkschwellung, keine Enthesitis, kein DS."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine synovitische Gelenkschwellung, keine Enthesitis, kein DS."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Gelenkstatus: keine synovitische Gelenkschwellung, keine Enthesitis, kein DS."
+          },
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Keine Uveitis, keine psoriasiformen Plaques."
+          },
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Es erfolgte die Wiedervorstellung bei bekannter Psoriasisarthritis unter Secukinumab, zuletzt Dosiserhöhung."
+          },
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "10_FollowUp.docx",
+            "Zitat": "Klinisch und serologisch zeigt sich aktuell eine ausreichende Erkrankungskontrolle unter 300 mg Secukinumab alle vier Wochen."
           }
         ],
         "Verlauf": [
@@ -219,21 +420,11 @@
             "Datei": "10_FollowUp.docx",
             "Zitat": "Wir empfehlen daher eine Fortführung dieser pharmakologischen Therapie in Kombination mit physiotherapeutischer Beübung."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "10_FollowUp.docx",
-            "Zitat": "Hierunter berichtet der Patient über eine deutliche Besserung der entzündlich-assoziierten Gelenkbeschwerden axial als auch peripher."
-          },
-          {
-            "Datei": "10_FollowUp.docx",
-            "Zitat": "Klinisch und serologisch zeigt sich aktuell eine ausreichende Erkrankungskontrolle unter 300 mg Secukinumab alle vier Wochen."
-          }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
-        "Datum und vorherige Dosis der zuletzt erfolgten Secukinumab-Dosiserhöhung nicht angegeben."
+        "Deutliche Besserung axialer und peripherer Beschwerden belegt; vollständige Beschwerdefreiheit oder verbleibende Restbeschwerden nicht eindeutig angegeben.",
+        "CRP ohne eigenes Messdatum; keine automatische Zuordnung zum klinischen Referenztermin."
       ]
     }
   ]

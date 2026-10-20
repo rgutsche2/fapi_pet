@@ -10,21 +10,105 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.1,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Certolizumab 200 mg s.c. alle 14 Tage; Arcoxia 90 mg täglich.",
-      "Klinische Hauptmanifestation": "Zunehmende periphere und axiale Beschwerden. Druckschmerz am rechten Ellenbogen, keine Gelenkschwellung; eingeschränkte Wirbelsäulenbeweglichkeit.",
-      "Axiale Beschwerden / ISG": "Zunehmende axiale Beschwerden bei vorbekannt eingeschränkter Wirbelsäulenbeweglichkeit.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Zunehmende Beschwerden und deutliche klinische Aktivität unter Certolizumab; Umstellung auf Secukinumab empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Zunehmende axiale und periphere Beschwerden mit eingeschränkter Wirbelsäulenbeweglichkeit und Druckschmerz am rechten Ellenbogen.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "nicht erwähnt",
+      "Betroffene Regionen": "Wirbelsäule, rechter Ellenbogen.",
+      "Klinischer Befund (Details)": "Keine Gelenkschwellung; Druckschmerz am rechten Ellenbogen und vorbekannte eingeschränkte Wirbelsäulenbeweglichkeit. Wiederkehrende, nicht abklingende Augenentzündungen berichtet.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Zunehmende axiale und periphere Beschwerden bei klinisch deutlicher SpA-Aktivität unter Certolizumab; Umstellung auf Secukinumab empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Certolizumab",
+          "Dosis": 200,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 14,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Certolizumab 200 mg alle 14 Tage s.c.",
+          "Belege": [
+            {
+              "Datei": "2_Baseline.docx",
+              "Zitat": "Certolizumab 200 mg alle 14 Tage s.c."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Arcoxia 90mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "2_Baseline.docx",
+              "Zitat": "Arcoxia 90mg 1-0-0"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "2_Baseline.docx",
+              "Zitat": "Wir empfehlen daher eine Therapieumstellung auf Secukinumab im Rahmen der E-BIO-Studie."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Cortison, nicht näher bezeichnet",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": "orales Cortison-Schema für 8d",
+          "Belege": [
+            {
+              "Datei": "2_Baseline.docx",
+              "Zitat": "Therapievorschlag: Tägliche Nasenduschen, Unacid PD 375mg 2-0-2 für 10d, orales Cortison-Schema für 8d, Mometason-NS für 6 Wochen, Inhalationen und Schleimhautpflege,"
+            }
+          ],
+          "Hinweise": [
+            "HNO-Therapievorschlag vom 16.12.2020 wegen Rhinosinusitis; Wirkstoff und Dosis nicht spezifiziert, Durchführung nicht bestätigt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "2_Baseline.docx",
             "Zitat": "die sich am 14.12.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
         "CRP-Wert": [
@@ -45,16 +129,6 @@
             "Zitat": "C-reaktives Protein <5,1 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "2_Baseline.docx",
-            "Zitat": "Certolizumab 200 mg alle 14 Tage s.c."
-          },
-          {
-            "Datei": "2_Baseline.docx",
-            "Zitat": "Arcoxia 90mg 1-0-0"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "2_Baseline.docx",
@@ -69,10 +143,40 @@
           {
             "Datei": "2_Baseline.docx",
             "Zitat": "Die Pat. berichtet weiterhin über zunehmende Beschwerden im Bereich des peripheren aber auch des axialen Skeletts."
-          },
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "Die Pat. berichtet weiterhin über zunehmende Beschwerden im Bereich des peripheren aber auch des axialen Skeletts."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "2_Baseline.docx",
             "Zitat": "Gelenkstatus: keine Gelenkschwellung, Druckschmerz über Ellenbogen re., eingeschränkte Beweglichkeit der WS wie vormals bekannt."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "Gelenkstatus: keine Gelenkschwellung, Druckschmerz über Ellenbogen re., eingeschränkte Beweglichkeit der WS wie vormals bekannt."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "Gelenkstatus: keine Gelenkschwellung, Druckschmerz über Ellenbogen re., eingeschränkte Beweglichkeit der WS wie vormals bekannt."
+          },
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet die Pat. über Entzündungen am Auge, wiederkehrend die nicht abklingen."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "2_Baseline.docx",
+            "Zitat": "Aktuell klinisch deutliche Aktivität der bekannten Spondylarthropathie unter der bestehenden immunsuppressiven Therapie."
           }
         ],
         "Verlauf": [
@@ -95,8 +199,8 @@
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben.",
-        "Keine aktuelle klinische ISG-Lokalisation angegeben."
+        "CRP-Labordatum nicht gesondert angegeben.",
+        "Historische MRT-Enthesitis nicht als aktueller klinischer Enthesitisbefund übernommen."
       ]
     },
     {
@@ -109,16 +213,111 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Secukinumab 300 mg alle 4 Wochen; Arcoxia 90 mg täglich.",
-      "Klinische Hauptmanifestation": "Deutliche Fatigue, Bewegungs- und Leistungseinschränkung sowie Schmerzen in Ruhe und Bewegung. Druckschmerz über beiden Plantarfaszien und lateral an beiden Sprunggelenken.",
-      "Axiale Beschwerden / ISG": null,
-      "Weitere Gelenke": "Druckschmerz beider Kniegelenke.",
-      "Verlauf": "Weiter zunehmende klinische Symptomatik unter Secukinumab 300 mg monatlich. Umstellung auf Upadacitinib 15 mg täglich nach Shingrix-Impfung besprochen; letzte Secukinumab-Dosis verabreicht.",
-      "Ansprechen (Ja/Nein)": "Nein",
+      "Klinische Hauptmanifestation": "Deutliche Fatigue, Bewegungs- und Leistungseinschränkung sowie Schmerzen in Ruhe und Bewegung. Druckschmerzen an beiden Knien, beidseits lateral an den Sprunggelenken und an beiden Plantarfaszien.",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "nicht erwähnt",
+      "Enthesitis": "vorhanden",
+      "Betroffene Regionen": "Knie, laterale Sprunggelenke und Plantarfaszien beidseits.",
+      "Klinischer Befund (Details)": "Druckschmerz über beiden Plantarfaszien und lateral über beiden Sprunggelenken sowie an beiden Kniegelenken; SPARCC 4. Aktuelle axiale Beschwerden werden klinisch nicht gesondert lokalisiert.",
+      "Beurteilte Therapie": "Secukinumab 300 mg",
+      "Ansprechen": "Keines",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Nach Wirkverlust von Certolizumab auch unter auf 300 mg gesteigertem Secukinumab erneuter Wirkverlust mit zunehmender klinischer Symptomatik. Letzte Secukinumab-Injektion und Umstellung auf Upadacitinib nach Shingrix-Impfung; dessen Beginn wird im Diagnosenteil ab September 2022 angegeben, ohne dokumentiertes klinisches Ansprechen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Arcoxia 90mg 1-0-0",
+          "Belege": [
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Arcoxia 90mg 1-0-0"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "Secukinumab 300mg alle 4 Wochen; Aktuell unter 300mg Secukinumab/Mon.",
+          "Belege": [
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Secukinumab 300mg alle 4 Wochen"
+            },
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik."
+            },
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Letzte Secukinumab 300mg Spritze verabreicht, da vor Start von Upadaxitinib Shingirx Impfung erfolgt sein sollte."
+            }
+          ],
+          "Hinweise": [
+            "Bei der Vorstellung noch angewendet, anschließend im Rahmen der Umstellung beendet; genaues Enddatum fehlt.",
+            "Abweichende Intervallangaben: alle vier Wochen in der Dauermedikation, monatlich im Verlauf; nicht gleichgesetzt."
+          ]
+        },
+        {
+          "Wirkstoff": "Upadacitinib",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Upadacitinib 15mg 1-0-0 (seit 09/22, nach Shingrix Impfung)",
+          "Belege": [
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Upadacitinib 15mg 1-0-0 (seit 09/22, nach Shingrix Impfung)"
+            },
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Daher Therapieumstellung auf Upadacitinib 15mg 1-0-0 unter klinischen und serologischen Kontrollen nach Maßgabe der DGRH bepsrochen."
+            }
+          ],
+          "Hinweise": [
+            "Beim Referenzbesuch am 08.08.2022 geplant; laut offenbar aktualisiertem Diagnosenteil seit September 2022 laufend."
+          ]
+        },
+        {
+          "Wirkstoff": "Certolizumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "2_FollowUp.docx",
+              "Zitat": "Z.n. Certolizumab (10/18 bis 03/21, Wirkverlust)"
+            }
+          ],
+          "Hinweise": [
+            "Vorbehandlung mit Wirkverlust bis März 2021; für den Therapieverlauf relevant, kein aktueller Status."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -130,6 +329,12 @@
           {
             "Datei": "2_FollowUp.docx",
             "Zitat": "BASDAI 7,8"
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
@@ -150,16 +355,6 @@
             "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "2_FollowUp.docx",
-            "Zitat": "Secukinumab 300mg alle 4 Wochen"
-          },
-          {
-            "Datei": "2_FollowUp.docx",
-            "Zitat": "Arcoxia 90mg 1-0-0"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "2_FollowUp.docx",
@@ -168,40 +363,105 @@
           {
             "Datei": "2_FollowUp.docx",
             "Zitat": "64-jährige Pat., normaler AEZ, DS über Plantarfaszie bds. und über Sprunggelenk lateral bd."
-          }
-        ],
-        "Weitere Gelenke": [
+          },
           {
             "Datei": "2_FollowUp.docx",
             "Zitat": "Druckschmerzim Bereich der Kniegelenke bds."
           }
         ],
-        "Verlauf": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Druckschmerzim Bereich der Kniegelenke bds."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "64-jährige Pat., normaler AEZ, DS über Plantarfaszie bds. und über Sprunggelenk lateral bd."
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "SPARCC 4"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "64-jährige Pat., normaler AEZ, DS über Plantarfaszie bds. und über Sprunggelenk lateral bd."
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Druckschmerzim Bereich der Kniegelenke bds."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "64-jährige Pat., normaler AEZ, DS über Plantarfaszie bds. und über Sprunggelenk lateral bd."
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Druckschmerzim Bereich der Kniegelenke bds."
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "SPARCC 4"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Secukinumab 150mg alle 4 Wochen 3/21 - 07/21, Dosissteigerung auf 300mg/Monat bei Wirkabschwächung nach 2 Wochen unter 150mg/Monat (erneuter Wirkverlust 08/22)"
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Secukinumab 150mg alle 4 Wochen 3/21 - 07/21, Dosissteigerung auf 300mg/Monat bei Wirkabschwächung nach 2 Wochen unter 150mg/Monat (erneuter Wirkverlust 08/22)"
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik."
+          }
+        ],
+        "Krankheitszustand": [
           {
             "Datei": "2_FollowUp.docx",
             "Zitat": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik."
           },
           {
             "Datei": "2_FollowUp.docx",
-            "Zitat": "Daher Therapieumstellung auf Upadacitinib 15mg 1-0-0 unter klinischen und serologischen Kontrollen nach Maßgabe der DGRH bepsrochen."
+            "Zitat": "Passend hierzu klinisch deutliche Fatigue, Bewegungseinschränkung, Leistungseinschränkung, Schmerzen in Ruhe und Bewegung."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Z.n. Certolizumab (10/18 bis 03/21, Wirkverlust)"
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Secukinumab 150mg alle 4 Wochen 3/21 - 07/21, Dosissteigerung auf 300mg/Monat bei Wirkabschwächung nach 2 Wochen unter 150mg/Monat (erneuter Wirkverlust 08/22)"
+          },
+          {
+            "Datei": "2_FollowUp.docx",
+            "Zitat": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik."
           },
           {
             "Datei": "2_FollowUp.docx",
             "Zitat": "Letzte Secukinumab 300mg Spritze verabreicht, da vor Start von Upadaxitinib Shingirx Impfung erfolgt sein sollte."
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
+          },
           {
             "Datei": "2_FollowUp.docx",
-            "Zitat": "Aktuell unter 300mg Secukinumab/Mon. weiterhin zunehmende klinische Symptomatik."
+            "Zitat": "aktuelle Therapie: Upadacitinib 15mg 1-0-0 (seit 09/22, nach Shingrix Impfung)"
           }
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben.",
-        "Upadacitinib laut Diagnoseeintrag erst seit 09/22; am Referenztermin noch Secukinumab.",
-        "Keine aktuelle klinische axiale oder ISG-Symptomatik gesondert beschrieben; die entsprechenden Lokalisationen betreffen Bildgebungsbefunde.",
-        "SPARCC 4 dokumentiert; keine Übertragung in LEI oder MASES."
+        "Zeitliche Fortschreibung innerhalb des Briefes: Vorstellung am 08.08.2022 unter Secukinumab, Diagnosenteil mit Upadacitinib seit September 2022. Klinischer Zustand und Ansprechen beziehen sich auf die dokumentierte Untersuchung unter Secukinumab.",
+        "CRP-Labordatum nicht gesondert angegeben; BASDAI im Untersuchungsabschnitt ohne eigenes Messdatum.",
+        "Enthesitis klinisch durch Plantarfaszien-Druckschmerz zusammen mit SPARCC 4 gestützt; keine klinische Achillessehnenbeteiligung allein aus dem PET abgeleitet."
       ]
     }
   ]

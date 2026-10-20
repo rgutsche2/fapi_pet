@@ -10,31 +10,160 @@
       "LEI": null,
       "PASI": 0.6,
       "HAQ": 1.75,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 4,
-      "Aktuelle Therapie": "Diclofenac 75 mg in fester Einnahme seit über vier Wochen.",
-      "Klinische Hauptmanifestation": "Anhaltende periphere Gelenkbeschwerden sowie Schmerzen im tiefen Rücken und in der HWS mit klinisch weiterhin entzündlicher PsA-Aktivität.",
-      "Periphere Gelenkbeschwerden": "Beschwerden am rechten OSG, an der linken Großzehe, linken Schulter und am Knie. Druckschmerzhafte linke Schulter, linker Ellenbogen und Kniegelenke; SJC 0. Morgensteifigkeit eine Stunde, teilweise ganztägig.",
-      "Axiale Beschwerden / ISG": "Schmerzen im tiefen Rücken und in der HWS; Patrick-Zeichen beidseits positiv.",
-      "Enthesitis": null,
-      "Daktylitis": null,
-      "Hautbeteiligung": "Aktive schuppenflechtenartige Veränderungen der Kopfhaut und kleine blassrosa psoriasiforme Läsionen beider Arme.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Seit etwa 15 Jahren Beschwerden; weiterhin entzündliche Aktivität. Einleitung von MTX 15 mg s.c. wöchentlich und Umstellung auf Etoricoxib 90 mg täglich empfohlen; bei unzureichender Wirkung zügige Erweiterung um einen TNF-Blocker empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Aktive axiale und periphere PsA mit anhaltenden Gelenk- und Rückenschmerzen sowie ausgeprägter Morgensteifigkeit.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "nicht erwähnt",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Rechtes OSG, linke Großzehe, linke Schulter, linker Ellenbogen, Knie, tiefer Rücken und HWS; Haut an Kopfhaut und beiden Armen.",
+      "Klinischer Befund (Details)": "Morgensteifigkeit eine Stunde, teilweise ganztägig. Druckschmerzhafte linke Schulter, linker Ellenbogen und Kniegelenke; SJC 0, Patrick-Zeichen beidseits positiv. Aktive Kopfhautpsoriasis und kleine blassrosa Läsionen beider Arme. Zusätzlich bekannte Gichtarthropathie und degenerative Wirbelsäulenveränderungen.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Langjährige axiale und periphere Beschwerden mit fortbestehender entzündlicher Aktivität. Ibuprofen und Diclofenac ohne ausreichende Wirkung; Beginn von Methotrexat und Umstellung auf Etoricoxib. Bei unzureichendem Erfolg zeitnahe Erweiterung auf Adalimumab vorgesehen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX 15 mg s.c. 1x pro Woche",
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "aktuelle Therapie: MTX 15 mg per os und Etoricoxib 90 mg 1x tgl. seit 05/2020"
+            },
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Beginn einer Therapie mit MTX 15 mg s.c. 1x pro Woche unter Folsäuresupplementation mit 5 mg 24 h nach der MTX-Einnahme"
+            }
+          ],
+          "Hinweise": [
+            "Applikationsweg widersprüchlich: per os in der Diagnosenliste, subkutan in Therapiehistorie und Empfehlung; Beginn seit 05/2020 angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Etoricoxib 90 mg 1x tgl.",
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "aktuelle Therapie: MTX 15 mg per os und Etoricoxib 90 mg 1x tgl. seit 05/2020"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Diclofenac",
+          "Dosis": 75,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "Diclofenac 75 mg fest, > 4 Wochen",
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Diclofenac 75 mg fest, > 4 Wochen"
+            },
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "bisherige Therapie: Z.n. Ibuprofen bei Bedarf, Z.n. Diclofenac feste Einnahme 02/2020-05/2020 (ohne ausreichende Wirkung)"
+            }
+          ],
+          "Hinweise": [
+            "In der Dauermedikation noch aufgeführt, im Episodenverlauf durch Etoricoxib ersetzt."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 600,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "beendet",
+          "Dosierung (Original)": "Ibuprofen 600  mg bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Z.n. Ibuprofen 600  mg bei Bedarf, passagere Einnahme ohne ausreichende Wirkung"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Zeitnahe WV zur Erweiterung der Therapie auf Adalimumab."
+            },
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Therapieempfehlung: zügige Erweiterung auf einen TNF-Blocker (z.B. Adalimumab) bei nicht ausreichender Wirkung des 2.NSARs"
+            }
+          ],
+          "Hinweise": [
+            "Erweiterung abhängig von unzureichender Wirkung des zweiten NSAR."
+          ]
+        },
+        {
+          "Wirkstoff": "Allopurinol",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "39_Baseline.docx",
+              "Zitat": "Bei nachgewiesener Gichtarthropathie (DE-CT vom 31.03.2020) und erhöhtem Harnsäurewert empfehlen wir Alkoholkarenz und purinarme Diät sowie den Beginn einer harnsäuresenkenden Therapie, z.B. mit Allopurinol."
+            }
+          ],
+          "Hinweise": [
+            "Als mögliche harnsäuresenkende Therapie der begleitenden Gichtarthropathie empfohlen."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 39, der sich am 30.04.2020 ambulant vorstellte."
+            "Zitat": "der sich am 30.04.2020 ambulant vorstellte."
           }
         ],
         "TJC": [
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "RA: TJC 5, MS  1h (teilweise den ganzen Tag),"
+            "Zitat": "RA: TJC 5, MS  1h (teilweise den ganzen Tag)"
           }
         ],
         "SJC": [
@@ -55,22 +184,28 @@
             "Zitat": "HAQ 1,75; BAS-G 7"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -79,16 +214,14 @@
             "Zitat": "BKS 04/21 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "39_Baseline.docx",
-            "Zitat": "Diclofenac 75 mg fest, > 4 Wochen"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "39_Baseline.docx",
             "Zitat": "AA: Weiter Gelenkbeschwerden in div. peripheren Gelenken (re OSG, Dig pedis 1 li, li Schulter und Knie), im tiefen Rücken und der HWS, insgesamt schon seit 15 J."
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "RA: TJC 5, MS  1h (teilweise den ganzen Tag)"
           },
           {
             "Datei": "39_Baseline.docx",
@@ -99,21 +232,15 @@
           {
             "Datei": "39_Baseline.docx",
             "Zitat": "AA: Weiter Gelenkbeschwerden in div. peripheren Gelenken (re OSG, Dig pedis 1 li, li Schulter und Knie), im tiefen Rücken und der HWS, insgesamt schon seit 15 J."
-          },
-          {
-            "Datei": "39_Baseline.docx",
-            "Zitat": "Gelenkstatus: SJC 0 TJC Schulter links, Ellenbogen links, Kniegelenke, Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6"
-          },
-          {
-            "Datei": "39_Baseline.docx",
-            "Zitat": "RA: TJC 5, MS  1h (teilweise den ganzen Tag),"
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "39_Baseline.docx",
             "Zitat": "AA: Weiter Gelenkbeschwerden in div. peripheren Gelenken (re OSG, Dig pedis 1 li, li Schulter und Knie), im tiefen Rücken und der HWS, insgesamt schon seit 15 J."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "39_Baseline.docx",
             "Zitat": "Gelenkstatus: SJC 0 TJC Schulter links, Ellenbogen links, Kniegelenke, Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6"
@@ -123,6 +250,48 @@
           {
             "Datei": "39_Baseline.docx",
             "Zitat": "Haut: aktive schuppenflechtenartige Veränderungen an der Kopfhaut, kleine psoriasiforme Läsionen an den Armen bds. blass-rosa"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "AA: Weiter Gelenkbeschwerden in div. peripheren Gelenken (re OSG, Dig pedis 1 li, li Schulter und Knie), im tiefen Rücken und der HWS, insgesamt schon seit 15 J."
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Gelenkstatus: SJC 0 TJC Schulter links, Ellenbogen links, Kniegelenke, Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Haut: aktive schuppenflechtenartige Veränderungen an der Kopfhaut, kleine psoriasiforme Läsionen an den Armen bds. blass-rosa"
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "RA: TJC 5, MS  1h (teilweise den ganzen Tag)"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Gelenkstatus: SJC 0 TJC Schulter links, Ellenbogen links, Kniegelenke, Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Haut: aktive schuppenflechtenartige Veränderungen an der Kopfhaut, kleine psoriasiforme Läsionen an den Armen bds. blass-rosa"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Chronische Gichtarthropathie"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Degenerative Wirbelsäulenveränderungen und aktivierte Facettengelenksarthrose LWK 3/4 rechts betont, keine Romanus- oder Andersen Läsionen."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Anamnestisch und klinisch  weiterhin Anhalt für entzündl. Aktivität der PsA."
           }
         ],
         "Verlauf": [
@@ -136,23 +305,29 @@
           },
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Beginn einer Therapie mit MTX 15 mg s.c. 1x pro Woche unter Folsäuresupplementation mit 5 mg 24 h nach der MTX-Einnahme"
+            "Zitat": "Z.n. Ibuprofen 600  mg bei Bedarf, passagere Einnahme ohne ausreichende Wirkung"
           },
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Statt Diclofenac empfohlen wir bei axialen Beschwerden zudem die feste Einnahme von Etoricoxib 90 mg 1x tgl. unter Einnahme eines Magenschutzes (Pantoprazol 40 mg 1-0-0)."
+            "Zitat": "bisherige Therapie: Z.n. Ibuprofen bei Bedarf, Z.n. Diclofenac feste Einnahme 02/2020-05/2020 (ohne ausreichende Wirkung)"
           },
           {
             "Datei": "39_Baseline.docx",
-            "Zitat": "Bei axialer Entzündung unter langjähriger NSAR-Einnahme und bereits erfolgter Tuberkulose- und Hep. B/C-Ausschluss empfehlen wir die zügige Erweiterung der Therapie auf einen TNF-Blocker (z.B. Adalimumab) bei Ausbleiben eines Therapieerfolges nach Umstellung auf das 2. NSAR."
+            "Zitat": "aktuelle Therapie: MTX 15 mg per os und Etoricoxib 90 mg 1x tgl. seit 05/2020"
+          },
+          {
+            "Datei": "39_Baseline.docx",
+            "Zitat": "Therapieempfehlung: zügige Erweiterung auf einen TNF-Blocker (z.B. Adalimumab) bei nicht ausreichender Wirkung des 2.NSARs"
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben; BKS 04/21 gemäß Studienkonvention als 4 mm nach einer Stunde erfasst.",
-        "TJC-/SJC-Zählbereich nicht angegeben; Scores und Gelenkbefund ohne eigenständiges Untersuchungsdatum.",
-        "Später ergänzte Therapieangaben ab 05/2020 nicht als laufende Therapie am 30.04.2020 erfasst. Widersprüchliche Angaben: „aktuelle Therapie: MTX 15 mg per os und Etoricoxib 90 mg 1x tgl. seit 05/2020“ gegenüber „MTX 15 mg pro Woche s.c. neu seit 05/2020“ und empfohlenem Therapiebeginn.",
-        "Weitere Scores: BASMI 2, belegt durch „Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6“; BAS-G 7, belegt durch „HAQ 1,75; BAS-G 7“ (39_Baseline.docx)."
+        "Der Referenzbesuch ist am 30.04.2020 belegt; der zusammenfassende Brief enthält auch Therapieangaben seit 05/2020. Einzelne Untersuchungs- und Labortage sind nicht gesondert ausgewiesen.",
+        "TJC 5 ausdrücklich dokumentiert; Zählbereiche von TJC und SJC nicht angegeben. Keine zusätzliche Gelenkzählung aus dem Freitext.",
+        "CRP ohne eigenes Messdatum; verbindlich erkannter erster Messwert übernommen.",
+        "BSG aus dem ersten Wert von „BKS 04/21 mm/h“ gemäß Studienkonvention; Messdatum nicht genannt.",
+        "Schwellungsstatus nach aktuellem klinischem Gelenkstatus SJC 0; die PET-Anamnese „Gelenkschwellungen und Gelenkbeschwerden seit 15 J. ohne Therapie, derzeit aktive Erkrankung.“ beschreibt keinen eindeutig datierten aktuellen Schwellungsbefund.",
+        "Weitere dokumentierte Scores: BASMI 2 und BAS-G 7. Originalbelege: „Gelenkstatus: SJC 0 TJC Schulter links, Ellenbogen links, Kniegelenke, Patrick-Zeichen bds. positiv, BASMI 2, PASI 0,6“ und „HAQ 1,75; BAS-G 7“ (39_Baseline.docx)."
       ]
     },
     {
@@ -165,25 +340,140 @@
       "LEI": null,
       "PASI": 0.3,
       "HAQ": 1.88,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 6,
-      "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen; MTX 15 mg bisher oral irrtümlich nur alle zwei Wochen, am Vorstellungstag auf 15 mg s.c. wöchentlich umgestellt. Etoricoxib 90 mg bei Bedarf; Folsäure 5 mg 24 Stunden nach MTX.",
-      "Klinische Hauptmanifestation": "Weiterhin Schmerzen im tiefen Rücken, in der HWS und in den Knien bei nur leichter, subjektiv unzureichender Besserung unter MTX und Adalimumab.",
-      "Periphere Gelenkbeschwerden": "Weiterhin Knieschmerzen, insgesamt weniger Schwellungen; TJC 3 und SJC 0.",
-      "Axiale Beschwerden / ISG": "Weiterhin Schmerzen im tiefen Rücken und in der HWS; Patrick-Zeichen beidseits positiv.",
-      "Enthesitis": null,
-      "Daktylitis": null,
-      "Hautbeteiligung": "Kopfhautpsoriasis deutlich gebessert; blutige, verkrustete Läsionen fast vollständig abgeheilt, weiterhin Kopfhautpsoriasis im Untersuchungsbefund.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Unter MTX und Adalimumab leichte, aber unzureichende Gelenkbesserung und weniger Schwellungen; Rücken-, HWS- und Knieschmerzen bestehen fort. Kopfhautpsoriasis deutlich gebessert. Wegen unzureichender Krankheitskontrolle Therapieumstellung geprüft; fehlerhafte zweiwöchentliche MTX-Einnahme aufgedeckt und auf wöchentliche subkutane Gabe umgestellt.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Weiterhin schmerzhafte axiale und periphere PsA mit Beschwerden im tiefen Rücken, in der HWS und in den Knien bei unzureichender Krankheitskontrolle.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "nicht erwähnt",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Tiefer Rücken, HWS, Knie; Kopfhaut.",
+      "Klinischer Befund (Details)": "TJC 3, SJC 0 und Patrick-Zeichen beidseits positiv. Anamnestisch weniger Schwellungen, weiterhin Rücken-, HWS- und Knieschmerzen. Kopfhautpsoriasis deutlich gebessert, zuvor blutige und verkrustete Läsionen fast vollständig abgeheilt; aktuell noch Kopfhautbefall.",
+      "Beurteilte Therapie": "Adalimumab und Methotrexat",
+      "Ansprechen": "Partiell",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter Adalimumab/Methotrexat nach etwa drei Monaten leichte, subjektiv unzureichende Gelenkbesserung und weniger Schwellungen; axiale und Kniebeschwerden bestehen fort. Haut deutlich gebessert. Methotrexat seit Adalimumab-Beginn irrtümlich nur zweiwöchentlich eingenommen; wöchentliche Gabe korrigiert und wegen Unwohlsein/Übelkeit auf subkutan umgestellt. Kombination zunächst fortgeführt, Studienwechsel beziehungsweise anderes Biologikum erwogen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX: wöchentlich 15 mg s.c. (=1 Fertigspritze)",
+          "Belege": [
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "MTX: wöchentlich 15 mg s.c. (=1 Fertigspritze), Einnahme von Folsäure 5 mg 24 h nach MTX (ebenfalls wöchentlich)"
+            },
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "In der Anamnese stellte sich heute heraus, dass Herr Geist das MTX fälschlicherweise seit Beginn des Adalimumabs nur 2-wöchentlich einnahm."
+            },
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Bei schlechter Verträglichkeit (Unwohlsein, Übelkeit) stellten wir die heute das MTX auf Subkutangaben mittels Fertigspritzen um."
+            }
+          ],
+          "Hinweise": [
+            "Intervall beschreibt die korrigierte Verordnung; tatsächlich zuvor seit Adalimumab-Beginn nur alle zwei Wochen eingenommen.",
+            "Applikationsangaben innerhalb des Briefes uneinheitlich; die Beurteilung dokumentiert die heutige Umstellung auf subkutan."
+          ]
+        },
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 2,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Adalimumab 40 mg 2-wöchentlich (=1 Fertigspritze)",
+          "Belege": [
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Adalimumab 40 mg 2-wöchentlich (=1 Fertigspritze)"
+            },
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Adalimumab 40 mg/2 Wochen neu 07/2020"
+            },
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Zunächst Fortführung der Therapie mit Adalimumab/ MTX, unter regelm. klinischen und laborchemischen nach Maßgabe der DGRh"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 90,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Etoricoxib 90 mg bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Etoricoxib 90 mg bei Bedarf"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Allopurinol",
+          "Dosis": 200,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Erhöhung der Allopurinol-Dosis auf 200 mg (=2 Tabletten) täglich.",
+          "Belege": [
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Bei weiterhin erhöhter Harnsäure empfehlen wir Erhöhung der Allopurinol-Dosis auf 200 mg (=2 Tabletten) täglich."
+            }
+          ],
+          "Hinweise": [
+            "Angegebene Dosis ist die empfohlene Erhöhung; bisherige Dosis nicht dokumentiert. Behandlung der begleitenden Gichtarthropathie."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "39_FollowUp.docx",
+              "Zitat": "Sollte dies nicht möglich sein, wäre eine zeitnaher Präparatwechsel auf ein anderes Biologikum z.B. auf den anti-IL 17-Ak Secukinumab, denkbar."
+            }
+          ],
+          "Hinweise": [
+            "Nur bedingte Therapieoption bei nicht möglicher Studienumstellung; kein dokumentierter Beginn."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 39, der sich am 05.11.2020 ambulant vorstellte."
+            "Zitat": "der sich am 05.11.2020 ambulant vorstellte."
           }
         ],
         "TJC": [
@@ -210,22 +500,28 @@
             "Zitat": "VAS Arzt 4; BASFI 9,4; BASDAI 8,15, HAQ 1,88"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Immunologie: C-reaktives Protein <5,2 mg/l (-<5,2 mg/l),"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -234,61 +530,29 @@
             "Zitat": "BKS 6/22 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Adalimumab 40 mg/ 2 Wochen"
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "In der Anamnese stellte sich heute heraus, dass Herr Geist das MTX fälschlicherweise seit Beginn des Adalimumabs nur 2-wöchentlich einnahm."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Wir empfehlen eine wöchentliche Einnahme von MTX 15 mg und die Einnahme von Folsäure 5 mg wöchentlich."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Bei schlechter Verträglichkeit (Unwohlsein, Übelkeit) stellten wir die heute das MTX auf Subkutangaben mittels Fertigspritzen um."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Etoricoxib 90 mg bei Bedarf"
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Folsäure 5 mg per os 24 h nach MTX-Einnahme neu seit 05/2020"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Herr Geist beschreibt eine leichte, aber für ihn nicht ausreichende Besserung der Gelenkbeschwerden durch die Therapie."
+            "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
           },
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
+            "Zitat": "Im Einverständnis des Pat. zogen wir bei nicht ausreichend kontrollierter Grunderkrankung die Kollegen der Studienambulanz hinzu, um die Möglichkeit einer Therapieumstellung im Rahmen einer Studie (z.B. PASTOR) zu überprüfen."
           }
         ],
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Insgesamt seien aber weniger Schwellungen aufgetreten."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
-            "Zitat": "Gelenkstatus: SJC 0 TJC 3, Patrick-Zeichen bds. positiv"
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Gelenkstatus: SJC 0 TJC 3, Patrick-Zeichen bds. positiv"
@@ -297,14 +561,72 @@
         "Hautbeteiligung": [
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Die Psoriasis an der Kopfhaut habe sich deutlich gebessert. Die blutigen, verkrusteten Läsionen seien fast vollständig abgeheilt."
+            "Zitat": "Haut: Psoriasis an Kopfhaut, PASI 0,3"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
           },
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Haut: Psoriasis an Kopfhaut, PASI 0,3"
           }
         ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Gelenkstatus: SJC 0 TJC 3, Patrick-Zeichen bds. positiv"
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Insgesamt seien aber weniger Schwellungen aufgetreten."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Er leide weiterhin unter Schmerzen im tiefen Rücken, in der HWS und in den Knien."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Die Psoriasis an der Kopfhaut habe sich deutlich gebessert."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Die blutigen, verkrusteten Läsionen seien fast vollständig abgeheilt."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Haut: Psoriasis an Kopfhaut, PASI 0,3"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Planmäßige WV bei PsA unter Adalimumab/ MTX - Anamnestisch und klinisch nur leichte Besserung 3-monatiger Einnahme der Kombinationstherapie feststellbar."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Herr Geist beschreibt eine leichte, aber für ihn nicht ausreichende Besserung der Gelenkbeschwerden durch die Therapie."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Planmäßige WV bei PsA unter Adalimumab/ MTX - Anamnestisch und klinisch nur leichte Besserung 3-monatiger Einnahme der Kombinationstherapie feststellbar."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Im Einverständnis des Pat. zogen wir bei nicht ausreichend kontrollierter Grunderkrankung die Kollegen der Studienambulanz hinzu, um die Möglichkeit einer Therapieumstellung im Rahmen einer Studie (z.B. PASTOR) zu überprüfen."
+          }
+        ],
         "Verlauf": [
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Planmäßige WV bei PsA unter Adalimumab/ MTX - Anamnestisch und klinisch nur leichte Besserung 3-monatiger Einnahme der Kombinationstherapie feststellbar."
+          },
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Herr Geist beschreibt eine leichte, aber für ihn nicht ausreichende Besserung der Gelenkbeschwerden durch die Therapie."
@@ -323,10 +645,6 @@
           },
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Im Einverständnis des Pat. zogen wir bei nicht ausreichend kontrollierter Grunderkrankung die Kollegen der Studienambulanz hinzu, um die Möglichkeit einer Therapieumstellung im Rahmen einer Studie (z.B. PASTOR) zu überprüfen."
-          },
-          {
-            "Datei": "39_FollowUp.docx",
             "Zitat": "In der Anamnese stellte sich heute heraus, dass Herr Geist das MTX fälschlicherweise seit Beginn des Adalimumabs nur 2-wöchentlich einnahm."
           },
           {
@@ -336,22 +654,29 @@
           {
             "Datei": "39_FollowUp.docx",
             "Zitat": "Bei schlechter Verträglichkeit (Unwohlsein, Übelkeit) stellten wir die heute das MTX auf Subkutangaben mittels Fertigspritzen um."
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
+          },
           {
             "Datei": "39_FollowUp.docx",
-            "Zitat": "Herr Geist beschreibt eine leichte, aber für ihn nicht ausreichende Besserung der Gelenkbeschwerden durch die Therapie."
+            "Zitat": "Zunächst Fortführung der Therapie mit Adalimumab/ MTX, unter regelm. klinischen und laborchemischen nach Maßgabe der DGRh"
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Im Einverständnis des Pat. zogen wir bei nicht ausreichend kontrollierter Grunderkrankung die Kollegen der Studienambulanz hinzu, um die Möglichkeit einer Therapieumstellung im Rahmen einer Studie (z.B. PASTOR) zu überprüfen."
+          },
+          {
+            "Datei": "39_FollowUp.docx",
+            "Zitat": "Sollte dies nicht möglich sein, wäre eine zeitnaher Präparatwechsel auf ein anderes Biologikum z.B. auf den anti-IL 17-Ak Secukinumab, denkbar."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum für CRP und BKS nicht angegeben; BKS 6/22 gemäß Studienkonvention als 6 mm nach einer Stunde erfasst.",
-        "TJC-/SJC-Zählbereich nicht angegeben; Scores und Gelenkbefund ohne eigenständiges Untersuchungsdatum.",
-        "MTX-Angaben widersprüchlich: Dauermedikation nennt „MTX 15 mg pro Woche s.c. neu seit 05/2020“; aktuelle Anamnese dokumentiert tatsächlich zweiwöchentliche Einnahme und erst heutige Umstellung auf subkutane Gabe. Tatsächliches bisheriges Folsäureintervall unklar.",
-        "Weitere Scores: VAS Arzt 4, BASFI 9,4 und BASDAI 8,15; Originalbeleg: „VAS Arzt 4; BASFI 9,4; BASDAI 8,15, HAQ 1,88“ (39_FollowUp.docx).",
-        "Scan-Datumsabweichung: Patientenliste 31.10.2020; Brief nennt „FAPI PET/CT mit CT low dose vom 30.10.2020:“ (39_FollowUp.docx).",
-        "Ansprechen Ja bezeichnet die ausdrücklich dokumentierte klinische Teilbesserung bei weiterhin unzureichender Krankheitskontrolle."
+        "Referenzbesuch am 05.11.2020; Laborwerte und BSG ohne gesondertes Messdatum.",
+        "TJC-/SJC-Zählbereiche nicht angegeben.",
+        "CRP: verbindlich erkannter erster Messwert übernommen; kein eigenes Messdatum genannt.",
+        "BSG aus dem ersten Wert von „BKS 6/22 mm/h“ gemäß Studienkonvention.",
+        "Aktuell SJC 0; anamnestisch weniger Schwellungen im bisherigen Verlauf, daher kein Widerspruch zum aktuellen Untersuchungsbefund.",
+        "Scan-Datum der Patientenliste 31.10.2020, PET-Bericht vom 30.10.2020; keine Änderung des klinischen Referenztermins.",
+        "Weitere dokumentierte Angaben: VAS Arzt 4, BASFI 9,4 und BASDAI 8,15. Originalbeleg: „VAS Arzt 4; BASFI 9,4; BASDAI 8,15, HAQ 1,88“ (39_FollowUp.docx)."
       ]
     }
   ]

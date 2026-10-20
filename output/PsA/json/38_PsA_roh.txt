@@ -10,49 +10,79 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 12.4,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Keine immunsuppressive Basistherapie.",
-      "Klinische Hauptmanifestation": "Aktive Gelenkbeschwerden mit druckschmerzhaften und geschwollenen Gelenken sowie Enthesenbeschwerden. Schmerzen im Fußbett beim Gehen; bestehende Schwanenhalsdeformitäten.",
-      "Periphere Gelenkbeschwerden": "Mehrere druckschmerzhafte und geschwollene Gelenke, insbesondere rechtes Handgelenk. Schwanenhalsdeformitäten, links am dritten und vierten Strahl; Schmerzen im Fußbett beim Gehen.",
-      "Axiale Beschwerden / ISG": "Seit wenigen Wochen Beschwerden im Steißbereich nach Ruhe oder längerem Sitzen; Wirbelsäule frei beweglich.",
-      "Enthesitis": "Enthesialer Druckschmerz über beiden Ellenbogen und über der Plantarfaszie.",
-      "Daktylitis": null,
-      "Hautbeteiligung": "Psoriasiforme Plaques am Capillitium.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Nach früherer MTX-Therapie seit Jahren ohne Basistherapie wegen verminderter Wirksamkeit; aktuell klinisch aktive Erkrankung. Einleitung einer Biologika-Therapie empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Aktive periphere Arthritis mit Gelenkschwellungen, Enthesenbeschwerden und Schmerzen beim Gehen.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "vorhanden",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "vorhanden",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Rechtes Handgelenk, beide Ellenbogen, Plantarfaszie/Fußbett, Steißregion und Kopfhaut.",
+      "Klinischer Befund (Details)": "Mehrere druckschmerzhafte und geschwollene Gelenke, besonders rechtes Handgelenk; enthesialer Druckschmerz beider Ellenbogen und der Plantarfaszie. Schwanenhalsdeformitäten am dritten und vierten Strahl links. Steißbeschwerden seit wenigen Wochen nach Ruhe oder längerem Sitzen; Wirbelsäule frei beweglich. Psoriasiforme Plaques am Capillitium.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Aktive PsA ohne aktuelle immunsuppressive Basistherapie nach unzureichender MTX-Wirksamkeit. Biologikatherapie empfohlen; im Baseline-Brief Beginn von Secukinumab ab November 2020 dokumentiert.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "38_Baseline.docx",
+              "Zitat": "seit 11/20: Beginn Secukinumab im Rahmen eBio-Studie"
+            },
+            {
+              "Datei": "38_Baseline.docx",
+              "Zitat": "Wir empfehlen den Beginn einer Biologika-Therapie."
+            }
+          ],
+          "Hinweise": [
+            "Zum Referenztermin noch keine Basistherapie; Beginn ab November 2020 im selben Brief nachgetragen."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 38, der sich am 05.10.2020 ambulant vorstellte."
+            "Zitat": "der sich am 05.10.2020 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "C-reaktives Protein 12,4 mg/l (-<5,2 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "38_Baseline.docx",
-            "Zitat": "Pat. stellt sich erstmalig zur Abklärung seiner bek. PsA vor, aktuell ohne immunsuppressive Basistherapie."
+            "Zitat": "C-reaktives Protein 12,4 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -68,25 +98,19 @@
         "Periphere Gelenkbeschwerden": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "Gelenke: diverse Schwanenhalsdeformitäten, mehrere druckschmerzhafte und geschwollene Gelenke, Handgelenk re. geschwollen und druckschmerzhaft, enthesialer Druckschmerz über beiden Ellenbogen und über der Plantarfaszie"
-          },
-          {
-            "Datei": "38_Baseline.docx",
-            "Zitat": "Zusätzliche Gelenkfehlstellungen mit bereits Schwanenhalsdeformitäten im Bereich des 4. Strahls und 3. Strahls links."
-          },
-          {
-            "Datei": "38_Baseline.docx",
-            "Zitat": "Zusätzlich berichtet er über DS am Fußbett beim Gehen."
+            "Zitat": "DS über beiden Ellenbogen und einem geschwollenen Handgelenk rechts."
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "38_Baseline.docx",
             "Zitat": "Zusätzlich bestünden seit wenigen Wochen zusätzliche Beschwerden im Bereich des Steißes, nach Ruhe oder längerem Sitzen."
-          },
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "WS: frei beweglich"
+            "Zitat": "Gelenke: diverse Schwanenhalsdeformitäten, mehrere druckschmerzhafte und geschwollene Gelenke, Handgelenk re. geschwollen und druckschmerzhaft, enthesialer Druckschmerz über beiden Ellenbogen und über der Plantarfaszie"
           }
         ],
         "Enthesitis": [
@@ -101,11 +125,53 @@
             "Zitat": "Er berichtet über psoriasiforme Plaques am Capillitium."
           }
         ],
-        "Verlauf": [
+        "Betroffene Regionen": [
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "seit Jahren nun aufgrund verminderter Wirksamkeit keine Therapie mehr"
+            "Zitat": "Gelenke: diverse Schwanenhalsdeformitäten, mehrere druckschmerzhafte und geschwollene Gelenke, Handgelenk re. geschwollen und druckschmerzhaft, enthesialer Druckschmerz über beiden Ellenbogen und über der Plantarfaszie"
           },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Zusätzlich berichtet er über DS am Fußbett beim Gehen."
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Zusätzlich bestünden seit wenigen Wochen zusätzliche Beschwerden im Bereich des Steißes, nach Ruhe oder längerem Sitzen."
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Er berichtet über psoriasiforme Plaques am Capillitium."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Gelenke: diverse Schwanenhalsdeformitäten, mehrere druckschmerzhafte und geschwollene Gelenke, Handgelenk re. geschwollen und druckschmerzhaft, enthesialer Druckschmerz über beiden Ellenbogen und über der Plantarfaszie"
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Zusätzliche Gelenkfehlstellungen mit bereits Schwanenhalsdeformitäten im Bereich des 4. Strahls und 3. Strahls links."
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Zusätzlich bestünden seit wenigen Wochen zusätzliche Beschwerden im Bereich des Steißes, nach Ruhe oder längerem Sitzen."
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "WS: frei beweglich"
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Er berichtet über psoriasiforme Plaques am Capillitium."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "Klinisch zeigt sich die bek. rheumatologische Grunderkrankung aktiv, ohne aktuell immunsuppressive Basistherapie."
+          }
+        ],
+        "Verlauf": [
           {
             "Datei": "38_Baseline.docx",
             "Zitat": "Klinisch zeigt sich die bek. rheumatologische Grunderkrankung aktiv, ohne aktuell immunsuppressive Basistherapie."
@@ -116,14 +182,19 @@
           },
           {
             "Datei": "38_Baseline.docx",
-            "Zitat": "Wir empfehlen den Beginn einer Biologika-Therapie."
+            "Zitat": "Wir empfehlen den Beginn einer Biologika-Therapie."
+          },
+          {
+            "Datei": "38_Baseline.docx",
+            "Zitat": "seit 11/20: Beginn Secukinumab im Rahmen eBio-Studie"
           }
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben.",
-        "Der Diagnoseeintrag „seit 11/20: Beginn Secukinumab im Rahmen eBio-Studie“ liegt nach dem Referenztermin und bezeichnet keine am 05.10.2020 laufende Therapie.",
-        "Seite der Plantarfaszienbeschwerden nicht angegeben."
+        "Zum Referenztermin ausdrücklich keine immunsuppressive Basistherapie.",
+        "CRP ohne eigenes Labordatum; erster Messwert nach Reihenfolge verbindlich übernommen.",
+        "Steißbeschwerden klinisch dokumentiert, entzündliche Ursache nicht ausdrücklich gesichert.",
+        "Frühere MTX- und Steroidtherapien gehören zu älteren Therapiephasen und sind nicht als aktuelle Medikation aufgeführt."
       ]
     },
     {
@@ -136,56 +207,76 @@
       "LEI": null,
       "PASI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.5,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Secukinumab 300 mg alle 4 Wochen, regelmäßig angewendet.",
-      "Klinische Hauptmanifestation": "Unter Secukinumab insgesamt gut kontrollierte Erkrankung mit verbleibenden Schmerzen an Ellenbogen-Sehnenansätzen und einigen Fingergelenken. Zehen aktuell schmerzfrei.",
-      "Periphere Gelenkbeschwerden": "Weiterhin Schmerzen einiger Fingergelenke; Zehen aktuell schmerzfrei.",
-      "Axiale Beschwerden / ISG": null,
-      "Enthesitis": "Weiterhin Schmerzen an den Sehnenansätzen der Ellenbogen.",
-      "Daktylitis": null,
-      "Hautbeteiligung": "Haut deutlich gebessert.",
-      "Nagelbeteiligung": null,
-      "Verlauf": "Unter Secukinumab insgesamt gute klinische Kontrolle bei verbleibenden Finger- und Ellenbogen-Enthesenbeschwerden; Zehen aktuell schmerzfrei. Haut deutlich gebessert.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Verbleibende Schmerzen einiger Fingergelenke und der Sehnenansätze an den Ellenbogen; Zehen aktuell schmerzfrei.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Axiale Beschwerden / ISG": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "nicht erwähnt",
+      "Enthesitis": "vorhanden",
+      "Daktylitis": "nicht erwähnt",
+      "Hautbeteiligung": "unklar",
+      "Nagelbeteiligung": "nicht erwähnt",
+      "Betroffene Regionen": "Einige Fingergelenke und Sehnenansätze der Ellenbogen; Zehen aktuell schmerzfrei.",
+      "Klinischer Befund (Details)": "Fortbestehende Ellenbogen-Enthesenschmerzen und Schmerzen einiger Fingergelenke ohne Seitenangabe. Keine konkrete körperliche Gelenkuntersuchung dokumentiert. Haut deutlich gebessert, aktueller Restbefall nicht beschrieben.",
+      "Beurteilte Therapie": "Secukinumab",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Unter regelmäßigem Secukinumab ärztlich gut kontrollierte Erkrankung bei verbleibenden Finger- und Ellenbogen-Enthesenbeschwerden und aktuell schmerzfreien Zehen. Haut deutlich gebessert. Das beschriebene deutliche Therapieansprechen wird überwiegend bildgebend begründet; das Ausmaß der muskuloskelettalen klinischen Veränderung bleibt unklar. Fortführung mit 300 mg alle vier Wochen empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 300,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 4,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "300mg alle 4 Wochen",
+          "Belege": [
+            {
+              "Datei": "38_FollowUp.docx",
+              "Zitat": "Secukinumab gut vertragen und rglm appliziert (300mg alle 4 Wochen)."
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 38, der sich am 12.04.2021 ambulant vorstellte."
+            "Zitat": "der sich am 12.04.2021 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "C-Reaktives Protein 5,5 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 5,5 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 5,5 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 5,5 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 5,5 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 5,5 mg/l (-<5 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "38_FollowUp.docx",
-            "Zitat": "Secukinumab gut vertragen und rglm appliziert (300mg alle 4 Wochen)."
+            "Zitat": "C-Reaktives Protein 5,5 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
-          {
-            "Datei": "38_FollowUp.docx",
-            "Zitat": "Zusammengefasst ist die Erkrankung unter aktuell Secukinumab 300mg alle 4 Wochen gut kontrolliert."
-          },
           {
             "Datei": "38_FollowUp.docx",
             "Zitat": "Bezüglich der Gelenke: Zehen aktuell schmerzfrei; weiterhin Schmerzen an den Sehnenansätzen Ellbogen sowie Gelenkschmerzen einiger Fingergelenke"
@@ -200,7 +291,7 @@
         "Enthesitis": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "Bezüglich der Gelenke: Zehen aktuell schmerzfrei; weiterhin Schmerzen an den Sehnenansätzen Ellbogen sowie Gelenkschmerzen einiger Fingergelenke"
+            "Zitat": "weiterhin Schmerzen an den Sehnenansätzen Ellbogen"
           }
         ],
         "Hautbeteiligung": [
@@ -209,11 +300,13 @@
             "Zitat": "Haut sei deutlich gebessert."
           }
         ],
-        "Verlauf": [
+        "Betroffene Regionen": [
           {
             "Datei": "38_FollowUp.docx",
-            "Zitat": "Zusammengefasst ist die Erkrankung unter aktuell Secukinumab 300mg alle 4 Wochen gut kontrolliert."
-          },
+            "Zitat": "Bezüglich der Gelenke: Zehen aktuell schmerzfrei; weiterhin Schmerzen an den Sehnenansätzen Ellbogen sowie Gelenkschmerzen einiger Fingergelenke"
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "38_FollowUp.docx",
             "Zitat": "Bezüglich der Gelenke: Zehen aktuell schmerzfrei; weiterhin Schmerzen an den Sehnenansätzen Ellbogen sowie Gelenkschmerzen einiger Fingergelenke"
@@ -223,16 +316,56 @@
             "Zitat": "Haut sei deutlich gebessert."
           }
         ],
-        "Ansprechen (Ja/Nein)": [
+        "Beurteilte Therapie": [
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Unter aktueller Secukinumab Therapie zeigt sich in Übereinstimmung mit den anamnestischen Angaben des Patienten und dem klinischen Befund ein deutliches Therapieansprechen."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Unter aktueller Secukinumab Therapie zeigt sich in Übereinstimmung mit den anamnestischen Angaben des Patienten und dem klinischen Befund ein deutliches Therapieansprechen."
+          },
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Es zeigte sich ein deutlicher Rückgang der entzündlichen Prozesse in der Bildgebung (MRT/Ultraschall und PET Bildgebung) so dass wir ein Ansprechen feststellen können aber die Fortführung von Secukinumab bei schwerem Erkrankungsverlauf empfehlen mit 300mg alle 4 Wochen."
+          }
+        ],
+        "Krankheitszustand": [
           {
             "Datei": "38_FollowUp.docx",
             "Zitat": "Zusammengefasst ist die Erkrankung unter aktuell Secukinumab 300mg alle 4 Wochen gut kontrolliert."
           }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Secukinumab gut vertragen und rglm appliziert (300mg alle 4 Wochen)."
+          },
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Bezüglich der Gelenke: Zehen aktuell schmerzfrei; weiterhin Schmerzen an den Sehnenansätzen Ellbogen sowie Gelenkschmerzen einiger Fingergelenke"
+          },
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Haut sei deutlich gebessert."
+          },
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Zusammengefasst ist die Erkrankung unter aktuell Secukinumab 300mg alle 4 Wochen gut kontrolliert."
+          },
+          {
+            "Datei": "38_FollowUp.docx",
+            "Zitat": "Es zeigte sich ein deutlicher Rückgang der entzündlichen Prozesse in der Bildgebung (MRT/Ultraschall und PET Bildgebung) so dass wir ein Ansprechen feststellen können aber die Fortführung von Secukinumab bei schwerem Erkrankungsverlauf empfehlen mit 300mg alle 4 Wochen."
+          }
         ]
       },
       "Hinweise": [
-        "CRP vom 12.04.2021.",
-        "Seiten und einzelne betroffene Fingergelenke beziehungsweise Ellenbogen-Sehnenansätze nicht näher angegeben."
+        "CRP vom 12.04.2021; erster Messwert nach Reihenfolge verbindlich übernommen.",
+        "Ansprechen nicht beurteilbar: Die deutliche Ansprechaussage steht im PET-Befund und wird in der klinischen Beurteilung bildgebend begründet. Ein eindeutig einzuordnendes Ausmaß der muskuloskelettalen klinischen Besserung ist nicht separat dokumentiert.",
+        "Hautbeteiligung unklar: deutliche Besserung dokumentiert, aber weder aktueller Restbefall noch vollständige Abheilung ausdrücklich beschrieben.",
+        "Sonographische Aktivität ersetzt keinen klinischen Schwellungsbefund. Originalangabe: „aktive Entzündung (Enthesitis / Synovitis / Tenosynovitis)“; Quelle: 38_FollowUp.docx, Arthrosonographie 12.04.2021."
       ]
     }
   ]

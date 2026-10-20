@@ -7,7 +7,7 @@
       "Follow-up": "2020-08-07"
     }
   },
-  "fingerprint": "6db13a1c4b969ae6177ef71bfa59ced511ae4be71d5f12e471df9ae008ab5d78",
+  "fingerprint": "1129102468585720a1d89abf958be2f3564a3fb93437de6ceeddc403b75c96ca",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,21 +20,96 @@
         "LEI": null,
         "MASES": null,
         "HAQ": 0.5,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 6.5,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Diclofenac bei Bedarf, Dosis unbekannt; Arcoxia 90 mg täglich ab 15.01.2020 eingeleitet.",
-        "Klinische Hauptmanifestation": "Schmerzen im Bereich beider ISG und der LWS. Druckschmerz der LWS, beide ISG nicht druckschmerzhaft.",
-        "Axiale Beschwerden / ISG": "Bestehende Schmerzen beider ISG und der LWS mit geringem Ansprechen auf Diclofenac.",
-        "Weitere Gelenke": "Schmerzen und Schwellungen sonstiger Gelenke verneint; keine druckschmerzhaften oder geschwollenen Gelenke dokumentiert.",
-        "Verlauf": "Hohe Krankheitsaktivität und geringes Ansprechen auf Diclofenac; zweites NSAR Arcoxia eingeleitet. Biologika-Therapie einen Monat nach Beginn der Isoniazid-Prophylaxe erwogen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Aktive axiale Spondylarthritis mit Schmerzen an LWS und beiden ISG.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "verneint",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "LWS und ISG beidseits.",
+        "Klinischer Befund (Details)": "Druckschmerz der LWS; beide ISG ohne Druckschmerz. Keine peripheren Gelenkschmerzen oder Schwellungen.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Geringe Beschwerdelinderung unter Diclofenac bei hoher Krankheitsaktivität. Etoricoxib wird als zweites NSAR eingeleitet; eine Biologikatherapie wird nach Beginn der Tuberkuloseprophylaxe erwogen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Diclofenac",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "laufend",
+            "Dosierung (Original)": "Diclofenac 2x tgl; Diclofenac (unbekannte Dosis) bei Bedarf",
+            "Belege": [
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Diclofenac 2x tgl"
+              },
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
+              }
+            ],
+            "Hinweise": [
+              "Widersprüchliche Einnahmeangaben: zweimal täglich gegenüber bei Bedarf; Dosis unbekannt."
+            ]
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 90,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)",
+            "Belege": [
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
+              },
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Eine Therapie mit einem zweiten NSAR (Arcoxia) wird eingeleitet."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Isoniazid",
+            "Dosis": 300,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Isoniazid 300 mg 1-0-0 (seit 15.01.2020); für insgesamt 9 Monate",
+            "Belege": [
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Isoniazid 300 mg 1-0-0 (seit 15.01.2020)"
+              },
+              {
+                "Datei": "9_Baseline.docx",
+                "Zitat": "Aufgrund der Positivität für Quantiferon TB wird eine Prophylaxe mit Isozid 300 mg 1-0-0 begonnen (für insgesamt 9 Monate)."
+              }
+            ],
+            "Hinweise": [
+              "Tuberkuloseprophylaxe vor erwogener Biologikatherapie; laut Anamnese zuvor noch nicht begonnen, im Behandlungsplan neu eingeleitet."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 9, der sich am 15.01.2020 ambulant vorstellte."
+              "Zitat": "der sich am 15.01.2020 ambulant vorstellte."
             }
           ],
           "BASDAI": [
@@ -49,36 +124,28 @@
               "Zitat": "HAQ:0.5"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "C-reaktives Protein 6,5 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 6,5 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 6,5 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "C-reaktives Protein 6,5 mg/l (-<5,2 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "9_Baseline.docx",
-              "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
-            },
-            {
-              "Datei": "9_Baseline.docx",
-              "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
-            },
-            {
-              "Datei": "9_Baseline.docx",
-              "Zitat": "Eine Therapie mit einem zweiten NSAR (Arcoxia) wird eingeleitet."
+              "Zitat": "C-reaktives Protein 6,5 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
@@ -88,37 +155,57 @@
             },
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "LWS DS, ISG bds. nicht DS."
+              "Zitat": "Klinik, radiologische Befunde und Labor sprechen für eine axiale Spondylarthritis und weisen derzeit auf einen hohen Aktivitätsgrad der Erkrankung hin."
             }
           ],
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "9_Baseline.docx",
               "Zitat": "Der Patient berichtet über bestehende Schmerzen im Bereich ISG bds und LWS."
-            },
-            {
-              "Datei": "9_Baseline.docx",
-              "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
             }
           ],
-          "Weitere Gelenke": [
+          "Periphere Gelenkbeschwerden": [
             {
               "Datei": "9_Baseline.docx",
               "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
-            },
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "9_Baseline.docx",
               "Zitat": "Gelenke keine DS/geschwollen"
             }
           ],
-          "Verlauf": [
+          "Betroffene Regionen": [
             {
               "Datei": "9_Baseline.docx",
-              "Zitat": "Klinik, radiologische Befunde und Labor sprechen für eine axiale Spondylarthritis und weisen derzeit auf einen hohen Aktivitätsgrad der Erkrankung hin."
+              "Zitat": "Der Patient berichtet über bestehende Schmerzen im Bereich ISG bds und LWS."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "LWS DS, ISG bds. nicht DS."
             },
             {
               "Datei": "9_Baseline.docx",
+              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Klinik, radiologische Befunde und Labor sprechen für eine axiale Spondylarthritis und weisen derzeit auf einen hohen Aktivitätsgrad der Erkrankung hin."
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "9_Baseline.docx",
               "Zitat": "Er nehme Diclofenac (unbekannte Dosis) bei Bedarf mit geringer Ansprache der Beschwerden auf die Therapie."
+            },
+            {
+              "Datei": "9_Baseline.docx",
+              "Zitat": "Klinik, radiologische Befunde und Labor sprechen für eine axiale Spondylarthritis und weisen derzeit auf einen hohen Aktivitätsgrad der Erkrankung hin."
             },
             {
               "Datei": "9_Baseline.docx",
@@ -131,9 +218,8 @@
           ]
         },
         "Hinweise": [
-          "Labordatum nicht angegeben.",
-          "BASDAI und HAQ ohne ausdrücklich angegebenes eigenes Untersuchungsdatum.",
-          "Diclofenac in der Dauermedikation zweimal täglich, in der aktuellen Anamnese bei Bedarf angegeben; aktuelle Anamnese bevorzugt."
+          "Für den CRP-Wert ist kein eigenständiges Labordatum dokumentiert.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -146,21 +232,180 @@
         "LEI": null,
         "MASES": null,
         "HAQ": 0,
+        "CRP dokumentiert": "Nein",
         "CRP-Wert": null,
         "CRP-Vergleichszeichen": null,
         "CRP-Einheit": null,
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Secukinumab 150 mg alle 4 Wochen seit Februar 2020; zusätzlich Diclofenac bei Bedarf und Arcoxia 90 mg täglich laut Dauermedikation.",
-        "Klinische Hauptmanifestation": "Unverändert tiefsitzender Rückenschmerz mit etwa 60 Minuten Morgensteifigkeit. Druckschmerz der LWS und beidseits positives Patrick-Zeichen.",
-        "Axiale Beschwerden / ISG": "Unter Secukinumab unverändert tiefsitzender Rückenschmerz ohne bemerktes Ansprechen; LWS druckschmerzhaft und Patrick-Zeichen beidseits positiv.",
-        "Weitere Gelenke": "Schmerzen und Schwellungen sonstiger Gelenke verneint; klinisch keine Gelenkschwellungen.",
-        "Verlauf": "Unter Secukinumab keine klinische Besserung der Rückenbeschwerden; BASDAI 9,9 gegenüber 7,3 bei Baseline. Nach den Injektionen Appetitlosigkeit und Übelkeit. Dosiserhöhung auf 300 mg alle 4 Wochen bei guter Verträglichkeit erwogen.",
-        "Ansprechen (Ja/Nein)": "Nein",
+        "Klinische Hauptmanifestation": "Unveränderter tiefsitzender Rückenschmerz unter Secukinumab mit etwa 60 Minuten Morgensteifigkeit.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "verneint",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "LWS und lumbosakraler Bereich; Patrick-Zeichen beidseits positiv.",
+        "Klinischer Befund (Details)": "Druckschmerz der LWS, Patrick-Zeichen beidseits positiv. Morgensteifigkeit etwa 60 Minuten; keine peripheren Gelenkschmerzen oder Schwellungen.",
+        "Beurteilte Therapie": "Secukinumab 150 mg alle 4 Wochen",
+        "Ansprechen": "Keines",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Nach unzureichendem Ansprechen auf zwei NSAR seit Februar 2020 Secukinumab ohne klinische Besserung. Axiale Beschwerden bestehen unverändert; nach Injektionen Appetitlosigkeit und Übelkeit. Symptomatische Begleittherapie und feste NSAR-Einnahme empfohlen; Dosiserhöhung von Secukinumab bei guter Verträglichkeit erwogen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 4,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Secukinumab 150 mg 1alle 4 Wochen",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Secukinumab 150 mg 1alle 4 Wochen unter klinischen und serologischen Kontrollen nach Maßgabe der DGRh alle 3 Monate"
+              },
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Secukinumab 150 mg seit 19.02.2020"
+              },
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Bei guter Verträglichkeit im Verlauf kann eine Erhöhung von Secukinumab auf 300 mg/4 Wochen versucht werden."
+              }
+            ],
+            "Hinweise": [
+              "Erhöhung auf 300 mg alle 4 Wochen nur bedingt erwogen, nicht als umgesetzt dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Diclofenac",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Diclofenac bei Bed.",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Diclofenac bei Bed."
+              }
+            ],
+            "Hinweise": [
+              "In der Dauermedikation aufgeführt; Umstellung beziehungsweise Absetzen bei empfohlener Ibuprofeneinnahme nicht ausdrücklich dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 90,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
+              }
+            ],
+            "Hinweise": [
+              "Weiter in der Dauermedikation aufgeführt; Absetzen bei empfohlener Ibuprofeneinnahme nicht ausdrücklich dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": 800,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Ibuprofen 800 mg fest bei Rückenschmerzen (max. 3x tgl.).",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Ibuprofen 800 mg fest bei Rückenschmerzen (max. 3x tgl.)."
+              }
+            ],
+            "Hinweise": [
+              "Feste Einnahme empfohlen; maximal dreimal täglich bezeichnet keine eindeutig festgelegte Einnahmefrequenz."
+            ]
+          },
+          {
+            "Wirkstoff": "Isoniazid",
+            "Dosis": 300,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Isoniazid 300 mg 1-0-0 für insgesamt 9 Monate",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Isoniazid 300 mg 1-0-0 für insgesamt 9 Monate"
+              },
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Er nehme regelmäßig Isoniazid."
+              }
+            ],
+            "Hinweise": [
+              "Tuberkuloseprophylaxe unter Biologikatherapie."
+            ]
+          },
+          {
+            "Wirkstoff": "Pantoprazol",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Pantoprazol 40 mg 1-0-0 (Magenschutz)",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Pantoprazol neu 05/2020"
+              },
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Zur besseren Verträglichkeit von Secukinumab verschrieben wir Pantoprazol 40 mg 1-0-0 (Magenschutz)."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Vomex",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "geplant",
+            "Dosierung (Original)": "Vomex bei Übelkeit neu 05/2020",
+            "Belege": [
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Vomex bei Übelkeit neu 05/2020"
+              },
+              {
+                "Datei": "9_FollowUp.docx",
+                "Zitat": "Gegen die Übelkeit kann zudem Vomex eingenommen werden."
+              }
+            ],
+            "Hinweise": [
+              "Originalbezeichnung erhalten; tatsächliche Einnahme nicht bestätigt."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 9, der sich am 28.05.2020 ambulant vorstellte."
+              "Zitat": "der sich am 28.05.2020 ambulant vorstellte."
             }
           ],
           "BASDAI": [
@@ -175,20 +420,6 @@
               "Zitat": "HAQ 0, BAS-G 10; BASFI 5,3; BASDAI 9,9; VAS Arzt 2"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "9_FollowUp.docx",
-              "Zitat": "aktuelle Therapie: Secukinumab 150 mg/4 Wochen seit 02/2020"
-            },
-            {
-              "Datei": "9_FollowUp.docx",
-              "Zitat": "Diclofenac bei Bed."
-            },
-            {
-              "Datei": "9_FollowUp.docx",
-              "Zitat": "Arcoxia 90 mg 1-0-0 (seit 15.01.2020)"
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "9_FollowUp.docx",
@@ -197,48 +428,88 @@
             {
               "Datei": "9_FollowUp.docx",
               "Zitat": "MS sei ca. 60 Minuten."
-            },
-            {
-              "Datei": "9_FollowUp.docx",
-              "Zitat": "LWS DS, Patrick-Zeichen bds positiv, DS LWS, BASMI 1"
             }
           ],
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "9_FollowUp.docx",
               "Zitat": "Unter Secukinumab, weiter unverändert tiefsitzender Rückenschmerz."
-            },
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "Er habe keinerlei Ansprechen der Beschwerden bemerkt."
+              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "keine Gelenkschwellungen"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Unter Secukinumab, weiter unverändert tiefsitzender Rückenschmerz."
             },
             {
               "Datei": "9_FollowUp.docx",
               "Zitat": "LWS DS, Patrick-Zeichen bds positiv, DS LWS, BASMI 1"
             }
           ],
-          "Weitere Gelenke": [
+          "Klinischer Befund (Details)": [
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+              "Zitat": "LWS DS, Patrick-Zeichen bds positiv, DS LWS, BASMI 1"
             },
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "keine Gelenkschwellungen"
+              "Zitat": "MS sei ca. 60 Minuten."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Der Patient verneint Schmerzen oder Schwellungen bei sonstigen Gelenken sowie Fieber oder kürzliche Infektionen."
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab 150 mg/4 Wochen seit 02/2020"
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "VK bei axialer SpA unter Secukinumab 150 mg - Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "VK bei axialer SpA unter Secukinumab 150 mg - Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Unter Secukinumab, weiter unverändert tiefsitzender Rückenschmerz."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "MS sei ca. 60 Minuten."
             }
           ],
           "Verlauf": [
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+              "Zitat": "Z.n. Therapie mit 2 NSAR ohne ausreichendes Therapieansprechen"
             },
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "HAQ 0, BAS-G 10; BASFI 5,3; BASDAI 9,9; VAS Arzt 2"
+              "Zitat": "aktuelle Therapie: Secukinumab 150 mg/4 Wochen seit 02/2020"
             },
             {
-              "Datei": "9_Baseline.docx",
-              "Zitat": "BASDAI: 7.3"
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "VK bei axialer SpA unter Secukinumab 150 mg - Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
             },
             {
               "Datei": "9_FollowUp.docx",
@@ -246,20 +517,25 @@
             },
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "Bei guter Verträglichkeit im Verlauf kann eine Erhöhung von Secukinumab auf 300 mg/4 Wochen versucht werden."
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
+              "Zitat": "Zur besseren Verträglichkeit von Secukinumab verschrieben wir Pantoprazol 40 mg 1-0-0 (Magenschutz)."
+            },
             {
               "Datei": "9_FollowUp.docx",
-              "Zitat": "Klinisch zeigte sich keine Besserung der Beschwerden nach Umstellung auf Secukinumab."
+              "Zitat": "Gegen die Übelkeit kann zudem Vomex eingenommen werden."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Bei guter Verträglichkeit im Verlauf kann eine Erhöhung von Secukinumab auf 300 mg/4 Wochen versucht werden."
+            },
+            {
+              "Datei": "9_FollowUp.docx",
+              "Zitat": "Zusätzlich empfehlen wir die feste Einnahme von NSAR bei Rückenschmerzen (z.B. Ibuprofen 800 mg, max. 3xtgl.) und physiotherapeutische Beübung."
             }
           ]
         },
         "Hinweise": [
-          "Keine Laborwerte: Patient ohne Blutentnahme gegangen und Ersatztermin nicht wahrgenommen.",
-          "BASDAI und HAQ ohne ausdrücklich angegebenes eigenes Untersuchungsdatum.",
-          "Diclofenac und Arcoxia nur in der Dauermedikationsliste aufgeführt; tatsächliche Einnahme in der aktuellen Anamnese nicht bestätigt. Feste NSAR-Einnahme wird empfohlen."
+          "Keine Laborergebnisse: Patient ohne Blutentnahme gegangen und Ersatztermin nicht wahrgenommen; CRP und BSG lediglich zur Kontrolle angefordert.",
+          "Die Empfehlung zu Ibuprofen klärt nicht ausdrücklich, ob die weiterhin aufgeführten NSAR Diclofenac und Etoricoxib beendet werden."
         ]
       }
     ]

@@ -33,8 +33,43 @@
   "klinische_spalten": [
     "Klinische Hauptmanifestation",
     "Axiale Beschwerden / ISG",
-    "Weitere Gelenke"
+    "Periphere Gelenkbeschwerden",
+    "Synovitis / Gelenkschwellung",
+    "Enthesitis",
+    "Betroffene Regionen",
+    "Klinischer Befund (Details)"
   ],
-  "auswahlwerte": {},
-  "gekoppelte_felder": []
+  "auswahlwerte": {
+    "Axiale Beschwerden / ISG": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Periphere Gelenkbeschwerden": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Synovitis / Gelenkschwellung": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Enthesitis": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ]
+  },
+  "gekoppelte_felder": [],
+  "status_spalten": [
+    "Axiale Beschwerden / ISG",
+    "Periphere Gelenkbeschwerden",
+    "Synovitis / Gelenkschwellung",
+    "Enthesitis"
+  ]
 }

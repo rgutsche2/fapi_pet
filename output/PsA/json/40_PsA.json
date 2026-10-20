@@ -7,7 +7,7 @@
       "Follow-up": "2021-02-05"
     }
   },
-  "fingerprint": "c0a68ce53aca3dba1ec264ed8ae214955b14efede2157de1790e5946de6f1cb0",
+  "fingerprint": "8901069f2bbd878f8619476f5b897244b300b9abebb6e3a306cd1369725fdba6",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,20 +20,115 @@
         "LEI": null,
         "PASI": null,
         "HAQ": 0.75,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 5,
-        "Aktuelle Therapie": "Apremilast seit 10/2019; Naproxen 500 mg und Novaminsulfon 500 mg bei Bedarf. Bei der Vorstellung Absetzen von Apremilast und Einleitung von Sulfasalazin empfohlen.",
-        "Klinische Hauptmanifestation": "Persistierende Gelenkbeschwerden, besonders an den Händen rechts mehr als links, sowie lumbale Rückenschmerzen bei bekannten degenerativen Veränderungen. Gleichzeitig aktive plantare Psoriasis.",
-        "Periphere Gelenkbeschwerden": "Handschmerzen rechts mehr als links, VAS 3–4; Morgensteifigkeit etwa 15 Minuten. Druckschmerz an MTT 1–2 beidseits, allen PIP der rechten Hand und rechtem Knie; anamnestisch und klinisch keine Schwellungen.",
-        "Axiale Beschwerden / ISG": "Lumbale Rückenschmerzen bei bekannter Spondylolyse; Schmerzen in Ruhe und bei Bewegung mit nächtlichem Erwachen. Kein Wirbelsäulenklopfschmerz, Patrick-Test negativ; axiale PsA-Beteiligung ungeklärt.",
-        "Enthesitis": "Anamnestisch aktuell keine Enthesitis; im Enthesenbefund jedoch Druckschmerz an beiden lateralen Ellbogen.",
-        "Daktylitis": null,
-        "Hautbeteiligung": "Aktive Psoriasis mit beidseits trocken schuppenden Fußsohlen.",
-        "Nagelbeteiligung": null,
-        "Verlauf": "Unter Apremilast keine berichtete Verbesserung und persistierende klinische Erkrankungsaktivität. Absetzen von Apremilast und einschleichende Einleitung von Sulfasalazin empfohlen; degenerative Beschwerden bestehen zusätzlich.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Persistierende Gelenkbeschwerden bei gemischten entzündlichen und degenerativen Veränderungen; aktive plantare Hautbeteiligung.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "unklar",
+        "Daktylitis": "nicht erwähnt",
+        "Hautbeteiligung": "vorhanden",
+        "Nagelbeteiligung": "nicht erwähnt",
+        "Betroffene Regionen": "Hände rechts stärker als links, rechte Hand-PIP, rechtes Knie, Vorfüße beidseits, LWS, laterale Ellbogen und Fußsohlen beidseits.",
+        "Klinischer Befund (Details)": "Druckschmerz MTT 1–2 beidseits, sämtlicher rechter Hand-PIP und des rechten Knies; keine Schwellungen. LWS-Schmerzen bei bekannter struktureller Vorerkrankung, axiale PsA nicht gesichert. Morgensteifigkeit etwa 15 Minuten, Schmerzen in Ruhe und Bewegung mit nächtlichem Erwachen. Anamnestisch keine aktuelle Enthesitis, jedoch Druckschmerz an den lateralen Ellbogenenth esen beidseits. Fußsohlen trocken schuppend.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Apremilast seit Oktober 2019 keine symptomatische Verbesserung und persistierende Erkrankungsaktivität; Absetzen und geplante Umstellung auf Sulfasalazin. Begleitende degenerative Veränderungen erschweren die Beschwerdezuordnung.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Apremilast",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Apremilast seit 10/2019"
+              },
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Apremilast abgesetzt."
+              }
+            ],
+            "Hinweise": [
+              "Bis zur Therapieentscheidung als Dauermedikation dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Sulfasalazin",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Woche 1: Sulfasalazin 500 mg 0-0-1; Woche 2: Sulfasalazin 500 mg 1-0-1; Woche 3: Sulfasalazin 500 mg 1-0-2; Woche 4: Sulfasalazin 500 mg 2-0-2",
+            "Belege": [
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Woche 1: Sulfasalazin 500 mg 0-0-1"
+              },
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Woche 2: Sulfasalazin 500 mg 1-0-1"
+              },
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Woche 3: Sulfasalazin 500 mg 1-0-2"
+              },
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Woche 4: Sulfasalazin 500 mg 2-0-2"
+              }
+            ],
+            "Hinweise": [
+              "Aufdosierungsschema; keine einheitliche Einzeldosis oder Dauerdosis abgeleitet."
+            ]
+          },
+          {
+            "Wirkstoff": "Naproxen",
+            "Dosis": 500,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Naproxen 500 mg bei Bedarf",
+            "Belege": [
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Naproxen 500 mg bei Bedarf"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Metamizol",
+            "Dosis": 500,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Novaminsulfon 500 mg bei Bedarf",
+            "Belege": [
+              {
+                "Datei": "40_Baseline.docx",
+                "Zitat": "Novaminsulfon 500 mg bei Bedarf"
+              }
+            ],
+            "Hinweise": []
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
@@ -53,22 +148,28 @@
               "Zitat": "HAQ: 0.75"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "BSG (mm nach 1 h)": [
@@ -77,33 +178,7 @@
               "Zitat": "BSG 5/12 mm"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Apremilast seit 10/2019"
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Naproxen 500 mg bei Bedarf"
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Novaminsulfon 500 mg bei Bedarf"
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Apremilast abgesetzt."
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Aus diesem Grund empfehlen wir eine Umstellung der Therapie auf Sulfasalazin."
-            }
-          ],
           "Klinische Hauptmanifestation": [
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Er berichtete über Rückenschmerzen im Bereich LWS bei bek. Spondilolysis und an Hände (re >li) VAS 3-4 (PtGA5)."
-            },
             {
               "Datei": "40_Baseline.docx",
               "Zitat": "Aktuell bestünden Gelenkbeschwerde sowie aktiv Psoriasis."
@@ -114,39 +189,25 @@
             },
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "HWS/LWS degenerative Veränderungen mit Spondylolisthese L4/5"
+              "Zitat": "degenerativen und entzündlichen Veränderungen"
             }
           ],
           "Periphere Gelenkbeschwerden": [
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "Er berichtete über Rückenschmerzen im Bereich LWS bei bek. Spondilolysis und an Hände (re >li) VAS 3-4 (PtGA5)."
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Er verneint Schwellungen. MS sei ca. 15 min."
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Gelenke: DS: 1-2 MTT bds. PIP Hand re alle, Knie re. Keine Klopfschmerzen an der WS. Keine Schwellungen."
+              "Zitat": "Aktuell bestünden Gelenkbeschwerde sowie aktiv Psoriasis."
             }
           ],
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "40_Baseline.docx",
               "Zitat": "Er berichtete über Rückenschmerzen im Bereich LWS bei bek. Spondilolysis und an Hände (re >li) VAS 3-4 (PtGA5)."
-            },
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "Die Schmerzen seien in Ruhe sowie bei Bewegung und seien von nächtlicher Erwachung begleitet."
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Keine Klopfschmerzen an der WS. Keine Schwellungen. Patrick-Test negativ."
-            },
-            {
-              "Datei": "40_Baseline.docx",
-              "Zitat": "Beim persistierende Rückenschmerzen, empfehlen wir ein LWS-MRT mit KM, um eine axiale Beteiligung auszuschließen."
+              "Zitat": "Keine Schwellungen."
             }
           ],
           "Enthesitis": [
@@ -169,7 +230,69 @@
               "Zitat": "Haut: Fußsohlen bds, trocken schuppend"
             }
           ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Er berichtete über Rückenschmerzen im Bereich LWS bei bek. Spondilolysis und an Hände (re >li) VAS 3-4 (PtGA5)."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Gelenke: DS: 1-2 MTT bds. PIP Hand re alle, Knie re."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Enthesen: DS: Ellbogen lateral bds. MASES 2."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Haut: Fußsohlen bds, trocken schuppend"
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Gelenke: DS: 1-2 MTT bds. PIP Hand re alle, Knie re. Keine Klopfschmerzen an der WS. Keine Schwellungen."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Er berichtete über Rückenschmerzen im Bereich LWS bei bek. Spondilolysis und an Hände (re >li) VAS 3-4 (PtGA5)."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "MS sei ca. 15 min."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Die Schmerzen seien in Ruhe sowie bei Bewegung und seien von nächtlicher Erwachung begleitet."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Aktuell keine Enthesitis."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Enthesen: DS: Ellbogen lateral bds. MASES 2."
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Haut: Fußsohlen bds, trocken schuppend"
+            },
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "um eine axiale Beteiligung auszuschließen."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Klinisch zeigt sich eine persistierende Erkrankungsaktivität, ohne Erhöhung der systemischen Entzündungsparameter."
+            }
+          ],
           "Verlauf": [
+            {
+              "Datei": "40_Baseline.docx",
+              "Zitat": "Apremilast seit 10/2019"
+            },
             {
               "Datei": "40_Baseline.docx",
               "Zitat": "Der Pat. berichtet über keine Verbesserung der Symptomatik unter Therapie mit Apremilast."
@@ -180,23 +303,24 @@
             },
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "Aus diesem Grund empfehlen wir eine Umstellung der Therapie auf Sulfasalazin."
+              "Zitat": "degenerativen und entzündlichen Veränderungen"
             },
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "Die Dosis des Sulfasalazin wird allmählich aufsteigen, wie im Folgende beschrieben."
+              "Zitat": "Apremilast abgesetzt."
             },
             {
               "Datei": "40_Baseline.docx",
-              "Zitat": "Bezüglich der degenerative Veränderungen, empfehlen wir physiotherapeutisch Beübung."
+              "Zitat": "Umstellung der Therapie auf Sulfasalazin."
             }
           ]
         },
         "Hinweise": [
-          "Labordatum für CRP und BSG nicht angegeben; auch Scores und Untersuchungsbefunde sind nicht eigenständig datiert.",
-          "BSG gemäß Studienkonvention aus dem ersten Wert von „BSG 5/12 mm“ übernommen.",
-          "Anamnestische Enthesitis-Verneinung und Druckschmerz im Enthesenbefund stehen nebeneinander.",
-          "Weiterer Score: MASES 2; 40_Baseline.docx: „Enthesen: DS: Ellbogen lateral bds. MASES 2.“"
+          "Enthesitis widersprüchlich: anamnestisch verneint, im Untersuchungsbefund beidseitiger lateraler Ellbogenenth esendruckschmerz mit MASES 2.",
+          "Weiterer Score: MASES 2; Originalbeleg: „Enthesen: DS: Ellbogen lateral bds. MASES 2.“ (40_Baseline.docx). Keine Umdeutung in LEI.",
+          "CRP: zunächst qualitativ „Minimal erhöhte CRP“ (40_Baseline.docx), erster numerischer Messwert <5,2 mg/l nach Reihenfolge; kein einzelnes Labordatum dokumentiert.",
+          "BSG 5/12 mm: erster Wert 5 gemäß Studienkonvention; Einzeldatum nicht genannt.",
+          "DAPSA und HAQ im Untersuchungsabschnitt ohne gesondertes Messdatum."
         ]
       },
       {
@@ -207,22 +331,128 @@
         "TJC": 20,
         "SJC": 0,
         "LEI": 2,
-        "PASI": null,
+        "PASI": 1,
         "HAQ": 0.63,
-        "CRP-Wert": 5.1,
+        "CRP dokumentiert": "Ja",
+        "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 2,
-        "Aktuelle Therapie": "Secukinumab 150 mg subkutan alle vier Wochen nach Aufsättigung, seit 11/2020, zusätzlich Sulfasalazin 1000 mg zweimal täglich. Umstellung auf Adalimumab 40 mg subkutan alle 14 Tage empfohlen.",
-        "Klinische Hauptmanifestation": "Deutliche Gelenk- und Sehnenschmerzen unter Secukinumab bei unzureichendem klinischem Ansprechen.",
-        "Periphere Gelenkbeschwerden": "Deutliche Gelenkschmerzen; TJC 20 und SJC 0. Im Verlauf ausdrücklich Zunahme der schmerzhaften Gelenke beschrieben.",
-        "Axiale Beschwerden / ISG": null,
-        "Enthesitis": "Aktuelle Sehnenschmerzen ohne genannte Lokalisation; LEI 2 und SPARCC 4 dokumentiert.",
-        "Daktylitis": null,
-        "Hautbeteiligung": "Subjektiv insgesamt gebesserte Haut; weiterhin beidseits trocken schuppende Fußsohlen, ansonsten unauffällig.",
-        "Nagelbeteiligung": null,
-        "Verlauf": "Nach Wechsel von Apremilast auf Sulfasalazin und zusätzlicher Secukinumab-Therapie weiterhin deutliche Gelenk- und Sehnenschmerzen; ausdrücklich unzureichendes klinisches Ansprechen mit Zunahme schmerzhafter Gelenke. Haut gebessert. Umstellung auf Adalimumab empfohlen.",
-        "Ansprechen (Ja/Nein)": "Nein",
+        "Klinische Hauptmanifestation": "Deutliche Gelenk- und Sehnenschmerzen bei unzureichender muskuloskelettaler Wirkung von Secukinumab; aktuell keine gezählten Gelenkschwellungen.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "vorhanden",
+        "Daktylitis": "nicht erwähnt",
+        "Hautbeteiligung": "vorhanden",
+        "Nagelbeteiligung": "nicht erwähnt",
+        "Betroffene Regionen": "Gelenke und Sehnen ohne aktuelle genaue Lokalisation; Fußsohlen beidseits. Früher im Oktober 2020 linkes OSG/USG medial.",
+        "Klinischer Befund (Details)": "Deutliche Gelenk- und Sehnenschmerzen; TJC 20, SJC 0, Enthesen-SPARCC 4 und LEI 2. Fußsohlen beidseits trocken schuppend, sonst Haut unauffällig. Im Oktober 2020 leichte Schwellung und Druckschmerz am linken OSG/USG medial. Keine klinische Synovitis aus Bildgebung abgeleitet.",
+        "Beurteilte Therapie": "Secukinumab",
+        "Ansprechen": "Keines",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Secukinumab klinisch unzureichendes Ansprechen der Gelenke und Sehnen mit fortbestehenden deutlichen Schmerzen; deshalb Umstellung auf Adalimumab. Haut insgesamt gebessert. Sulfasalazin als laufende Basistherapie dokumentiert. Unterschiedliche Angaben zur Entwicklung der schmerzhaften Gelenke verhindern eine eindeutige zahlenmäßige Verlaufsbewertung.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Sulfasalazin",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Sulfasalazin 500 mg 2-0-2 seit 05/2020",
+            "Belege": [
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Sulfasalazin 500 mg 2-0-2 seit 05/2020"
+              }
+            ],
+            "Hinweise": [
+              "Tablettenstärke und Einnahmeschema im Original erhalten; keine Einzeldosis errechnet."
+            ]
+          },
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 4,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "Secukinumab 150mg sc., zunächst wöchentlich, dann alle 4 Wochen 11-2020 bis 3-2021",
+            "Belege": [
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Beginn mit Aufsättigung IL-17 Antikörper Secukinumab 150mg sc., zunächst wöchentlich, dann alle 4 Wochen 11-2020 bis 3-2021"
+              },
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Aktuell: Umstellung auf Adalimumab 40mg alle 2 Wochen s.c. bei unzureichendem Ansprechen auf IL-17 Inhbition ab 3-2021"
+              }
+            ],
+            "Hinweise": [
+              "Erhaltungsintervall erfasst; vorausgehende wöchentliche Aufsättigung im Original erhalten. Beendigung im März 2021 im Zusammenhang mit der Umstellung."
+            ]
+          },
+          {
+            "Wirkstoff": "Adalimumab",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 2,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Adalimumab 40mg alle 2 Wochen s.c.",
+            "Belege": [
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Aktuell: Umstellung auf Adalimumab 40mg alle 2 Wochen s.c. bei unzureichendem Ansprechen auf IL-17 Inhbition ab 3-2021"
+              },
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Umstellung auf Adalimumab 40mg s.c. alle 14 d sowie regelmäßige Laborkontrollen nach den Empfehlungen der DGRh (www.rheumanet.org)"
+              }
+            ],
+            "Hinweise": [
+              "Umstellung empfohlen; tatsächlich erfolgte erste Gabe nicht eindeutig dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Naproxen",
+            "Dosis": 500,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Naproxen 500 mg bei Bedarf",
+            "Belege": [
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Naproxen 500 mg bei Bedarf"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Metamizol",
+            "Dosis": 500,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "Novaminsulfon 500 mg bei Bedarf",
+            "Belege": [
+              {
+                "Datei": "40_FollowUp.docx",
+                "Zitat": "Novaminsulfon 500 mg bei Bedarf"
+              }
+            ],
+            "Hinweise": []
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
@@ -239,13 +469,17 @@
           "TJC": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Gelenke: SJC 0 (Vorwert 4), TJC 20 (Vorwert 29)"
+              "Zitat": "TJC 20 (Vorwert 29)"
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
             }
           ],
           "SJC": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Gelenke: SJC 0 (Vorwert 4), TJC 20 (Vorwert 29)"
+              "Zitat": "SJC 0 (Vorwert 4)"
             }
           ],
           "LEI": [
@@ -254,28 +488,40 @@
               "Zitat": "LEI: 2 (Vorwert 2)"
             }
           ],
+          "PASI": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "PASI: 1 (Vorwert 1.3)"
+            }
+          ],
           "HAQ": [
             {
               "Datei": "40_FollowUp.docx",
               "Zitat": "HAQ-DI: 0.63 (Vorwert 0,63)"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "C-reaktives Protein <5,1 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "BSG (mm nach 1 h)": [
@@ -284,27 +530,67 @@
               "Zitat": "BSG: 2 mm 1h (Vorwert 2 mm/h)"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "Beginn mit Aufsättigung IL-17 Antikörper Secukinumab 150mg sc., zunächst wöchentlich, dann alle 4 Wochen 11-2020 bis 3-2021"
-            },
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "Sulfasalazin 500 mg 2-0-2 seit 05/2020"
-            },
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "Umstellung auf Adalimumab 40mg s.c. alle 14 d sowie regelmäßige Laborkontrollen nach den Empfehlungen der DGRh (www.rheumanet.org)"
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "40_FollowUp.docx",
+              "Zitat": "dass er dtl. Gelenkschmerzen habe, sowie die Sehnen weh tun würden."
+            },
+            {
+              "Datei": "40_FollowUp.docx",
               "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "SJC 0 (Vorwert 4)"
             }
           ],
           "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "dass er dtl. Gelenkschmerzen habe, sowie die Sehnen weh tun würden."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "SJC 0 (Vorwert 4)"
+            }
+          ],
+          "Enthesitis": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Enthesen SPARCC 4"
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "LEI: 2 (Vorwert 2)"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0"
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "PASI: 1 (Vorwert 1.3)"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "dass er dtl. Gelenkschmerzen habe, sowie die Sehnen weh tun würden."
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0"
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Klinische Angaben: neu aufgetretene leichte Schwellung und DS links OSG/USG medial"
+            }
+          ],
+          "Klinischer Befund (Details)": [
             {
               "Datei": "40_FollowUp.docx",
               "Zitat": "dass er dtl. Gelenkschmerzen habe, sowie die Sehnen weh tun würden."
@@ -315,13 +601,7 @@
             },
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
-            }
-          ],
-          "Enthesitis": [
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "dass er dtl. Gelenkschmerzen habe, sowie die Sehnen weh tun würden."
+              "Zitat": "Enthesen SPARCC 4"
             },
             {
               "Datei": "40_FollowUp.docx",
@@ -329,31 +609,43 @@
             },
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Enthesen SPARCC 4"
-            }
-          ],
-          "Hautbeteiligung": [
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "Die Haut sei insgesamt gut geworden."
+              "Zitat": "Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0"
             },
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0"
+              "Zitat": "Klinische Angaben: neu aufgetretene leichte Schwellung und DS links OSG/USG medial"
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Erneute Wiedervorstellung nach nun 3 Monaten unter anti-IL-17 Therapie mit Secukinumab."
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
             }
           ],
           "Verlauf": [
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "vorherige Therapie: Apremilast seit 10/19 - 05/20, abgesetzt bei persistierender Erkrankungsaktivität"
-            },
-            {
-              "Datei": "40_FollowUp.docx",
-              "Zitat": "aktuelle Therapie: Sulfasalazin 500 mg 2-0-2 seit 05/20"
-            },
-            {
-              "Datei": "40_FollowUp.docx",
               "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
+            },
+            {
+              "Datei": "40_FollowUp.docx",
+              "Zitat": "Nachdem sich dies auch im Bereich der Sehnen zeigt halten wir die Umstellung auf einen TNF-Alpha Inhibitor (Adalimumab) für sinnvoll."
             },
             {
               "Datei": "40_FollowUp.docx",
@@ -361,26 +653,27 @@
             },
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Nachdem sich dies auch im Bereich der Sehnen zeigt halten wir die Umstellung auf einen TNF-Alpha Inhibitor (Adalimumab) für sinnvoll."
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
+              "Zitat": "Sulfasalazin 500 mg 2-0-2 seit 05/2020"
+            },
             {
               "Datei": "40_FollowUp.docx",
-              "Zitat": "Aktuell zeigt sich sowohl klinisch wie auch radiologisch ein unzureichendes Ansprechen der Gelenke und Sehnen unter anit-IL-17 Therapie mit sogar einer Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)."
+              "Zitat": "TJC 20 (Vorwert 29)"
             }
           ]
         },
         "Hinweise": [
-          "Referenzbesuch 11.03.2021 liegt dem Scan vom 05.02.2021 näher als der Besuch vom 13.11.2020.",
-          "DAPSA, LEI, HAQ-DI und BSG aus „Untersuchung vom 11.3.2021“; CRP aus „Laborwerte vom 11.03.2021“. HAQ-DI unter HAQ erfasst.",
-          "TJC 20 und SJC 0 sind im zusammenfassenden Untersuchungsbefund nicht eigenständig datiert; Zählbereich nicht angegeben. TJC 20 zusätzlich in der aktuellen Beurteilung bestätigt.",
-          "PASI zeitlich nicht auflösbar widersprüchlich: 40_FollowUp.docx, „Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0“ gegenüber „PASI: 1 (Vorwert 1.3)“ unter Untersuchung vom 11.3.2021; deshalb PASI null.",
-          "Abweichende TJC-Vorwerte: 40_FollowUp.docx, „Gelenke: SJC 0 (Vorwert 4), TJC 20 (Vorwert 29)“ gegenüber „Zunahme der schmerzhaften Gelenke auf 20 (Vorwert 7)“. Aktueller Wert übereinstimmend 20; frühere Zählungen zeitlich unklar.",
-          "Zusätzlicher Befundblock ausdrücklich „Untersuchung vom 13.11.2021“ datiert, während die Einleitung 13.11.2020 nennt; Datum nicht korrigiert. Dort DAPSA 36, LEI 2, PASI 1 und HAQ-DI 0.63 dokumentiert; für datierte Felder wurden die eindeutig dem Referenzbesuch zugeordneten Werte bevorzugt.",
-          "Weitere Scores vom 11.03.2021, jeweils 40_FollowUp.docx: „DAS28: 3,68 (Vorwert 4.21)“, „MASES: 2 (Vorwert 2)“, „SPARCC: 4 (Vorwert 6“, „DLQI: 1 (Vorwert 0)“, „PsAQoL: 3 (Vorwert 8)“, „PSAID: 4.1 (Vorwert 6.8)“.",
-          "Therapiedauer im Text uneinheitlich mit drei beziehungsweise vier Monaten angegeben. Adalimumab als empfohlene Umstellung, nicht als bereits laufende Therapie erfasst.",
-          "Ansprechen Nein aufgrund ausdrücklich zunehmender schmerzhafter Gelenke und unzureichenden klinischen Ansprechens; reine Hautbesserung und niedrigere numerische Vorwerte belegen hier keinen ausdrücklich beschriebenen muskuloskelettalen Nutzen."
+          "Referenztermin 11.03.2021 liegt näher am Scan vom 05.02.2021 als der Besuch vom 13.11.2020.",
+          "DAPSA 31, LEI 2, PASI 1, HAQ-DI 0,63 und BSG 2 stammen aus „Untersuchung vom 11.3.2021“; HAQ-DI unter HAQ erfasst.",
+          "TJC 20 und SJC 0 im zusammenfassenden Untersuchungsbefund ohne eigenes Einzeldatum übernommen; Zählbereich nicht angegeben. Vorwerte dort TJC 29 und SJC 4, im Verlauf dagegen schmerzhafte Gelenke zuvor 7; aktuelle Werte übereinstimmend, Entwicklung widersprüchlich.",
+          "PASI 1 vom 11.03.2021 gegenüber undatiertem „Haut: Fußsohlen bds trocken schuppend, ansonsten unauffällig, PASI 0“ (40_FollowUp.docx) bevorzugt, da ausdrücklich dem Referenztermin zugeordnet.",
+          "Ein weiterer Abschnitt trägt ausdrücklich „Untersuchung vom 13.11.2021“ (40_FollowUp.docx); dieses Datum widerspricht dem eingangs genannten Besuch 13.11.2020 und wird nicht stillschweigend korrigiert. Dort DAPSA 36, LEI 2, PASI 1, HAQ-DI 0,63 und BSG 2.",
+          "CRP <5,2 mg/l vom 29.10.2020: erster Messwert nach Reihenfolge, verbindlich übernommen. Spätere Ergebnisse 1,1 mg/l am 13.11.2020 und <5,1 mg/l am 11.03.2021 nicht ausgewählt.",
+          "Weitere Scores am 11.03.2021, jeweils 40_FollowUp.docx: „DAS28: 3,68 (Vorwert 4.21)“, „MASES: 2 (Vorwert 2)“, „SPARCC: 4 (Vorwert 6“, „DLQI: 1 (Vorwert 0)“, „PsAQoL: 3 (Vorwert 8)“, „PSAID: 4.1 (Vorwert 6.8)“.",
+          "Weitere Scores im Abschnitt 13.11.2021, jeweils 40_FollowUp.docx: „DAS28: 4.3 (Vorwert 4.21)“, „MASES: 2 (Vorwert 2)“, „SPARCC: 6 (Vorwert 6)“, „DLQI: 0 (Vorwert 0)“, „PsAQoL: 8 (Vorwert 15)“, „PSAID: 6.8 (Vorwert 3.5)“.",
+          "Hautbesserung begründet kein muskuloskelettales Teilansprechen; dessen klinische Gesamtbewertung ist ausdrücklich unzureichend. Keine Ansprechaussage zu Adalimumab.",
+          "Therapiedauer Secukinumab widersprüchlich als drei beziehungsweise vier Monate angegeben; dokumentierter Zeitraum November 2020 bis März 2021.",
+          "Tuberkuloseprophylaxe begleitend bis Juni 2021: „Isozid comp. über insgesamt 9 Monate (6-2021), Einnahme von 300 mg/d“ (40_FollowUp.docx); keine Medikation zur Symptomkontrolle.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

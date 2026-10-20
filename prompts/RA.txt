@@ -1,27 +1,19 @@
 Du wertest anonymisierte Arztbriefe von Patienten mit rheumatoider Arthritis (RA) aus.
-
-Die wichtigste Aufgabe sind die vier klinischen Spalten:
-- Klinische Hauptmanifestation: wichtigste AKTUELLE Beschwerden und funktionelle
-  Einschränkungen, mit Gelenkregion und Seite, soweit klar. Ein bis zwei kurze
-  Sätze. Morgensteifigkeit und deren Dauer nur bei Dokumentation nennen.
-- Gelenkbefund: aktueller klinischer Untersuchungsbefund, insbesondere Schmerzen,
-  Druckschmerz, Schwellung, Synovitis und Bewegungseinschränkung. Regionen, Seite
-  und Finger-/Zehengelenke (z.B. MCP II/III rechts) nur so präzise wie im Brief.
-  Fehlender Druckschmerz ist nicht automatisch fehlende Schwellung und umgekehrt.
-  Ein ausdrücklich unauffälliger Gelenkstatus ist eine wichtige Angabe.
-- Weitere Gelenke: zusätzlich zur Hauptmanifestation relevante Gelenkregionen.
-  Frühere Beteiligung mit 'früher' kennzeichnen. Keine vollständige Gelenkliste
-  erzwingen. Die Diagnoseliste ist nicht automatisch ein aktueller Gelenkstatus.
-  Aktuelle Anamnese und Untersuchung haben Vorrang vor kopierten Diagnoselisten.
-  Schmerzen bei Arthrose oder bleibenden Schäden nicht automatisch als aktive
-  rheumatoide Arthritis einordnen. Bei unklarer Ursache Unsicherheit erhalten.
-- Verlauf: kurze inhaltstreue Zusammenfassung des dokumentierten Ansprechens,
-  z.B. gebessert, unverändert, verschlechtert, gemischt oder unklar, mit konkretem
-  Inhalt. Rückgang von Gelenkschmerzen, Schwellungen oder Morgensteifigkeit und
-  bessere Alltagsfunktion nennen, soweit dokumentiert. Verbleibende Beschwerden
-  und widersprüchliche Entwicklungen erhalten. Für Baseline den damaligen
-  Verlauf bis zur Vorstellung zusammenfassen, sonst 'Ausgangsbefund'.
-  Beschwerdefreiheit, Remission oder Therapieversagen nur bei Beleg formulieren.
+Klinische Hauptmanifestation: führende aktuelle Beschwerden und funktionelle
+Einschränkungen in ein bis zwei Sätzen. Periphere Gelenkbeschwerden, Synovitis /
+Gelenkschwellung und Morgensteifigkeit werden als vorhanden/verneint/unklar/nicht
+erwähnt erfasst. Schmerz ist nicht gleich Schwellung. Explizit unauffälliger
+Gelenkstatus ist eine wichtige Angabe. Unter Betroffene Regionen und Klinischer
+Befund (Details) Regionen, Seite, Finger-/Zehengelenke und Dauer der Morgensteifigkeit
+nur so genau wie im Brief nennen. Chronische Deformitäten, postoperative
+Versteifungen und Arthrose nicht automatisch als aktive RA bezeichnen.
+WICHTIG: Therapiebezogenes Ansprechen kann eine bereits abgeschlossene Therapie
+betreffen. 'Von Blinatumomab nicht profitiert' bleibt Keines für Blinatumomab,
+auch wenn beim Follow-up inzwischen Abatacept gegeben wird. Persistierende
+Krankheitsaktivität unter laufender Therapie separat als Krankheitszustand Aktiv
+codieren. Wenn Wirkung laut Brief noch abgewartet werden soll: Ansprechen Nicht
+beurteilbar, kein vorweggenommenes endgültiges Therapieversagen. Bei Remission
+nur den Zustand klassifizieren, sofern keine klinische Veränderung beschrieben ist.
 
 DAS28, TJC, SJC, SDAI, CDAI und HAQ nur als ausdrücklich dokumentierte Zahlen
 übernehmen. Keine Scores berechnen und keine Gelenke aus Freitext zählen.

@@ -7,7 +7,7 @@
       "Follow-up": "2021-02-15"
     }
   },
-  "fingerprint": "c54f586afecbf62714a445b70d160f965cf44a2294ba67cb7949a6a542fa5b47",
+  "fingerprint": "7287b5347c708f4151dd903c5290dc896d306fb75d31d3f03594be1e1867c45a",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,21 +20,78 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 12,
-        "Aktuelle Therapie": "Secukinumab 150 mg monatlich, seit 08/2020.",
-        "Klinische Hauptmanifestation": "Persistierende Wirbelsäulenschmerzen, vor allem lumbal. Keine peripheren synovitischen Gelenkschwellungen.",
-        "Axiale Beschwerden / ISG": "Persistierende Schmerzen vor allem an der LWS auch nach Umstellung auf Secukinumab.",
-        "Weitere Gelenke": "Keine peripheren synovitischen Gelenkschwellungen.",
-        "Verlauf": "Nach Umstellung auf Secukinumab weiterhin Wirbelsäulenschmerzen und klinisch persistierende Erkrankungsaktivität.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Persistierende Wirbelsäulenschmerzen, vor allem lumbal, auch nach Umstellung auf Secukinumab.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "unklar",
+        "Betroffene Regionen": "Wirbelsäule, insbesondere LWS.",
+        "Klinischer Befund (Details)": "Keine peripheren synovitischen Gelenkschwellungen. Achillessehnenentzündung diagnostisch aufgeführt, zeitliche Aktualität unklar; keine aktuelle klinische Enthesenuntersuchung dokumentiert.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Persistierende axiale Beschwerden und klinische Erkrankungsaktivität unter Secukinumab 150 mg monatlich. Probatorische Antibiotikatherapie erwogen; abhängig von der weiteren Abklärung Dosiserhöhung auf 300 mg monatlich, bei ausbleibender Besserung Umstellung auf einen JAK-Inhibitor.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Monate",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Secukinumab 150mg/Monat",
+            "Belege": [
+              {
+                "Datei": "3_Baseline.docx",
+                "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
+              },
+              {
+                "Datei": "3_Baseline.docx",
+                "Zitat": "In diesem Fall sollte die Dosis des Secukinumab auf 300mg/Monat unter Kontrolle nach Maßgabe der DGRh erhöht werden."
+              }
+            ],
+            "Hinweise": [
+              "Bedingte Dosiserhöhung auf 300 mg monatlich empfohlen; noch nicht als umgesetzt dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Doxycyclin",
+            "Dosis": 100,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Doxycyclin 100mg 1-0-1 (Vermeidung gleichzeitiger Einnahme von Milchprodukten und UV-Exposition) für 3 Wochen",
+            "Belege": [
+              {
+                "Datei": "3_Baseline.docx",
+                "Zitat": "In diesem Falle wäre eine erneute Antibiotika-Therapie mit Doxycyclin 100mg 1-0-1 (Vermeidung gleichzeitiger Einnahme von Milchprodukten und UV-Exposition) für 3 Wochen probatorisch sinnvoll."
+              }
+            ],
+            "Hinweise": [
+              "Bedingte probatorische Empfehlung; tatsächlicher Beginn nicht dokumentiert.",
+              "Zweimal tägliche Einnahme im Originalschema; kein gleichmäßiger Stundenabstand dokumentiert."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "3_Baseline.docx",
               "Zitat": "die sich am 19.10.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -61,24 +118,10 @@
               "Zitat": "BKS 12/21 mm/h"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "3_Baseline.docx",
-              "Zitat": "Aktuell: Secukinumab 150 mg (seit 08/20)"
-            },
-            {
-              "Datei": "3_Baseline.docx",
-              "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "3_Baseline.docx",
               "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
-            },
-            {
-              "Datei": "3_Baseline.docx",
-              "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung."
             }
           ],
           "Axiale Beschwerden / ISG": [
@@ -87,27 +130,65 @@
               "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
             }
           ],
-          "Weitere Gelenke": [
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "3_Baseline.docx",
               "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung."
             }
           ],
-          "Verlauf": [
+          "Enthesitis": [
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "Entzündung Achillessehne"
+            }
+          ],
+          "Betroffene Regionen": [
             {
               "Datei": "3_Baseline.docx",
               "Zitat": "Die Pat. berichtet über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Umstellung auf Secukinumab."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung."
             },
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "Entzündung Achillessehne"
+            }
+          ],
+          "Krankheitszustand": [
             {
               "Datei": "3_Baseline.docx",
               "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
             }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "Klinisch zeigt sich auch unter Secukinumab 150mg/Monat eine persistierende Erkrankungsaktivität."
+            },
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "In diesem Falle wäre eine erneute Antibiotika-Therapie mit Doxycyclin 100mg 1-0-1 (Vermeidung gleichzeitiger Einnahme von Milchprodukten und UV-Exposition) für 3 Wochen probatorisch sinnvoll."
+            },
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "In diesem Fall sollte die Dosis des Secukinumab auf 300mg/Monat unter Kontrolle nach Maßgabe der DGRh erhöht werden."
+            },
+            {
+              "Datei": "3_Baseline.docx",
+              "Zitat": "Sollte sich hierbei auch keine Befundbesserung einstellen, empfehlen wir eine Therapieumstellung auf JAK-Inhibition im Rahmen einer klinischen Studie im Haus."
+            }
           ]
         },
         "Hinweise": [
-          "Labordatum für CRP und BKS nicht angegeben.",
-          "BKS 12/21 mm/h: erster Wert gemäß Studienkonvention übernommen.",
-          "Achillessehnenentzündung und nächtlicher Rückenschmerz stehen in der Diagnoseliste; ihre aktuelle Ausprägung ist nicht gesondert beschrieben."
+          "CRP und BSG ohne eigenständiges Messdatum dokumentiert.",
+          "BSG gemäß Studienkonvention aus dem ersten Wert von BKS 12/21 übernommen.",
+          "Aktualität der diagnostisch aufgeführten Achillessehnenentzündung unklar; bildgebende Sehnenansatzbefunde nicht als klinische Enthesitis gewertet.",
+          "Bedingte spätere JAK-Inhibition ohne benannten Wirkstoff empfohlen.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -120,21 +201,101 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.1,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Secukinumab 300 mg alle vier Wochen, seit 11/2020.",
-        "Klinische Hauptmanifestation": "Weiterhin persistierende Wirbelsäulenschmerzen, vor allem lumbal, und aggravierte axiale Bewegungseinschränkung. Keine peripheren synovitischen Gelenkschwellungen.",
-        "Axiale Beschwerden / ISG": "Persistierende LWS-betonte Wirbelsäulenschmerzen trotz Secukinumab-Dosiserhöhung; weiterhin aggravierte axiale Bewegungseinschränkung.",
-        "Weitere Gelenke": "Keine peripheren synovitischen Gelenkschwellungen; frühere Achillessehnenentzündung.",
-        "Verlauf": "Auch nach Dosiserhöhung auf 300 mg Secukinumab weiterhin massive klinische Beschwerden und persistierende Aktivität. Umstellung auf Upadacitinib 15 mg täglich empfohlen; ein klinischer Nutzen von Secukinumab ist nicht eindeutig belegt.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Weiterhin ausgeprägte Wirbelsäulenschmerzen, insbesondere lumbal, trotz Secukinumab-Dosiserhöhung; verstärkte axiale Bewegungseinschränkung.",
+        "Axiale Beschwerden / ISG": "vorhanden",
+        "Periphere Gelenkbeschwerden": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "Wirbelsäule, insbesondere LWS.",
+        "Klinischer Befund (Details)": "Keine peripheren synovitischen Gelenkschwellungen; weiterhin verstärkte axiale Bewegungseinschränkung. Frühere Achillessehnenentzündung. Erosive Osteochondrosis intervertebralis als mögliche nichtentzündliche Beschwerdeursache erwogen.",
+        "Beurteilte Therapie": "Secukinumab 300 mg",
+        "Ansprechen": "Nicht beurteilbar",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter erhöht dosiertem Secukinumab persistierende massive klinische Beschwerden und Aktivität. Teilweises Ansprechen diagnostisch genannt, im Verlauf ausdrücklich bildgebend beschrieben; klinisches Besserungsausmaß bleibt unklar. Umstellung auf Upadacitinib im März 2021 dokumentiert, noch ohne belegten Nutzen. Antibiotikatherapie über Wochen ohne Beschwerdebesserung; nichtentzündliche Ursache differentialdiagnostisch erwogen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 300,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 4,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)",
+            "Belege": [
+              {
+                "Datei": "3_FollowUp.docx",
+                "Zitat": "bisherige Therapie: Adalimumab 03/2020-08/2020 (unzureichende Wirkung), Secukinumab 150 mg (seit 08/20), Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)"
+              },
+              {
+                "Datei": "3_FollowUp.docx",
+                "Zitat": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat, auch wenn das FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt."
+              }
+            ],
+            "Hinweise": [
+              "Am Referenztermin noch laufend; im zusammenfassenden Brief bis März 2021 dokumentiert und anschließend umgestellt.",
+              "Intervall widersprüchlich als alle vier Wochen und pro Monat angegeben; strukturierte Angabe aus der ausdrücklich datierten Therapieübersicht übernommen."
+            ]
+          },
+          {
+            "Wirkstoff": "Upadacitinib",
+            "Dosis": 15,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Upadacitinib 15mg 0-0-1",
+            "Belege": [
+              {
+                "Datei": "3_FollowUp.docx",
+                "Zitat": "aktuelle Therapie: Umstellung auf Upadacitinib 15mg 0-0-1 bei klinisch und radiographisch persistierender Aktivität 03/21"
+              },
+              {
+                "Datei": "3_FollowUp.docx",
+                "Zitat": "empfehlen wir eine Therapieumstellung auf Upadacitinib 15mg 1x/Tag, unter Kontrolle nach Maßgabe der DGRh."
+              }
+            ],
+            "Hinweise": [
+              "Als aktuelle Therapie ab März 2021 aufgeführt, somit nach Referenztermin und Scan; im Verlauf zugleich als Empfehlung formuliert."
+            ]
+          },
+          {
+            "Wirkstoff": "Antibiotikum, nicht benannt",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Antibiotikatherapie über Wochen",
+            "Belege": [
+              {
+                "Datei": "3_FollowUp.docx",
+                "Zitat": "Antibiotikatherapie über Wochen ohne Besserung der Beschwerden."
+              }
+            ],
+            "Hinweise": [
+              "Wirkstoff, Dosierung und genaue Behandlungsdaten fehlen; keine Gleichsetzung mit der Baseline-Empfehlung."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "3_FollowUp.docx",
               "Zitat": "die sich am 18.01.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "C-reaktives Protein <5,1 mg/l"
             }
           ],
           "CRP-Wert": [
@@ -155,12 +316,6 @@
               "Zitat": "C-reaktives Protein <5,1 mg/l"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "3_FollowUp.docx",
-              "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "3_FollowUp.docx",
@@ -175,13 +330,21 @@
             {
               "Datei": "3_FollowUp.docx",
               "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
-            },
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "3_FollowUp.docx",
               "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung, weiterhin aggravierte axiale Bewegungseinschränkung."
             }
           ],
-          "Weitere Gelenke": [
+          "Betroffene Regionen": [
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Die Pat. berichtet weiterhin über eine persistierende Schmerzsymptomatik im Bereich der WS vor allem im Bereich der LWS, auch nach Dosiserhöhung von Secukinumab auf 300mg alle 4 Wo. seit 11/20."
+            }
+          ],
+          "Klinischer Befund (Details)": [
             {
               "Datei": "3_FollowUp.docx",
               "Zitat": "Gelenkstatus: keine periph. synovitische Gelenkschwellung, weiterhin aggravierte axiale Bewegungseinschränkung."
@@ -189,6 +352,36 @@
             {
               "Datei": "3_FollowUp.docx",
               "Zitat": "Z.n. Entzündung Achillessehne"
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Weiterhin sollte eine erosive Osteochondrosis intervertebralis differentialdiagnostisch als nicht-entzündliche Ursache der Beschwerden berücksichtigt werden."
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)"
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat, auch wenn das FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)"
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat, auch wenn das FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Klinisch und radiographisch zeigt sich eine persistierende Aktivität unter 300mg Secukinumab pro Monat, auch wenn das FAPI PET/CT 02/21 ein partielles Ansprechen auf die bisherige immunsuppressive Therapie zeigt."
             }
           ],
           "Verlauf": [
@@ -198,15 +391,33 @@
             },
             {
               "Datei": "3_FollowUp.docx",
+              "Zitat": "Dosiserhöhung auf 300mg alle 4 Wo. (11/20-03/21 mit teilweise Ansprechen)"
+            },
+            {
+              "Datei": "3_FollowUp.docx",
               "Zitat": "Aufgrund der persistierenden massiven klinischen Symptomatik und der signifikanten Restaktivität (MRT-morphologisch und im FAPI PET/CT) empfehlen wir eine Therapieumstellung auf Upadacitinib 15mg 1x/Tag, unter Kontrolle nach Maßgabe der DGRh."
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Umstellung auf Upadacitinib 15mg 0-0-1 bei klinisch und radiographisch persistierender Aktivität 03/21"
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Antibiotikatherapie über Wochen ohne Besserung der Beschwerden."
+            },
+            {
+              "Datei": "3_FollowUp.docx",
+              "Zitat": "Weiterhin sollte eine erosive Osteochondrosis intervertebralis differentialdiagnostisch als nicht-entzündliche Ursache der Beschwerden berücksichtigt werden."
             }
           ]
         },
         "Hinweise": [
-          "CRP vom 18.01.2021.",
-          "Der Brief enthält nachträgliche Ergänzungen bis 03/2021; deren Aussagen sind nicht durchgehend dem Referenzbesuch am 18.01.2021 zuzuordnen.",
-          "Upadacitinib ist mit Therapiebeginn 03/2021 vermerkt und war am klinischen Referenztermin keine laufende Therapie.",
-          "Ansprechen bleibt unklar: Die Therapiehistorie nennt „11/20-03/21 mit teilweise Ansprechen“, ohne klinischen Nutzen eindeutig zu beschreiben. Im aktuellen Verlauf wird partielles Ansprechen ausdrücklich anhand des FAPI-PET beschrieben; fortbestehende Beschwerden allein belegen kein Nein."
+          "Einziger eindeutig belegter rheumatologischer Besuch am 18.01.2021; spätere Bildgebung und Therapieangaben bis März 2021 gehören zur zusammenfassenden Follow-up-Episode.",
+          "CRP-Messung vom 18.01.2021.",
+          "Das diagnostisch genannte teilweise Ansprechen ist nicht eindeutig klinisch zugeordnet; im Verlauf wird ausdrücklich ein partielles PET-Ansprechen beschrieben. Daher kein gesichert klassifizierbares klinisches Veränderungsausmaß unter Secukinumab.",
+          "Keine klinische Ansprechaussage zu Upadacitinib dokumentiert.",
+          "Frühere Achillessehnenentzündung belegt keine aktuelle Enthesitis.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

@@ -34,11 +34,66 @@
     "Klinische Hauptmanifestation",
     "Periphere Gelenkbeschwerden",
     "Axiale Beschwerden / ISG",
+    "Synovitis / Gelenkschwellung",
+    "Enthesitis",
+    "Daktylitis",
+    "Hautbeteiligung",
+    "Nagelbeteiligung",
+    "Betroffene Regionen",
+    "Klinischer Befund (Details)"
+  ],
+  "auswahlwerte": {
+    "Periphere Gelenkbeschwerden": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Axiale Beschwerden / ISG": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Synovitis / Gelenkschwellung": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Enthesitis": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Daktylitis": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Hautbeteiligung": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Nagelbeteiligung": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ]
+  },
+  "gekoppelte_felder": [],
+  "status_spalten": [
+    "Periphere Gelenkbeschwerden",
+    "Axiale Beschwerden / ISG",
+    "Synovitis / Gelenkschwellung",
     "Enthesitis",
     "Daktylitis",
     "Hautbeteiligung",
     "Nagelbeteiligung"
-  ],
-  "auswahlwerte": {},
-  "gekoppelte_felder": []
+  ]
 }

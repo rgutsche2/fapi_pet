@@ -7,7 +7,7 @@
       "Follow-up": "2025-09-23"
     }
   },
-  "fingerprint": "196a6bb134612324172a3f8a820416da43090feec8151e76ffacce4267884bee",
+  "fingerprint": "662e3b8e19c681f69a07043a6d92f343817cbe1f904db4917f2d22c0d41b9a8a",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,59 +20,136 @@
         "LEI": null,
         "PASI": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.2,
         "CRP-Vergleichszeichen": "<",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 6,
-        "Aktuelle Therapie": "Bei Vorstellung Secukinumab-Monotherapie, 300 mg s.c.; im weiteren Verlauf abgesetzt.",
-        "Klinische Hauptmanifestation": "Führend schmerzhaft geschwollenes linkes Knie sowie Schmerzen der linken Schulter mit Bewegungseinschränkung. Zusätzlich Beschwerden an Händen und Beugesehnen.",
-        "Periphere Gelenkbeschwerden": "Linkes Knie schmerzhaft, druckschmerzhaft und geschwollen; Schmerzen der Beugesehnen beider Hände und persistierende Morgensteifigkeit ohne dokumentierte Dauer. Druckschmerz am rechten MCP IV sowie an der linken Schulter mit Bewegungseinschränkung und Schmerz-VAS 9.",
-        "Axiale Beschwerden / ISG": null,
-        "Enthesitis": null,
-        "Daktylitis": null,
-        "Hautbeteiligung": "Psoriasis aktuell gut kontrolliert, leicht aktiv zwischen den Fingern beider Hände.",
-        "Nagelbeteiligung": null,
-        "Verlauf": "Seit Umstellung auf Secukinumab im März 2023 keine deutliche Verbesserung der Gelenksymptomatik. Beim linken Knie wird zusätzlich eine mechanische Komponente beschrieben. Secukinumab im weiteren Verlauf abgesetzt; Umstellung auf Adalimumab 40 mg alle zwei Wochen empfohlen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Schmerzhafte Schwellung des linken Knies, Handsymptomatik und schmerzhafte Bewegungseinschränkung der linken Schulter.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Enthesitis": "nicht erwähnt",
+        "Daktylitis": "nicht erwähnt",
+        "Hautbeteiligung": "vorhanden",
+        "Nagelbeteiligung": "nicht erwähnt",
+        "Betroffene Regionen": "Linkes Knie, linke Schulter, rechtes MCP IV und Beugesehnen beider Hände; Haut zwischen den Fingern beidseits.",
+        "Klinischer Befund (Details)": "Linkes Knie druckschmerzhaft und geschwollen, zusätzlich mechanische Komponente. Druckschmerz am rechten MCP IV und an der linken Schulter mit Bewegungseinschränkung, Schulter-VAS 9. Persistierende Morgensteifigkeit der Hände ohne dokumentierte Dauer. Leichte Rötung zwischen den Fingern beider Hände.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Secukinumab seit März 2023 keine deutliche Gelenkbesserung; persistierende Knie-, Hand- und Schulterbeschwerden bei nur leichter Hautaktivität. Secukinumab abgesetzt, Umstellung auf Adalimumab empfohlen. Kniebeschwerden mit zusätzlicher mechanischer Komponente.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 300,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Secukinumab 300mg s.c. abgesetzt",
+            "Belege": [
+              {
+                "Datei": "34_Baseline.docx",
+                "Zitat": "Secukinumab 300mg s.c. abgesetzt"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Adalimumab",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 2,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Adalimumab 40 mg alle 2 Wochen",
+            "Belege": [
+              {
+                "Datei": "34_Baseline.docx",
+                "Zitat": "Daher empfehlen wir eine Therapieumstellung auf Adalimumab 40 mg alle 2 Wochen."
+              }
+            ],
+            "Hinweise": [
+              "Empfohlene Umstellung; tatsächliche erste Anwendung nicht eindeutig belegt."
+            ]
+          },
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": 600,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "unklar",
+            "Dosierung (Original)": "Ibuprofen 600 praktisch nicht mehr",
+            "Belege": [
+              {
+                "Datei": "34_Baseline.docx",
+                "Zitat": "Ibuprofen 600 praktisch nicht mehr"
+              }
+            ],
+            "Hinweise": [
+              "Einheit, Einnahmehäufigkeit und vollständiges Absetzen nicht eindeutig dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Triamcinolon",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Am Ende des Eingriffs wurden 40 mg Triancinolon injiziert.",
+            "Belege": [
+              {
+                "Datei": "34_Baseline.docx",
+                "Zitat": "Am Ende des Eingriffs wurden 40 mg Triancinolon injiziert."
+              }
+            ],
+            "Hinweise": [
+              "Einmalige lokale Injektion bei Gelenkpunktion am 26.07.2023; Originalschreibweise Triancinolon."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 34, der sich am 10.07.2023 ambulant vorstellte."
+              "Zitat": "der sich am 10.07.2023 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Wert": [
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein <5,2 mg/l"
             }
           ],
           "BSG (mm nach 1 h)": [
             {
               "Datei": "34_Baseline.docx",
               "Zitat": "BKS: 6"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "34_Baseline.docx",
-              "Zitat": "WV bei bek. PsA unter Secukinumab-Mono-Therapie seit März 2023."
-            },
-            {
-              "Datei": "34_Baseline.docx",
-              "Zitat": "Secukinumab 300mg s.c. abgesetzt"
             }
           ],
           "Klinische Hauptmanifestation": [
@@ -82,13 +159,45 @@
             },
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "Gelenke: li. Knie DS und Schwellung, DS 4 MCP Hand re., DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter"
+              "Zitat": "DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter"
             }
           ],
           "Periphere Gelenkbeschwerden": [
             {
               "Datei": "34_Baseline.docx",
               "Zitat": "V.a. Schmerzen am linken Knie mit begleitender Schwellung und Schmerzen der Beugesehnen an beiden Händen."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "li. Knie DS und Schwellung"
+            }
+          ],
+          "Hautbeteiligung": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Die Schuppenflechte ist aktuell gut kontrolliert und nur leicht aktiv zwischen den Fingern beider Hände."
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "V.a. Schmerzen am linken Knie mit begleitender Schwellung und Schmerzen der Beugesehnen an beiden Händen."
+            },
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "DS 4 MCP Hand re., DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter"
+            },
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Die Schuppenflechte ist aktuell gut kontrolliert und nur leicht aktiv zwischen den Fingern beider Hände."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "li. Knie DS und Schwellung, DS 4 MCP Hand re., DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter"
             },
             {
               "Datei": "34_Baseline.docx",
@@ -96,13 +205,21 @@
             },
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "Gelenke: li. Knie DS und Schwellung, DS 4 MCP Hand re., DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter"
-            }
-          ],
-          "Hautbeteiligung": [
+              "Zitat": "Haut: leichte rötliche Stelle an beinen Händen zwischen den Fingern"
+            },
             {
               "Datei": "34_Baseline.docx",
-              "Zitat": "Die Schuppenflechte ist aktuell gut kontrolliert und nur leicht aktiv zwischen den Fingern beider Hände."
+              "Zitat": "Hier bestehet anamnestisch auch eine mechanische Komponente."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Bei der Klinisch Untersuchung Synovialitis des li. Knie ohne begleitendes Power-Doppler-Signal bei der sonographischen Untersuchung."
+            },
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Seit der Therapieumstellung keine deutliche Verbesserung der Gelenksymptomatik."
             }
           ],
           "Verlauf": [
@@ -116,22 +233,28 @@
             },
             {
               "Datei": "34_Baseline.docx",
+              "Zitat": "Die Schuppenflechte ist aktuell gut kontrolliert und nur leicht aktiv zwischen den Fingern beider Hände."
+            },
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Daher empfehlen wir eine Therapieumstellung auf Adalimumab 40 mg alle 2 Wochen."
+            },
+            {
+              "Datei": "34_Baseline.docx",
+              "Zitat": "Secukinumab abgesetzt"
+            },
+            {
+              "Datei": "34_Baseline.docx",
               "Zitat": "Hier bestehet anamnestisch auch eine mechanische Komponente."
-            },
-            {
-              "Datei": "34_Baseline.docx",
-              "Zitat": "Daher empfehlen wir eine Therapieumstellung auf Adalimumab 40 mg alle 2 Wochen."
-            },
-            {
-              "Datei": "34_Baseline.docx",
-              "Zitat": "- Secukinumab abgesetzt"
             }
           ]
         },
         "Hinweise": [
-          "CRP und BKS: Labordatum nicht angegeben; BKS gemäß Studienkonvention als BSG nach einer Stunde in mm übernommen.",
-          "Secukinumab ist in der Anamnese als laufend, in der späteren Therapieempfehlung als abgesetzt dokumentiert. Adalimumab ist als Umstellung empfohlen; ein tatsächlicher Beginn bis zum Referenzbesuch ist nicht belegt.",
-          "Schmerz-VAS der Schulter: 9; Beleg: 34_Baseline.docx, „DS li. Schulter mit Bewegungseinschränkung, VAS 9 in Schulter“. Skalenbereich nicht angegeben."
+          "CRP und BKS ohne eigenständiges Labordatum; CRP gemäß verbindlich erkanntem ersten Messwert übernommen.",
+          "Schulter-VAS 9 dokumentiert, Skalenbereich nicht angegeben.",
+          "Keine klinisch eindeutige Enthesenzuordnung; bildgebende Ansatzsehnentendinopathien nicht als klinische Enthesitis gewertet.",
+          "Biopsie und lokale Injektion am 26.07.2023 ersetzen den ambulanten Referenztermin nicht.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -144,25 +267,114 @@
         "LEI": null,
         "PASI": 0,
         "HAQ": null,
-        "CRP-Wert": 8,
+        "CRP dokumentiert": "Ja",
+        "CRP-Wert": 8.0,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Risankizumab, Injektionen am 28.07. und 28.08.2025; Dosis nicht angegeben. Zusätzlich Ibuprofen 600 mg täglich.",
-        "Klinische Hauptmanifestation": "Aktive Gelenkbeschwerden mit starken, persistierenden Schmerzen beider Handgelenke und Finger, besonders der Daumengelenke, sowie des linken Knies. Eingeschränkte Handflexion, ganztägige Morgensteifigkeit und nächtliches Erwachen durch Gelenkbeschwerden.",
-        "Periphere Gelenkbeschwerden": "Starke Dauerschmerzen beider Handgelenke und Finger, besonders der Daumengelenke, sowie des linken Knies; keine Besserung durch Bewegung. Linkes Knie geschwollen, unter Belastung zunehmend; Druckschmerz beider Handgelenke und Daumengrundgelenke sowie am linken oberen Sprunggelenk. Handflexion besonders links eingeschränkt. Im Beurteilungstext abweichend Erguss des rechten Knies dokumentiert.",
-        "Axiale Beschwerden / ISG": null,
-        "Enthesitis": null,
-        "Daktylitis": null,
-        "Hautbeteiligung": "Gute Hautwirkung unter Risankizumab; aktuell keine psoriatischen Hautläsionen. Einige Wochen zuvor aktive Psoriasis beider Unterschenkel, topisch dermatologisch behandelt.",
-        "Nagelbeteiligung": null,
-        "Verlauf": "Unter Risankizumab gute Hautwirkung, jedoch zunehmende Gelenkbeschwerden ohne dokumentierten muskuloskelettalen Nutzen. Weiterhin aktive PsA mit starken Hand- und Kniebeschwerden und funktioneller Einschränkung. Umstellung auf Golimumab empfohlen; Beginn nicht belegt.",
-        "Ansprechen (Ja/Nein)": "Nein",
+        "Klinische Hauptmanifestation": "Aktive periphere PsA mit persistierenden Hand- und Knieschmerzen, eingeschränkter Handflexion und ganztägiger Morgensteifigkeit.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Axiale Beschwerden / ISG": "nicht erwähnt",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Enthesitis": "nicht erwähnt",
+        "Daktylitis": "nicht erwähnt",
+        "Hautbeteiligung": "verneint",
+        "Nagelbeteiligung": "nicht erwähnt",
+        "Betroffene Regionen": "Handgelenke und Daumengrundgelenke beidseits, Finger, linkes oberes Sprunggelenk und Knie; Knieseite widersprüchlich dokumentiert.",
+        "Klinischer Befund (Details)": "Starke anhaltende Hand-, Finger- und linke Knieschmerzen mit nächtlichem Erwachen; ganztägige Morgensteifigkeit ohne Besserung durch Bewegung. Handflexion insbesondere links eingeschränkt. SJC 1 mit linkem Knie im Gelenkstatus; im Verlauf dagegen rechter Knieerguss genannt. Sonografisch aktive Synovitis im linken Handgelenk. Aktuell keine Hautläsionen, zuvor Psoriasis beider Unterschenkel.",
+        "Beurteilte Therapie": "Risankizumab",
+        "Ansprechen": "Nicht beurteilbar",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Risankizumab gute Hautwirkung bis zum Fehlen aktueller Läsionen, jedoch zunehmende muskuloskelettale Beschwerden und aktive PsA. Keine belegte klinische Gelenkbesserung; Umstellung auf Golimumab empfohlen. Einnahme von täglich 600 mg Ibuprofen; vorausgegangener Prednisolonstoß.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Risankizumab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "laufend",
+            "Dosierung (Original)": "Die Injektionen wurden am 28.07.2025 und 28.08.2025 appliziert.",
+            "Belege": [
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Wiedervorstellung zur Verlaufskontrolle bei bekannter Psoriasis-Arthritis, zuletzt unter Therapie mit Risankizumab."
+              },
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Die Injektionen wurden am 28.07.2025 und 28.08.2025 appliziert."
+              }
+            ],
+            "Hinweise": [
+              "Aus zwei Anwendungstagen kein regelmäßiges Intervall abgeleitet; Umstellung empfohlen, Absetzen nicht ausdrücklich bestätigt."
+            ]
+          },
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": 600,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "täglich 600 mg Ibuprofen",
+            "Belege": [
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Der Patient nimmt derzeit täglich 600 mg Ibuprofen ein."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Prednisolon",
+            "Dosis": 20,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Am 28.07.2025 wurde zusätzlich ein Kortisonstoß mit 20 mg Prednisolon über zwei Wochen durchgeführt.",
+            "Belege": [
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Am 28.07.2025 wurde zusätzlich ein Kortisonstoß mit 20 mg Prednisolon über zwei Wochen durchgeführt."
+              }
+            ],
+            "Hinweise": [
+              "Zwei Wochen bezeichnet die Behandlungsdauer; Einnahmeintervall nicht ausdrücklich angegeben."
+            ]
+          },
+          {
+            "Wirkstoff": "Golimumab",
+            "Dosis": 50,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "geplant",
+            "Dosierung (Original)": "Beginn Golimumab 50mg 1x monatlich; Golimumab 50 mg einmal wöchentlich",
+            "Belege": [
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Beginn Golimumab 50mg 1x monatlich"
+              },
+              {
+                "Datei": "34_FollowUp.docx",
+                "Zitat": "Daher empfehlen wir die Umstellung der Therapie auf Golimumab 50 mg einmal wöchentlich."
+              }
+            ],
+            "Hinweise": [
+              "Widersprüchliches Intervall: monatlich in Diagnose und Therapieempfehlung, wöchentlich im Verlauf; daher Intervallfelder null."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 34, der sich am 11.09.2025 und am 12.12.2025 ambulant vorstellte."
+              "Zitat": "der sich am 11.09.2025 und am 12.12.2025 ambulant vorstellte."
             }
           ],
           "DAPSA": [
@@ -189,36 +401,28 @@
               "Zitat": "PASI 0.0"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 8,0 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 8,0 mg/l (-<5,5 mg/l)"
+              "Zitat": "C-reaktives Protein 8,0 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 8,0 mg/l (-<5,5 mg/l)"
+              "Zitat": "C-reaktives Protein 8,0 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 8,0 mg/l (-<5,5 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Wiedervorstellung zur Verlaufskontrolle bei bekannter Psoriasis-Arthritis, zuletzt unter Therapie mit Risankizumab."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Die Injektionen wurden am 28.07.2025 und 28.08.2025 appliziert."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Der Patient nimmt derzeit täglich 600 mg Ibuprofen ein."
+              "Zitat": "C-reaktives Protein 8,0 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
@@ -232,10 +436,6 @@
             },
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "Es kommt zu nächtlichem Erwachen aufgrund der Gelenkbeschwerden."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
               "Zitat": "Klinisch zeigten sich Druckdolenz in beiden Handgelenken sowie eine eingeschränkte Handflexion."
             }
           ],
@@ -243,18 +443,12 @@
             {
               "Datei": "34_FollowUp.docx",
               "Zitat": "Der Patient berichtet über starke, persistierende Schmerzen in beiden Handgelenken und Fingern, insbesondere in den Daumengelenken, sowie im linken Knie."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Die Schmerzen bestehen durchgängig, die Morgensteifigkeit hält ganztägig an, eine Besserung durch Bewegung wird verneint."
-            },
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "34_FollowUp.docx",
               "Zitat": "Das linke Knie ist geschwollen, wobei die Schwellung unter Belastung zunimmt."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Gelenkstatus: SJ 1 (Knie li), TJ 6: HG, Daumengrundgelenk bds, OSG links, Handflexion eingeschränkt insb links"
             },
             {
               "Datei": "34_FollowUp.docx",
@@ -264,11 +458,61 @@
           "Hautbeteiligung": [
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "Unter Risankizumab zeigte sich eine gute Wirkung auf die Haut, jedoch bestehen weiterhin zunehmende Gelenkbeschwerden."
+              "Zitat": "aktuell bestehen keine psoriatischen Hautläsionen."
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJ 1 (Knie li), TJ 6: HG, Daumengrundgelenk bds, OSG links, Handflexion eingeschränkt insb links"
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Der Patient berichtet über starke, persistierende Schmerzen in beiden Handgelenken und Fingern, insbesondere in den Daumengelenken, sowie im linken Knie."
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Klinisch und sonografisch wurde ein Erguss im rechten Kniegelenk nachgewiesen, im linken Handgelenk zeigte sich eine Synovitis Grad 2 mit Powerdoppler Grad 2."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Die Schmerzen bestehen durchgängig, die Morgensteifigkeit hält ganztägig an, eine Besserung durch Bewegung wird verneint."
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Es kommt zu nächtlichem Erwachen aufgrund der Gelenkbeschwerden."
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Gelenkstatus: SJ 1 (Knie li), TJ 6: HG, Daumengrundgelenk bds, OSG links, Handflexion eingeschränkt insb links"
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Klinisch und sonografisch wurde ein Erguss im rechten Kniegelenk nachgewiesen, im linken Handgelenk zeigte sich eine Synovitis Grad 2 mit Powerdoppler Grad 2."
             },
             {
               "Datei": "34_FollowUp.docx",
               "Zitat": "Zudem berichtete der Patient über eine aktive Psoriasis beider Unterschenkel vor einigen Wochen, welche dermatologisch topisch behandelt wurde; aktuell bestehen keine psoriatischen Hautläsionen."
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Unter Risankizumab zeigte sich eine gute Wirkung auf die Haut, jedoch bestehen weiterhin zunehmende Gelenkbeschwerden."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Unter Risankizumab zeigte sich eine gute Wirkung auf die Haut, jedoch bestehen weiterhin zunehmende Gelenkbeschwerden."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Insgesamt besteht eine aktive Psoriasis-Arthritis."
             }
           ],
           "Verlauf": [
@@ -278,11 +522,7 @@
             },
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "Der Patient berichtet über starke, persistierende Schmerzen in beiden Handgelenken und Fingern, insbesondere in den Daumengelenken, sowie im linken Knie."
-            },
-            {
-              "Datei": "34_FollowUp.docx",
-              "Zitat": "Klinisch zeigten sich Druckdolenz in beiden Handgelenken sowie eine eingeschränkte Handflexion."
+              "Zitat": "aktuell bestehen keine psoriatischen Hautläsionen."
             },
             {
               "Datei": "34_FollowUp.docx",
@@ -290,23 +530,26 @@
             },
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "Beginn Golimumab 50mg 1x monatlich"
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
+              "Zitat": "Daher empfehlen wir die Umstellung der Therapie auf Golimumab 50 mg einmal wöchentlich."
+            },
             {
               "Datei": "34_FollowUp.docx",
-              "Zitat": "Unter Risankizumab zeigte sich eine gute Wirkung auf die Haut, jedoch bestehen weiterhin zunehmende Gelenkbeschwerden."
+              "Zitat": "Der Patient nimmt derzeit täglich 600 mg Ibuprofen ein."
+            },
+            {
+              "Datei": "34_FollowUp.docx",
+              "Zitat": "Am 28.07.2025 wurde zusätzlich ein Kortisonstoß mit 20 mg Prednisolon über zwei Wochen durchgeführt."
             }
           ]
         },
         "Hinweise": [
-          "Referenzbesuch 11.09.2025 liegt dem Scan am nächsten. Anamnese, Gelenkstatus, DAPSA, PASI und Therapieangaben sind im zusammenfassenden Brief nicht eindeutig einem der beiden Besuche zugeordnet.",
-          "TJC 6 und SJC 1 ausdrücklich dokumentiert; standardisierter Zählbereich nicht angegeben.",
-          "CRP 8,0 mg/l vom 11.09.2025 gewählt. Weiterer Wert vom 12.12.2025: „C-reaktives Protein 6,1 mg/l (-<5,5 mg/l)“ (34_FollowUp.docx).",
-          "Widersprüchliche Knieseite: Anamnese und Gelenkstatus nennen links, die Beurteilung einen Erguss rechts. Keine zusätzliche Gelenkzahl daraus abgeleitet.",
-          "Golimumab nur empfohlen; widersprüchliches Intervall: „Daher empfehlen wir die Umstellung der Therapie auf Golimumab 50 mg einmal wöchentlich.“ gegenüber „Beginn Golimumab 50mg 1x monatlich“ (34_FollowUp.docx).",
-          "Das Ansprechen bezieht sich auf die muskuloskelettale PsA unter Risankizumab; die dokumentierte Hautbesserung bleibt davon getrennt."
+          "11.09.2025 ist der scan-nächste belegte Besuch; weiterer Besuch am 12.12.2025.",
+          "DAPSA 16, PASI 0 sowie TJ 6 und SJ 1 im zusammenfassenden Brief ohne eindeutige Zuordnung zu einem der beiden Besuche; Werte übernommen. TJC-/SJC-Zählbereich nicht angegeben.",
+          "CRP 8,0 mg/l vom 11.09.2025: erster Messwert nach Reihenfolge. Späterer Wert 6,1 mg/l vom 12.12.2025 nicht ausgewählt.",
+          "Knieseite widersprüchlich: Anamnese und Gelenkstatus links, Verlaufsbeurteilung rechts; keine beidseitige Schwellung daraus abgeleitet.",
+          "Ansprechen Nicht beurteilbar: gute Hautwirkung ist kein muskuloskelettaler Veränderungsnachweis; zunehmende Gelenkbeschwerden und aktive Erkrankung ohne ausdrücklich formulierte fehlende oder unzureichende Risankizumab-Wirkung erlauben hier keine sichere Ansprechkategorie.",
+          "Bildgebende spinale Enthesitis ohne dokumentierte klinische Enthesitis oder axiale Beschwerden; diese Statusfelder daher nicht erwähnt.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

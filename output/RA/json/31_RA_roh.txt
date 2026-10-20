@@ -10,39 +10,123 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
-      "CRP-Wert": 15.1,
-      "CRP-Vergleichszeichen": "=",
+      "CRP dokumentiert": "Ja",
+      "CRP-Wert": 10.38,
+      "CRP-Vergleichszeichen": ">",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": null,
-      "Klinische Hauptmanifestation": "Seit Anfang 2017 wechselnd starke Schmerzen an linker Schulter, rechtem Knie, beiden Handgelenken und linkem Vorfuß.",
-      "Gelenkbefund": null,
-      "Weitere Gelenke": null,
-      "Verlauf": "Anhaltende wechselnde Gelenkschmerzen nach wiederholten NSAR- und Steroidbehandlungen. Im Verlauf der Baseline-Episode Einleitung von Methotrexat 15 mg wöchentlich mit Folsäure empfohlen; selbständiger erneuter Steroidbeginn mit 20 mg am 07.10.2018 dokumentiert.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Wechselnd starke Schmerzen an linker Schulter, rechtem Knie, beiden Handgelenken und linkem Vorfuß.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "nicht erwähnt",
+      "Morgensteifigkeit": "nicht erwähnt",
+      "Betroffene Regionen": "Linke Schulter, rechtes Knie, Handgelenke beidseits, linker Vorfuß.",
+      "Klinischer Befund (Details)": "Anamnestisch seit Anfang 2017 wechselnd starke Gelenkschmerzen; kein spezifischer klinischer Gelenkstatus dokumentiert.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Bei schmerzhaften Gelenken und deutlicher Entzündungsaktivität wurde eine seropositive RA diagnostiziert. Methotrexat wurde zum Beginn besprochen; die am 07.10.2018 selbständig erneut begonnene Steroidtherapie sollte zunächst fortgeführt und anschließend ausgeschlichen werden.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Methotrexat 15 mg p.o. /Woche",
+          "Belege": [
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Wir besprachen mit Herrn Pfister und seiner Frau zunächst den Beginn einer Therapie mit Methotrexat 15 mg p.o. /Woche sowie 5mg Folsäure am Folgetag (Einnahme 24h später nach Methotrexat)."
+            }
+          ],
+          "Hinweise": [
+            "Beginn im Oktober 2018 angegeben; tatsächlicher erster Einnahmetag nicht belegt."
+          ]
+        },
+        {
+          "Wirkstoff": "Folsäure",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "5mg Folsäure am Folgetag (Einnahme 24h später nach Methotrexat).",
+          "Belege": [
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Wir besprachen mit Herrn Pfister und seiner Frau zunächst den Beginn einer Therapie mit Methotrexat 15 mg p.o. /Woche sowie 5mg Folsäure am Folgetag (Einnahme 24h später nach Methotrexat)."
+            }
+          ],
+          "Hinweise": [
+            "Wöchentliches Intervall durch Einnahme am Folgetag der wöchentlichen Methotrexatgabe."
+          ]
+        },
+        {
+          "Wirkstoff": "Systemisches Glukokortikoid, nicht näher bezeichnet",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Die am WE erneut begonnene Steroidtherapie mit 20mg /d für 1 Woche fortsetzen. Im weiteren Verlauf ist dann eine Dosisreduktion um 5 mg/d in Woche 2 auf 15 g/d, sowie in Woche 3 mit 10mg/d, Woche 4 7,5 mg/d, Woche 5 5 mg/d, Woche 6 2,5mg/d",
+          "Belege": [
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Z.n. rez. höher dosierter Steroidtherapie, aktuell erneuter selbständiger Beginn mit 20mg Steroide am 7.10.2018"
+            },
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Die am WE erneut begonnene Steroidtherapie mit 20mg /d für 1 Woche fortsetzen."
+            },
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Im weiteren Verlauf ist dann eine Dosisreduktion um 5 mg/d in Woche 2 auf 15 g/d, sowie in Woche 3 mit 10mg/d, Woche 4 7,5 mg/d, Woche 5 5 mg/d, Woche 6 2,5mg/d"
+            },
+            {
+              "Datei": "31_Baseline.docx",
+              "Zitat": "Im weiteren verlauf ist dann eine Dosisreduktion um 5 mg/d in Woche 2 auf 15 g/d, sowie in Woche 3 mit 10mg/d, Woche 4 7,5 mg/d, Woche 5 5 mg/d, Woche 6 2,5mg/d und anschließenden absetzen vorgesehen."
+            }
+          ],
+          "Hinweise": [
+            "Wirkstoff nicht genannt. Beginn am 07.10.2018, nach dem klinischen Referenztermin.",
+            "Dosis bezeichnet die dokumentierte Anfangsdosis; anschließend Ausschleichschema mit geplantem Absetzen.",
+            "Originalangabe „15 g/d“ in Woche 2 unverändert erhalten; vermutlich Schreibfehler, nicht korrigiert."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "31_Baseline.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 31,der sich am 27.09.2018, 1.10.2018 und 9.10.2018 ambulant vorstellte."
+            "Zitat": "der sich am 27.09.2018, 1.10.2018 und 9.10.2018 ambulant vorstellte."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "CRP >10,38 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "31_Baseline.docx",
-            "Zitat": "C-reaktives Protein 15,1 mg/l (-<5,1 mg/l)"
+            "Zitat": "CRP >10,38 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "31_Baseline.docx",
-            "Zitat": "C-reaktives Protein 15,1 mg/l (-<5,1 mg/l)"
+            "Zitat": "CRP >10,38 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "31_Baseline.docx",
-            "Zitat": "C-reaktives Protein 15,1 mg/l (-<5,1 mg/l)"
+            "Zitat": "CRP >10,38 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -51,14 +135,38 @@
             "Zitat": "Herr Pfister berichtet, dass er seit Anfang 2017 wechselnd starke Schmerzen im Bereich der Schulter li., re. Knie, Handgelenke bds., sowie Vorfuß links habe."
           }
         ],
-        "Verlauf": [
+        "Periphere Gelenkbeschwerden": [
           {
             "Datei": "31_Baseline.docx",
             "Zitat": "Herr Pfister berichtet, dass er seit Anfang 2017 wechselnd starke Schmerzen im Bereich der Schulter li., re. Knie, Handgelenke bds., sowie Vorfuß links habe."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "In den bei uns durchgeführten Untersuchungen zeigt sich eindeutig eine deutliche Entzündungsaktivität im Bereich der vom Patienten angegebenen schmerzenden Gelenkstellen (Schulter, Handgelenke bds., Knie re., Vorfuß li.)."
           },
           {
             "Datei": "31_Baseline.docx",
-            "Zitat": "Hierbei wurden NSAR, sowie rez. höhere Steroiddosen verschrieben."
+            "Zitat": "Herr Pfister berichtet, dass er seit Anfang 2017 wechselnd starke Schmerzen im Bereich der Schulter li., re. Knie, Handgelenke bds., sowie Vorfuß links habe."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "Herr Pfister berichtet, dass er seit Anfang 2017 wechselnd starke Schmerzen im Bereich der Schulter li., re. Knie, Handgelenke bds., sowie Vorfuß links habe."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "In den bei uns durchgeführten Untersuchungen zeigt sich eindeutig eine deutliche Entzündungsaktivität im Bereich der vom Patienten angegebenen schmerzenden Gelenkstellen (Schulter, Handgelenke bds., Knie re., Vorfuß li.)."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "In Zusammenschau  aller vorliegender Befunde lässt sich zumindest zum 9.10.2018 die Diagnose einer Rheumatoiden Arthritis stellen."
           },
           {
             "Datei": "31_Baseline.docx",
@@ -67,14 +175,19 @@
           {
             "Datei": "31_Baseline.docx",
             "Zitat": "Z.n. rez. höher dosierter Steroidtherapie, aktuell erneuter selbständiger Beginn mit 20mg Steroide am 7.10.2018"
+          },
+          {
+            "Datei": "31_Baseline.docx",
+            "Zitat": "Im weiteren verlauf ist dann eine Dosisreduktion um 5 mg/d in Woche 2 auf 15 g/d, sowie in Woche 3 mit 10mg/d, Woche 4 7,5 mg/d, Woche 5 5 mg/d, Woche 6 2,5mg/d und anschließenden absetzen vorgesehen."
           }
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben; Zuordnung zu einem einzelnen Besuch unklar.",
-        "Anamnese im zusammenfassenden Brief keinem einzelnen Besuch eindeutig zugeordnet.",
-        "Am Referenztermin 01.10.2018 ist keine laufende rheumatologische Medikation eindeutig belegt. Der erneute Steroidbeginn am 07.10.2018 liegt danach; der genaue MTX-Beginn innerhalb Oktober 2018 bleibt unklar.",
-        "Seitenwiderspruch zur früheren Vorfußbestrahlung: Diagnoseliste links, Anamnese rechts."
+        "Klinischer Referenztermin ist der belegte Besuch am 01.10.2018; Beschwerden und zusammenfassende Beurteilung sind keinem einzelnen der drei Besuche eindeutig zugeordnet.",
+        "CRP: verbindlich vorgegebenen ersten Messwert nach Reihenfolge übernommen. Dieser stammt im Brief aus „Hoch sensitives CRP“; zusätzlich ist C-reaktives Protein 15,1 mg/l dokumentiert. Die verbindliche Vorgabe hat hier Vorrang vor dem Ausschluss von hsCRP.",
+        "Einzelnes Labordatum nicht dokumentiert.",
+        "Keine klinische Gelenkschwellung aus dem bildgebend beschriebenen Knieerguss abgeleitet.",
+        "Frühere NSAR-Verordnungen erwähnt; aktuelle Einnahme und Wirkstoff nicht belegt."
       ]
     },
     {
@@ -87,97 +200,166 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Methotrexat 10 mg oral wöchentlich und Folsäure 5 mg am Folgetag.",
-      "Klinische Hauptmanifestation": "Keine Arthralgien und keine Morgensteifigkeit.",
-      "Gelenkbefund": "Keine druckschmerzhaften oder geschwollenen Gelenke; keine Enthesitis und keine Daktylitis.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Unter seit etwa fünf Monaten auf 10 mg wöchentlich reduziertem Methotrexat keine Beschwerdeverschlechterung, keine Arthralgien und keine Morgensteifigkeit. Klinisch unauffälliger Gelenkstatus; im Brief wird die Grunderkrankung als in Remission beurteilt.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Keine Arthralgien oder Morgensteifigkeit; klinisch unauffälliger Gelenkstatus.",
+      "Periphere Gelenkbeschwerden": "verneint",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Morgensteifigkeit": "verneint",
+      "Betroffene Regionen": null,
+      "Klinischer Befund (Details)": "Keine druckschmerzhaften oder geschwollenen Gelenke, keine Enthesitis und keine Daktylitis.",
+      "Beurteilte Therapie": "Methotrexat",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Remission",
+      "Verlauf": "Unter seit etwa fünf Monaten auf 10 mg pro Woche reduziertem Methotrexat keine Verschlechterung und aktuell keine Arthralgien oder Morgensteifigkeit. Ärztlich dokumentierte Remission; unveränderte Fortführung empfohlen. Eine klinische Besserung mit einordenbarem Ausmaß wird nicht beschrieben.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 10,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX 10mg p.o/ Woche",
+          "Belege": [
+            {
+              "Datei": "31_FollowUp.docx",
+              "Zitat": "MTX 10mg p.o/ Woche"
+            },
+            {
+              "Datei": "31_FollowUp.docx",
+              "Zitat": "Wir empfehlen die unveränderte Fortführung der MTX-Therapie bei 10mg/ Woche bis zur Wiedervorstellung in 3 Monaten."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Folsäure",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Folsäure 5mg am Folgetag",
+          "Belege": [
+            {
+              "Datei": "31_FollowUp.docx",
+              "Zitat": "Dauermedikation:\nMTX 10mg p.o/ Woche\nFolsäure 5mg am Folgetag"
+            }
+          ],
+          "Hinweise": [
+            "Wöchentliches Intervall durch Einnahme am Folgetag der wöchentlichen Methotrexatgabe."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "wir berichten über unseren gemeinsamen Patienten, 31, der sich am 09.09.2020 ambulant vorstellte."
+            "Zitat": "der sich am 09.09.2020 ambulant vorstellte."
           }
         ],
         "TJC": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
           }
         ],
         "SJC": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "MTX 10mg p.o/ Woche"
-          },
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "Folsäure 5mg am Folgetag"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "31_FollowUp.docx",
             "Zitat": "Keine Arthralgien, keine Morgensteifigkeit."
-          }
-        ],
-        "Gelenkbefund": [
+          },
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+            "Zitat": "In der klinischen Untersuchung zeigten sich keine Auffälligkeiten."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "Keine Arthralgien, keine Morgensteifigkeit."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "Keine Arthralgien, keine Morgensteifigkeit."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "Gelenkstatus:0  druckschmerzhafte, 0 geschwollene Gelenke; keine Enthesitis; keine Daktylitis."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "MTX wurde seit ca. 5 Monaten auf 10mg/Wo reduziert, darunter berichtet Herr Pfister von keiner Verschlechterung der Beschwerden."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "MTX wurde seit ca. 5 Monaten auf 10mg/Wo reduziert, darunter berichtet Herr Pfister von keiner Verschlechterung der Beschwerden."
+          },
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde zeigt sich erfreulicherweise die Grunderkrankung in Remission."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde zeigt sich erfreulicherweise die Grunderkrankung in Remission."
           }
         ],
         "Verlauf": [
           {
             "Datei": "31_FollowUp.docx",
-            "Zitat": "MTX wurde seit ca. 5 Monaten auf 10mg/Wo reduziert, darunter berichtet Herr Pfister von keiner Verschlechterung der Beschwerden."
-          },
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "Keine Arthralgien, keine Morgensteifigkeit."
-          },
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "In der klinischen Untersuchung zeigten sich keine Auffälligkeiten."
-          },
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "In Zusammenschau der Befunde zeigt sich erfreulicherweise die Grunderkrankung in Remission."
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "31_FollowUp.docx",
-            "Zitat": "MTX wurde seit ca. 5 Monaten auf 10mg/Wo reduziert, darunter berichtet Herr Pfister von keiner Verschlechterung der Beschwerden."
+            "Zitat": "MTX wurde seit ca. 5 Monaten auf 10mg/Wo reduziert, darunter berichtet Herr Pfister von keiner Verschlechterung der Beschwerden."
           },
           {
             "Datei": "31_FollowUp.docx",
@@ -186,12 +368,17 @@
           {
             "Datei": "31_FollowUp.docx",
             "Zitat": "In Zusammenschau der Befunde zeigt sich erfreulicherweise die Grunderkrankung in Remission."
+          },
+          {
+            "Datei": "31_FollowUp.docx",
+            "Zitat": "Wir empfehlen die unveränderte Fortführung der MTX-Therapie bei 10mg/ Woche bis zur Wiedervorstellung in 3 Monaten."
           }
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben.",
-        "Zählbereich für TJC und SJC nicht angegeben."
+        "TJC und SJC ausdrücklich jeweils 0; untersuchter Zählbereich nicht angegeben, daher keine Gleichsetzung mit TJC28/SJC28.",
+        "CRP gemäß verbindlicher Vorgabe übernommen; einzelnes Labordatum nicht dokumentiert.",
+        "Ansprechen nicht beurteilbar: Remission und fehlende Verschlechterung nach Dosisreduktion belegen keinen klinischen Veränderungsnachweis mit einordenbarem Besserungsausmaß."
       ]
     }
   ]

@@ -1,23 +1,17 @@
 Du wertest anonymisierte Arztbriefe von Patienten mit Spondylarthritis (SpA) aus.
-
-Die wichtigste Aufgabe sind die vier klinischen Spalten:
-- Klinische Hauptmanifestation: wichtigste AKTUELLE Beschwerden und körperliche
-  Befunde, mit Gelenkregion und Seite, soweit klar. Ein bis zwei kurze Sätze.
-- Axiale Beschwerden / ISG: aktuelle Wirbelsäulen-/ISG-Symptomatik und deren
-  Entwicklung. Aktuelle Beschwerdefreiheit oder verneinter entzündlicher
-  Rückenschmerz sind relevante Angaben. Keine aktuelle Entzündung allein aus
-  einer fortgeführten Sakroiliitis-Diagnose ableiten. Fehlender nächtlicher
-  Rückenschmerz allein beweist nicht das Fehlen aller entzündlichen Beschwerden.
-- Weitere Gelenke: weitere klinisch relevante Regionen; frühere Beteiligung mit
-  'früher' kennzeichnen. Die Diagnoseliste ist nicht automatisch ein aktueller
-  Gelenkstatus. Bei Widerspruch haben aktueller Befund und aktuelle Anamnese
-  Vorrang; verbleibende Unsicherheit unter Hinweise festhalten.
-- Verlauf: kurze inhaltstreue Zusammenfassung des dokumentierten Ansprechens,
-  z.B. gebessert, unverändert, verschlechtert, gemischt oder unklar, mit
-  konkretem Inhalt. 'Unter Therapie keine peripheren Beschwerden mehr; ISG-
-  Symptomatik rückläufig' ist besonders wichtig. Für Baseline den damaligen
-  Verlauf bis zur Vorstellung zusammenfassen, sonst 'Ausgangsbefund'.
-  Beschwerdefreiheit, Besserung oder Therapieversagen nur bei Beleg formulieren.
+Klinische Hauptmanifestation: führende aktuelle Beschwerden und funktionelle
+Einschränkungen in ein bis zwei Sätzen. Die Spalten Axiale Beschwerden / ISG,
+Periphere Gelenkbeschwerden, Synovitis / Gelenkschwellung und Enthesitis werden
+nach den allgemeinen Kategorien ausgefüllt. Axiale Beschwerden umfassen aktuelle
+klinische Wirbelsäulen-/ISG-Symptome, nicht bloße Diagnosen oder Bildgebungsbefunde.
+Fehlender nächtlicher Rückenschmerz allein verneint nicht alle axialen Beschwerden.
+Für Enthesitis eine klare klinische Enthesenzuordnung verlangen; bloßer Fersen-
+oder Sehnenschmerz ohne klare Ursache bleibt als solcher im Detailfeld erhalten.
+Gelenkschwellung und sonstige Gelenkbeschwerden getrennt betrachten. Aktuelle
+Beschwerdefreiheit ist relevant. Betroffene Regionen und Klinischer Befund (Details)
+erhalten Seite, Region, Morgensteifigkeit und Einschränkungen. Frühere Beteiligung
+nicht als aktuellen Status ausgeben. PET-Response nicht als klinische Response
+klassifizieren. Rein degenerative Rückenbeschwerden im Detailfeld kennzeichnen.
 
 ASDAS-CRP, BASDAI, TJC, SJC, LEI, MASES und HAQ nur als ausdrücklich dokumentierte
 Zahlen übernehmen. Keine Scores berechnen, keine Gelenke aus Freitext zählen.

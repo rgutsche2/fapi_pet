@@ -10,16 +10,128 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 6.2,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Rituximab, erste Gabe 1000 mg am 29.03.2021; Etoricoxib 60 mg abends.",
-      "Klinische Hauptmanifestation": "Mehrere schmerzhafte und geschwollene Gelenke ohne nähere Lokalisation. Aktuell keine Morgensteifigkeit bei abendlicher Einnahme von Etoricoxib.",
-      "Gelenkbefund": null,
-      "Weitere Gelenke": null,
-      "Verlauf": "Unzureichende Krankheitskontrolle unter Sulfasalazin und Hydroxychloroquin; beide am 18.03.2021 wegen fehlenden Ansprechens abgesetzt. Rituximab im Studienrahmen am 29.03.2021 begonnen und komplikationslos verabreicht.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Schmerzhafte und geschwollene Gelenke bei unzureichender Krankheitskontrolle. Aktuell keine Morgensteifigkeit unter abendlichem Etoricoxib.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "verneint",
+      "Betroffene Regionen": null,
+      "Klinischer Befund (Details)": "Anamnestisch mehrere schmerzhafte und geschwollene Gelenke ohne nähere Lokalisation. Im körperlichen Gelenkstatus fehlen die vorgesehenen Zahlen.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unzureichende Krankheitskontrolle unter Sulfasalazin und Hydroxychloroquin; beide wegen fehlenden Ansprechens beendet. Beginn der Rituximabtherapie am 29.03.2021 im Studienrahmen; anschließend mögliche Randomisierung zu Abatacept oder Beobachtung.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Sulfasalazin",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "SSZ 500 mg 2-0-2",
+          "Belege": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "SSZ 500 mg 2-0-2"
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Hydroxychloroquin und Sulfasalazin (11/2020-18.03.2021, abgesetzt bei fehlendem Therapieansprechen)"
+            }
+          ],
+          "Hinweise": [
+            "Absetzen am 18.03.2021 ausdrücklich dokumentiert, obwohl noch unter Dauermedikation aufgeführt; komplexes Einnahmeschema im Original erhalten."
+          ]
+        },
+        {
+          "Wirkstoff": "Hydroxychloroquin",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "Quensyl 200 mg 1-0-1",
+          "Belege": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Quensyl 200 mg 1-0-1"
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Hydroxychloroquin und Sulfasalazin (11/2020-18.03.2021, abgesetzt bei fehlendem Therapieansprechen)"
+            }
+          ],
+          "Hinweise": [
+            "Absetzen am 18.03.2021 ausdrücklich dokumentiert, obwohl noch unter Dauermedikation aufgeführt; komplexes Einnahmeschema im Original erhalten."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 60,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Etoricoxib 60 mg 0-0-1",
+          "Belege": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Etoricoxib 60 mg 0-0-1"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Rituximab",
+          "Dosis": 1000,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "nach 2 Gaben Rituximab 1000mg",
+          "Belege": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "nach 2 Gaben Rituximab 1000mg werden die Probanden 50/50 randomisiert und erhalten entweder Abatacept oder eine Beobachtung."
+            },
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "Die erste Gabe von Rtx erfolgte komplikationslos am 29.03.2021."
+            }
+          ],
+          "Hinweise": [
+            "Begonnener Behandlungszyklus mit zwei vorgesehenen Gaben; kein regelmäßiges Dauerintervall dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Abatacept",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "geplant",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "27_Baseline.docx",
+              "Zitat": "nach 2 Gaben Rituximab 1000mg werden die Probanden 50/50 randomisiert und erhalten entweder Abatacept oder eine Beobachtung."
+            }
+          ],
+          "Hinweise": [
+            "Nur bedingt vorgesehen; tatsächliche Zuteilung und Gabe nicht belegt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -39,42 +151,72 @@
             "Zitat": "DAS 28: 3,07"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 6,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "27_Baseline.docx",
-            "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 6,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "27_Baseline.docx",
-            "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 6,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "27_Baseline.docx",
-            "Zitat": "C-Reaktives Protein 6,2 mg/l (-<5 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "27_Baseline.docx",
-            "Zitat": "nach 2 Gaben Rituximab 1000mg werden die Probanden 50/50 randomisiert und erhalten entweder Abatacept oder eine Beobachtung."
-          },
-          {
-            "Datei": "27_Baseline.docx",
-            "Zitat": "Die erste Gabe von Rtx erfolgte komplikationslos am 29.03.2021."
-          },
-          {
-            "Datei": "27_Baseline.docx",
-            "Zitat": "Etoricoxib 60 mg 0-0-1"
+            "Zitat": "C-Reaktives Protein 6,2 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "27_Baseline.docx",
-            "Zitat": "über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+          },
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Vorstellung bei sero-positiver RA und aktuell inadäquater Krankheitskontrolle."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über div. ds-hafte und geschwollene Gelenke, MS besteht aufgrund von Einnahme von Etoricoxib am Abend derzeit nicht."
+          },
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Gelenkstatus: druckschmerzhafte:  , geschwollenen:  Gelenke"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "Vorstellung bei sero-positiver RA und aktuell inadäquater Krankheitskontrolle."
           }
         ],
         "Verlauf": [
@@ -89,14 +231,17 @@
           {
             "Datei": "27_Baseline.docx",
             "Zitat": "Die erste Gabe von Rtx erfolgte komplikationslos am 29.03.2021."
+          },
+          {
+            "Datei": "27_Baseline.docx",
+            "Zitat": "nach 2 Gaben Rituximab 1000mg werden die Probanden 50/50 randomisiert und erhalten entweder Abatacept oder eine Beobachtung."
           }
         ]
       },
       "Hinweise": [
-        "29.03.2021 ist der belegte Besuch mit dem geringsten Abstand zum Baseline-Scan am 30.04.2021.",
-        "Labordatum nicht angegeben; DAS28 und Beschwerden keinem der beiden Besuche eindeutig zugeordnet.",
-        "Gelenkstatus enthält unausgefüllte Angaben zu Druckschmerz und Schwellung; keine verwertbaren Untersuchungsbefunde oder Gelenkzahlen.",
-        "Sulfasalazin und Hydroxychloroquin stehen noch unter Dauermedikation, sind laut Diagnoseangaben jedoch seit 18.03.2021 abgesetzt. Abatacept ist lediglich als mögliche spätere Studientherapie beschrieben."
+        "29.03.2021 ist der dem Baseline-Scan nächstgelegene belegte Besuch.",
+        "DAS28, CRP und klinische Angaben sind innerhalb des zusammenfassenden Briefes keinem einzelnen Besuch eindeutig zugeordnet.",
+        "TJC und SJC bleiben wegen fehlender Zahlen null."
       ]
     },
     {
@@ -109,16 +254,90 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 12.6,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 24,
-      "Aktuelle Therapie": "Rituximab, am Vorstellungstag erneut verabreicht; Prednisolon 5 mg täglich; Etoricoxib 60 mg bei Bedarf.",
-      "Klinische Hauptmanifestation": "Gelenkschmerzen an Händen und Füßen, teilweise mit Schwellungen; zusätzlich Knie, Ellenbogen und beide Schultern betroffen. Morgensteifigkeit etwa 60 Minuten.",
-      "Gelenkbefund": "Sechs druckschmerzhafte und zwei geschwollene Gelenke mit Synovitis; postarthritische Veränderungen der MCP-Gelenke rechts.",
-      "Weitere Gelenke": "Zusätzlich Schmerzen an Knien, Ellenbogen und beiden Schultern.",
-      "Verlauf": "Unter Rituximab ausdrücklich sehr gute Krankheitskontrolle und gute Wirksamkeit beschrieben. Dennoch aktuell polyartikuläre Schmerzen, teilweise Schwellungen, Morgensteifigkeit und klinische Synovitis; die Grunderkrankung wird als aktiv beurteilt. Erneute Rituximabgabe und Fortführung empfohlen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Gelenkschmerzen an Händen, Füßen, Knien, Ellenbogen und beiden Schultern, teilweise mit Schwellungen. Morgensteifigkeit etwa 60 Minuten.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "Hände, Füße, Knie, Ellenbogen und Schultern beidseits",
+      "Klinischer Befund (Details)": "Sechs druckschmerzhafte und zwei geschwollene Gelenke, Zählbereich nicht angegeben. Postarthritische Veränderungen der rechten MCP-Gelenke; Morgensteifigkeit etwa 60 Minuten.",
+      "Beurteilte Therapie": "Rituximab",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Rituximab wird als wirksam mit sehr guter Krankheitskontrolle beschrieben, ohne ausreichend beschriebenen klinischen Veränderungsnachweis. Gleichzeitig bestehen Schmerzen, Schwellungen und Morgensteifigkeit; die abschließende ärztliche Beurteilung bezeichnet die RA als aktiv. Erneute Rituximabgabe und Fortführung der Therapie empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Rituximab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "zwei Gaben im April 2021 zum Beginn der Studie",
+          "Belege": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Rituximab ; initial im Rahmen einer Studie"
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "zwei Gaben im April 2021 zum Beginn der Studie, gut vertragen, wirksam."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Nach klinischem Infektausschluss konnte RTX komplikationslos appliziert werden."
+            },
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
+            }
+          ],
+          "Hinweise": [
+            "Laufende Behandlungsstrategie mit erneuter Gabe am Vorstellungstag; Dosis und Wiederholungsintervall nicht angegeben. Wiedervorstellung in drei Monaten ist kein dokumentiertes Dosierungsintervall."
+          ]
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Predisolondosis stabil bei 5mg/d.",
+          "Belege": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Predisolondosis stabil bei 5mg/d."
+            }
+          ],
+          "Hinweise": [
+            "Originalschreibweise „Predisolon“ als Prednisolon eingeordnet."
+          ]
+        },
+        {
+          "Wirkstoff": "Etoricoxib",
+          "Dosis": 60,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Etoricoxib 60 mg bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "27_FollowUp.docx",
+              "Zitat": "Etoricoxib 60 mg bei Bedarf"
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -150,22 +369,28 @@
             "Zitat": "Gelenkstatus: 6DS/ 2 Geschwollenen Gelenke."
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "C-Reaktives Protein 12,6 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 12,6 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 12,6 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "C-Reaktives Protein 12,6 mg/l (-<5 mg/l)"
+            "Zitat": "C-Reaktives Protein 12,6 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
@@ -174,48 +399,70 @@
             "Zitat": "BSG: 24 mm/h"
           }
         ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Aktuelle Therapie: Rituximab ; initial im Rahmen einer Studie"
-          },
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Nach klinischem Infektausschluss konnte RTX komplikationslos appliziert werden."
-          },
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Predisolondosis stabil bei 5mg/d."
-          },
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Etoricoxib 60 mg bei Bedarf"
-          }
-        ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
           },
           {
             "Datei": "27_FollowUp.docx",
             "Zitat": "MS ca. 60 Minuten."
           }
         ],
-        "Gelenkbefund": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "In der klinischen Untersuchung zeigte sich der o.g. Befund, mit synovitischen Gelenken."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "MS ca. 60 Minuten."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "27_FollowUp.docx",
             "Zitat": "Gelenkstatus: 6DS/ 2 Geschwollenen Gelenke. postarthrit. Veränderungen MCPs rechts"
           },
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "In der klinischen Untersuchung zeigte sich der o.g. Befund, mit synovitischen Gelenken."
+            "Zitat": "MS ca. 60 Minuten."
           }
         ],
-        "Weitere Gelenke": [
+        "Beurteilte Therapie": [
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            "Zitat": "Unter RTX sehr gute Krankheitskontrolle."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "Unter RTX sehr gute Krankheitskontrolle."
+          },
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "27_FollowUp.docx",
+            "Zitat": "In Zusammenschau der Befunde zeigt sich die Grunderkrankung aktiv."
           }
         ],
         "Verlauf": [
@@ -225,15 +472,11 @@
           },
           {
             "Datei": "27_FollowUp.docx",
-            "Zitat": "über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
+            "Zitat": "Aktuell berichtet Frau Frauenknecht über Gelenkschmerzen der Hände, Füße, Knie, Ellenbogen und Schulter bds. teilweise mit Schwellungen."
           },
           {
             "Datei": "27_FollowUp.docx",
             "Zitat": "MS ca. 60 Minuten."
-          },
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "In der klinischen Untersuchung zeigte sich der o.g. Befund, mit synovitischen Gelenken."
           },
           {
             "Datei": "27_FollowUp.docx",
@@ -247,24 +490,13 @@
             "Datei": "27_FollowUp.docx",
             "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Unter RTX sehr gute Krankheitskontrolle."
-          },
-          {
-            "Datei": "27_FollowUp.docx",
-            "Zitat": "Wir empfahlen die Fortführung der RTX Therapie, bei guter Wirksamkeit  und eine Wiedervorstellung in 3 Monaten."
-          }
         ]
       },
       "Hinweise": [
-        "Einziger belegter Besuch dieser Briefgruppe ist der 04.04.2022, nach dem Follow-up-Scan vom 13.09.2021; Labor ausdrücklich vom 04.04.2022.",
-        "Zählbereich von TJC und SJC nicht angegeben.",
-        "Rituximabdosis und aktuelles Intervall nicht angegeben.",
-        "Sehr gute Krankheitskontrolle und gute Wirksamkeit werden trotz fortbestehender klinisch aktiver Erkrankung dokumentiert; Ja bezeichnet den belegten klinischen Nutzen, keine Remission.",
-        "Zeitliche Abweichung beim Therapiebeginn: Follow-up nennt zwei Rituximabgaben im April 2021, Baseline dokumentiert die erste Gabe am 29.03.2021."
+        "Der einzige belegte Follow-up-Besuch liegt am 04.04.2022 und damit nach dem Scan vom 13.09.2021; Zuordnung gemäß Briefgruppe.",
+        "CRP-Labordatum: 04.04.2022. DAS28, BSG und Gelenkstatus gehören zur Vorstellung am 04.04.2022; der Zählbereich von TJC/SJC ist nicht angegeben.",
+        "Ansprechen nicht beurteilbar: Gute Wirksamkeit und Kontrolle werden genannt, aber kein ausreichend beschriebener klinischer Veränderungsnachweis.",
+        "Die Aussage sehr guter Krankheitskontrolle steht im Spannungsverhältnis zu aktuellen Synovitiden; für den Krankheitszustand ist die ausdrückliche abschließende ärztliche Beurteilung als aktiv maßgeblich."
       ]
     }
   ]

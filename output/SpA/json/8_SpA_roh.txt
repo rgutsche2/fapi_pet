@@ -10,16 +10,66 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 13.8,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Diclofenac 75 mg zweimal täglich, seit etwa zwei Wochen regelmäßig.",
-      "Klinische Hauptmanifestation": "Seit etwa zehn Tagen zunehmende nächtliche Schmerzen im LWS-/ISG-Bereich. Klinisch kein Hinweis auf Synovitis oder Enthesitis.",
-      "Axiale Beschwerden / ISG": "Zunehmende nächtliche Schmerzen im LWS-/ISG-Bereich; Morgensteifigkeit verneint, Patrickzeichen negativ.",
-      "Weitere Gelenke": "Kein klinischer Hinweis auf Synovitis oder Enthesitis.",
-      "Verlauf": "Persistierende klinische Aktivität unter NSAR mit zuletzt zunehmenden axialen Beschwerden. Therapieeskalation mit Adalimumab 40 mg alle zwei Wochen rezeptiert; tatsächlicher Beginn zum Besuch nicht belegt.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Seit etwa zehn Tagen zunehmende nächtliche Schmerzen im LWS-/ISG-Bereich bei klinisch aktiver axialer Spondylarthritis.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "nicht erwähnt",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "LWS und ISG-Bereich.",
+      "Klinischer Befund (Details)": "Morgensteifigkeit verneint. TWA 12 cm, Schober 14,5 cm, Patrickzeichen negativ; klinisch keine Synovitis oder Enthesitis.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Persistierende klinische und bildmorphologische Aktivität unter NSAR; deshalb Eskalation auf Adalimumab verordnet.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Diclofenac",
+          "Dosis": 75,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "laufend",
+          "Dosierung (Original)": "Diclofenac 75mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)",
+          "Belege": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Diclofenac 75mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)"
+            },
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Aktuell bekomme er eine Therapie mit Diclofenac 75 mg 2 x Tag bei Bedarf."
+            }
+          ],
+          "Hinweise": [
+            "Widersprüchliche Angaben zur aktuellen regelmäßigen beziehungsweise bedarfsweisen Einnahme; zweimal täglich dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 2,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Adalimumab 40mg alle 2 Wochen",
+          "Belege": [
+            {
+              "Datei": "8_Baseline.docx",
+              "Zitat": "Wir rezeptierten nach Ausschluss einer latenten Tuberkulose und Hep B/C Adalimumab 40mg alle 2 Wochen."
+            }
+          ],
+          "Hinweise": [
+            "Therapiebeginn verordnet; eine bereits erfolgte erste Anwendung ist nicht dokumentiert."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -27,28 +77,28 @@
             "Zitat": "der sich am 20.04.2020 ambulant vorstellte."
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "C-reaktives Protein 13,8 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 13,8 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein 13,8 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "C-reaktives Protein 13,8 mg/l (-<5,2 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "8_Baseline.docx",
-            "Zitat": "Diclofenac 75mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)"
+            "Zitat": "C-reaktives Protein 13,8 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -58,23 +108,51 @@
           },
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+            "Zitat": "Klinisch und bildmorphologisch persistierende Aktivität einer axialen Spondylarthritis."
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich. Morgensteifigkeit wurde verneint."
-          },
-          {
-            "Datei": "8_Baseline.docx",
-            "Zitat": "Patrickzeichen negativ."
+            "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich."
           }
         ],
-        "Weitere Gelenke": [
+        "Synovitis / Gelenkschwellung": [
           {
             "Datei": "8_Baseline.docx",
             "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Morgensteifigkeit wurde verneint."
+          },
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Gelenkstatus: TWA: 12 cm, Schober 14,5 cm, Patrickzeichen negativ."
+          },
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Kein Hinweis auf eine Synovitis, kein Hinweis auf eine Enthesitis."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "8_Baseline.docx",
+            "Zitat": "Klinisch und bildmorphologisch persistierende Aktivität einer axialen Spondylarthritis."
           }
         ],
         "Verlauf": [
@@ -84,7 +162,7 @@
           },
           {
             "Datei": "8_Baseline.docx",
-            "Zitat": "Seit ca. 10 Tage habe er zunehmende Beschwerden mit  Schmerzen in der Nacht im LWS-/ISG-Bereich."
+            "Zitat": "Es wurde daher eine Eskalation der immunsuppressiven Therapie entsprechend den Leitlinien besprochen."
           },
           {
             "Datei": "8_Baseline.docx",
@@ -93,8 +171,8 @@
         ]
       },
       "Hinweise": [
-        "CRP: Labordatum nicht angegeben.",
-        "Adalimumab ist als Beginn aufgeführt und rezeptiert; eine bereits laufende Anwendung am 20.04.2020 ist nicht eindeutig belegt."
+        "Einzeldatum der CRP-Messung nicht ausdrücklich angegeben.",
+        "Die bildgebend beschriebene Enthesitis wird nicht als klinische Enthesitis übernommen."
       ]
     },
     {
@@ -107,16 +185,60 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 5,
-      "Aktuelle Therapie": "Adalimumab 40 mg alle zwei Wochen.",
-      "Klinische Hauptmanifestation": "Deutlich gebesserte muskuloskelettale Beschwerden der Wirbelsäule. Keine peripheren Gelenkschwellungen, kein Druckschmerz und keine Enthesitis.",
-      "Axiale Beschwerden / ISG": "Deutliche Besserung der Wirbelsäulenbeschwerden; aktuelle ISG-Beschwerden nicht gesondert beschrieben.",
-      "Weitere Gelenke": "Keine peripheren Gelenkschwellungen; klinisch keine synovitische Gelenkschwellung, kein Druckschmerz und keine Enthesitis.",
-      "Verlauf": "Unter laufendem Adalimumab deutliche Besserung der Wirbelsäulenbeschwerden und weiterhin ausreichende klinische Krankheitskontrolle. Fortführung empfohlen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Deutlich gebesserte muskuloskelettale Beschwerden der Wirbelsäule bei ausreichender klinischer Krankheitskontrolle; keine peripheren Gelenkschwellungen.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "verneint",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Wirbelsäule.",
+      "Klinischer Befund (Details)": "Wirbelsäulenbeschwerden deutlich gebessert, vollständige Beschwerdefreiheit nicht dokumentiert. Keine synovitische Gelenkschwellung, kein Gelenkdruckschmerz und keine Enthesitis.",
+      "Beurteilte Therapie": "Adalimumab",
+      "Ansprechen": "Deutlich",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Unter Adalimumab deutliche klinische Besserung der Wirbelsäulenbeschwerden und ausreichende Kontrolle der Grunderkrankung; Fortführung empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 2,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Adalimumab 40mg alle 2 Wo.",
+          "Belege": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Diclofenac",
+          "Dosis": 75,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Diclofenac 75 mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)",
+          "Belege": [
+            {
+              "Datei": "8_FollowUp.docx",
+              "Zitat": "Diclofenac 75 mg 1-0-1 (seit ca. 2 Wochen regelmäßig, aber vorher bei Bedarf)"
+            }
+          ],
+          "Hinweise": [
+            "Laut Dauermedikationsliste zweimal täglich."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -130,34 +252,34 @@
             "Zitat": "BASDAI 1,4"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "8_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "8_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "8_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "8_FollowUp.docx",
             "Zitat": "BKS 5/11"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "8_FollowUp.docx",
-            "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -167,7 +289,7 @@
           },
           {
             "Datei": "8_FollowUp.docx",
-            "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+            "Zitat": "Klinisch zeigt sich weiterhin eine ausreichende Kontrolle der rheumatologischen Grunderkrankung."
           }
         ],
         "Axiale Beschwerden / ISG": [
@@ -176,7 +298,31 @@
             "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
           }
         ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "8_FollowUp.docx",
             "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
@@ -184,6 +330,32 @@
           {
             "Datei": "8_FollowUp.docx",
             "Zitat": "Gelenke: keine synovitische Gelenkschwellung, kein DS, keine Enthesitis"
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "aktuelle Therapie:  Beginn Adalimumab 4/20"
+          },
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Pat. beschreibt eine deutliche Besserung der muskuloskelettalen Beschwerden im Bereich der WS, keine periph. Gelenkschwellungen, keine Hautauffälligkeiten, keine Augenentzündungen."
+          },
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "aktuelle Therapie:  Beginn Adalimumab 4/20"
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "8_FollowUp.docx",
+            "Zitat": "Klinisch zeigt sich weiterhin eine ausreichende Kontrolle der rheumatologischen Grunderkrankung."
           }
         ],
         "Verlauf": [
@@ -199,18 +371,14 @@
             "Datei": "8_FollowUp.docx",
             "Zitat": "Wir empfehlen daher eine Fortführung der Biologika-Therapie mit Adalimumab 40mg alle 2 Wo. unter regelm. Kontrollen nach Maßgabe der DGRh."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "8_FollowUp.docx",
-            "Zitat": "Klinisch zeigt sich weiterhin eine ausreichende Kontrolle der rheumatologischen Grunderkrankung."
-          }
         ]
       },
       "Hinweise": [
-        "CRP und BKS: Labordatum nicht angegeben.",
-        "BKS 5/11: gemäß Studienkonvention erster Wert als BSG nach einer Stunde übernommen.",
-        "Diclofenac steht mit identischem Dosierungs- und Zeittext wie im Baseline-Brief in der Dauermedikation; die tatsächliche weitere Einnahme ist unklar."
+        "Der belegte klinische Besuch liegt nach dem Follow-up-Scan vom 11.09.2020.",
+        "Einzeldaten von CRP und BKS sind nicht ausdrücklich angegeben; keine automatische Zuordnung zum klinischen Referenztermin.",
+        "BSG gemäß Studienkonvention aus dem ersten Wert von „BKS 5/11“ übernommen.",
+        "Periphere Gelenkbeschwerden anhand des ausdrücklich fehlenden Gelenkdruckschmerzes als verneint eingeordnet; eine umfassende anamnestische Schmerzverneinung fehlt.",
+        "Axiale Beschwerden als deutlich gebessert dokumentiert; verbleibendes Ausmaß und vollständige Beschwerdefreiheit nicht ausdrücklich angegeben."
       ]
     }
   ]

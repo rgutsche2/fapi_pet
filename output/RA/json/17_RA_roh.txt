@@ -10,16 +10,86 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.9,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Methotrexat 22,5 mg; Einnahmeintervall nicht angegeben.",
-      "Klinische Hauptmanifestation": "Schmerzen der rechten Schulter und des linken Hüftgelenks. Morgensteifigkeit etwa 4 Minuten.",
-      "Gelenkbefund": "PIP II rechts leicht druckschmerzhaft und geschwollen; ansonsten keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen. Im weiteren Episodenverlauf multiple druckdolente Gelenke.",
-      "Weitere Gelenke": "Früher ausgeprägte Schmerzen und Schwellungen beider Hände im Juni und Juli.",
-      "Verlauf": "Frühere Schmerz- und Schwellungsschübe durch selbstständig eingenommenes Prednisolon deutlich gelindert. Im weiteren Verlauf erneuter Schub mit multiplen druckdolenten Gelenken und unzureichender Krankheitskontrolle unter Methotrexat; Einleitung von Adalimumab 40 mg s.c. alle 14 Tage empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Schmerzen in rechter Schulter und linkem Hüftgelenk sowie druckschmerzhaft geschwollenes PIP II rechts. Morgensteifigkeit etwa vier Minuten; im weiteren Episodenverlauf Schub mit multiplen druckdolenten Gelenken.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "Rechte Schulter, linkes Hüftgelenk, PIP II rechts.",
+      "Klinischer Befund (Details)": "PIP II rechts leicht druckschmerzhaft und geschwollen, ansonsten keine weiteren druckschmerzhaften oder geschwollenen Gelenke oder Enthesen im beschriebenen Untersuchungsbefund. Morgensteifigkeit etwa vier Minuten. Früher ausgeprägte Schmerzen und Schwellungen beider Hände und der rechten Schulter; späterer Schub innerhalb der Episode.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Unter Methotrexat unzureichende Krankheitskontrolle mit Schub und hochaktiver RA. Selbstständig eingenommenes Prednisolon hatte zuvor deutliche Linderung bewirkt. Beginn von Adalimumab empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 22.5,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)",
+          "Belege": [
+            {
+              "Datei": "17_Baseline.docx",
+              "Zitat": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)"
+            },
+            {
+              "Datei": "17_Baseline.docx",
+              "Zitat": "Bekannte Polyarthritis unter MTX-Therapie."
+            }
+          ],
+          "Hinweise": [
+            "Einnahmeintervall nicht dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 14,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Adalimumab 40 mg s.c. alle 14 Tage",
+          "Belege": [
+            {
+              "Datei": "17_Baseline.docx",
+              "Zitat": "Daher empfehlen wir eine Therapie mit Adalimumab 40 mg s.c. alle 14 Tage."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Prednisolon 20 mg",
+          "Belege": [
+            {
+              "Datei": "17_Baseline.docx",
+              "Zitat": "Die Patientin nahm jeweils selbstständig Prednisolon 20 mg ein, worunter eine deutliche Linderung eintrat."
+            },
+            {
+              "Datei": "17_Baseline.docx",
+              "Zitat": "Daraufhin erneut Einnahme von Prednisolon 20 mg, mit rascher Besserung."
+            }
+          ],
+          "Hinweise": [
+            "Zurückliegende episodische Einnahmen im Juni/Juli und August 2025; Dauer und Intervall nicht dokumentiert, keine laufende Steroidtherapie belegt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -39,60 +109,100 @@
             "Zitat": "TJ 1 SJ 1"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "C-reaktives Protein 5,9 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,5 mg/l)"
+            "Zitat": "C-reaktives Protein 5,9 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,5 mg/l)"
+            "Zitat": "C-reaktives Protein 5,9 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,5 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "17_Baseline.docx",
-            "Zitat": "Bekannte Polyarthritis unter MTX-Therapie."
-          },
-          {
-            "Datei": "17_Baseline.docx",
-            "Zitat": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)"
+            "Zitat": "C-reaktives Protein 5,9 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "17_Baseline.docx",
             "Zitat": "Aktuell bestehen Schmerzen in der rechten Schulter sowie im linken Hüftgelenk. Morgensteifigkeit ca. 4 Minuten."
-          }
-        ],
-        "Gelenkbefund": [
+          },
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "PIP II rechts leicht druckschmerzhaft, geschwollen. Ansonsten keine andere druckschmerzhafte oder geschwollenen Gelenke oder Enthesen"
+            "Zitat": "PIP II rechts leicht druckschmerzhaft, geschwollen."
           },
           {
             "Datei": "17_Baseline.docx",
             "Zitat": "Im weiteren Verlauf kam es jedoch zu einem Schub der Erkrankung, wobei multiple druckdolente Gelenke auffielen."
           }
         ],
-        "Weitere Gelenke": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Aktuell bestehen Schmerzen in der rechten Schulter sowie im linken Hüftgelenk."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "PIP II rechts leicht druckschmerzhaft, geschwollen."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Morgensteifigkeit ca. 4 Minuten."
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Aktuell bestehen Schmerzen in der rechten Schulter sowie im linken Hüftgelenk."
+          },
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "PIP II rechts leicht druckschmerzhaft, geschwollen."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "PIP II rechts leicht druckschmerzhaft, geschwollen. Ansonsten keine andere druckschmerzhafte oder geschwollenen Gelenke oder Enthesen"
+          },
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Morgensteifigkeit ca. 4 Minuten."
+          },
           {
             "Datei": "17_Baseline.docx",
             "Zitat": "Zuletzt im Juni und Juli ausgeprägte Schmerzen und Schwellungen beider Hände sowie der rechten Schulter."
+          },
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Im weiteren Verlauf kam es jedoch zu einem Schub der Erkrankung, wobei multiple druckdolente Gelenke auffielen."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "17_Baseline.docx",
+            "Zitat": "Insgesamt sprechen die Befunde für eine hochaktive rheumatoide Arthritis."
           }
         ],
         "Verlauf": [
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "Die Patientin nahm jeweils selbstständig Prednisolon 20 mg ein, worunter eine deutliche Linderung eintrat."
+            "Zitat": "Bei Zustand nach Versagen von zwei csDMARDs (unzureichende Krankheitskontrolle unter MTX, fehlende Verträglichkeit von Leflunomid) ist die Einleitung einer Biologikatherapie indiziert."
           },
           {
             "Datei": "17_Baseline.docx",
@@ -100,7 +210,7 @@
           },
           {
             "Datei": "17_Baseline.docx",
-            "Zitat": "Bei Zustand nach Versagen von zwei csDMARDs (unzureichende Krankheitskontrolle unter MTX, fehlende Verträglichkeit von Leflunomid) ist die Einleitung einer Biologikatherapie indiziert."
+            "Zitat": "Die Patientin nahm jeweils selbstständig Prednisolon 20 mg ein, worunter eine deutliche Linderung eintrat."
           },
           {
             "Datei": "17_Baseline.docx",
@@ -109,10 +219,10 @@
         ]
       },
       "Hinweise": [
-        "CRP vom 10.09.2025; abweichend vom klinischen Referenztermin 11.11.2025.",
-        "Anamnese, Gelenkbefund und TJ/SJ sind innerhalb des zusammenfassenden Briefes keinem einzelnen Besuch eindeutig zugeordnet. Der spätere Schub ist ebenfalls nicht einzeln datiert.",
-        "Zählbereich von TJ/SJ nicht angegeben.",
-        "Adalimumab ist in der Baseline-Gruppe nur als Therapieempfehlung dokumentiert; Prednisolon wurde bei früheren Schüben eingenommen."
+        "Referenztermin 11.11.2025 ist der belegte Besuch mit dem geringsten Abstand zum Scan vom 27.10.2025.",
+        "Untersuchungsbefund, TJC und SJC sind innerhalb des zusammenfassenden Briefes keinem einzelnen Besuch eindeutig zugeordnet; Zählbereich nicht angegeben.",
+        "CRP vom 10.09.2025: erster Messwert nach Reihenfolge.",
+        "Anamnese, Einzelgelenkbefund und späterer Schub beschreiben unterschiedliche Abschnitte derselben Episode."
       ]
     },
     {
@@ -125,16 +235,82 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 8.3,
       "CRP-Vergleichszeichen": "=",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Adalimumab 40 mg s.c. alle 14 Tage und Methotrexat; aktuelle Methotrexat-Dosis nicht eindeutig angegeben.",
-      "Klinische Hauptmanifestation": "Gute Kontrolle der Beschwerden an Händen und Zehen; Gelenkschwellungen und Morgensteifigkeit werden verneint. Seit dem Vortag Fersenschmerzen sowie ausgeprägte Müdigkeit und Erschöpfung.",
-      "Gelenkbefund": "TJ 0 und SJ 0; Druckdolenz der rechten Ferse.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Gute klinische Kontrolle der Grunderkrankung unter Adalimumab und Methotrexat. Neu aufgetretene Fersenschmerzen bei bekannten rezidivierenden Fersenspornbeschwerden sowie Müdigkeit und Erschöpfung bestehen daneben; Fortführung der Therapie empfohlen, bei Beschwerdefreiheit versuchsweise Methotrexat-Reduktion.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Gut kontrollierte Beschwerden an Händen und Zehen; seit dem Vortag Fersenschmerzen bei bekannten rezidivierenden Fersenspornbeschwerden. Ausgeprägte Müdigkeit und Erschöpfung.",
+      "Periphere Gelenkbeschwerden": "unklar",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Morgensteifigkeit": "verneint",
+      "Betroffene Regionen": "Hände und Zehen gut kontrolliert; aktuell Fersen, rechts druckdolent.",
+      "Klinischer Befund (Details)": "TJ 0 und SJ 0, Druckdolenz der rechten Ferse. Gelenkschwellungen und Morgensteifigkeit verneint; Fersenschmerzen bei anamnestisch rezidivierenden Fersenspornbeschwerden, ohne gesicherte entzündliche Zuordnung.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Gut kontrolliert",
+      "Verlauf": "Unter Adalimumab und Methotrexat aktuell gute klinische Kontrolle ohne Gelenkschwellungen oder Morgensteifigkeit. Fersenschmerzen und ausgeprägte Erschöpfung verbleiben; eine klinische Veränderung mit einordenbarem Ausmaß ist nicht dokumentiert. Fortführung beider Wirkstoffe, bei Beschwerdefreiheit versuchsweise Reduktion von Methotrexat auf 20 mg wöchentlich empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Adalimumab",
+          "Dosis": 40,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 14,
+          "Intervalleinheit": "Tage",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Adalimumab 40mg s.c. alle 14 Tage (seit 11/25)",
+          "Belege": [
+            {
+              "Datei": "17_FollowUp.docx",
+              "Zitat": "Aktuelle Therapie: Adalimumab 40mg s.c. alle 14 Tage (seit 11/25)"
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)",
+          "Belege": [
+            {
+              "Datei": "17_FollowUp.docx",
+              "Zitat": "Wiedervorstellung zur Verlaufskontrolle bei bekannter seropositiver rheumatoider Arthritis unter Therapie mit Adalimumab und Methotrexat."
+            },
+            {
+              "Datei": "17_FollowUp.docx",
+              "Zitat": "MTX 22,5 mg seit 02/2025 (09/2019 Beginn)"
+            }
+          ],
+          "Hinweise": [
+            "22,5 mg stehen unter bisheriger Therapie; die aktuelle Einnahme ist bestätigt, die aktuelle Dosis jedoch nicht eindeutig separat ausgewiesen."
+          ]
+        },
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 20,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Bei Beschwerdefreiheit probatorische Reduktion von MTX auf 20 mg s.c. 1× wöchentlich.",
+          "Belege": [
+            {
+              "Datei": "17_FollowUp.docx",
+              "Zitat": "Bei Beschwerdefreiheit probatorische Reduktion von MTX auf 20 mg s.c. 1× wöchentlich."
+            }
+          ],
+          "Hinweise": [
+            "Bedingte Dosisreduktion, Umsetzung nicht belegt."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -166,35 +342,63 @@
             "Zitat": "Gelenkstatus: TJ0 SJ 0. Druckdolenz in rechten Ferse"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "C-reaktives Protein 8,3 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "17_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,5 mg/l)"
+            "Zitat": "C-reaktives Protein 8,3 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "17_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,5 mg/l)"
+            "Zitat": "C-reaktives Protein 8,3 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "17_FollowUp.docx",
-            "Zitat": "C-reaktives Protein 8,3 mg/l (-<5,5 mg/l)"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "17_FollowUp.docx",
-            "Zitat": "Aktuelle Therapie: Adalimumab 40mg s.c. alle 14 Tage (seit 11/25)"
-          },
-          {
-            "Datei": "17_FollowUp.docx",
-            "Zitat": "Wiedervorstellung zur Verlaufskontrolle bei bekannter seropositiver rheumatoider Arthritis unter Therapie mit Adalimumab und Methotrexat."
+            "Zitat": "C-reaktives Protein 8,3 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Die Patientin berichtet über eine gute Kontrolle der Beschwerden an Händen und Zehen."
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Seit gestern bestehen jedoch Schmerzen in den Fersen. Anamnestisch sind bereits rezidivierende Fersenspornbeschwerden bekannt."
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Es besteht eine ausgeprägte Müdigkeit und Erschöpfung."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Die Patientin berichtet über eine gute Kontrolle der Beschwerden an Händen und Zehen."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Gelenkschwellungen werden verneint."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit."
+          }
+        ],
+        "Betroffene Regionen": [
           {
             "Datei": "17_FollowUp.docx",
             "Zitat": "Die Patientin berichtet über eine gute Kontrolle der Beschwerden an Händen und Zehen."
@@ -205,17 +409,37 @@
           },
           {
             "Datei": "17_FollowUp.docx",
-            "Zitat": "Gelenkschwellungen werden verneint. Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit."
-          },
-          {
-            "Datei": "17_FollowUp.docx",
-            "Zitat": "Es besteht eine ausgeprägte Müdigkeit und Erschöpfung."
+            "Zitat": "Gelenkstatus: TJ0 SJ 0. Druckdolenz in rechten Ferse"
           }
         ],
-        "Gelenkbefund": [
+        "Klinischer Befund (Details)": [
           {
             "Datei": "17_FollowUp.docx",
             "Zitat": "Gelenkstatus: TJ0 SJ 0. Druckdolenz in rechten Ferse"
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Gelenkschwellungen werden verneint."
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit."
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Seit gestern bestehen jedoch Schmerzen in den Fersen. Anamnestisch sind bereits rezidivierende Fersenspornbeschwerden bekannt."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Insgesamt zeigt sich die Grunderkrankung unter Therapie mit Adalimumab gut kontrolliert."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Insgesamt zeigt sich die Grunderkrankung unter Therapie mit Adalimumab gut kontrolliert."
           }
         ],
         "Verlauf": [
@@ -225,7 +449,11 @@
           },
           {
             "Datei": "17_FollowUp.docx",
-            "Zitat": "Seit gestern bestehen jedoch Schmerzen in den Fersen. Anamnestisch sind bereits rezidivierende Fersenspornbeschwerden bekannt."
+            "Zitat": "Gelenkschwellungen werden verneint. Ebenso verneint die Patientin eine regelmäßige Schmerzmitteleinnahme sowie Morgensteifigkeit."
+          },
+          {
+            "Datei": "17_FollowUp.docx",
+            "Zitat": "Seit gestern bestehen jedoch Schmerzen in den Fersen."
           },
           {
             "Datei": "17_FollowUp.docx",
@@ -235,23 +463,13 @@
             "Datei": "17_FollowUp.docx",
             "Zitat": "Daher Empfehlung zur Fortführung der Therapie mit Methotrexat und Adalimumab. Bei Beschwerdefreiheit probatorische Reduktion von MTX auf 20 mg s.c. 1× wöchentlich."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "17_FollowUp.docx",
-            "Zitat": "Die Patientin berichtet über eine gute Kontrolle der Beschwerden an Händen und Zehen."
-          },
-          {
-            "Datei": "17_FollowUp.docx",
-            "Zitat": "Insgesamt zeigt sich die Grunderkrankung unter Therapie mit Adalimumab gut kontrolliert."
-          }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
-        "Zählbereich von TJ/SJ nicht angegeben.",
-        "Methotrexat 22,5 mg wird unter bisheriger Therapie geführt; die aktuelle Anamnese bestätigt die laufende Einnahme ohne eindeutige Dosis. Die Reduktion auf 20 mg s.c. einmal wöchentlich ist nur bei Beschwerdefreiheit empfohlen.",
-        "Die Ursache der aktuellen Fersenschmerzen ist nicht abschließend geklärt; rezidivierende Fersenspornbeschwerden sind anamnestisch bekannt."
+        "Gute aktuelle Kontrolle belegt keinen klinischen Veränderungsnachweis; daher Ansprechen Nicht beurteilbar und keine eindeutig beurteilte Therapie.",
+        "Gute Kontrolle der Beschwerden an Händen und Zehen lässt offen, ob noch Gelenkbeschwerden bestehen; daher Periphere Gelenkbeschwerden unklar.",
+        "Zählbereich von TJC und SJC nicht angegeben.",
+        "CRP: erster Messwert nach Reihenfolge; eigenständiges Labordatum nicht dokumentiert."
       ]
     }
   ]

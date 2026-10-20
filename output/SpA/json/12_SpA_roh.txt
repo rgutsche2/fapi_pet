@@ -10,71 +10,168 @@
       "LEI": null,
       "MASES": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 4,
-      "Aktuelle Therapie": "Methotrexat 15 mg/Woche und Folsäure 5 mg/Woche; Ibuprofen 400 mg und Novalgin bei Bedarf.",
-      "Klinische Hauptmanifestation": "Zunehmende Schmerzen der kleinen Handgelenke beidseits mit berichteten MCP-Schwellungen nach Absetzen von Prednisolon; Morgensteifigkeit etwa 45 Minuten. Gelenkstatus: TJC 4, SJC 2.",
-      "Axiale Beschwerden / ISG": "Rückenschmerzen im BWS-/Schulterbereich, gebessert durch Bewegung sowie Ibuprofen oder Novalmin.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Zunehmende Arthralgien, Gelenkschwellungen und Morgensteifigkeit nach Absetzen von Prednisolon. Bei persistierenden entzündlichen Bildgebungsveränderungen unter Methotrexat Einleitung von Secukinumab empfohlen.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Zunehmende Schmerzen und MCP-Schwellungen beider Hände nach Absetzen von Prednisolon, Morgensteifigkeit etwa 45 Minuten. Zusätzlich bewegungsgebesserte Schmerzen im BWS-/Schulterbereich.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Enthesitis": "nicht erwähnt",
+      "Betroffene Regionen": "Kleine Handgelenke und MCP-Gelenke beidseits; BWS-/Schulterbereich.",
+      "Klinischer Befund (Details)": "TJC 4, SJC 2; Morgensteifigkeit etwa 45 Minuten. Rückenbeschwerden bessern sich bei Bewegung sowie unter Ibuprofen oder Metamizol. Zusätzlich Müdigkeit und Haarausfall.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Nach Absetzen von Prednisolon zunehmende Arthralgien, Gelenkschwellungen und Morgensteifigkeit unter Methotrexat. Wegen persistierender entzündlicher Bildgebungsbefunde wird eine Eskalation auf Secukinumab empfohlen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": 15,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Wochen",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "MTX 15mg/Woche",
+          "Belege": [
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Therapiehistorie: Med: MTX 15mg/Woche, Folsäure 5mg/Woche, Prednisolon 2mg"
+            },
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "In Zusammenschau der Befunde bei persistierenden entzündlichen Veränderungen in der Bildgebung, trotz Therapie mit MTX empfehlen wir eine Eskalation der Therapie auf Biologica."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Prednisolon",
+          "Dosis": 2,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Prednisolon 2mg",
+          "Belege": [
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Therapiehistorie: Med: MTX 15mg/Woche, Folsäure 5mg/Woche, Prednisolon 2mg"
+            },
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Es wurde wie empfohlen die Prednisolondosis seit ca. 2 Wochen abgesetzt, darunter zunehmende Schmerzen in den kleinen Gelenke der Hände bds., auch Gelenkschwellungen in den MCPs."
+            }
+          ],
+          "Hinweise": [
+            "Die Dosis stammt aus der Therapiehistorie; seit etwa zwei Wochen abgesetzt."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 150,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "geplant",
+          "Dosierung (Original)": "Secukinumab 150mg 1x/Wo., Woche 0, 1, 2, 3, 4, danach 150mg alle 4 Wochen",
+          "Belege": [
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Wir empfehlen Secukinumab 150mg 1x/Wo., Woche 0, 1, 2, 3, 4, danach 150mg alle 4 Wochen."
+            }
+          ],
+          "Hinweise": [
+            "Wechselndes Intervall: zunächst wöchentlich in Woche 0 bis 4, anschließend alle vier Wochen."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 400,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibu. 400mg bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Felodipin 5mg, Cetirizin 10mg, Dekristol 20.000IE, Estradot Pflaster, Novalgin b.B. Ibu. 400mg bei Bedarf."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novalgin b.B.",
+          "Belege": [
+            {
+              "Datei": "12_Baseline.docx",
+              "Zitat": "Felodipin 5mg, Cetirizin 10mg, Dekristol 20.000IE, Estradot Pflaster, Novalgin b.B. Ibu. 400mg bei Bedarf."
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "wir berichten über unsere gemeinsame Patientin, 12, die sich am 09.05.2019 ambulant vorstellte."
+            "Zitat": "die sich am 09.05.2019 ambulant vorstellte."
           }
         ],
         "TJC": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "57-jährige Pat., normaler AEZ, LK-Status unauffällig, Gelenkstatus: TJC 4, SJC 2"
+            "Zitat": "Gelenkstatus: TJC 4, SJC 2"
           }
         ],
         "SJC": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "57-jährige Pat., normaler AEZ, LK-Status unauffällig, Gelenkstatus: TJC 4, SJC 2"
+            "Zitat": "Gelenkstatus: TJC 4, SJC 2"
+          }
+        ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Wert": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "12_Baseline.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "12_Baseline.docx",
             "Zitat": "BKS 4/7 mm/h"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "12_Baseline.docx",
-            "Zitat": "Therapiehistorie: Med: MTX 15mg/Woche, Folsäure 5mg/Woche, Prednisolon 2mg"
-          },
-          {
-            "Datei": "12_Baseline.docx",
-            "Zitat": "Novalgin b.B. Ibu. 400mg bei Bedarf."
-          },
-          {
-            "Datei": "12_Baseline.docx",
-            "Zitat": "In Zusammenschau der Befunde bei persistierenden entzündlichen Veränderungen in der Bildgebung, trotz Therapie mit MTX empfehlen wir eine Eskalation der Therapie auf Biologica."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -85,16 +182,54 @@
           {
             "Datei": "12_Baseline.docx",
             "Zitat": "Morgensteifigkeit ca. 45 Min., zusätzlich berichtet die Pat. über Rückenschmerzen im BWS-/Schulterbereich, Besserung unter Bewegung, Besserung bei Ibuprofen-Einnahme oder Novalmin."
-          },
-          {
-            "Datei": "12_Baseline.docx",
-            "Zitat": "57-jährige Pat., normaler AEZ, LK-Status unauffällig, Gelenkstatus: TJC 4, SJC 2"
           }
         ],
         "Axiale Beschwerden / ISG": [
           {
             "Datei": "12_Baseline.docx",
             "Zitat": "Morgensteifigkeit ca. 45 Min., zusätzlich berichtet die Pat. über Rückenschmerzen im BWS-/Schulterbereich, Besserung unter Bewegung, Besserung bei Ibuprofen-Einnahme oder Novalmin."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Es wurde wie empfohlen die Prednisolondosis seit ca. 2 Wochen abgesetzt, darunter zunehmende Schmerzen in den kleinen Gelenke der Hände bds., auch Gelenkschwellungen in den MCPs."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Gelenkstatus: TJC 4, SJC 2"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Es wurde wie empfohlen die Prednisolondosis seit ca. 2 Wochen abgesetzt, darunter zunehmende Schmerzen in den kleinen Gelenke der Hände bds., auch Gelenkschwellungen in den MCPs."
+          },
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Morgensteifigkeit ca. 45 Min., zusätzlich berichtet die Pat. über Rückenschmerzen im BWS-/Schulterbereich, Besserung unter Bewegung, Besserung bei Ibuprofen-Einnahme oder Novalmin."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Gelenkstatus: TJC 4, SJC 2"
+          },
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Morgensteifigkeit ca. 45 Min., zusätzlich berichtet die Pat. über Rückenschmerzen im BWS-/Schulterbereich, Besserung unter Bewegung, Besserung bei Ibuprofen-Einnahme oder Novalmin."
+          },
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Weiterhin berichtet die Pat. über Müdigkeit und Haarausfall."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "12_Baseline.docx",
+            "Zitat": "Aktuell berichtet die Pat. über zunehmende Arthralgien und Gelenkschwellungen sowie Morgensteifigkeit, seitdem die Prednisolontherapie abgesetzt wurde."
           }
         ],
         "Verlauf": [
@@ -113,8 +248,8 @@
         ]
       },
       "Hinweise": [
-        "CRP und BKS: Labordatum nicht angegeben; BKS 4/7 mm/h gemäß Studienkonvention als 4 mm nach einer Stunde übernommen.",
-        "Prednisolon 2 mg steht in der Therapiehistorie, wurde laut aktueller Anamnese jedoch etwa zwei Wochen zuvor abgesetzt. Secukinumab war erst empfohlen."
+        "CRP und BKS ohne gesondertes Labordatum dokumentiert.",
+        "Die im PET beschriebene Ansatzsehnentendinitis ist kein klinischer Enthesitisnachweis."
       ]
     },
     {
@@ -127,21 +262,113 @@
       "LEI": null,
       "MASES": null,
       "HAQ": 0.13,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.2,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": 1,
-      "Aktuelle Therapie": "Secukinumab 150 mg monatlich; Novalgin und Ibuprofen 400 mg bei Bedarf.",
-      "Klinische Hauptmanifestation": "Leicht rückläufige Handbeschwerden, Seite nicht angegeben; aktuell keine Druckschmerzen, Schwellungen oder klinischen Enthesitiszeichen. Morgensteifigkeit unter 15 Minuten und ausgeprägte Abgeschlagenheit.",
-      "Axiale Beschwerden / ISG": "Seit Jahren bestehende, BWS-betonte und stabil bewegungsabhängige Rückenschmerzen bei vorbekannten degenerativen Veränderungen und Skoliose.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Klinische Teilbesserung der Handbeschwerden unter laufendem Secukinumab; aktuell keine Schwellungen. Rückenschmerzen stabil und ausgeprägte Abgeschlagenheit fortbestehend. Wegen gemischter entzündlicher MRT-Entwicklung Erhöhung von Secukinumab auf 300 mg monatlich empfohlen.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Leicht besser werdende Handbeschwerden ohne aktuelle Schwellungen. Chronische bewegungsabhängige BWS-Schmerzen bei bekannten degenerativen Veränderungen und Skoliose sowie ausgeprägte Abgeschlagenheit.",
+      "Axiale Beschwerden / ISG": "vorhanden",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Enthesitis": "verneint",
+      "Betroffene Regionen": "Hand; BWS-betonter Rücken.",
+      "Klinischer Befund (Details)": "Kein Gelenkdruckschmerz, keine Schwellungen und kein klinischer Hinweis auf Enthesitis. Morgensteifigkeit unter 15 Minuten. Rückenbeschwerden bewegungsabhängig bei degenerativen Veränderungen und Skoliose; keine gesicherte entzündliche Zuordnung. Keine aktuellen psoriasiformen Hautläsionen.",
+      "Beurteilte Therapie": "Methotrexat",
+      "Ansprechen": "Keines",
+      "Krankheitszustand": "Unklar",
+      "Verlauf": "Methotrexat wurde wegen unzureichender Wirkung und zunehmenden Haarausfalls als frühere Therapie dokumentiert. Unter Secukinumab 150 mg monatlich seit 10/2019 weitgehend stabiler klinischer Befund mit leicht besser werdenden Handbeschwerden; ein klar zugeordnetes klinisches Ansprechen auf Secukinumab bleibt offen. Physiotherapie und Metamizol lindern Beschwerden. Wegen gemischter entzündlicher MRT-Entwicklung ist eine Erhöhung auf 300 mg monatlich vorgesehen.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Methotrexat",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": null,
+          "Belege": [
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "bisherige Therapie: MTX (unzureichende Wirkung, zunehmender Haarausfall)"
+            }
+          ],
+          "Hinweise": [
+            "Als frühere, unzureichend wirksame Therapie beurteilt; historische Dosierung nicht als aktueller Status übernommen."
+          ]
+        },
+        {
+          "Wirkstoff": "Secukinumab",
+          "Dosis": 150,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": 1,
+          "Intervalleinheit": "Monate",
+          "Bedarf": "Nein",
+          "Status": "laufend",
+          "Dosierung (Original)": "Secukinumab 150 mg pro Monat",
+          "Belege": [
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "aktuelle Therapie: Secukinumab 150mg (seit 10/19)"
+            },
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "Planmäßige WV bei PsA, DD periphere SpA unter Secukinumab 150 mg pro Monat."
+            },
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "Erhöhung der Secukinumab-Dosis auf 300 mg pro Monat unter Kontrollen nach Maßgabe der DGRh"
+            }
+          ],
+          "Hinweise": [
+            "Geplante Dosiserhöhung auf 300 mg einmal monatlich; Umsetzung noch nicht dokumentiert."
+          ]
+        },
+        {
+          "Wirkstoff": "Metamizol",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Novalgin bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "Felodipin 5 mg, Cetirizin 10 mg, Dekristol 20.000 IE, Estradot Pflaster, Novalgin bei Bedarf, Ibuprofen 400 mg bei Bedarf."
+            },
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "Auch auf Novalgin sprächen die Beschwerden an."
+            }
+          ],
+          "Hinweise": []
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": 400,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Ja",
+          "Status": "laufend",
+          "Dosierung (Original)": "Ibuprofen 400 mg bei Bedarf",
+          "Belege": [
+            {
+              "Datei": "12_FollowUp.docx",
+              "Zitat": "Felodipin 5 mg, Cetirizin 10 mg, Dekristol 20.000 IE, Estradot Pflaster, Novalgin bei Bedarf, Ibuprofen 400 mg bei Bedarf."
+            }
+          ],
+          "Hinweise": []
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "wir berichten über unsere gemeinsame Patientin, 12, die sich am 05.08.2020 ambulant vorstellte."
+            "Zitat": "die sich am 05.08.2020 ambulant vorstellte."
           }
         ],
         "BASDAI": [
@@ -156,38 +383,34 @@
             "Zitat": "BASFI 2,1; BASDAI 2,93; BAS-G 3,5; HAQ 0,13, VAS Arzt 2"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,2 mg/l (-<5,2 mg/l)"
+            "Zitat": "C-reaktives Protein <5,2 mg/l"
           }
         ],
         "BSG (mm nach 1 h)": [
           {
             "Datei": "12_FollowUp.docx",
             "Zitat": "BKS: 1/2 mm/h"
-          }
-        ],
-        "Aktuelle Therapie": [
-          {
-            "Datei": "12_FollowUp.docx",
-            "Zitat": "Planmäßige WV bei PsA, DD periphere SpA unter Secukinumab 150 mg pro Monat."
-          },
-          {
-            "Datei": "12_FollowUp.docx",
-            "Zitat": "Novalgin bei Bedarf, Ibuprofen 400 mg bei Bedarf."
           }
         ],
         "Klinische Hauptmanifestation": [
@@ -197,18 +420,60 @@
           },
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "Gelenkstatus: kein DS, keine Schwellungen, kein Hinweis auf Enthesitis"
+            "Zitat": "Rückenschmerzen (BWS-betont) habe sie schon jahrelang, hier bestünden stabil bewegungsabhängige Schmerzen."
+          },
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Es seien degenerative Veränderungen und eine Skoliose vorbekannt."
           },
           {
             "Datei": "12_FollowUp.docx",
             "Zitat": "Weiterhin bestünde ausgeprägte Abgeschlagenheit."
+          }
+        ],
+        "Axiale Beschwerden / ISG": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Rückenschmerzen (BWS-betont) habe sie schon jahrelang, hier bestünden stabil bewegungsabhängige Schmerzen."
+          }
+        ],
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Momentan leicht besser werdende Beschwerden in der Hand."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Gelenkstatus: kein DS, keine Schwellungen, kein Hinweis auf Enthesitis"
+          }
+        ],
+        "Enthesitis": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Gelenkstatus: kein DS, keine Schwellungen, kein Hinweis auf Enthesitis"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Momentan leicht besser werdende Beschwerden in der Hand."
+          },
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Rückenschmerzen (BWS-betont) habe sie schon jahrelang, hier bestünden stabil bewegungsabhängige Schmerzen."
+          }
+        ],
+        "Klinischer Befund (Details)": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Gelenkstatus: kein DS, keine Schwellungen, kein Hinweis auf Enthesitis"
           },
           {
             "Datei": "12_FollowUp.docx",
             "Zitat": "Kein Fieber, keine Infekte, Morgensteifigkeit < 15 min."
-          }
-        ],
-        "Axiale Beschwerden / ISG": [
+          },
           {
             "Datei": "12_FollowUp.docx",
             "Zitat": "Rückenschmerzen (BWS-betont) habe sie schon jahrelang, hier bestünden stabil bewegungsabhängige Schmerzen."
@@ -216,20 +481,44 @@
           {
             "Datei": "12_FollowUp.docx",
             "Zitat": "Es seien degenerative Veränderungen und eine Skoliose vorbekannt."
+          },
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Keine psoriasiformen Hautläsionen."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "bisherige Therapie: MTX (unzureichende Wirkung, zunehmender Haarausfall)"
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "bisherige Therapie: MTX (unzureichende Wirkung, zunehmender Haarausfall)"
           }
         ],
         "Verlauf": [
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "Geplante Kontrolle bei peripherer SpA unter Cosentyx 150 mg monatlich. Momentan leicht besser werdende Beschwerden in der Hand. Aktuell keine Schwellungen."
+            "Zitat": "bisherige Therapie: MTX (unzureichende Wirkung, zunehmender Haarausfall)"
           },
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "Rückenschmerzen (BWS-betont) habe sie schon jahrelang, hier bestünden stabil bewegungsabhängige Schmerzen."
+            "Zitat": "aktuelle Therapie: Secukinumab 150mg (seit 10/19)"
           },
           {
             "Datei": "12_FollowUp.docx",
-            "Zitat": "Weiterhin bestünde ausgeprägte Abgeschlagenheit."
+            "Zitat": "Anamn. und klinisch zeigte sich ein weitgehend stabiler Befund."
+          },
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Momentan leicht besser werdende Beschwerden in der Hand."
+          },
+          {
+            "Datei": "12_FollowUp.docx",
+            "Zitat": "Die Physiotherapie helfe ihr gut. Auch auf Novalgin sprächen die Beschwerden an."
           },
           {
             "Datei": "12_FollowUp.docx",
@@ -239,18 +528,15 @@
             "Datei": "12_FollowUp.docx",
             "Zitat": "Daher entschieden wir uns deshalb heute gemeinsam mit der Pat. dafür, die Secukinumab-Dosis auf 300 mg pro Monat zu erhöhen."
           }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "12_FollowUp.docx",
-            "Zitat": "Geplante Kontrolle bei peripherer SpA unter Cosentyx 150 mg monatlich. Momentan leicht besser werdende Beschwerden in der Hand. Aktuell keine Schwellungen."
-          }
         ]
       },
       "Hinweise": [
-        "CRP und BKS: Labordatum nicht angegeben; BKS 1/2 mm/h gemäß Studienkonvention als 1 mm nach einer Stunde übernommen.",
-        "Die aktuelle Anamnese und Beurteilung nennen Secukinumab; Methotrexat und Prednisolon stehen nur in der kopierten Therapiehistorie. Die Erhöhung auf 300 mg monatlich wurde erst bei dieser Vorstellung beschlossen.",
-        "Das qualitative Ansprechen beruht auf der dokumentierten leichten klinischen Besserung; ein ursächlicher Effekt von Secukinumab ist nicht gesichert, da auch Physiotherapie und Novalgin als hilfreich beschrieben werden."
+        "Ansprechen Keines bezieht sich auf das ausdrücklich dokumentierte Methotrexat-Versagen, nicht auf Secukinumab.",
+        "Die leichte Besserung der Handbeschwerden ist keiner Therapie eindeutig zugeordnet; zugleich werden Physiotherapie und Metamizol als hilfreich beschrieben.",
+        "Krankheitszustand Unklar: weitgehend stabiler klinischer Befund ohne ausdrückliche Aussage zu guter Kontrolle oder aktueller klinisch entzündlicher Aktivität; MRT-Aktivität allein genügt nicht.",
+        "CRP und BKS ohne gesondertes Labordatum dokumentiert.",
+        "Keine Schwellungen und kein Druckschmerz wurden nicht in standardisierte SJC- oder TJC-Werte umgerechnet.",
+        "Methotrexat und Prednisolon stehen zusätzlich in der Therapiehistorie; daraus wird keine laufende Einnahme abgeleitet."
       ]
     }
   ]

@@ -10,16 +10,66 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
-      "CRP-Wert": null,
-      "CRP-Vergleichszeichen": null,
-      "CRP-Einheit": null,
+      "CRP dokumentiert": "Ja",
+      "CRP-Wert": 13.0,
+      "CRP-Vergleichszeichen": "=",
+      "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": "Bei Aufnahme keine rheumatologische Therapie seit 10/2023.",
-      "Klinische Hauptmanifestation": "Zunehmende Arthralgien und Schwellungen mit ausgeprägter Morgensteifigkeit; klinische Gelenkregionen nicht näher angegeben.",
-      "Gelenkbefund": "Multiple druckschmerzhafte und geschwollene Gelenke; TJC 6, SJC 4.",
-      "Weitere Gelenke": null,
-      "Verlauf": "Nach vorübergehender Beschwerdebesserung unter Doxycyclin erneute Zunahme der Arthralgien und Schwellungen. Bei unkontrollierter Erkrankung stationär individueller Heilversuch mit Blinatumomab; bei Entlassung gebesserte Beschwerden.",
-      "Ansprechen (Ja/Nein)": null,
+      "Klinische Hauptmanifestation": "Therapierefraktärer RA-Schub mit multiplen druckschmerzhaften und geschwollenen Gelenken sowie ausgeprägter Morgensteifigkeit.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "vorhanden",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": null,
+      "Klinischer Befund (Details)": "Multiple druckschmerzhafte und geschwollene Gelenke; TJC 6/SJC 4. Ausgeprägte Morgensteifigkeit ohne dokumentierte Dauer; klinische Gelenklokalisationen nicht näher angegeben.",
+      "Beurteilte Therapie": null,
+      "Ansprechen": null,
+      "Krankheitszustand": "Aktiv",
+      "Verlauf": "Seit Oktober 2023 ohne rheumatologische Therapie, weiterhin chronische Synovitis. Nach vorübergehender Beschwerdebesserung unter Doxycyclin erneute Arthralgien und Schwellungen. Bei unkontrollierter RA individueller Heilversuch mit Blinatumomab; Entlassung mit gebesserten Beschwerden, erneute Applikation geplant.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Blinatumomab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "kum. 38,5µg Blinatumomab als Daureinfusion über 96h",
+          "Belege": [
+            {
+              "Datei": "18_Baseline.docx",
+              "Zitat": "Die Patientin erhielt kum. 38,5µg Blinatumomab als Daureinfusion über 96h."
+            },
+            {
+              "Datei": "18_Baseline.docx",
+              "Zitat": "Erneute Blinatumomab-Applikation ab dem 15.02.2024 auf unserer Station."
+            }
+          ],
+          "Hinweise": [
+            "Infusionsbehandlung im berichteten Aufenthalt abgeschlossen; weitere Applikation ab 15.02.2024 geplant.",
+            "Kumulative Dosis und Infusionsdauer nicht als regelmäßige Einzeldosis oder Einnahmeintervall übernommen."
+          ]
+        },
+        {
+          "Wirkstoff": "Abatacept",
+          "Dosis": 125,
+          "Dosiseinheit": "mg",
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Abatacept 125mg s.c. 07/2023-10/2023",
+          "Belege": [
+            {
+              "Datei": "18_Baseline.docx",
+              "Zitat": "Therapie zuletzt: Abatacept 125mg s.c. 07/2023-10/2023"
+            }
+          ],
+          "Hinweise": [
+            "Vorangegangene Therapiephase; keine laufende Behandlung bei Aufnahme."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
@@ -51,23 +101,63 @@
             "Zitat": "Gelenkstatus: TJC 6/SJC 4"
           }
         ],
-        "Aktuelle Therapie": [
+        "CRP dokumentiert": [
           {
             "Datei": "18_Baseline.docx",
-            "Zitat": "Seit 10/23 keine Therapie mehr, zuvor MTX, ADA (nur einmalig), ETA, ABATA, trotzdem chronische Synovitis."
+            "Zitat": "C-Reaktives Protein 13,0 mg/l"
+          }
+        ],
+        "CRP-Wert": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 13,0 mg/l"
+          }
+        ],
+        "CRP-Vergleichszeichen": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 13,0 mg/l"
+          }
+        ],
+        "CRP-Einheit": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "C-Reaktives Protein 13,0 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "18_Baseline.docx",
-            "Zitat": "Bei frgl. Borreliose wurde im 11/2023 Doxycyclin für 28 Tage gegeben, hierunter gebesserte Beschwerden, dann wieder Zunahme der Arthralgien und Schwellungen."
+            "Zitat": "Die stationäre Aufnahme von Frau Rauh erfolgte bei therapierefraktärer Sero+ Rheumatoider Arthritis."
+          },
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke."
           },
           {
             "Datei": "18_Baseline.docx",
             "Zitat": "Ausgeprägte Morgensteifigkeit."
           }
         ],
-        "Gelenkbefund": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke."
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke."
+          }
+        ],
+        "Morgensteifigkeit": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "Ausgeprägte Morgensteifigkeit."
+          }
+        ],
+        "Klinischer Befund (Details)": [
           {
             "Datei": "18_Baseline.docx",
             "Zitat": "In der klinischen Untersuchung zeigten sich multiple druckschmerzhafte und geschwollene Gelenke."
@@ -75,32 +165,48 @@
           {
             "Datei": "18_Baseline.docx",
             "Zitat": "Gelenkstatus: TJC 6/SJC 4"
+          },
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "Ausgeprägte Morgensteifigkeit."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung der Patientin trotz verschiedener Therapieregime nicht kontrolliert."
           }
         ],
         "Verlauf": [
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "Seit 10/23 keine Therapie mehr, zuvor MTX, ADA (nur einmalig), ETA, ABATA, trotzdem chronische Synovitis."
+          },
           {
             "Datei": "18_Baseline.docx",
             "Zitat": "Bei frgl. Borreliose wurde im 11/2023 Doxycyclin für 28 Tage gegeben, hierunter gebesserte Beschwerden, dann wieder Zunahme der Arthralgien und Schwellungen."
           },
           {
             "Datei": "18_Baseline.docx",
-            "Zitat": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung der Patientin trotz verschiedener Therapieregime nicht kontrolliert."
-          },
-          {
-            "Datei": "18_Baseline.docx",
-            "Zitat": "Die Patientin erhielt kum. 38,5µg Blinatumomab als Daureinfusion über 96h."
+            "Zitat": "Im Rahmen einer shared decision entschieden wir für einen individuellen Heilversuch mit Blinatumomab."
           },
           {
             "Datei": "18_Baseline.docx",
             "Zitat": "Am 05.02.2024 konnten wir Frau Rauh in gutem Allgemeinzustand und gebesserten Beschwerden entlassen."
+          },
+          {
+            "Datei": "18_Baseline.docx",
+            "Zitat": "Erneute Blinatumomab-Applikation ab dem 15.02.2024 auf unserer Station."
           }
         ]
       },
       "Hinweise": [
-        "DAS28 nur näherungsweise angegeben; das mit „heute“ bezeichnete Erhebungsdatum ist nicht eindeutig. Variante nicht angegeben.",
-        "TJC und SJC im Untersuchungsbefund vom 30.01.2024; Zählbereich nicht angegeben.",
-        "CRP zeitlich nicht eindeutig zuordenbar: erster Wert 13,0 mg/l, letzter Wert 6,1 mg/l während des Aufenthalts 30.01.–05.02.2024; keine einzelnen Messdaten oder eindeutige Zuordnung zum Referenztermin. Originalbeleg aus 18_Baseline.docx: „C-Reaktives Protein 13,0 mg/l;  6,1 mg/l (<5 mg/l) [Min: 6,1 mg/l; Max: 13,0 mg/l]“.",
-        "Blinatumomab wurde erst im stationären Verlauf verabreicht; der genaue Therapiebeginn ist nicht angegeben. Die Entlassungsbesserung vom 05.02.2024 ist kein Befund des Referenztermins."
+        "Referenztermin ist die dokumentierte Untersuchung am 30.01.2024; der Aufenthaltszeitraum ist kein eigener Besuchstag.",
+        "DAS28 nur näherungsweise als ca. 4,4 dokumentiert; das auf „heute“ bezogene Einzeldatum ist nicht ausdrücklich genannt.",
+        "TJC/SJC aus dem Untersuchungsbefund vom 30.01.2024; Zählbereich nicht angegeben.",
+        "CRP: erster Messwert nach Reihenfolge aus der Aufenthaltstabelle; genauer Messtag nicht angegeben.",
+        "Bei Aufnahme ausdrücklich keine laufende rheumatologische Therapie seit Oktober 2023.",
+        "Die unter Doxycyclin beschriebene vorübergehende Besserung gehört zur vorausgehenden Behandlung im November 2023; keine aktuelle Einnahme."
       ]
     },
     {
@@ -113,21 +219,67 @@
       "SDAI": null,
       "CDAI": null,
       "HAQ": null,
+      "CRP dokumentiert": "Ja",
       "CRP-Wert": 5.4,
       "CRP-Vergleichszeichen": "<",
       "CRP-Einheit": "mg/l",
       "BSG (mm nach 1 h)": null,
-      "Aktuelle Therapie": null,
-      "Klinische Hauptmanifestation": "Gebesserte Schmerzen, noch leichte Schmerzen am linken Knie (3 auf einer Schmerzskala). Morgensteifigkeit unter 30 Minuten; im Intervall keine Schwellungen.",
-      "Gelenkbefund": "Keine druckschmerzhaften oder geschwollenen Gelenke im dokumentierten Gelenkstatus; TJC 0, SJC 0.",
-      "Weitere Gelenke": "Einmalige Schmerzen am Sakrum seit der Infusion mit Einnahme von Ibuprofen.",
-      "Verlauf": "Nach Blinatumomab gebesserte Schmerzen und keine Schwellungen im Intervall; klinisch als Remission beurteilt. Verbleibende linke Knieschmerzen und Morgensteifigkeit unter 30 Minuten; nach der Infusion Müdigkeit.",
-      "Ansprechen (Ja/Nein)": "Ja",
+      "Klinische Hauptmanifestation": "Gebesserte Schmerzen mit verbleibenden leichten Schmerzen im linken Knie und Morgensteifigkeit unter 30 Minuten. Keine Schwellungen im Intervall; aktuell klinische Remission.",
+      "Periphere Gelenkbeschwerden": "vorhanden",
+      "Synovitis / Gelenkschwellung": "verneint",
+      "Morgensteifigkeit": "vorhanden",
+      "Betroffene Regionen": "Linkes Knie; im Intervall Sakrum.",
+      "Klinischer Befund (Details)": "Linkes Knie mit Schmerzstärke 3; Ursache der Restschmerzen nicht näher eingeordnet. Morgensteifigkeit unter 30 Minuten. Gelenkstatus TJ 0/SJ 0; im Intervall keine Schwellungen. Müdigkeit nach der Infusion.",
+      "Beurteilte Therapie": "Blinatumomab",
+      "Ansprechen": "Nicht beurteilbar",
+      "Krankheitszustand": "Remission",
+      "Verlauf": "Nach zwei abgeschlossenen Blinatumomab-Zyklen Verbesserung der Schmerzen und aktuell ärztlich dokumentierte klinische Remission. Verbleibende leichte Schmerzen im linken Knie, kurze Morgensteifigkeit und Müdigkeit nach Infusion; einmalige Ibuprofen-Einnahme wegen Sakrumschmerzen. Das Ausmaß der klinischen Besserung ist nicht ausdrücklich eingeordnet.",
+      "Medikamente": [
+        {
+          "Wirkstoff": "Blinatumomab",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Nein",
+          "Status": "beendet",
+          "Dosierung (Original)": "02/2024: Blinatumomab, 2/2 Zyklen erfolgt",
+          "Belege": [
+            {
+              "Datei": "18_FollowUp.docx",
+              "Zitat": "02/2024: Blinatumomab, 2/2 Zyklen erfolgt"
+            }
+          ],
+          "Hinweise": [
+            "Zwei Zyklen abgeschlossen; keine laufende Dauerinfusion dokumentiert.",
+            "Dosis und regelmäßiges Intervall in der Follow-up-Briefgruppe nicht angegeben."
+          ]
+        },
+        {
+          "Wirkstoff": "Ibuprofen",
+          "Dosis": null,
+          "Dosiseinheit": null,
+          "Intervallzahl": null,
+          "Intervalleinheit": null,
+          "Bedarf": "Unklar",
+          "Status": "beendet",
+          "Dosierung (Original)": "Seit der Infusion 1 mal Ibuprofen wegen Schmerzen am Sakrum.",
+          "Belege": [
+            {
+              "Datei": "18_FollowUp.docx",
+              "Zitat": "Seit der Infusion 1 mal Ibuprofen wegen Schmerzen am Sakrum."
+            }
+          ],
+          "Hinweise": [
+            "Einmalige zurückliegende Einnahme; keine ausdrückliche fortbestehende Bedarfsverordnung dokumentiert."
+          ]
+        }
+      ],
       "Belege": {
         "Klinisches Datum": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "die sich am 04.04.2024 ambulant vorstellte."
+            "Zitat": "wir berichten über unsere gemeinsame Patientin, 18, die sich am 04.04.2024 ambulant vorstellte."
           }
         ],
         "DAS28": [
@@ -154,28 +306,34 @@
             "Zitat": "Gelenkstatus: TJ:0/SJ:0"
           }
         ],
+        "CRP dokumentiert": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "C-reaktives Protein <5,4 mg/l"
+          }
+        ],
         "CRP-Wert": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+            "Zitat": "C-reaktives Protein <5,4 mg/l"
           }
         ],
         "CRP-Vergleichszeichen": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+            "Zitat": "C-reaktives Protein <5,4 mg/l"
           }
         ],
         "CRP-Einheit": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "C-reaktives Protein <5,4 mg/l (-<5,4 mg/l)"
+            "Zitat": "C-reaktives Protein <5,4 mg/l"
           }
         ],
         "Klinische Hauptmanifestation": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "Aktuell Verbesserung der Schmerzen. Im Intervall keine Schwellungen."
+            "Zitat": "Aktuell Verbesserung der Schmerzen."
           },
           {
             "Datei": "18_FollowUp.docx",
@@ -184,28 +342,100 @@
           {
             "Datei": "18_FollowUp.docx",
             "Zitat": "MS<30´"
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Im Intervall keine Schwellungen."
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Klinisch und laborchemisch fand sich aktuell die Grunderkrankung in Remission."
           }
         ],
-        "Gelenkbefund": [
+        "Periphere Gelenkbeschwerden": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Noch etwas Schmerzen Knie li. (3 auf einer Schmerzskala)"
+          }
+        ],
+        "Synovitis / Gelenkschwellung": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Im Intervall keine Schwellungen."
+          },
           {
             "Datei": "18_FollowUp.docx",
             "Zitat": "Gelenkstatus: TJ:0/SJ:0"
           }
         ],
-        "Weitere Gelenke": [
+        "Morgensteifigkeit": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "MS<30´"
+          }
+        ],
+        "Betroffene Regionen": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Noch etwas Schmerzen Knie li. (3 auf einer Schmerzskala)"
+          },
           {
             "Datei": "18_FollowUp.docx",
             "Zitat": "Seit der Infusion 1 mal Ibuprofen wegen Schmerzen am Sakrum."
           }
         ],
-        "Verlauf": [
+        "Klinischer Befund (Details)": [
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "Wiedervorstellung zur Kontrolle nach individuellem Heilversuch mit Blinatumomab."
+            "Zitat": "Noch etwas Schmerzen Knie li. (3 auf einer Schmerzskala)"
           },
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "Aktuell Verbesserung der Schmerzen. Im Intervall keine Schwellungen."
+            "Zitat": "MS<30´"
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Gelenkstatus: TJ:0/SJ:0"
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Im Intervall keine Schwellungen."
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Nach der Infusion Müdigkeit, sonst kein Fieber, keine Infekte, keine Übelkeit/Vertigo."
+          }
+        ],
+        "Beurteilte Therapie": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "WV nach IHV mit Blinatumomab."
+          }
+        ],
+        "Ansprechen": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Aktuell Verbesserung der Schmerzen."
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Klinisch und laborchemisch fand sich aktuell die Grunderkrankung in Remission."
+          }
+        ],
+        "Krankheitszustand": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Klinisch und laborchemisch fand sich aktuell die Grunderkrankung in Remission."
+          }
+        ],
+        "Verlauf": [
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "02/2024: Blinatumomab, 2/2 Zyklen erfolgt"
+          },
+          {
+            "Datei": "18_FollowUp.docx",
+            "Zitat": "Aktuell Verbesserung der Schmerzen."
           },
           {
             "Datei": "18_FollowUp.docx",
@@ -222,24 +452,20 @@
           {
             "Datei": "18_FollowUp.docx",
             "Zitat": "Nach der Infusion Müdigkeit, sonst kein Fieber, keine Infekte, keine Übelkeit/Vertigo."
-          }
-        ],
-        "Ansprechen (Ja/Nein)": [
-          {
-            "Datei": "18_FollowUp.docx",
-            "Zitat": "Aktuell Verbesserung der Schmerzen. Im Intervall keine Schwellungen."
           },
           {
             "Datei": "18_FollowUp.docx",
-            "Zitat": "Klinisch und laborchemisch fand sich aktuell die Grunderkrankung in Remission."
+            "Zitat": "Seit der Infusion 1 mal Ibuprofen wegen Schmerzen am Sakrum."
           }
         ]
       },
       "Hinweise": [
-        "Labordatum nicht angegeben.",
-        "Zählbereich von TJC und SJC nicht angegeben.",
-        "Blinatumomab wurde als abgeschlossene Behandlung beurteilt, nicht als laufende Medikation am 04.04.2024. Originalbeleg aus 18_FollowUp.docx: „02/2024: Blinatumomab, 2/2 Zyklen erfolgt“.",
-        "Ursache der verbliebenen Knie- und Sakrumschmerzen nicht näher eingeordnet."
+        "Ansprechen Nicht beurteilbar: Schmerzverbesserung ohne ausdrücklich einordenbares Ausmaß; aktuelle Remission allein belegt keine Kategorie des Therapieansprechens.",
+        "Restschmerzen sind nicht ausdrücklich als entzündlich oder mechanisch eingeordnet.",
+        "TJC/SJC: Zählbereich nicht angegeben.",
+        "CRP: erster Messwert nach Reihenfolge; gesondertes Labordatum nicht angegeben.",
+        "„MS<30´“ als dokumentierte Morgensteifigkeit unter 30 Minuten übernommen; keine ausdrückliche Verneinung.",
+        "Für DAS28 und Gelenkstatus ist kein vom ambulanten Besuch abweichendes Erhebungsdatum angegeben."
       ]
     }
   ]

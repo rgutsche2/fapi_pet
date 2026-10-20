@@ -7,7 +7,7 @@
       "Follow-up": "2023-07-07"
     }
   },
-  "fingerprint": "e12c5a30223875017b0267cc6ac7486c98534b927671f7d42e9808b46a079189",
+  "fingerprint": "863b9db15e2b5fafa1e5a34f905614f3cc497ba245bdb79c12235b6e290c03b0",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,16 +20,82 @@
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
-        "CRP-Wert": null,
-        "CRP-Vergleichszeichen": null,
+        "CRP dokumentiert": "Ja",
+        "CRP-Wert": 3.6,
+        "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Bei Aufnahme Filgotinib und MTX bereits abgesetzt; während des Aufenthalts Einleitung von Blinatumomab über fünf Tage.",
-        "Klinische Hauptmanifestation": "Zunehmende Schmerzen und druckdolente Schwellungen beider Hand- und Fingergelenke, Schultern und Knie. Tägliche Morgensteifigkeit der Hände für 3–4 Stunden.",
-        "Gelenkbefund": "Druckdolenz und Schwellung beider Handgelenke, MCP II/III und Daumengrundgelenke beidseits, beider Schultern, Knie rechts stärker als links sowie beider OSG und Fußgelenke.",
-        "Weitere Gelenke": "Zusätzlich Schmerzen beider Fußgelenke und aller Zehen.",
-        "Verlauf": "Unter Filgotinib zunächst nur mäßiger Nutzen, seit Januar 2023 zunehmender Wirkverlust mit Schmerzen wie bei Erstdiagnose. Im Aufenthalt Beginn eines individuellen Heilversuchs mit Blinatumomab.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Zunehmende polyartikuläre Schmerzen mit druckdolenten Schwellungen und ausgeprägter Morgensteifigkeit der Hände über 3–4 Stunden.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Morgensteifigkeit": "vorhanden",
+        "Betroffene Regionen": "Hände und Finger, Schultern, Knie, Sprung- und Fußgelenke beidseits sowie sämtliche Zehen.",
+        "Klinischer Befund (Details)": "Am 24.04.2023 Druckdolenz und Schwellung beider Handgelenke, MCP2/3 und Daumengrundgelenke beidseits, beider Schultern, Knie rechts stärker als links sowie beider OSG und Fußgelenke. Anamnestisch Morgensteifigkeit der Finger über 3–4 Stunden.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Filgotinib zunächst mäßige Hilfe, seit Januar 2023 zunehmender Wirkverlust mit Schmerzen wie bei Erstdiagnose. Filgotinib und Methotrexat vor Aufnahme abgesetzt; bei aktiver therapierefraktärer RA erster fünftägiger Blinatumomabzyklus, weiterer Zyklus geplant.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Filgotinib",
+            "Dosis": 100,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "Filgotinib 100 mg 1-0-0 (vor 7d abgesetzt)",
+            "Belege": [
+              {
+                "Datei": "24_Baseline.docx",
+                "Zitat": "Filgotinib 100 mg 1-0-0 (vor 7d abgesetzt)"
+              }
+            ],
+            "Hinweise": [
+              "Absetzzeitpunkt anamnestisch auch als vor etwa 1½ Wochen angegeben; Therapiehistorie enthält die widersprüchliche Jahresangabe 04/2022."
+            ]
+          },
+          {
+            "Wirkstoff": "Methotrexat",
+            "Dosis": 7.5,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "beendet",
+            "Dosierung (Original)": "MTX 7,5 mg 1x/Woche s.c. (vor 14d abgesetzt)",
+            "Belege": [
+              {
+                "Datei": "24_Baseline.docx",
+                "Zitat": "MTX 7,5 mg 1x/Woche s.c. (vor 14d abgesetzt)"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "über 5 Tage",
+            "Belege": [
+              {
+                "Datei": "24_Baseline.docx",
+                "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 5 Tage."
+              },
+              {
+                "Datei": "24_Baseline.docx",
+                "Zitat": "Wir entlassen den Patienten am 29.04.2023 in stabilem und gebesserten Allgemeinzustand und vereinbarten eine erneute stationäre Aufnahme am 08.05.2023 zur zweitem Therapiezyklus."
+              }
+            ],
+            "Hinweise": [
+              "Erster Infusionszyklus abgeschlossen; zweiter Zyklus geplant. Keine Einzeldosis oder regelmäßiges Intervall dokumentiert."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
@@ -37,50 +103,82 @@
               "Zitat": "Körperlicher  Untersuchungsbefund vom 24.04.2023:"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 3,6 mg/l"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 3,6 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 3,6 mg/l"
+            }
+          ],
           "CRP-Einheit": [
             {
               "Datei": "24_Baseline.docx",
-              "Zitat": "C-Reaktives Protein 3,6 mg/l;  18,9 mg/l (<5 mg/l) [Min: 3,6 mg/l; Max: 67,2 mg/l]"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "24_Baseline.docx",
-              "Zitat": "Filgotinib 100 mg 1-0-0 (vor 7d abgesetzt)"
-            },
-            {
-              "Datei": "24_Baseline.docx",
-              "Zitat": "MTX 7,5 mg 1x/Woche s.c. (vor 14d abgesetzt)"
-            },
-            {
-              "Datei": "24_Baseline.docx",
-              "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 5 Tage."
+              "Zitat": "C-Reaktives Protein 3,6 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "24_Baseline.docx",
-              "Zitat": "AA: Die stationäre Vorstellung von Herrn Zipfel erfolgt wegen zunehmenden Gelenkschmerzen und druckdolenten Schwellungen im Rahmen seiner Rheumatoiden Arthritis."
-            },
-            {
-              "Datei": "24_Baseline.docx",
-              "Zitat": "Schmerzen habe er vor allem in beiden Handgelenken, den MCP-DIP-Gelenken, in beiden Schultern und in beiden Kniegelenken."
+              "Zitat": "Die stationäre Vorstellung von Herrn Zipfel erfolgt wegen zunehmenden Gelenkschmerzen und druckdolenten Schwellungen im Rahmen seiner Rheumatoiden Arthritis."
             },
             {
               "Datei": "24_Baseline.docx",
               "Zitat": "Die Morgensteifigkeit in den Händen würde jeden Tag ca. 3-4 Stunden anhalten."
             }
           ],
-          "Gelenkbefund": [
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Schmerzen habe er vor allem in beiden Handgelenken, den MCP-DIP-Gelenken, in beiden Schultern und in beiden Kniegelenken."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
+            }
+          ],
+          "Morgensteifigkeit": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Die Morgensteifigkeit in den Händen würde jeden Tag ca. 3-4 Stunden anhalten."
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Gelenkschmerzen beider Hände und Finger, beider Schultern, beider Knie, beider Fußgelenke und aller Zehen"
+            },
             {
               "Datei": "24_Baseline.docx",
               "Zitat": "Gelenkstatus: Druckdolenz und Schwellung: beide Handgelenke, MCP2/3 bds., Daumengrundgelenk bds., Schulter bds., Knie re>li, OSG bds., Fußgelenke beidseits"
             }
           ],
-          "Weitere Gelenke": [
+          "Klinischer Befund (Details)": [
             {
               "Datei": "24_Baseline.docx",
-              "Zitat": "Gelenkschmerzen beider Hände und Finger, beider Schultern, beider Knie, beider Fußgelenke und aller Zehen"
+              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung: beide Handgelenke, MCP2/3 bds., Daumengrundgelenk bds., Schulter bds., Knie re>li, OSG bds., Fußgelenke beidseits"
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4h)"
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigten sich multiple geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
             }
           ],
           "Verlauf": [
@@ -94,13 +192,27 @@
             },
             {
               "Datei": "24_Baseline.docx",
+              "Zitat": "Filgotinib 100 mg 1-0-0 (vor 7d abgesetzt)"
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "MTX 7,5 mg 1x/Woche s.c. (vor 14d abgesetzt)"
+            },
+            {
+              "Datei": "24_Baseline.docx",
               "Zitat": "Anschließend initiierten wir die Therapie mit Blinatumomab über 5 Tage."
+            },
+            {
+              "Datei": "24_Baseline.docx",
+              "Zitat": "Wir entlassen den Patienten am 29.04.2023 in stabilem und gebesserten Allgemeinzustand und vereinbarten eine erneute stationäre Aufnahme am 08.05.2023 zur zweitem Therapiezyklus."
             }
           ]
         },
         "Hinweise": [
-          "CRP zeitlich nicht eindeutig auswählbar: erster Wert 3,6 mg/l, letzter Wert 18,9 mg/l, Minimum 3,6 mg/l, Maximum 67,2 mg/l; keine einzelnen Messtage angegeben. Originalbeleg: 24_Baseline.docx: „C-Reaktives Protein 3,6 mg/l;  18,9 mg/l (<5 mg/l) [Min: 3,6 mg/l; Max: 67,2 mg/l]“.",
-          "Der Beginn der Blinatumomabgabe ist innerhalb des Aufenthalts nicht einzeln datiert; am Referenztermin waren Filgotinib und MTX bereits abgesetzt."
+          "CRP: erster Messwert nach Reihenfolge; Aufenthalt 24.–29.04.2023, einzelner Messtag nicht angegeben. Letzter Wert 18,9 mg/l, Maximum 67,2 mg/l; vorübergehender Anstieg laut Brief am ehesten im Rahmen eines Cytokine-Release-Syndroms.",
+          "Für den geplanten zweiten Therapiezyklus stehen im Verlauf 08.05.2023 und in der Therapieempfehlung abweichend 08.05.2020.",
+          "Keine laufende rheumatologische Dauermedikation bei Entlassung aufgeführt.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -113,37 +225,83 @@
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
-        "CRP-Wert": null,
-        "CRP-Vergleichszeichen": null,
+        "CRP dokumentiert": "Ja",
+        "CRP-Wert": 7.1,
+        "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Blinatumomab im individuellen Heilversuch, dritter Zyklus über fünf Tage; Dosis nicht angegeben.",
-        "Klinische Hauptmanifestation": "Leicht gebesserte Gelenkschmerzen, NRS 4/10, weiterhin an beiden Hand- und Fingergelenken mit ausgeprägter Morgensteifigkeit der Finger für 3–4 Stunden.",
-        "Gelenkbefund": "Im Juli multiple geschwollene und druckdolente Gelenke, vor allem Hände und Finger. Der auf 09.05.2023 datierte Detailstatus nennt Schwellung und Druckdolenz beider Handgelenke, MCP III/IV links, MCP I/II/IV und PIP IV rechts sowie zusätzlich Druckdolenz beider Schultern.",
-        "Weitere Gelenke": "Weiterhin Schmerzen beider Schultern, des rechten Knies und beider Sprunggelenke; zusätzlich Myalgien im Arm- und Schulterbereich.",
-        "Verlauf": "Klinische Teilbesserung der Gelenkschmerzen unter der beurteilten Blinatumomabtherapie. Schmerzen, Schwellungen und ausgeprägte Morgensteifigkeit bestehen fort.",
-        "Ansprechen (Ja/Nein)": "Ja",
+        "Klinische Hauptmanifestation": "Leicht gebesserte Gelenkschmerzen mit NRS 4/10 bei weiterhin druckdolenten Schwellungen vor allem an Händen und Fingern sowie Morgensteifigkeit über 3–4 Stunden.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Morgensteifigkeit": "vorhanden",
+        "Betroffene Regionen": "Hand- und Fingergelenke, Schultern und Sprunggelenke beidseits sowie rechtes Knie.",
+        "Klinischer Befund (Details)": "Aktuell anamnestisch druckdolente Schwellungen beider Handgelenke sowie MCP-, PIP-, Daumensattel- und Daumengrundgelenke beidseits; Morgensteifigkeit der Finger 3–4 Stunden. Der ausdrücklich auf 09.05.2023 datierte Gelenkstatus beschreibt Schwellungen beider Handgelenke, MCP III–IV links, MCP I, II und IV rechts sowie PIP IV rechts und zusätzliche Druckdolenz beider Schultern. Sonographisch im Juli zusätzlich ausgeprägte degenerative Veränderungen von Knien und Schultern; deren entzündlicher Anteil bleibt teilweise unsicher.",
+        "Beurteilte Therapie": "Blinatumomab",
+        "Ansprechen": "Partiell",
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Unter Blinatumomab leichte klinische Besserung der Gelenkschmerzen, jedoch weiterhin geschwollene und druckdolente Gelenke sowie ausgeprägte Morgensteifigkeit. Sonographische Besserung an Handgelenken und rechtem Knie bei zusätzlichen degenerativen Veränderungen von Knien und Schultern. Dritter fünftägiger Blinatumomabzyklus durchgeführt.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "über 5 Tage",
+            "Belege": [
+              {
+                "Datei": "24_FollowUp.docx",
+                "Zitat": "Die Aufnahme des Patienten erfolgte elektiv zum dritten Therapiezyklus von Blinatumomab im Rahmen eines individuellen Heilversuchs bei therapierefraktärer seronegativer rheumatoider Arthritis."
+              },
+              {
+                "Datei": "24_FollowUp.docx",
+                "Zitat": "Anschließend initierten wir die Therapie mit Blinatumomab über 5 Tage."
+              },
+              {
+                "Datei": "24_FollowUp.docx",
+                "Zitat": "Wir entlassen den Patienten am 22.07.2023 in stabilem und gebesserten Allgemeinzustand in die ambulante Weiterbehandlung."
+              }
+            ],
+            "Hinweise": [
+              "Dritter Infusionszyklus abgeschlossen; keine regelmäßige Dauergabe oder Einzeldosis dokumentiert."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "24_FollowUp.docx",
               "Zitat": "Arthrosonographie vom 17.07.23:"
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 24, der sich vom 17.07.2023 bis 21.07.2023 in unserer stationären Behandlung befand."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 7,1 mg/l"
+            }
+          ],
+          "CRP-Wert": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 7,1 mg/l"
+            }
+          ],
+          "CRP-Vergleichszeichen": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "C-Reaktives Protein 7,1 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "24_FollowUp.docx",
-              "Zitat": "C-Reaktives Protein 7,1 mg/l;  2,9 mg/l (<5 mg/l) [Min: 2,9 mg/l; Max: 7,1 mg/l]"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "24_FollowUp.docx",
-              "Zitat": "Die Aufnahme des Patienten erfolgte elektiv zum dritten Therapiezyklus von Blinatumomab im Rahmen eines individuellen Heilversuchs bei therapierefraktärer seronegativer rheumatoider Arthritis."
-            },
-            {
-              "Datei": "24_FollowUp.docx",
-              "Zitat": "Anschließend initierten wir die Therapie mit Blinatumomab über 5 Tage."
+              "Zitat": "C-Reaktives Protein 7,1 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
@@ -153,13 +311,45 @@
             },
             {
               "Datei": "24_FollowUp.docx",
-              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken; ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
+              "Zitat": "In der körperlichen Untersuchung zeigte sich verschiedene geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
             }
           ],
-          "Gelenkbefund": [
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken"
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "24_FollowUp.docx",
               "Zitat": "In der körperlichen Untersuchung zeigte sich verschiedene geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
+            }
+          ],
+          "Morgensteifigkeit": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken"
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "RA: druckdolente Schwellungen: Handgelenk bds. sowie MCP, PIP, Daumensattelgelenk und Daumengrundgelenk bds"
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
             },
             {
               "Datei": "24_FollowUp.docx",
@@ -172,12 +362,32 @@
             {
               "Datei": "24_FollowUp.docx",
               "Zitat": "Druckdolenz: beide Handgelenke, III-IV MCP li., I, II MCP re., IV MCP und IV PIP re., Schulter bds."
-            }
-          ],
-          "Weitere Gelenke": [
+            },
             {
               "Datei": "24_FollowUp.docx",
-              "Zitat": "Gelenkschmerzen in beiden Hand- und Fingergelenken, beiden Schultergelenken, Kniegelenk rechts, beiden Sprunggelenken; ausgeprägte Morgensteifigkeit der Finger (3-4 h), Myalgien im Arm- und Schulterbereich"
+              "Zitat": "Ausgeprägte Arthrose mit a.e. Aktivierung am Kniegelenk und Schultergelenk bds DD arthritische Aktivität nicht auszuschließen."
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Elektive Vorstellung zur erneuten Blinatumomabgabe im Rahmen eines individuellen Heilversuchs."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich verschiedene geschwollene und druckdolente Gelenke, vor allem an den Händen und Fingern."
             }
           ],
           "Verlauf": [
@@ -192,20 +402,32 @@
             {
               "Datei": "24_FollowUp.docx",
               "Zitat": "ausgeprägte Morgensteifigkeit der Finger (3-4 h)"
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
+            },
             {
               "Datei": "24_FollowUp.docx",
-              "Zitat": "Aktuell gebe er eine leichte Verbesserung bzgl. der Gelenkschmerzen an (NRS 4/10)."
+              "Zitat": "In der Arthrosonographie zeigte sich eine Verbesserung der Synovialitis in beiden Handgelenk und Knie re. im Vergleich zur letzten Aufnahme vom Juni 2023."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Ausgeprägte Arthrose mit a.e. Aktivierung am Kniegelenk und Schultergelenk bds DD arthritische Aktivität nicht auszuschließen."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Die Aufnahme des Patienten erfolgte elektiv zum dritten Therapiezyklus von Blinatumomab im Rahmen eines individuellen Heilversuchs bei therapierefraktärer seronegativer rheumatoider Arthritis."
+            },
+            {
+              "Datei": "24_FollowUp.docx",
+              "Zitat": "Anschließend initierten wir die Therapie mit Blinatumomab über 5 Tage."
             }
           ]
         },
         "Hinweise": [
-          "Referenztermin 17.07.2023 durch die rheumatologische Arthrosonographie belegt. Der körperliche Detailstatus trägt ausdrücklich das Datum 09.05.2023; eine Übertragung dieses Detailstatus auf Juli ist nicht gesichert. Der Juli-Verlauf bestätigt unabhängig davon geschwollene und druckdolente Hand- und Fingergelenke.",
-          "Anamnese und klinische Besserungsangabe sind innerhalb des Juli-Briefes nicht einzeln datiert.",
-          "CRP zeitlich nicht eindeutig auswählbar: erster Wert 7,1 mg/l, letzter Wert 2,9 mg/l, Minimum 2,9 mg/l, Maximum 7,1 mg/l; keine einzelnen Messtage angegeben. Originalbeleg: 24_FollowUp.docx: „C-Reaktives Protein 7,1 mg/l;  2,9 mg/l (<5 mg/l) [Min: 2,9 mg/l; Max: 7,1 mg/l]“.",
-          "Blinatumomabgabe im Juli-Aufenthalt dokumentiert, genauer Beginn nicht angegeben. Die Ansprechenkategorie beruht auf der klinisch berichteten Teilbesserung, nicht auf der Bildgebung."
+          "Referenztermin 17.07.2023 durch die tatsächlich durchgeführte rheumatologische Arthrosonographie während der stationären Vorstellung belegt; näher am Scan als die ebenfalls dokumentierte Untersuchung vom 09.05.2023.",
+          "Der körperliche Untersuchungsbefund trägt ausdrücklich das Datum 09.05.2023. Eine Übertragung dieses detaillierten Gelenkstatus auf Juli wird nicht angenommen; die Juli-Episode beschreibt zusätzlich geschwollene und druckdolente Gelenke ohne einzelnen Untersuchungstag.",
+          "CRP: erster Messwert nach Reihenfolge; kein einzelner Messtag angegeben. Letzter Messwert 2,9 mg/l.",
+          "Stationärer Zeitraum im Briefkopf bis 21.07.2023, Entlassung im Verlauf am 22.07.2023.",
+          "Keine laufende rheumatologische Dauermedikation bei Entlassung aufgeführt.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

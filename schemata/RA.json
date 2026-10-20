@@ -32,14 +32,35 @@
   ],
   "klinische_spalten": [
     "Klinische Hauptmanifestation",
-    "Gelenkbefund",
-    "Weitere Gelenke"
+    "Periphere Gelenkbeschwerden",
+    "Synovitis / Gelenkschwellung",
+    "Morgensteifigkeit",
+    "Betroffene Regionen",
+    "Klinischer Befund (Details)"
   ],
   "auswahlwerte": {
     "DAS28-Variante": [
       "CRP",
       "BSG",
       "nicht angegeben"
+    ],
+    "Periphere Gelenkbeschwerden": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Synovitis / Gelenkschwellung": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
+    ],
+    "Morgensteifigkeit": [
+      "vorhanden",
+      "verneint",
+      "unklar",
+      "nicht erwähnt"
     ]
   },
   "gekoppelte_felder": [
@@ -47,5 +68,10 @@
       "DAS28",
       "DAS28-Variante"
     ]
+  ],
+  "status_spalten": [
+    "Periphere Gelenkbeschwerden",
+    "Synovitis / Gelenkschwellung",
+    "Morgensteifigkeit"
   ]
 }

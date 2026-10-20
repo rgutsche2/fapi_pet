@@ -7,7 +7,7 @@
       "Follow-up": "2021-06-14"
     }
   },
-  "fingerprint": "f59ce231e0cb3cc569815f043e508c0665ab1c1fb3dfa34d2904fd383e0d8e6e",
+  "fingerprint": "766ff8c0871bca458dc316a70a8ff31363962ef20fbe042e39551b2e075786e4",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,39 +20,141 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 35.9,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 31,
-        "Aktuelle Therapie": "Ibuprofen 300 mg/Tag.",
-        "Klinische Hauptmanifestation": "Ausgeprägte schmerzhafte Kniegelenksarthritis links mit Schwellung; rechts kein eindeutiger Arthritisnachweis.",
-        "Axiale Beschwerden / ISG": "Im Verlauf ausgeprägte ISG-Schmerzen rechts. Eindeutig entzündliche Rückenschmerzen vor diesen Episoden und nächtlicher Rückenschmerz verneint; aktuelles Ausmaß der ISG-Beschwerden unklar.",
-        "Weitere Gelenke": "Früher Sprunggelenksschwellung links; aktuell an beiden Sprunggelenken keine Arthritis.",
-        "Verlauf": "Nach Sprunggelenksbeteiligung links und ISG-Schmerzen rechts zuletzt starke Schmerzen und Schwellung des linken Knies trotz NSAR. Secukinumab-Einleitung empfohlen.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Ausgeprägte schmerzhafte Kniegelenksarthritis links als führende aktuelle Manifestation; im bisherigen Verlauf rechtsseitige ISG-Schmerzen.",
+        "Axiale Beschwerden / ISG": "unklar",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": "Vor allem Knie links; rechtsseitige ISG-Beschwerden im Verlauf, früher Sprunggelenk links.",
+        "Klinischer Befund (Details)": "Ausgeprägte Kniegelenksarthritis links mit suprapatellärem Erguss und Synovialisproliferation; rechts kein eindeutiger Arthritisnachweis. Beide Sprunggelenke ohne Arthritis. Keine Morgensteifigkeit und kein nächtlicher Rückenschmerz. Abweichende Seitenangabe zum Knie in der rheumatologischen Anamnese.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "NSAR halfen symptomatisch, dennoch entwickelte sich eine ausgeprägte Kniegelenksarthritis links. Gelenkpunktion mit lokaler Steroidgabe; wegen ausgeprägter peripherer Manifestation, Sakroiliitis und zweimaligem NSAR-Versagen Einleitung von Secukinumab vorgesehen.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": 300,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "aktuell Ibuprofen 300 mg/Tag",
+            "Belege": [
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "aktuell Ibuprofen 300 mg/Tag"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "unklar",
+            "Dosierung (Original)": "Cosentyx 150 mg 5 x wöchentlich, dann danach alle 4 Wochen",
+            "Belege": [
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Therapiebeginn mit Secukinumab 12/2020"
+              },
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Nach Kostenzusage der Krankenkasse und zusätzlicher Ganzkörperuntersuchung mittels FAPI-PET  wird die Erstgabe der Basistherapie Secukinumab in unserer Sprechstunde erfolgen."
+              },
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Cosentyx 150 mg 5 x wöchentlich, dann danach alle 4 Wochen"
+              }
+            ],
+            "Hinweise": [
+              "Diagnosen nennen einen Therapiebeginn 12/2020, der Beurteilungstext beschreibt die Erstgabe als zukünftig; tatsächlicher Beginn innerhalb der Baseline-Episode nicht eindeutig.",
+              "Initialschema und anschließendes Erhaltungsintervall im Original erhalten."
+            ]
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 90,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "geplant",
+            "Dosierung (Original)": "Arcoxia 90 mg 1-0-0 b.B.",
+            "Belege": [
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Arcoxia 90 mg 1-0-0 b.B."
+              }
+            ],
+            "Hinweise": [
+              "Als Bedarfsmedikation empfohlen."
+            ]
+          },
+          {
+            "Wirkstoff": "Prednisolon",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "i.a. Applikation von Prednisolon",
+            "Belege": [
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Punktion Kniegelenk 25.11.2020 mit i.a. Applikation von Prednisolon und Entnahme von 50 ml seröser Flüssigkeit"
+              },
+              {
+                "Datei": "1_Baseline.docx",
+                "Zitat": "Punktion des Gelenks mit i.a. Installation mit Volon 40 mg sowie Entnahme von 50 ml seröser Flüssigkeit."
+              }
+            ],
+            "Hinweise": [
+              "Einmalige intraartikuläre Behandlung am 25.11.2020.",
+              "Widersprüchliche Präparatangabe: Prednisolon gegenüber Volon 40 mg. Die 40 mg werden Prednisolon nicht zugeordnet; keine zusätzliche gesicherte Steroidgabe abgeleitet."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 1, der sich am 25.11.2020 ambulant vorstellte."
+              "Zitat": "der sich am 25.11.2020 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "C-reaktives Protein 35,9 mg/l"
             }
           ],
           "CRP-Wert": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 35,9 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 35,9 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "C-reaktives Protein 35,9 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 35,9 mg/l"
             }
           ],
           "BSG (mm nach 1 h)": [
@@ -61,20 +163,18 @@
               "Zitat": "BKS: 31"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "1_Baseline.docx",
-              "Zitat": "aktuell Ibuprofen 300 mg/Tag"
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "Zuletzt entstand in den letzten 2 Wochen starke Schmerzen und Schwellungen im Kniegelenk linksseitig."
+              "Zitat": "Aktuell bestehen insbesondere Kniegelenksschmerzen."
             },
             {
               "Datei": "1_Baseline.docx",
               "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
+            },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden."
             }
           ],
           "Axiale Beschwerden / ISG": [
@@ -84,18 +184,54 @@
             },
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "Eindeutig entzündliche Rückenschmerzen vor diesem Episoden gab der Patient nicht an."
+              "Zitat": "Aktuell bestehen insbesondere Kniegelenksschmerzen."
             },
             {
               "Datei": "1_Baseline.docx",
               "Zitat": "Nächtl. Rückenschmerz: nein"
             }
           ],
-          "Weitere Gelenke": [
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Aktuell bestehen insbesondere Kniegelenksschmerzen."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
+            }
+          ],
+          "Betroffene Regionen": [
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
+            },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden."
+            },
             {
               "Datei": "1_Baseline.docx",
               "Zitat": "Damals kam es zu einer Schwellung im Sprunggelenk linksseitig."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
             },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Sonographie Kniegelenk linksseitig: ausgeprägter suprapatellärer Erguss mit Synovialis-Proliferation."
+            },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Gelenkschmerzen/Schwellung: Knie rechts, Morgensteifigkeit: nein, Nächtl. Rückenschmerz: nein, Myalgien: nein"
+            }
+          ],
+          "Krankheitszustand": [
             {
               "Datei": "1_Baseline.docx",
               "Zitat": "Gelenke: ausgeprägte Kniegelenksarthritis linksseitig, kein eindeutiger Nachweis rechts, Sprunggelenk links: keine Arthritis, rechts: ebenfalls keine Arthritis"
@@ -104,19 +240,15 @@
           "Verlauf": [
             {
               "Datei": "1_Baseline.docx",
-              "Zitat": "Damals kam es zu einer Schwellung im Sprunggelenk linksseitig."
-            },
-            {
-              "Datei": "1_Baseline.docx",
-              "Zitat": "Im Verlauf kam es dann zu ausgeprägten ISG-Schmerzen rechtsseitig, die in einem MRT mit einer Sakroiliitis bestätigt wurden."
-            },
-            {
-              "Datei": "1_Baseline.docx",
-              "Zitat": "Zuletzt entstand in den letzten 2 Wochen starke Schmerzen und Schwellungen im Kniegelenk linksseitig."
-            },
-            {
-              "Datei": "1_Baseline.docx",
               "Zitat": "Diese helfen, allerdings entwickelte sich die Kniegelenksarthritis unter NSAR-Therapie."
+            },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Wir punktierten das ausgeprägt geschwollene Kniegelenk und entnahmen 50 ml seröse Flüssigkeit und applizierten Prednsiolon."
+            },
+            {
+              "Datei": "1_Baseline.docx",
+              "Zitat": "Aufgrund der starken Ausprägung der peripheren Gelenkmanifestation sowie nachgewiesener Sakroiliitis und zweimaligem NSAR-Versagen empfehlen wir für den Patienten eine Basistherapie-Einleitung mit einem Biologicum."
             },
             {
               "Datei": "1_Baseline.docx",
@@ -125,10 +257,11 @@
           ]
         },
         "Hinweise": [
-          "CRP- und BKS-Labordatum nicht angegeben.",
-          "Seitenwiderspruch: Rheumatologische Anamnese nennt „Gelenkschmerzen/Schwellung: Knie rechts“; ausführliche Anamnese und Untersuchungsbefund belegen die aktuelle Arthritis links.",
-          "Aktuelles Ausmaß der ISG-Beschwerden nicht eindeutig beschrieben.",
-          "Diagnoseliste nennt „Therapiebeginn mit Secukinumab 12/2020“; dies liegt nach dem Referenzbesuch. Im damaligen Verlauf ist die Erstgabe erst geplant."
+          "Einziger belegter rheumatologischer Besuch: 25.11.2020; Zuordnung zur Baseline gemäß Briefgruppe trotz Abstand zum Scan vom 22.02.2021.",
+          "Aktueller Fortbestand der zuvor beschriebenen ISG-Schmerzen nicht eindeutig; fehlender nächtlicher Rückenschmerz verneint nicht sämtliche axialen Beschwerden.",
+          "Seitenwiderspruch: rheumatologische Anamnese nennt Knie rechts, ausführliche Anamnese und Untersuchung überwiegend Knie links.",
+          "CRP und BKS ohne ausdrücklich angegebenes individuelles Messdatum; keine automatische Datierung auf den Besuchstag.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
@@ -141,39 +274,107 @@
         "LEI": null,
         "MASES": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.4,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": 3,
-        "Aktuelle Therapie": "Secukinumab (Cosentyx) 150 mg einmal monatlich; keine NSAR-Einnahme erforderlich.",
-        "Klinische Hauptmanifestation": "Vollständig beschwerdefrei; keine peripheren Arthritiden.",
-        "Axiale Beschwerden / ISG": "ISG-Symptomatik rückläufig; aktuell kein entzündlicher Rückenschmerz und keine Bewegungseinschränkung der ISG.",
-        "Weitere Gelenke": "Seit Beginn der Cosentyx-Therapie keine peripheren Gelenkbeschwerden mehr.",
-        "Verlauf": "Unter Secukinumab keine peripheren Gelenkbeschwerden mehr und rückläufige ISG-Symptomatik; aktuell vollständig beschwerdefrei, ohne NSAR-Bedarf.",
-        "Ansprechen (Ja/Nein)": "Ja",
+        "Klinische Hauptmanifestation": "Unter Secukinumab vollständig beschwerdefrei, ohne aktuelle periphere Gelenkbeschwerden oder entzündlichen Rückenschmerz.",
+        "Axiale Beschwerden / ISG": "verneint",
+        "Periphere Gelenkbeschwerden": "verneint",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Enthesitis": "nicht erwähnt",
+        "Betroffene Regionen": null,
+        "Klinischer Befund (Details)": "Keine peripheren Arthritiden, kein entzündlicher Rückenschmerz und keine Bewegungseinschränkung der ISG.",
+        "Beurteilte Therapie": "Secukinumab",
+        "Ansprechen": "Deutlich",
+        "Krankheitszustand": "Gut kontrolliert",
+        "Verlauf": "Seit Beginn von Secukinumab Rückbildung der peripheren und axialen Beschwerden bis zur vollständigen Beschwerdefreiheit; NSAR werden nicht benötigt. Gute Verträglichkeit, Fortsetzung empfohlen. Die im PET teils fortbestehenden beziehungsweise zunehmenden Auffälligkeiten begründen keine aktuelle klinische Arthritis.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Secukinumab",
+            "Dosis": 150,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Monate",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Cosentyx 150 mg 1 x Monat; Cosentyx 150 mg 1 x alle 4 Wochen",
+            "Belege": [
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "Cosentyx 150 mg 1 x Monat"
+              },
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "Cosentyx 150 mg 1 x alle 4 Wochen"
+              },
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "Das neue Medikament wird gut vertragen und regelmäßig eingenommen."
+              },
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+              }
+            ],
+            "Hinweise": [
+              "Aktuelle Dauermedikation monatlich; Therapieempfehlung alle 4 Wochen. Beide Angaben unverändert erhalten, nicht gleichgesetzt."
+            ]
+          },
+          {
+            "Wirkstoff": "Etoricoxib",
+            "Dosis": 90,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "geplant",
+            "Dosierung (Original)": "Arcoxia 90 mg 1-0-0 b. B.",
+            "Belege": [
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "Arcoxia 90 mg 1-0-0 b. B."
+              },
+              {
+                "Datei": "1_FollowUp.docx",
+                "Zitat": "NSAR müssen nicht eingenommen werden."
+              }
+            ],
+            "Hinweise": [
+              "Weiterhin als Bedarfsmedikation empfohlen; aktuell kein Einnahmebedarf."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "wir berichten über unseren gemeinsamen Patienten, 1, der sich am 14.06.2021 ambulant vorstellte."
+              "Zitat": "der sich am 14.06.2021 ambulant vorstellte."
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,4 mg/l"
             }
           ],
           "CRP-Wert": [
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 5,4 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 5,4 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,4 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 5,4 mg/l"
             }
           ],
           "BSG (mm nach 1 h)": [
@@ -182,24 +383,10 @@
               "Zitat": "BKS: 3"
             }
           ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "1_FollowUp.docx",
-              "Zitat": "Cosentyx 150 mg 1 x Monat"
-            },
-            {
-              "Datei": "1_FollowUp.docx",
-              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
-            },
-            {
-              "Datei": "1_FollowUp.docx",
-              "Zitat": "NSAR müssen nicht eingenommen werden."
-            }
-          ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "Der Patient ist vollständig beschwerdefrei."
+              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
             },
             {
               "Datei": "1_FollowUp.docx",
@@ -209,17 +396,47 @@
           "Axiale Beschwerden / ISG": [
             {
               "Datei": "1_FollowUp.docx",
+              "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "1_FollowUp.docx",
               "Zitat": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig."
-            },
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "1_FollowUp.docx",
               "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
             }
           ],
-          "Weitere Gelenke": [
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+            }
+          ],
+          "Ansprechen": [
             {
               "Datei": "1_FollowUp.docx",
               "Zitat": "Der Patient hat seit Beginn der Basistherapie mit Cosentyx keine peripheren Gelenkbeschwerden mehr, auch die ISG-Symptomatik ist rückläufig."
+            },
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Der Patient ist vollständig beschwerdefrei."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
             }
           ],
           "Verlauf": [
@@ -229,22 +446,34 @@
             },
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+              "Zitat": "Der Patient ist vollständig beschwerdefrei."
             },
             {
               "Datei": "1_FollowUp.docx",
               "Zitat": "NSAR müssen nicht eingenommen werden."
-            }
-          ],
-          "Ansprechen (Ja/Nein)": [
+            },
             {
               "Datei": "1_FollowUp.docx",
-              "Zitat": "Unter einer Basistherapie mit Secukinumab ist der Patient beschwerdefrei."
+              "Zitat": "Der Patient verträgt das Medikament sehr gut."
+            },
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Wir bitten um Fortsetzung der Basistherapie."
+            },
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Zunehmende Radiopharmakon Mehrbelegung um das linke Kniegelenk (SUVmax 3,7 versus 3,0 in der Voraufnahme)."
+            },
+            {
+              "Datei": "1_FollowUp.docx",
+              "Zitat": "Gelenke: keine peripheren Arthritiden, kein entzündlicher Rückenschmerz, keine Bewegungseinschränkung der ISG"
             }
           ]
         },
         "Hinweise": [
-          "CRP- und BKS-Labordatum nicht angegeben."
+          "CRP und BKS ohne ausdrücklich angegebenes individuelles Messdatum; keine automatische Datierung auf den Besuchstag.",
+          "Klinisches Ansprechen anhand der Beschwerden beurteilt, unabhängig vom gemischten PET-Verlauf.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]

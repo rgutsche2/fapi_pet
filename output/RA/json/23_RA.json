@@ -7,7 +7,7 @@
       "Follow-up": "2023-10-02"
     }
   },
-  "fingerprint": "a292d4ee9ed43ecc66804b4f7a23b60c086d10890758637c45be224d3c9b6669",
+  "fingerprint": "3d8855f787c39ce70ead84f755af659c11ac2146412532d3764dbf8aa14de9ef",
   "Ergebnis": {
     "Zeilen": [
       {
@@ -20,83 +20,230 @@
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 13.2,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Methotrexat 15 mg/Woche, Folsäure 5 mg am Folgetag und Ibuprofen 600 mg dreimal täglich bei Aufnahme.",
-        "Klinische Hauptmanifestation": "Schmerzen der PIP, Handgelenke, Schultern, Knie und Sprunggelenke beidseits, an den Knien linksbetont. Morgensteifigkeit 30–60 Minuten sowie Sensibilitätsstörungen beim Greifen.",
-        "Gelenkbefund": "Druckschmerz und Schwellungen an Knien und Sprunggelenken beidseits sowie MCP-, PIP-, Hand- und Ellenbogengelenken; zusammenfassend auch Schultern und MCP II/III beidseits betroffen.",
-        "Weitere Gelenke": "Zusätzlich Ellenbogen klinisch betroffen.",
-        "Verlauf": "Wiederkehrende Beschwerden ohne durchschlagenden Effekt der bisherigen Therapie. Adalimumab seit drei Wochen pausiert; Blinatumomab im stationären Verlauf am 20.06.2023 eingeleitet.",
-        "Ansprechen (Ja/Nein)": null,
+        "Klinische Hauptmanifestation": "Polyartikuläre Schmerzen und Schwellungen mit Gelenksteifigkeit sowie Sensibilitätsstörungen beim Greifen.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "vorhanden",
+        "Morgensteifigkeit": "vorhanden",
+        "Betroffene Regionen": "PIP, MCP II/III, Handgelenke, Schultern, Knie und Sprunggelenke beidseits; Knie linksbetont, zusätzlich Ellenbogen.",
+        "Klinischer Befund (Details)": "Multiple druckschmerzhafte und geschwollene Gelenke; Morgensteifigkeit 30–60 Minuten. Sensibilitätsstörungen beim Greifen.",
+        "Beurteilte Therapie": null,
+        "Ansprechen": null,
+        "Krankheitszustand": "Aktiv",
+        "Verlauf": "Therapierefraktäre aktive Polyarthritis ohne durchschlagenden Effekt der bisherigen Therapie. Adalimumab seit drei Wochen pausiert, Methotrexat fortgeführt. Erste Blinatumomabgabe mit vorübergehender technischer Unterbrechung durchgeführt und gut vertragen; zweite Gabe geplant.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Methotrexat",
+            "Dosis": 15,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Methotrexat 15 mg/Woche",
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Methotrexat 15 mg/Woche"
+              },
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Vor drei Wochen sei die letzte Adalimumabgabe erfolgt, aktuell nehme die Patientin nur MTX gegen die rheumatischen Beschwerden."
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Adalimumab",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 14,
+            "Intervalleinheit": "Tage",
+            "Bedarf": "Nein",
+            "Status": "pausiert",
+            "Dosierung (Original)": "Adalimumab 40mg alle 14d s.c. (vor drei Wochen pausiert)",
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Adalimumab 40mg alle 14d s.c. (vor drei Wochen pausiert)"
+              }
+            ],
+            "Hinweise": []
+          },
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": null,
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "In Zusammenschau der Befunde wurde die Erstgabe Blinatumomab von Seiten der Patientin gut vertragen."
+              },
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Der Termin zur Zweitgabe Blinatumomab wurde für den 10.07.2023 vereinbart."
+              }
+            ],
+            "Hinweise": [
+              "Erstgabe abgeschlossen; zweite Gabe für den 10.07.2023 geplant. Keine regelmäßige Dauermedikation dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Triamcinolon",
+            "Dosis": 40,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "40mg Triamcinolon injiziert",
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Weiterhin wurde eine Synovia-Biopsie des linken Kniegelenks zur späteren Verlaufskontrolle im Rahmen des individuellen Heilversuchs durchgeführt und 40mg Triamcinolon injiziert."
+              }
+            ],
+            "Hinweise": [
+              "Einmalige lokale Injektion im Zusammenhang mit der Biopsie des linken Knies; Datum nicht ausdrücklich genannt."
+            ]
+          },
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": 600,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Nein",
+            "Status": "pausiert",
+            "Dosierung (Original)": "1-1-1-0 PAUSE",
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Ibuprofen 600 mg 1-1-1"
+              },
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Ibuprofen | Ibuprofen 600mg | Gran. | 1-1-1-0 PAUSE | oral | Einnahme mit den Mahlzeiten"
+              }
+            ],
+            "Hinweise": [
+              "Bei Aufnahme regelmäßig angegeben, bei Entlassung pausiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Metamizol",
+            "Dosis": 500,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Ja",
+            "Status": "laufend",
+            "Dosierung (Original)": "bei Bedarf (1, maximal 8/d); Mindestabstand 2h",
+            "Belege": [
+              {
+                "Datei": "23_Baseline.docx",
+                "Zitat": "Metamizol natrium hydrat | Metamizol 500mg | Tbl. | bei Bedarf (1, maximal 8/d) | oral | Mindestabstand 2h"
+              }
+            ],
+            "Hinweise": []
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "Körperlicher  Untersuchungsbefund vom 19.06.2023:"
+              "Zitat": "Körperlicher  Untersuchungsbefund vom 19.06.2023:"
+            }
+          ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "C-Reaktives Protein 13,2 mg/l"
             }
           ],
           "CRP-Wert": [
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
+              "Zitat": "C-Reaktives Protein 13,2 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
+              "Zitat": "C-Reaktives Protein 13,2 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "C-Reaktives Protein 13,2 mg/l (<5 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "23_Baseline.docx",
-              "Zitat": "Methotrexat 15 mg/Woche"
-            },
-            {
-              "Datei": "23_Baseline.docx",
-              "Zitat": "Folsäure 5 mg am Folgetag"
-            },
-            {
-              "Datei": "23_Baseline.docx",
-              "Zitat": "Ibuprofen 600 mg 1-1-1"
+              "Zitat": "C-Reaktives Protein 13,2 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "Die Patientin beschreibt aktuell Gelenkschmerzen in den PIP bds., den Handgelenken bds., den Schultergelenken bds., den Kniegelenken bds. (links betont) und der Sprunggelenke bds."
+              "Zitat": "In der körperlichen Untersuchung zeigte sich eine aktive Arthritis mit Schwellungen und Druckschmerzhaftigkeit multipler Gelenke."
             },
             {
               "Datei": "23_Baseline.docx",
               "Zitat": "Es bestünde eine Steifigkeit der Gelenke sowie Sensibilitätsstörungen beim Greifen."
-            },
+            }
+          ],
+          "Periphere Gelenkbeschwerden": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Die Patientin beschreibt aktuell Gelenkschmerzen in den PIP bds., den Handgelenken bds., den Schultergelenken bds., den Kniegelenken bds. (links betont) und der Sprunggelenke bds."
+            }
+          ],
+          "Synovitis / Gelenkschwellung": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich eine aktive Arthritis mit Schwellungen und Druckschmerzhaftigkeit multipler Gelenke."
+            }
+          ],
+          "Morgensteifigkeit": [
             {
               "Datei": "23_Baseline.docx",
               "Zitat": "Morgensteifigkeit von 30-60min"
             }
           ],
-          "Gelenkbefund": [
-            {
-              "Datei": "23_Baseline.docx",
-              "Zitat": "Gelenkstatus: Druckdolenz und Schwellung Knie bds. Sprunggelenke bds. MCPs, PIPs, Handgelenke und Ellenbogen."
-            },
+          "Betroffene Regionen": [
             {
               "Datei": "23_Baseline.docx",
               "Zitat": "V.a. PIP bds., MCPs DII/III bds., Handgelenke, Schultern, Knie (links > rechts) und Sprunggelenke waren deutlich geschwollen und druckschmerzhaft."
-            }
-          ],
-          "Weitere Gelenke": [
+            },
             {
               "Datei": "23_Baseline.docx",
               "Zitat": "Gelenkstatus: Druckdolenz und Schwellung Knie bds. Sprunggelenke bds. MCPs, PIPs, Handgelenke und Ellenbogen."
+            }
+          ],
+          "Klinischer Befund (Details)": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich eine aktive Arthritis mit Schwellungen und Druckschmerzhaftigkeit multipler Gelenke."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Morgensteifigkeit von 30-60min"
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Es bestünde eine Steifigkeit der Gelenke sowie Sensibilitätsstörungen beim Greifen."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "In der körperlichen Untersuchung zeigte sich eine aktive Arthritis mit Schwellungen und Druckschmerzhaftigkeit multipler Gelenke."
             }
           ],
           "Verlauf": [
@@ -110,45 +257,141 @@
             },
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "Die Therapieeinleitung erfolgte am 20.06.2023."
+              "Zitat": "In Folge dessen wurde die Infusion zunächst pausiert."
             },
             {
               "Datei": "23_Baseline.docx",
-              "Zitat": "Die Aufnahme der Patientin erfolgte bei therapierefraktärer rheumatoider Arthritis zur Gabe von Blinatumomab und oben beschriebener Anamnese."
+              "Zitat": "Bis zum Donnerstag wurde eine neue Infusion mit Blinatumomab vorbereitet und die Applikation wurde erneut begonnen."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "In Zusammenschau der Befunde wurde die Erstgabe Blinatumomab von Seiten der Patientin gut vertragen."
+            },
+            {
+              "Datei": "23_Baseline.docx",
+              "Zitat": "Der Termin zur Zweitgabe Blinatumomab wurde für den 10.07.2023 vereinbart."
             }
           ]
         },
         "Hinweise": [
-          "CRP während des Aufenthalts vom 19.06.–26.06.2023; Labordatum nicht angegeben.",
-          "Der zusammenfassende Gelenkbefund ist keinem einzelnen Untersuchungstag eindeutig zugeordnet.",
-          "Blinatumomab erst ab 20.06.2023, somit am klinischen Referenztermin noch keine laufende Therapie; Adalimumab bereits pausiert."
+          "CRP aus der stationären Episode 19.–26.06.2023; einzelner Messtag nicht angegeben. Erster Messwert nach Reihenfolge.",
+          "Zusammenfassende Gelenkangaben gehören zur stationären Episode; nicht alle sind ausdrücklich dem 19.06.2023 zugeordnet.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       },
       {
         "Zeitpunkt": "Follow-up",
         "Klinisches Datum": "2024-01-18",
-        "DAS28": null,
-        "DAS28-Variante": null,
+        "DAS28": 2.54,
+        "DAS28-Variante": "BSG",
         "TJC": 0,
         "SJC": 0,
         "SDAI": null,
         "CDAI": null,
         "HAQ": null,
+        "CRP dokumentiert": "Ja",
         "CRP-Wert": 5.9,
         "CRP-Vergleichszeichen": "=",
         "CRP-Einheit": "mg/l",
         "BSG (mm nach 1 h)": null,
-        "Aktuelle Therapie": "Methotrexat 15 mg einmal wöchentlich.",
-        "Klinische Hauptmanifestation": "Am 18.01.2024 keine Schübe oder Gelenkbeschwerden. Morgensteifigkeit widersprüchlich als fehlend beziehungsweise 1–2 Minuten dokumentiert.",
-        "Gelenkbefund": "Am 18.01.2024 keine druckschmerzhaften oder geschwollenen Gelenke dokumentiert, TJ 0 und SJ 0.",
-        "Weitere Gelenke": "Am 18.04.2024 vorübergehend Schmerzen der Hände beziehungsweise des rechten Handgelenks und einmalig des linken Knies, rasch wieder gebessert.",
-        "Verlauf": "Am 18.01.2024 anhaltend gute klinische Kontrolle ohne RA-Schübe unter weitergeführtem Methotrexat. Am 18.04.2024 kurzzeitige Hand-/Handgelenk- und linke Knieschmerzen mit rascher Besserung nach einmaliger Ibuprofeneinnahme; zusätzlich Taubheitsgefühl der Fingerspitzen.",
-        "Ansprechen (Ja/Nein)": "Ja",
+        "Klinische Hauptmanifestation": "Im Januar keine Gelenkschmerzen, Schwellungen oder RA-Schübe. Im April vorübergehend Schmerzen am rechten Handgelenk und linken Knie sowie Taubheitsgefühl der Fingerspitzen, bei weiterhin unauffälligem Gelenkzählbefund.",
+        "Periphere Gelenkbeschwerden": "vorhanden",
+        "Synovitis / Gelenkschwellung": "verneint",
+        "Morgensteifigkeit": "verneint",
+        "Betroffene Regionen": "Vorübergehend rechtes Handgelenk und linkes Knie; Fingerspitzen mit Taubheitsgefühl.",
+        "Klinischer Befund (Details)": "TJ und SJ jeweils 0 im Januar und April, Zählbereich nicht angegeben. Januar: Morgensteifigkeit einerseits verneint, andererseits mit 1–2 Minuten angegeben; April: 0 Sekunden. Früher leichte Handsteifigkeit und Schwanenhalsdeformitäten beider Hände.",
+        "Beurteilte Therapie": "Blinatumomab mit Methotrexat",
+        "Ansprechen": "Deutlich",
+        "Krankheitszustand": "Remission",
+        "Verlauf": "Nach Blinatumomab unter begleitendem Methotrexat Rückbildung der früheren Gelenkschmerzen bis zur Schmerzfreiheit ohne Einschränkungen beim Wandern; leichte Handsteifigkeit verblieb zunächst. Im Januar keine Schübe, im April kurzzeitige Gelenkschmerzen mit rascher Besserung nach einmaligem Ibuprofen. Klinische Remission dokumentiert, Methotrexat fortgeführt.",
+        "Medikamente": [
+          {
+            "Wirkstoff": "Methotrexat",
+            "Dosis": 15,
+            "Dosiseinheit": "mg",
+            "Intervallzahl": 1,
+            "Intervalleinheit": "Wochen",
+            "Bedarf": "Nein",
+            "Status": "laufend",
+            "Dosierung (Original)": "Methotrexat 15 mg/Woche",
+            "Belege": [
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "Methotrexat 15 mg/Woche"
+              },
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "MTX weiter 1 x wöchentlich."
+              }
+            ],
+            "Hinweise": [
+              "Dosis in der Vorgeschichte, Fortführung am 18.01.2024 dokumentiert."
+            ]
+          },
+          {
+            "Wirkstoff": "Blinatumomab",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "über 96 Stunden",
+            "Belege": [
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "Die stationäre Aufnahme von Frau Schatt erfolgte zur 2. Gabe Blinatumomab im Rahmen eines individuellen Heilversuches."
+              },
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "Nach Ausschluss von Kontraindikationen erfolgte die erneute Applikation von Blinatumomab über 96 Stunden."
+              }
+            ],
+            "Hinweise": [
+              "Abgeschlossene zweite Infusionsbehandlung in der Vorgeschichte mit Entlassung am 14.07.2023; keine laufende Dauertherapie."
+            ]
+          },
+          {
+            "Wirkstoff": "Ibuprofen",
+            "Dosis": null,
+            "Dosiseinheit": null,
+            "Intervallzahl": null,
+            "Intervalleinheit": null,
+            "Bedarf": "Unklar",
+            "Status": "beendet",
+            "Dosierung (Original)": "Einmalig Ibu eingenommen",
+            "Belege": [
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
+              },
+              {
+                "Datei": "23_FollowUp.docx",
+                "Zitat": "Ibuprofen 600 mg 1-1-1  (Pause)"
+              }
+            ],
+            "Hinweise": [
+              "Regelmäßige Einnahme in der Vorgeschichte pausiert; einmalige Einnahme im April 2024. Dosis dieser Einzeleinnahme nicht dokumentiert."
+            ]
+          }
+        ],
         "Belege": {
           "Klinisches Datum": [
             {
               "Datei": "23_FollowUp.docx",
               "Zitat": "18.1.2024: Corona gehabt, 2 Wochen vor Weihnachten (Mitte Dezember) , Kreislaufproblme, Schweißausbruch, 2 Wochen Hustne gehabt, insgesamt Dauer 2 Wochen, ansonsten aber überhaupt nichts einschl. kein Schub RA."
+            }
+          ],
+          "DAS28": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In der klinischen Untersuchung zeigte sich oben beschriebener Befund, der DAS28-ESR lag bei 2,54."
+            }
+          ],
+          "DAS28-Variante": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In der klinischen Untersuchung zeigte sich oben beschriebener Befund, der DAS28-ESR lag bei 2,54."
             }
           ],
           "TJC": [
@@ -163,73 +406,71 @@
               "Zitat": "SJ: 0"
             }
           ],
+          "CRP dokumentiert": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "C-reaktives Protein 5,9 mg/l"
+            }
+          ],
           "CRP-Wert": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 5,9 mg/l"
             }
           ],
           "CRP-Vergleichszeichen": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
+              "Zitat": "C-reaktives Protein 5,9 mg/l"
             }
           ],
           "CRP-Einheit": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "C-reaktives Protein 5,9 mg/l (-<5,2 mg/l)"
-            }
-          ],
-          "Aktuelle Therapie": [
-            {
-              "Datei": "23_FollowUp.docx",
-              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
-            },
-            {
-              "Datei": "23_FollowUp.docx",
-              "Zitat": "Methotrexat 15 mg/Woche"
+              "Zitat": "C-reaktives Protein 5,9 mg/l"
             }
           ],
           "Klinische Hauptmanifestation": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
-            },
-            {
-              "Datei": "23_FollowUp.docx",
               "Zitat": "Keine Morgensteifigkeit, keine TJ/SJ"
             },
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "Morgensteifigkeit 1-2 Minuten"
-            }
-          ],
-          "Gelenkbefund": [
-            {
-              "Datei": "23_FollowUp.docx",
-              "Zitat": "Keine Morgensteifigkeit, keine TJ/SJ"
+              "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
             },
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "TJ: 0"
+              "Zitat": "Etwas Taubheitsgefühl Fingerspitzen."
             },
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "SJ: 0"
+              "Zitat": "SJ:=0"
             }
           ],
-          "Weitere Gelenke": [
+          "Periphere Gelenkbeschwerden": [
             {
               "Datei": "23_FollowUp.docx",
               "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
             }
           ],
-          "Verlauf": [
+          "Synovitis / Gelenkschwellung": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+              "Zitat": "SJ: 0"
             },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "SJ:=0"
+            }
+          ],
+          "Morgensteifigkeit": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit 0sek."
+            }
+          ],
+          "Betroffene Regionen": [
             {
               "Datei": "23_FollowUp.docx",
               "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
@@ -239,20 +480,102 @@
               "Zitat": "Etwas Taubheitsgefühl Fingerspitzen."
             }
           ],
-          "Ansprechen (Ja/Nein)": [
+          "Klinischer Befund (Details)": [
             {
               "Datei": "23_FollowUp.docx",
-              "Zitat": "Ansonsten keine SChübe m, keine problme, MTX weiter 1 x wöchentlich."
+              "Zitat": "TJ: 0"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "SJ: 0"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "SJ:=0"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Keine Morgensteifigkeit, keine TJ/SJ"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit 1-2 Minuten"
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Morgensteifigkeit 0sek."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Keine Gelenkschmerzen oder -schwellungen, leichte Steifigkeit beider Hände, leichte Schwanenhalsdeformation der Finger beider Hände"
+            }
+          ],
+          "Beurteilte Therapie": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung von Frau Schatt aktuell in klinischer Remission unter Blinatumomab und Methotrexat."
+            }
+          ],
+          "Ansprechen": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Frau Schatt gehe es sehr gut, sie habe keine Schmerzen mehr in den Händen, Knien und OSGs, so wie sie es vorher von sich gekannt habe."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In ihrem kürzlichen Wanderurlaub habe sie keinerlei Einschränkungen verspürt."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In Zusammenschau der Befunde zeigte sich die Grunderkrankung von Frau Schatt aktuell in klinischer Remission unter Blinatumomab und Methotrexat."
+            }
+          ],
+          "Krankheitszustand": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Aktuell: klinische Remission"
+            }
+          ],
+          "Verlauf": [
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Frau Schatt gehe es sehr gut, sie habe keine Schmerzen mehr in den Händen, Knien und OSGs, so wie sie es vorher von sich gekannt habe."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Nur die Hände seien leicht von Steifigkeit betroffen, jedoch weniger ausgeprägt als zuvor."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "In ihrem kürzlichen Wanderurlaub habe sie keinerlei Einschränkungen verspürt."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "18.1.2024: Corona gehabt, 2 Wochen vor Weihnachten (Mitte Dezember) , Kreislaufproblme, Schweißausbruch, 2 Wochen Hustne gehabt, insgesamt Dauer 2 Wochen, ansonsten aber überhaupt nichts einschl. kein Schub RA."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "18.4.2024: Einmalig Ibu eingenommen, da Hände (Handgelenk re.) wehgetan haben...einmalig auch li. Knie wehgetan....ansonsten dann aber wieder schnell alles besser."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "MTX weiter 1 x wöchentlich."
+            },
+            {
+              "Datei": "23_FollowUp.docx",
+              "Zitat": "Aktuell: klinische Remission"
             }
           ]
         },
         "Hinweise": [
-          "Der 18.01.2024 ist der scan-nächste eindeutig dokumentierte rheumatologische Vorstellungstag; der 14.07.2023 ist nur als Entlassungstag, der 15.08.2023 nur als geplanter Termin belegt.",
-          "TJC, SJC und CRP vom 18.01.2024; Zählbereich von TJ/SJ nicht angegeben.",
-          "Morgensteifigkeit am 18.01.2024 widersprüchlich: keine beziehungsweise 1–2 Minuten.",
-          "MTX-Dosis aus der Medikationsangabe der Vorgeschichte; am 18.01.2024 ist die wöchentliche Fortführung ausdrücklich bestätigt.",
-          "DAS28-ESR 2,54 gehört zur historischen stationären Zweitgabe von Blinatumomab im Juli 2023 und wurde nicht als aktueller Score übernommen.",
-          "Beschwerden vom 18.04.2024 sind als späterer Verlauf gekennzeichnet; dessen CRP 9,6 mg/l wird zugunsten des Referenzterminwertes nicht ausgewählt."
+          "Referenztermin 18.01.2024 als scan-nächster eindeutig datierter Besuch gewählt; 18.04.2024 liegt weiter vom Scan entfernt. Der 14.07.2023 ist nur als Entlassungstag dokumentiert, der 15.08.2023 lediglich geplant.",
+          "DAS28-ESR 2,54 stammt aus der im Follow-up-Brief enthaltenen Vorgeschichte zur zweiten Blinatumomabgabe im Juli 2023; genauer Untersuchungstag unklar, kein aktueller Januar- oder Aprilwert.",
+          "TJC/SJC jeweils 0 aus dem Januarabschnitt; Zählbereich nicht angegeben. Im April ebenfalls jeweils 0 dokumentiert.",
+          "CRP vom 18.01.2024: erster Messwert nach Reihenfolge, vor dem späteren Wert vom 18.04.2024 ausgewählt.",
+          "Morgensteifigkeit im Januar widersprüchlich als fehlend und mit 1–2 Minuten angegeben; im April ausdrücklich 0 Sekunden.",
+          "Periphere Gelenkbeschwerden als vorhanden wegen der im April berichteten vorübergehenden Schmerzen; im Januar verneint. Keine gesicherte entzündliche Ursache der Aprilbeschwerden dokumentiert.",
+          "Deutliches Ansprechen bezieht sich auf die in der Vorgeschichte beschriebene klinische Rückbildung unter Blinatumomab mit Methotrexat, nicht auf eine erneute Infusionsbehandlung im Jahr 2024.",
+          "CRP-Auswahl: erster dokumentierter Messwert in der Briefreihenfolge; daraus kein genaues Labordatum abgeleitet."
         ]
       }
     ]
